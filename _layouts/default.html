@@ -6,31 +6,35 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a>
+			<nav class="navbar">
+	        		<a href="/">Home</a></li>
+		        	<nav class="dropdown">
+    				   <button class="dropbtn">Dropdown
+      				      <i class="fa fa-caret-down"></i>
+    				   </button>
+   				   <nav class="dropdown-content">
+      				      <a href="#">Link 1</a>
+      				      <a href="#">Link 2</a>
+      				      <a href="#">Link 3</a>
+    				   </nav>
+  				</nav>
+				<a href="/about">About</a>
 					<ul>
 						<li><a href="/bio">Bio</a></li>
 						<li><a href="/cv">CV</a></li>
 					</ul>
-				</li>
-				<li><a href="/research">Research</a>
+				<a href="/research">Research</a>
 					<ul>
         					<li><a href="/physics">Physics</a></li>
        						<li><a href="/genomics">Genomics</a></li>
      		 			</ul>
-				</li>
-				<li>
 					<a href="/outreach">Outreach</a>
 					<ul>
 						<li><a href="/represent">Representation</a></li>
        						<li><a href="/teach">Teaching</a></li>
 					</ul>
-				</li>
-	        		<li><a href="/justice">Judiciary</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
+				<a href="/justice">Judiciary</a></li>
+	        		<a href="/blog">Blog</a></li>
 			</nav>
 			<div class="container">
 			
