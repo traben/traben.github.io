@@ -7,4 +7,4 @@ I am a scientific researcher currently working at Michigan State University. I a
 
 <img src="professional.jpg"
      alt="Professional Headshot"
-     style="float: left; margin-right: 10px;" />
+     style="float: right; margin-right: 2px;" />
