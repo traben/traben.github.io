@@ -9,6 +9,7 @@ I am a scientific researcher currently working at Michigan State University. I a
 
 <img src="professional.jpg"
      alt="Professional Headshot"
-     width="20"/>
+     align="right"
+     width="200"/>
 
 <!--        style="float: right; width: 20px;" />   -->
