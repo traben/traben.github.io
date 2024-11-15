@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,5 @@ redirect_from:
 
 Curriculum Vitae
 ======
-
+CV can be downloaded [here](traben.github.io/files/no-personal-CV.pdf)
 <object data="traben.github.io/files/no-personal-CV.pdf" width="1000" height="1000" type="application/pdf"></object>
-
-
-<embed src="traben.github.io/files/no-personal-CV.pdf" type="application/pdf" />
