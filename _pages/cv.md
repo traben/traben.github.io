@@ -12,4 +12,7 @@ redirect_from:
 Curriculum Vitae
 ======
 
-<object data="{{ site.url }}{{ site.baseurl }}/files/no-personal-CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="traben.github.io/files/no-personal-CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+
+
+<embed src="traben.github.io/files/no-personal-CV.pdf" type="application/pdf" />
