@@ -11,6 +11,6 @@ redirect_from:
 
 Curriculum Vitae
 ======
-CV can be downloaded [here](traben.github.io/files/no-personal-CV.pdf)
+CV can be downloaded [here](https://traben.github.io/files/no-personal-CV.pdf)
 
-<embed  data="traben.github.io/files/no-personal-CV.pdf" width="1000" height="1000" type="application/pdf">
+<embed  data="https://traben.github.io/files/no-personal-CV.pdf" width="1000" height="1000" type="application/pdf">
