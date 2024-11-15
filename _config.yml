@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "professional=head.png"
   name             : "Tim Raben"
   pronouns         : # example: "she/her"  
   bio              : "Genetics. Physics. Tango. Dogs. Musicals. Courts."
