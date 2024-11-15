@@ -12,4 +12,4 @@ redirect_from:
 Curriculum Vitae
 ======
 
-<object data="no-personal-CV.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="{{ site.url }}{{ site.baseurl }}/files/no-personal-CV.pdf" width="1000" height="1000" type="application/pdf"></object>
