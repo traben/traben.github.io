@@ -14,15 +14,15 @@ Research interests
 ======
 Computational genetics: what can machine/deep learning tell us from genomic data? Interested in developing genetic prediction models for health care and understanding fundamental causal structure of genes.
 1. Polygenic Scores (PGS): methods and applications
-  - Polygenic Health Index [Widen, Lello, Raben*, et al.](https://www.nature.com/articles/s41598-022-22637-8)
+  - Polygenic Health Index [Widen, Lello, Raben*, et al. SciRep 2022](https://www.nature.com/articles/s41598-022-22637-8)
+  - Sparse genetic architecture [Yong, Raben*, et al. SciRep 2020](https://www.nature.com/articles/s41598-020-68881-8)
   - PGS for a variety of phenotypes [Lello, Raben*, et al. SciRep 2019](https://www.nature.com/articles/s41598-019-51258-x)
-  - Sparse genetic architecture [Yong, Raben*, et al.](https://www.nature.com/articles/s41598-020-68881-8)
 2. Family based analyses of PGS
-  - Sibling variation and recombination [Lello, Hsu, Widen, & Raben*](https://www.nature.com/articles/s41598-023-27561-z)
+  - Sibling variation and recombination [Lello, Hsu, Widen, & Raben* SciRep 2023](https://www.nature.com/articles/s41598-023-27561-z)
   - Sibling applications of PGS [Lello, Raben*, & Hsu SciRep 2020](https://www.nature.com/articles/s41598-020-69927-7) 
 3. PGS in diverse ancestries
-  - PGS prediction for biobank scale data [Raben*, et al.](https://www.nature.com/articles/s41598-023-37580-5)
-  - Biomarker prediction [Widen, Raben*, et al.](https://www.mdpi.com/2073-4425/12/7/991)
+  - PGS prediction for biobank scale data [Raben*, et al. SciRep 2023](https://www.nature.com/articles/s41598-023-37580-5)
+  - Biomarker prediction [Widen, Raben*, et al. MDPI 2021](https://www.mdpi.com/2073-4425/12/7/991)
 
 Physics: high energy particle physics and fundamental physics including QCD, non-perturbative physics, conformal field theory, string theory, and lattice models.
 
