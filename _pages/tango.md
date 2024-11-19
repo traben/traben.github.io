@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /Tango/
+permalink: /tango/
 author_profile: true
 redirect_from:
-  - /tango
+  - /Tango
 ---
 
 
