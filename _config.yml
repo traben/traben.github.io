@@ -301,7 +301,7 @@ defaults:
       path: ""
       type: courts
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
