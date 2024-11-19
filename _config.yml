@@ -225,6 +225,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  tango:
+    output: true
+    permalink: /:collection/:path/
+  courts:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -278,6 +284,22 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _tango
+  - scope:
+      path: ""
+      type: tango
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _courts
+  - scope:
+      path: ""
+      type: courts
     values:
       layout: talk
       author_profile: true
