@@ -12,13 +12,18 @@
   const todayET = () => { const p = etParts(new Date()); return `${p.year}-${p.month}-${p.day}`; };
   const addDays = (iso, n) => { const d = new Date(iso + "T12:00:00Z"); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
   const daysBetween = (a, b) => Math.round((new Date(b + "T12:00:00Z") - new Date(a + "T12:00:00Z")) / 864e5);
-  // Convert an Eastern wall-clock time to a real instant (handles DST).
-  function etInstant(dateIso, hhmm) {
+  // Convert a wall-clock time in a court's time zone to a real instant (handles DST).
+  function instantIn(dateIso, hhmm, tz) {
     const guess = new Date(`${dateIso}T${hhmm}:00Z`);
-    const p = etParts(guess);
+    const p = Object.fromEntries(new Intl.DateTimeFormat("en-US", {
+      timeZone: tz, year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hourCycle: "h23",
+    }).formatToParts(guess).map((x) => [x.type, x.value]));
     const asIfUtc = Date.UTC(+p.year, +p.month - 1, +p.day, +p.hour, +p.minute);
     return new Date(guess.getTime() + (guess.getTime() - asIfUtc));
   }
+  const etInstant = (dateIso, hhmm) => instantIn(dateIso, hhmm, ET);
+  const tzAbbr = (d, tz) => new Intl.DateTimeFormat("en-US", { timeZone: tz, timeZoneName: "short" }).formatToParts(d).find((x) => x.type === "timeZoneName").value;
+  const fmtTime = (d, tz) => d.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit", timeZone: tz });
   const fmtDay = (iso) => new Date(iso + "T12:00:00Z").toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", timeZone: "UTC" });
   const fmtShort = (iso) => new Date(iso + "T12:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
   const localTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
@@ -75,7 +80,7 @@
     const text = c.overview || c.summary;
     if (text) {
       sum.textContent = text;
-      if (c.summary_source === "ai") sum.insertAdjacentHTML("beforeend", '<span class="tag">· AI-drafted</span>');
+      sum.insertAdjacentHTML("beforeend", '<span class="tag">· Summary written by Claude (AI)</span>');
     } else sum.textContent = c.question || "";
     const why = c.why_it_matters || [];
     if (why.length) {
@@ -134,9 +139,92 @@
   }
 
   // ---------- Courts of Appeals ----------
-  let circuits = { cases: [] }, courts = [], circuitFilter = "all", shown = 40;
+  let circuits = { cases: [] }, upcoming = { cases: [], courts: [] }, courts = [];
+  let circuitFilter = "all", shown = 40, cView = "upcoming", cRange = "week", upFilter = "all", upShown = 60;
   const courtShort = (id) => (courts.find((c) => c.id === id) || {}).short || id;
   const dur = (s) => (s ? `${Math.round(s / 60)} min` : "");
+
+  function upRow(c, today) {
+    const row = document.createElement("div");
+    row.className = "up-row" + (c.no_argument ? " noarg" : "");
+    let when = "Time TBA", local = "";
+    if (c.time_local) {
+      const inst = instantIn(c.date, c.time_local, c.tz);
+      when = `${fmtTime(inst, c.tz)} ${tzAbbr(inst, c.tz)}`;
+      if (tzAbbr(inst, c.tz) !== tzAbbr(inst, localTZ)) local = `${fmtTime(inst, localTZ)} ${tzAbbr(inst, localTZ)}`;
+    }
+    const n = daysBetween(today, c.date);
+    const sub = [courtShort(c.court), `No. ${c.docket}`, c.origin, c.location, c.room].filter(Boolean).map(esc).join(" · ");
+    let act = "";
+    if (c.links.recording) act += `<a class="oac-btn primary" href="${esc(c.links.recording)}" target="_blank" rel="noopener">▶ Recording</a>`;
+    else if (c.no_argument) act += `<span class="pending">Decided on the briefs, no argument</span>`;
+    else if (n === 0) act += `<a class="oac-btn live" href="${esc(c.links.live)}" target="_blank" rel="noopener">Listen live</a>`;
+    else if (n > 0) act += `<a class="oac-btn" href="${esc(c.links.live)}" target="_blank" rel="noopener">Live stream page</a>`;
+    else act += `<span class="pending">Recording usually posted within a day</span>`;
+    act += `<a class="oac-btn quiet" href="${esc(c.links.calendar)}" target="_blank" rel="noopener">Court calendar (PDF)</a>`;
+    row.innerHTML = `<div class="when"><span class="time">${esc(when)}</span><span class="local">${esc(local)}</span></div>
+      <div class="body"><div class="t">${esc(c.title)}</div><div class="d">${sub}</div>
+      ${c.issue ? `<p class="issue"><span class="lbl">From the court's calendar:</span> ${esc(c.issue)}</p>` : ""}
+      ${c.notes ? `<p class="d">${esc(c.notes.join(" · "))}</p>` : ""}
+      ${c.live_note && n >= 0 ? `<p class="d">${esc(c.live_note)}</p>` : ""}
+      <div class="actions">${act}</div></div>`;
+    return row;
+  }
+
+  function renderUpcoming() {
+    const today = todayET();
+    const q = $("#up-q").value.trim().toLowerCase();
+    const withNoArg = $("#up-noarg").checked;
+    let list = upcoming.cases.filter((c) => {
+      const n = daysBetween(today, c.date);
+      if (cRange === "today" && n !== 0) return false;
+      if (cRange === "week" && (n < 0 || n > 7)) return false;
+      if (cRange === "month" && (n < 0 || n > 30)) return false;
+      if (cRange === "all" && n < 0) return false;
+      if (cRange === "past" && n >= 0) return false;
+      return (upFilter === "all" || c.court === upFilter) && (withNoArg || !c.no_argument);
+    });
+    if (q) list = list.filter((c) => [c.title, c.docket, c.issue, c.origin].join(" ").toLowerCase().includes(q));
+    const at = (c) => (c.time_local ? instantIn(c.date, c.time_local, c.tz).getTime() : Date.parse(c.date + "T23:59:00Z"));
+    list.sort((a, b) => a.date.localeCompare(b.date) || at(a) - at(b) || a.court.localeCompare(b.court));
+    if (cRange === "past") list.reverse();
+    const box = $("#up-list");
+    box.innerHTML = "";
+    if (!upcoming.cases.length) {
+      box.innerHTML = '<p class="empty">The first calendar update hasn\'t run yet. Upcoming arguments will appear here after the next daily update.</p>';
+    } else if (!list.length) {
+      const next = upcoming.cases.filter((c) => c.date >= today && (upFilter === "all" || c.court === upFilter)).sort((a, b) => a.date.localeCompare(b.date))[0];
+      box.innerHTML = `<p class="empty">No arguments ${q ? "match that search" : "in this window"}.` + (next && !q ? ` Next: ${esc(courtShort(next.court))} on ${fmtDay(next.date)}.` : "") + "</p>";
+    }
+    let day = null, group = null;
+    for (const c of list.slice(0, upShown)) {
+      if (c.date !== day) {
+        day = c.date;
+        const [rel, cls] = relLabel(day, today);
+        group = document.createElement("section");
+        group.className = "day";
+        group.innerHTML = `<h2>${fmtDay(day)} <span class="rel ${cls}">${rel}</span></h2>`;
+        box.appendChild(group);
+      }
+      group.appendChild(upRow(c, today));
+    }
+    if (list.length > upShown) {
+      const more = document.createElement("button");
+      more.className = "oac-btn more"; more.textContent = `Show more (${list.length - upShown})`;
+      more.onclick = () => { upShown += 60; renderUpcoming(); };
+      box.appendChild(more);
+    }
+    const covered = (upcoming.courts || []).map(courtShort).join(", ");
+    $("#up-meta").textContent = `${list.length} argument${list.length === 1 ? "" : "s"} · calendars from ${covered || "—"} · times shown in each court's local time` +
+      (withNoArg ? "" : " · cases decided without argument hidden");
+  }
+
+  function renderUpChips() {
+    const present = new Set(upcoming.cases.map((c) => c.court));
+    const ids = ["all", ...courts.filter((c) => c.tier === 2 && present.has(c.id)).map((c) => c.id)];
+    $("#up-filter").innerHTML = ids.map((id) =>
+      `<button data-c="${id}" class="${id === upFilter ? "on" : ""}">${id === "all" ? "All" : esc(courtShort(id))}</button>`).join("");
+  }
 
   function renderCircuits() {
     const q = $("#circuit-q").value.trim().toLowerCase();
@@ -177,6 +265,13 @@
       `<button data-c="${id}" class="${id === circuitFilter ? "on" : ""}">${id === "all" ? "All" : esc(courtShort(id))}</button>`).join("");
   }
 
+  function setCView(v) {
+    cView = v;
+    document.querySelectorAll("#cview button").forEach((b) => b.classList.toggle("on", b.dataset.v === v));
+    $("#c-upcoming").hidden = v !== "upcoming";
+    $("#c-recent").hidden = v !== "recent";
+  }
+
   function renderDirectory() {
     $("#court-directory").innerHTML = courts.filter((c) => c.tier === 2).map((c) => `
       <div class="court"><h3>${esc(c.name.replace("U.S. Court of Appeals for the ", ""))}</h3>
@@ -201,16 +296,32 @@
   });
   $("#scotus-q").addEventListener("input", renderScotus);
   $("#circuit-q").addEventListener("input", () => { shown = 40; renderCircuits(); });
+  $("#cview").addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) setCView(b.dataset.v); });
+  $("#up-range").addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    cRange = b.dataset.range; upShown = 60;
+    document.querySelectorAll("#up-range button").forEach((x) => x.classList.toggle("on", x === b));
+    renderUpcoming();
+  });
+  $("#up-filter").addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    upFilter = b.dataset.c; upShown = 60; renderUpChips(); renderUpcoming();
+  });
+  $("#up-q").addEventListener("input", () => { upShown = 60; renderUpcoming(); });
+  $("#up-noarg").addEventListener("change", renderUpcoming);
   $("#circuit-filter").addEventListener("click", (e) => {
     const b = e.target.closest("button"); if (!b) return;
     circuitFilter = b.dataset.c; shown = 40; renderCircuitChips(); renderCircuits();
   });
 
   const load = (p) => fetch(p, { cache: "no-cache" }).then((r) => (r.ok ? r.json() : Promise.reject(p)));
-  Promise.allSettled([load("data/scotus.json"), load("data/circuits_recent.json"), load("data/courts.json")]).then(([s, ci, co]) => {
+  Promise.allSettled([load("data/scotus.json"), load("data/circuits_recent.json"), load("data/courts.json"),
+    load("data/circuits_upcoming.json")]).then(([s, ci, co, up]) => {
     if (s.status === "fulfilled") scotus = s.value;
     if (ci.status === "fulfilled") circuits = ci.value;
     if (co.status === "fulfilled") courts = co.value.courts;
+    if (up.status === "fulfilled") upcoming = up.value;
+    renderUpChips(); renderUpcoming();
     // Default view: today if the Court sits today, otherwise the next 30 days.
     if (scotus.cases.some((c) => c.date === todayET())) $('#scotus-range [data-range="today"]').click(); else renderScotus();
     renderCircuitChips(); renderCircuits(); renderDirectory();

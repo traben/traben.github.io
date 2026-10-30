@@ -10,6 +10,7 @@ excerpt: "Upcoming Supreme Court and federal appellate oral arguments: when they
 
 <div class="oac">
   <p class="oac-lede"><a href="/courts/">← Courts</a> · What's being argued in the federal appellate courts, when, and where to listen. Updated daily.</p>
+  <p class="ai-notice" role="note"><strong>About the summaries:</strong> the plain-English case overviews, questions and “Why it matters” notes on this page are written by Claude, an AI model made by Anthropic, from the linked sources. They can contain mistakes. The official question presented, docket and court calendars are the authoritative record.</p>
 
   <nav class="oac-tabs" role="tablist" aria-label="Courts">
     <button role="tab" aria-selected="true" data-tab="scotus">Supreme Court</button>
@@ -33,16 +34,40 @@ excerpt: "Upcoming Supreme Court and federal appellate oral arguments: when they
   </section>
 
   <section id="tab-circuits" class="panel" role="tabpanel" hidden>
-    <div class="callout">
-      <strong>Upcoming circuit calendars are next.</strong>
-      Each circuit publishes its schedule differently, so for now this lists arguments heard in the last week, with recordings you can play here, plus where each court streams live.
+    <div class="chips seg" id="cview" aria-label="View">
+      <button data-v="upcoming" class="on">Upcoming arguments</button>
+      <button data-v="recent">Recent recordings</button>
     </div>
-    <div class="toolbar">
-      <div class="chips" id="circuit-filter" aria-label="Circuit"></div>
-      <input type="search" id="circuit-q" placeholder="Search case names or dockets…" aria-label="Search circuit arguments">
+
+    <div id="c-upcoming">
+      <div class="toolbar">
+        <div class="chips" id="up-range" aria-label="Time range">
+          <button data-range="today">Today</button>
+          <button data-range="week" class="on">Next 7 days</button>
+          <button data-range="month">Next 30 days</button>
+          <button data-range="all">All posted</button>
+          <button data-range="past">Past two weeks</button>
+        </div>
+        <input type="search" id="up-q" placeholder="Search cases, dockets, issues…" aria-label="Search upcoming circuit arguments">
+      </div>
+      <div class="toolbar">
+        <div class="chips" id="up-filter" aria-label="Circuit"></div>
+        <label class="check"><input type="checkbox" id="up-noarg"> Include cases decided without argument</label>
+      </div>
+      <p class="meta" id="up-meta"></p>
+      <div id="up-list"></div>
+      <p class="meta">Calendars are read from the 1st, 4th, 8th, 10th, 11th and Federal Circuits. The 2nd, 3rd, 5th, 6th, 7th, 9th and D.C. Circuits don't post calendars in a form this site can read yet; use the court links below. Case names and issue statements here come from the courts' own calendars, not AI.</p>
     </div>
-    <p class="meta" id="circuit-meta"></p>
-    <div id="circuit-list"></div>
+
+    <div id="c-recent" hidden>
+      <div class="toolbar">
+        <div class="chips" id="circuit-filter" aria-label="Circuit"></div>
+        <input type="search" id="circuit-q" placeholder="Search case names or dockets…" aria-label="Search circuit recordings">
+      </div>
+      <p class="meta" id="circuit-meta"></p>
+      <div id="circuit-list"></div>
+    </div>
+
     <h2 class="section-title">Where to listen, court by court</h2>
     <div id="court-directory" class="directory"></div>
   </section>
@@ -56,8 +81,9 @@ excerpt: "Upcoming Supreme Court and federal appellate oral arguments: when they
 
   <p class="foot">Data: <a href="https://www.supremecourt.gov/oral_arguments/calendarsandlists.aspx">supremecourt.gov</a> calendars, dockets and Questions Presented;
     circuit recordings via <a href="https://www.courtlistener.com/">CourtListener</a> (Free Law Project).
-    Case overviews are written for this site; “Why it matters” paraphrases outside commentary and links each point to its source.
-    The official question presented and docket are the authoritative text. <span id="updated"></span></p>
+    Circuit calendars come from each court's published calendar PDFs.
+    Supreme Court case overviews, plain-English questions and “Why it matters” notes are written by Claude (an AI model by Anthropic) from the linked sources and may contain errors.
+    The official question presented, docket and court calendars are the authoritative text. <span id="updated"></span></p>
 
   <template id="tpl-case">
     <article class="case">

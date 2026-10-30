@@ -39,7 +39,7 @@ GitHub Action (8 a.m. + 5 p.m. ET)          GitHub Pages (static)
    - `question_plain`: one plain-English sentence;
    - `why_it_matters`: 2–4 points on scope, stakes and context from news, legal blogs, briefs and advocacy groups, balanced across sides, **each linked to its source**.
 
-   Hand-written briefs in `_oral_arguments/editorial/*.json` always win. For new cases, `_oral_arguments/scripts/summarize.py` asks the Claude API (with web search) to draft one, and drops any point whose link wasn't actually among the search results. An AI brief is refreshed once after the argument so it can say how the argument went. AI briefs are labeled "AI-drafted" on the site.
+   Hand-written briefs in `_oral_arguments/editorial/*.json` always win. For new cases, `_oral_arguments/scripts/summarize.py` asks the Claude API (with web search) to draft one, and drops any point whose link wasn't actually among the search results. An AI brief is refreshed once after the argument so it can say how the argument went. Every summary on the site is labeled as written by Claude (AI), and both the calendar page and the Courts page carry a written notice saying so.
 6. Applies manual fixes from `_oral_arguments/overrides.json` last.
 
 **Circuits** (`build_circuits.py`) pulls recent recordings from CourtListener's oral-argument search for `ca1`–`ca11`, `cadc`, `cafc`.
@@ -70,7 +70,8 @@ bundle exec jekyll serve                  # then open http://localhost:4000/cour
 
 ## Roadmap
 
-- **Circuit calendars (phase 2).** Each circuit posts its calendar differently (PDFs, HTML tables, daily schedules). Plan: one small parser per circuit in `_oral_arguments/scripts/circuits/`, starting with the ones that publish structured weekly calendars, writing to `courts/oral-arguments/data/circuits_upcoming.json` in the same case schema as SCOTUS. Oyez doesn't cover the circuits, so briefs come from `_oral_arguments/scripts/summarize.py`, fed the district-court opinion or docket (CourtListener RECAP) instead of a Question Presented. Most circuit cases get little press, so expect shorter "why it matters" sections; a filter for cases that do have coverage would help.
+- **Circuit calendars.** `scripts/build_circuit_calendars.py` reads the calendar PDFs of the 1st, 4th, 8th, 10th, 11th and Federal Circuits into `courts/oral-arguments/data/circuits_upcoming.json` (settings per court in `COURTS`; one generic line parser). It obeys robots.txt, saves the extracted PDF text to `_oral_arguments/debug/<court>/` for fixing parsers, and reports per-court counts in the Actions job summary. Still to do: 5th, 9th, 7th, 6th, 3rd (no machine-readable index yet); 2nd and D.C. block automated access via robots.txt.
+- **Circuit calendars, original plan (kept for reference).** Each circuit posts its calendar differently (PDFs, HTML tables, daily schedules). Plan: one small parser per circuit in `_oral_arguments/scripts/circuits/`, starting with the ones that publish structured weekly calendars, writing to `courts/oral-arguments/data/circuits_upcoming.json` in the same case schema as SCOTUS. Oyez doesn't cover the circuits, so briefs come from `_oral_arguments/scripts/summarize.py`, fed the district-court opinion or docket (CourtListener RECAP) instead of a Question Presented. Most circuit cases get little press, so expect shorter "why it matters" sections; a filter for cases that do have coverage would help.
 - **District courts (phase 3).** A hand-curated `courts/oral-arguments/data/district.json` of notable hearings with public audio.
 - **Podcast feed.** An RSS feed of new recordings so arguments show up in a podcast app.
 - **Per-case pages** with briefs and argument transcripts once posted.
