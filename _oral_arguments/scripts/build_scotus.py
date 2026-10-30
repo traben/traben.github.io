@@ -28,6 +28,7 @@ import re
 import sys
 import time
 from pathlib import Path
+from urllib.parse import urljoin
 
 import requests
 from pypdf import PdfReader
@@ -52,16 +53,23 @@ session = requests.Session()
 session.headers.update(UA)
 
 
-def get(url: str, *, binary: bool = False, tries: int = 3):
+FETCH_LOG: list[tuple[str, str]] = []   # (url, outcome) for failed requests, reported at the end
+
+
+def get(url: str, *, binary: bool = False, tries: int = 3, quiet_404: bool = False):
     for i in range(tries):
         try:
             r = session.get(url, timeout=30)
             if r.status_code == 404:
+                if not quiet_404:
+                    FETCH_LOG.append((url, "404 not found"))
                 return None
             r.raise_for_status()
             return r.content if binary else r.text
         except requests.RequestException as e:
             if i == tries - 1:
+                status = getattr(getattr(e, "response", None), "status_code", None)
+                FETCH_LOG.append((url, f"HTTP {status}" if status else type(e).__name__))
                 print(f"  ! {url}: {e}", file=sys.stderr)
                 return None
             time.sleep(2 * (i + 1))
@@ -75,7 +83,7 @@ def pdf_text(data: bytes) -> str:
 # --------------------------------------------------------------------------- parsing
 def calendar_pdf_links(html: str, today: dt.date) -> list[str]:
     """Monthly argument-calendar PDFs for the current and next months (and last month)."""
-    links = sorted(set(re.findall(r'href="([^"]*MonthlyArgumentCal(\w+?)(\d{4})\.pdf)"', html)))
+    links = sorted(set(re.findall(r'href=["\']([^"\']*MonthlyArgumentCal([A-Za-z]+?)(\d{4})\.pdf)["\']', html, re.I)))
     keep = []
     for href, month, year in links:
         try:
@@ -85,8 +93,21 @@ def calendar_pdf_links(html: str, today: dt.date) -> list[str]:
         first = dt.date(int(year), m, 1)
         # keep calendars from ~2 months ago forward (covers "recently argued")
         if first >= (today.replace(day=1) - dt.timedelta(days=62)):
-            keep.append(href if href.startswith("http") else f"{BASE}/{href.lstrip('/')}")
+            keep.append(urljoin(CAL_PAGE, href))   # hrefs on that page may be relative
     return keep
+
+
+def guessed_calendar_links(today: dt.date) -> list[str]:
+    """Second route to the same PDFs: they follow a fixed naming pattern
+    (MonthlyArgumentCal<Month><Year>.pdf), so also try the months around today."""
+    out = []
+    for delta in range(-2, 4):
+        m0 = today.month - 1 + delta
+        y, m = today.year + m0 // 12, m0 % 12 + 1
+        if m in (5, 6, 7, 8, 9):      # no argument sessions May-September
+            continue
+        out.append(f"{BASE}/oral_arguments/argument_calendars/MonthlyArgumentCal{MONTHS[m - 1]}{y}.pdf")
+    return out
 
 
 def captions_from_calendar(text: str) -> dict[str, str]:
@@ -193,6 +214,39 @@ def load_editorial() -> dict[str, dict]:
     return out
 
 
+# --------------------------------------------------------------------------- failure handling
+def report(msg: str) -> None:
+    """Show a message as a warning on the GitHub Actions run page and in the job summary."""
+    print(f"::warning title=Supreme Court data::{msg}")
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary:
+        with open(summary, "a") as f:
+            f.write(f"### Supreme Court data\n\n{msg}\n\nFailed requests:\n\n")
+            for url, outcome in FETCH_LOG[:25]:
+                f.write(f"- `{outcome}` {url}\n")
+
+
+def keep_existing(out_path: Path, terms: set[int]) -> None:
+    """Calendars couldn't be read: keep the current data, but still mark newly posted recordings."""
+    argued: dict[str, str] = {}
+    for t in terms:
+        argued.update(audio_index(t))
+    data = json.loads(out_path.read_text())
+    newly = 0
+    for c in data["cases"]:
+        if c["docket"] in argued and not c.get("argued"):
+            c["argued"], newly = True, newly + 1
+            c["links"]["recording"] = c["links"]["recording_expected"]
+    if newly:
+        out_path.write_text(json.dumps(data, indent=2, ensure_ascii=False))
+    refused = any(o in ("HTTP 403", "HTTP 429") for _, o in FETCH_LOG)
+    why = ("supremecourt.gov refused the requests (HTTP 403/429)" if refused
+           else "no argument calendars could be read or parsed")
+    report(f"Kept the existing {len(data['cases'])} cases because {why}. "
+           f"Marked {newly} newly argued case(s). First failures: "
+           + "; ".join(f"{o} {u}" for u, o in FETCH_LOG[:6]))
+
+
 # --------------------------------------------------------------------------- main
 def term_for(date: dt.date) -> int:
     """October Term N runs from the first Monday in October of year N."""
@@ -207,13 +261,21 @@ def build(out_path: Path, want_summaries: bool) -> None:
 
     html = get(CAL_PAGE) or ""
     pdfs = calendar_pdf_links(html, today)
-    print(f"calendar PDFs: {len(pdfs)}")
+    print(f"calendar PDFs linked from the calendars page: {len(pdfs)}")
+    if html and not pdfs:   # diagnostic: what did the page actually contain?
+        title = re.search(r"<title>(.*?)</title>", html, re.S | re.I)
+        hrefs = re.findall(r"MonthlyArgumentCal[^\"'<> ]*", html)[:5]
+        print(f"  calendars page: {len(html)} chars, title={title.group(1).strip() if title else None!r}, "
+              f"'MonthlyArgumentCal' occurrences={html.count('MonthlyArgumentCal')}, samples={hrefs}")
+    pdfs += [u for u in guessed_calendar_links(today) if u not in pdfs]
 
     captions: dict[str, str] = {}
     for url in pdfs:
-        data = get(url, binary=True)
+        data = get(url, binary=True, quiet_404=True)
         if data:
-            captions.update(captions_from_calendar(pdf_text(data)))
+            found = captions_from_calendar(pdf_text(data))
+            print(f"  {url.rsplit('/', 1)[-1]}: {len(found)} cases")
+            captions.update(found)
     print(f"dockets on calendars: {len(captions)}")
 
     terms = {term_for(today), term_for(today) - 1}
@@ -325,8 +387,8 @@ def build(out_path: Path, want_summaries: bool) -> None:
         "cases": cases,
     }
     if not cases and old:
-        print("No cases parsed; keeping the existing file so the site does not go blank.", file=sys.stderr)
-        sys.exit(1)
+        keep_existing(out_path, terms)
+        return
     out_path.write_text(json.dumps(out, indent=2, ensure_ascii=False))
     print(f"wrote {len(cases)} cases -> {out_path}")
 
