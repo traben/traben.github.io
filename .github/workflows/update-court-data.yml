@@ -1,0 +1,60 @@
+name: Update oral argument data
+
+on:
+  schedule:
+    - cron: "17 12 * * *"      # every morning, ~8 a.m. ET — new calendars and case briefs
+    - cron: "17 21 * * 1-5"    # weekday afternoons, ~5 p.m. ET — same-day recordings
+  workflow_dispatch: {}        # "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: update-court-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r _oral_arguments/requirements.txt
+
+      - name: Supreme Court
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # optional: drafts briefs for new cases
+        run: python _oral_arguments/scripts/build_scotus.py
+
+      - name: Courts of Appeals (recent recordings)
+        env:
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }} # optional: higher rate limit
+        run: python _oral_arguments/scripts/build_circuits.py --days 10
+        continue-on-error: true
+
+      - name: Commit if anything changed
+        id: commit
+        run: |
+          git config user.name  "court-calendar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add courts/oral-arguments/data/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Update oral argument data $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Pushes made by this workflow may not trigger a Pages rebuild on their own, so ask for one.
+      - name: Rebuild the site
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages rebuild request failed; the next push will rebuild."

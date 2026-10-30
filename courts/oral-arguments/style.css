@@ -1,0 +1,97 @@
+/* Oral Argument Calendar — scoped to .oac so it sits inside the AcademicPages / Minimal Mistakes theme.
+   Fonts and base text color come from the theme; colors below echo its palette. */
+.oac {
+  --ink: #494e52;          /* theme $dark-gray (body text) */
+  --muted: #7a8288;        /* theme $gray */
+  --rule: #f2f3f3;         /* theme $border-color */
+  --rule-strong: #d7d9da;
+  --tint: #f7f8f8;
+  --link: #52adc8;         /* theme $link-color */
+  --accent: #2f7f99;       /* darker link blue for filled buttons (AA on white) */
+  --accent-soft: #eaf5f9;
+  --live: #b42318;
+  --on-accent: #ffffff;
+  --serif: Georgia, Times, serif;   /* theme $serif, used for case titles */
+  color: var(--ink);
+  font-size: 0.9em;
+}
+.oac a { color: var(--link); }
+.oac button { font: inherit; }
+.oac :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.oac p { margin: 0; }
+.oac [hidden] { display: none !important; }   /* theme reset sets section{display:block} */
+
+.oac-lede { color: var(--muted); margin-bottom: 1em !important; }
+
+.oac-tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--rule-strong); overflow-x: auto; }
+.oac-tabs button { background: none; border: 0; padding: 10px 12px; color: var(--muted); cursor: pointer; border-bottom: 2px solid transparent; white-space: nowrap; font-weight: 600; }
+.oac-tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+
+.oac .panel { padding: 16px 0 24px; }
+.oac .toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+.oac .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.oac .chips button { font-size: 0.85em; border: 1px solid var(--rule-strong); background: #fff; color: var(--ink); padding: 4px 11px; border-radius: 999px; cursor: pointer; }
+.oac .chips button.on { background: var(--ink); color: #fff; border-color: var(--ink); }
+.oac input[type="search"] { font-size: 0.9em; padding: 6px 10px; border: 1px solid var(--rule-strong); border-radius: 6px; min-width: 0; flex: 1 1 200px; max-width: 300px; margin: 0; }
+.oac .meta { color: var(--muted); font-size: 0.8em; margin-top: 10px; }
+
+.oac .day { margin-top: 22px; }
+.oac .day h2 { font-size: 1.15em; margin: 0 0 4px; padding: 0; border: 0; display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.oac .day h2 .rel { font-size: 0.6em; color: var(--muted); text-transform: uppercase; letter-spacing: .08em; font-weight: 600; }
+.oac .day h2 .rel.today { color: var(--live); }
+
+.oac .case { display: grid; grid-template-columns: 88px minmax(0, 1fr); gap: 14px; border: 1px solid var(--rule-strong); border-radius: 8px; padding: 14px; margin-top: 10px; background: #fff; }
+.oac .when .time { display: block; font-weight: 600; }
+.oac .when .local { display: block; font-size: 0.8em; color: var(--muted); margin-top: 2px; }
+.oac .title { font-family: var(--serif); font-size: 1.2em; line-height: 1.25; margin: 0; }
+.oac .sub { font-size: 0.85em; color: var(--muted); margin-top: 3px; }
+.oac .ask { font-family: var(--serif); font-weight: 700; margin-top: 10px; line-height: 1.4; }
+.oac .ask:empty { display: none; }
+.oac .summary { margin-top: 6px; line-height: 1.55; }
+.oac .summary .tag { font-size: 0.75em; color: var(--muted); margin-left: 6px; }
+.oac .why { margin-top: 12px; padding: 10px 12px; background: var(--tint); border-radius: 6px; }
+.oac .why h4 { margin: 0 0 4px; font-size: 0.7em; letter-spacing: .1em; text-transform: uppercase; color: var(--accent); }
+.oac .why ul { margin: 0; padding-left: 18px; display: grid; gap: 6px; font-size: 0.92em; line-height: 1.5; }
+.oac .why li { margin: 0; }
+.oac .why .src { font-size: 0.85em; color: var(--muted); }
+.oac .why .src::before { content: "— "; }
+.oac .qp { margin-top: 8px; font-size: 0.9em; }
+.oac .qp summary { cursor: pointer; color: var(--muted); }
+.oac .qp p { margin-top: 6px; padding-left: 12px; border-left: 2px solid var(--rule-strong); }
+.oac .note { font-size: 0.85em; color: var(--muted); margin-top: 8px; font-style: italic; }
+.oac .note:empty { display: none; }
+.oac .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; align-items: center; }
+.oac .oac-btn { font-size: 0.85em; text-decoration: none; border: 1px solid var(--rule-strong); color: var(--ink); background: #fff; padding: 5px 10px; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+.oac .oac-btn.primary { background: var(--accent); color: var(--on-accent); border-color: var(--accent); }
+.oac .oac-btn.live { background: var(--live); color: var(--on-accent); border-color: var(--live); }
+.oac .oac-btn.live::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--on-accent); animation: oac-pulse 1.4s infinite; }
+@keyframes oac-pulse { 50% { opacity: .3; } }
+@media (prefers-reduced-motion: reduce) { .oac .oac-btn.live::before { animation: none; } }
+.oac .oac-btn.quiet { color: var(--muted); }
+.oac .pending { font-size: 0.85em; color: var(--muted); }
+
+.oac .callout { background: var(--accent-soft); border-radius: 6px; padding: 12px 14px; margin-bottom: 14px; }
+.oac .empty { color: var(--muted); padding: 20px 0; }
+
+.oac .oa-row { display: grid; grid-template-columns: 70px minmax(0, 1fr) auto; gap: 12px; align-items: center; padding: 9px 0; border-bottom: 1px solid var(--rule-strong); }
+.oac .badge { font-size: 0.72em; font-weight: 600; background: var(--accent-soft); color: var(--accent); padding: 3px 6px; border-radius: 4px; text-align: center; white-space: nowrap; }
+.oac .oa-row .t { font-family: var(--serif); font-weight: 700; line-height: 1.3; }
+.oac .oa-row .d { font-size: 0.8em; color: var(--muted); }
+.oac .oa-row audio { width: 100%; margin-top: 6px; grid-column: 1 / -1; }
+.oac .more { margin-top: 12px; }
+
+.oac .section-title { font-size: 1.2em; margin: 32px 0 10px; }
+.oac .directory { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
+.oac .court { border: 1px solid var(--rule-strong); border-radius: 8px; padding: 10px 12px; font-size: 0.9em; }
+.oac .court h3 { font-family: var(--serif); font-size: 1em; margin: 0 0 4px; }
+.oac .court p { margin: 0 0 6px; color: var(--muted); font-size: 0.9em; }
+.oac .court a { margin-right: 10px; }
+
+.oac .foot { border-top: 1px solid var(--rule-strong); padding-top: 14px; margin-top: 10px; color: var(--muted); font-size: 0.8em; }
+
+@media (max-width: 560px) {
+  .oac .case { grid-template-columns: minmax(0, 1fr); gap: 6px; }
+  .oac .when { display: flex; gap: 8px; align-items: baseline; }
+  .oac .oa-row { grid-template-columns: minmax(0, 1fr) auto; }
+  .oac .oa-row .badge { grid-column: 1 / -1; justify-self: start; }
+}

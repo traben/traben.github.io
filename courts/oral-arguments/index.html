@@ -1,0 +1,79 @@
+---
+layout: archive
+title: "Oral Argument Calendar"
+permalink: /courts/oral-arguments/
+author_profile: true
+excerpt: "Upcoming Supreme Court and federal appellate oral arguments: when they're argued, how to listen, and what each case is about."
+---
+
+<link rel="stylesheet" href="style.css">
+
+<div class="oac">
+  <p class="oac-lede"><a href="/courts/">← Courts</a> · What's being argued in the federal appellate courts, when, and where to listen. Updated daily.</p>
+
+  <nav class="oac-tabs" role="tablist" aria-label="Courts">
+    <button role="tab" aria-selected="true" data-tab="scotus">Supreme Court</button>
+    <button role="tab" aria-selected="false" data-tab="circuits">Courts of Appeals</button>
+    <button role="tab" aria-selected="false" data-tab="district">District Courts</button>
+  </nav>
+
+  <section id="tab-scotus" class="panel" role="tabpanel">
+    <div class="toolbar">
+      <div class="chips" id="scotus-range" role="radiogroup" aria-label="Time range">
+        <button data-range="today">Today</button>
+        <button data-range="week">Next 7 days</button>
+        <button data-range="month" class="on">Next 30 days</button>
+        <button data-range="upcoming">All scheduled</button>
+        <button data-range="past">Recently argued</button>
+      </div>
+      <input type="search" id="scotus-q" placeholder="Search cases, issues, dockets…" aria-label="Search Supreme Court cases">
+    </div>
+    <p class="meta" id="scotus-meta"></p>
+    <div id="scotus-list"></div>
+  </section>
+
+  <section id="tab-circuits" class="panel" role="tabpanel" hidden>
+    <div class="callout">
+      <strong>Upcoming circuit calendars are next.</strong>
+      Each circuit publishes its schedule differently, so for now this lists arguments heard in the last week, with recordings you can play here, plus where each court streams live.
+    </div>
+    <div class="toolbar">
+      <div class="chips" id="circuit-filter" aria-label="Circuit"></div>
+      <input type="search" id="circuit-q" placeholder="Search case names or dockets…" aria-label="Search circuit arguments">
+    </div>
+    <p class="meta" id="circuit-meta"></p>
+    <div id="circuit-list"></div>
+    <h2 class="section-title">Where to listen, court by court</h2>
+    <div id="court-directory" class="directory"></div>
+  </section>
+
+  <section id="tab-district" class="panel" role="tabpanel" hidden>
+    <div class="callout">
+      <strong>Coming later.</strong>
+      District courts rarely stream proceedings, so this section will track a hand-picked list of notable hearings that do offer public audio.
+    </div>
+  </section>
+
+  <p class="foot">Data: <a href="https://www.supremecourt.gov/oral_arguments/calendarsandlists.aspx">supremecourt.gov</a> calendars, dockets and Questions Presented;
+    circuit recordings via <a href="https://www.courtlistener.com/">CourtListener</a> (Free Law Project).
+    Case overviews are written for this site; “Why it matters” paraphrases outside commentary and links each point to its source.
+    The official question presented and docket are the authoritative text. <span id="updated"></span></p>
+
+  <template id="tpl-case">
+    <article class="case">
+      <div class="when"><span class="time"></span><span class="local"></span></div>
+      <div class="body">
+        <h3 class="title"></h3>
+        <p class="sub"></p>
+        <p class="ask"></p>
+        <p class="summary"></p>
+        <div class="why"><h4>Why it matters</h4><ul></ul></div>
+        <details class="qp"><summary>Official question presented</summary><p></p></details>
+        <p class="note"></p>
+        <div class="actions"></div>
+      </div>
+    </article>
+  </template>
+</div>
+
+<script src="app.js" defer></script>

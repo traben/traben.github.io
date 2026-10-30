@@ -1,0 +1,563 @@
+{
+  "_comment": "Hand-written overviews and commentary for OT2026 cases (Oct 29, 2026). Structure modeled on Oyez (facts + plain question) plus a 'why it matters' section drawn from outside commentary. Each commentary point links to the source it paraphrases. build_scotus.py merges this file over generated content.",
+  "sources": {
+    "sb-nov": {
+      "name": "SCOTUSblog (Amy Howe), Aug. 11, 2026",
+      "url": "https://www.scotusblog.com/2026/08/court-announces-cases-it-will-hear-in-november-including-religious-discrimination-dispute/"
+    },
+    "sb-dec": {
+      "name": "SCOTUSblog (Amy Howe), Sept. 4, 2026",
+      "url": "https://www.scotusblog.com/2026/09/court-announces-cases-it-will-hear-in-december-including-challenges-to-the-constitutionality-of-/"
+    },
+    "sb-maxwell": {
+      "name": "SCOTUSblog (Amy Howe), June 1, 2026",
+      "url": "https://www.scotusblog.com/2026/06/justices-send-case-of-death-row-inmate-back-to-lower-courts-grant-new-first-step-act-case/"
+    },
+    "us-maxwell": {
+      "name": "U.S. brief for the respondent (Oct. 2026)",
+      "url": "https://www.supremecourt.gov/DocketPDF/25/25-5930/430007/20261019165858091_25-5930_Maxwell_usrb.pdf"
+    },
+    "famm-maxwell": {
+      "name": "FAMM amicus brief (Aug. 2026)",
+      "url": "https://www.supremecourt.gov/DocketPDF/25/25-5930/418806/20260812132709008_Brief%20of%20FAMM%20as%20amicus%20curiae.pdf"
+    },
+    "resp-younge": {
+      "name": "Fulton DA's Office merits brief (Aug. 2026)",
+      "url": "https://www.supremecourt.gov/DocketPDF/25/25-352/418311/20260806134746085_25-352%20bs.pdf"
+    },
+    "qp-younge": {
+      "name": "Question presented (supremecourt.gov)",
+      "url": "https://www.supremecourt.gov/qp/25-00352qp.pdf"
+    },
+    "hrc-stmary": {
+      "name": "Human Rights Campaign, Oct. 26, 2026",
+      "url": "https://www.hrc.org/press-releases/supreme-court-to-hear-oral-arguments-in-st-mary-catholic-parish-v-roy-a-case-that-could-impact-critical-protections-for-colorados-lgbtq-families"
+    },
+    "ds-stmary": {
+      "name": "The Daily Signal (Fred Lucas), Aug. 11, 2026",
+      "url": "https://www.dailysignal.com/2026/08/11/supreme-court-arguments-lgbtq/"
+    },
+    "bl-guerrero": {
+      "name": "Bloomberg Law (Justin Wise), June 15, 2026",
+      "url": "https://news.bloomberglaw.com/us-law-week/justices-will-consider-dispute-over-successive-habeas-challenges"
+    },
+    "us-guerrero": {
+      "name": "U.S. amicus brief supporting Texas (Aug. 2026)",
+      "url": "https://www.supremecourt.gov/DocketPDF/25/25-1003/418352/20260806185847978_Guerrero%20v.%20Johnson%20U.S.%20Amicus%20Final.pdf"
+    },
+    "lawfare-bivens": {
+      "name": "Lawfare (Mason & Smith), Oct. 20, 2026",
+      "url": "https://www.lawfaremedia.org/article/will-the-supreme-court-finally-dismantle-bivens-s-house-of-cards"
+    },
+    "tnr-bivens": {
+      "name": "The New Republic (Matt Ford), June 23, 2026",
+      "url": "https://newrepublic.com/article/212182/supreme-court-bivens-nielsen-watanabe"
+    },
+    "ndm-hoffmann": {
+      "name": "North Dakota Monitor",
+      "url": "https://northdakotamonitor.com/?p=20617"
+    },
+    "ee-hoffmann": {
+      "name": "E&E News (Niina H. Farah), Dec. 9, 2025",
+      "url": "https://www.eenews.net/articles/supreme-court-asks-for-trump-admins-view-on-pipeline-fight/"
+    },
+    "chn-sunvalley": {
+      "name": "Courthouse News (Megan Butler), Apr. 27, 2026",
+      "url": "https://api.courthousenews.com/supreme-court-takes-up-farms-migrant-employment-dispute/"
+    },
+    "onlabor-sunvalley": {
+      "name": "OnLabor (Paneez Oliai), Oct. 13, 2025",
+      "url": "https://onlabor.org/?p=46479"
+    },
+    "hrdive-crowther": {
+      "name": "HR Dive (Naaz Modan), May 19, 2026",
+      "url": "https://www.hrdive.com/news/supreme-court-to-determine-if-school-employees-can-sue-under-title-ix/820552/"
+    },
+    "cac-crowther": {
+      "name": "Constitutional Accountability Center amicus summary",
+      "url": "https://www.theusconstitution.org/litigation/crowther-v-board-of-regents-of-the-university-system-of-georgia/"
+    },
+    "sb-wassily": {
+      "name": "SCOTUSblog (Duncan Fulton), Aug. 14, 2026",
+      "url": "https://www.scotusblog.com/2026/08/understanding-the-courts-next-major-case-on-asylum-seekers-wassily-v-blanche/"
+    },
+    "jd-jouppi": {
+      "name": "Jones Day, July 2026",
+      "url": "https://www.jonesday.com/en/insights/2026/07/us-supreme-court-to-decide-standard-for-analyzing-excessive-fines-clause-challenge"
+    },
+    "tnr-jouppi": {
+      "name": "The New Republic (Matt Ford), July 22, 2026",
+      "url": "https://newrepublic.com/article/213321/supreme-court-alaska-excessive-fines"
+    },
+    "bl-ar15": {
+      "name": "Bloomberg (Greg Stohr), June 30, 2026",
+      "url": "https://news.bloomberglaw.com/us-law-week/supreme-court-will-consider-right-to-own-assault-weapons"
+    },
+    "jurist-ar15": {
+      "name": "JURIST, July 2026",
+      "url": "https://www.jurist.org/news/2026/07/us-supreme-court-agrees-to-hear-challenges-to-assault-weapons-bans/"
+    },
+    "bl-ipec": {
+      "name": "Bloomberg Law (Justin Wise), June 29, 2026",
+      "url": "https://news.bloomberglaw.com/us-law-week/justices-to-weigh-parents-right-to-sue-over-trans-youth-policy"
+    },
+    "azm-rnc": {
+      "name": "Arizona Mirror (Caitlin Sievers), June 29, 2026",
+      "url": "https://azmirror.com/?p=27517"
+    },
+    "fox-rnc": {
+      "name": "Fox News (Elaine Mallon), Sept. 5, 2026",
+      "url": "https://www.foxnews.com/politics/arizona-voter-law-fight-reaches-scotus-election-groups-warn-absurd-consequence-could-ensue"
+    },
+    "brennan-rnc": {
+      "name": "Brennan Center case page",
+      "url": "https://www.brennancenter.org/our-work/court-cases/mi-familia-vota-v-fontes"
+    },
+    "sb-dvd": {
+      "name": "SCOTUSblog (Erwin Chemerinsky), Oct. 6, 2026",
+      "url": "https://www.scotusblog.com/2026/10/the-supreme-courts-blessing-of-third-country-removals/"
+    },
+    "dorsey-dvd": {
+      "name": "Dorsey & Whitney Supreme Court update, Oct. 8, 2026",
+      "url": "https://www.dorsey.com/newsresources/publications/client-alerts/2026/10/oct-8-supreme-court-update"
+    },
+    "fwd-grand": {
+      "name": "The Forward via Detroit Jewish News (Hannah Feuer), July 2026",
+      "url": "https://www.thejewishnews.com/news/he-was-barred-from-hosting-a-home-minyan-now-the-supreme-court-will-hear-his/article_3f44bc41-586b-4b64-aa22-ae7c20bc100a.html"
+    },
+    "aaf-suncor": {
+      "name": "American Action Forum, Oct. 6, 2026",
+      "url": "https://www.americanactionforum.org/insight/scotus-begins-major-climate-case-potential-outcomes-and-policy-implications/"
+    },
+    "sb-term": {
+      "name": "SCOTUSblog (Mark Walsh), Oct. 5, 2026",
+      "url": "https://www.scotusblog.com/2026/10/opening-the-book-on-the-october-term-2026/"
+    },
+    "sb-johnson": {
+      "name": "SCOTUSblog (Kelsey Dallas), Oct. 6, 2026",
+      "url": "https://www.scotusblog.com/2026/10/justices-debate-which-courts-may-hear-constitutional-challenges-to-laws-on-veterans-benefits/"
+    },
+    "ballard-intel": {
+      "name": "Ballard Spahr, Oct. 12, 2026",
+      "url": "https://www.ballardspahr.com/insights/alerts-and-articles/2026/10/supreme-ct-signals-support-for-meaningful-benchmark-requirement-in-erisa-plan-underperformance-cases"
+    },
+    "cohen-intel": {
+      "name": "Cohen Milstein, Oct. 6, 2026",
+      "url": "https://www.cohenmilstein.com/intel-case-may-clarify-dismissal-standard-for-401k-suits/"
+    },
+    "nyt-guahan": {
+      "name": "New York Times via Hawaii Tribune-Herald (Abbie VanSickle), Oct. 10, 2026",
+      "url": "https://www.hawaiitribune-herald.com/?p=379786"
+    },
+    "tx-beaird": {
+      "name": "Argument transcript, Oct. 13, 2026",
+      "url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2026/25-5343_d1oe.pdf"
+    },
+    "bl-salazar": {
+      "name": "Bloomberg Law (Christopher Brown), Oct. 14, 2026",
+      "url": "https://news.bloomberglaw.com/ip-law/paramount-struggles-to-save-video-privacy-win-at-supreme-court"
+    },
+    "qp-hoffmann": {
+      "name": "Question presented (supremecourt.gov)",
+      "url": "https://www.supremecourt.gov/qp/25-00159qp.pdf"
+    },
+    "ncsl-rnc": {
+      "name": "NCSL, Sept. 4, 2024",
+      "url": "https://www.ncsl.org/state-legislatures-news/details/supreme-court-allows-partial-enforcement-of-voter-proof-of-citizenship-law"
+    },
+    "qp-stmary": {
+      "name": "Question presented (supremecourt.gov)",
+      "url": "https://www.supremecourt.gov/qp/25-00581qp.pdf"
+    }
+  },
+  "cases": {
+    "25-170": {
+      "overview": "In 2018 the City and County of Boulder, Colorado, sued Suncor Energy and ExxonMobil in state court. They seek money for the local costs of adapting to climate change, alleging under Colorado tort law that the companies' fossil-fuel products contributed to the problem and that the companies misled the public about it. The companies say climate harms from worldwide emissions are a matter for federal law and the EPA, not state juries. Colorado's courts let the suit go forward. The Supreme Court also asked whether it can hear the case at all before Colorado's courts reach a final judgment.",
+      "question_plain": "Does federal law block a city or county from using state tort law to seek damages for local harm caused by global greenhouse-gas emissions?",
+      "why_it_matters": [
+        {
+          "text": "The ruling could decide dozens of similar climate suits filed by states, cities and counties around the country.",
+          "src": "aaf-suncor"
+        },
+        {
+          "text": "At argument (Oct. 5), several justices pressed the companies' lawyer on whether federal common law, the Constitution or the Clean Air Act is the right basis for preemption, while others raised practical worries about a wave of state and local suits.",
+          "src": "aaf-suncor"
+        },
+        {
+          "text": "With Justice Alito recused, eight justices heard the case, so a 4–4 tie is possible. A tie would leave the Colorado ruling in place without setting a national rule.",
+          "src": "aaf-suncor"
+        },
+        {
+          "text": "SCOTUSblog's coverage described \"mixed signals\" from the bench.",
+          "src": "sb-term"
+        }
+      ]
+    },
+    "25-735": {
+      "overview": "Floyd Johnson, a veteran, challenges a federal law that cuts disability benefits for veterans who are incarcerated for more than 60 days. He filed his constitutional challenge in federal district court in Florida. The government says the Veterans' Judicial Review Act sends all disputes about benefits through the VA's own appeals system, so the district court has no power to hear it. The lower courts agreed with the government.",
+      "question_plain": "Can a veteran go straight to federal district court to argue that a veterans-benefits statute is unconstitutional, or must the challenge go through the VA's appeals process?",
+      "why_it_matters": [
+        {
+          "text": "Johnson's lawyer argued that the Board of Veterans' Appeals has disclaimed the power to strike down statutes, so the VA route offers no real forum for a challenge to the law itself.",
+          "src": "sb-johnson"
+        },
+        {
+          "text": "The government argued that there is no principled line between constitutional claims a district court could hear and those it couldn't, and that the Board does decide constitutional questions.",
+          "src": "sb-johnson"
+        },
+        {
+          "text": "At argument, more justices appeared to favor the government. Justices Gorsuch, Sotomayor and Jackson pressed it on its shifting past positions and the burden on veterans.",
+          "src": "sb-johnson"
+        }
+      ]
+    },
+    "25-498": {
+      "overview": "Former Intel employees say the company's retirement-plan managers imprudently put 401(k) money into the company's own target-date and diversified funds, which lagged simpler stock-and-bond funds. The Ninth Circuit dismissed the suit because the complaint didn't identify a \"meaningful benchmark\": a comparable fund that did better. The employees say ERISA's prudence standard is too context-specific for any rigid pleading rule.",
+      "question_plain": "To sue over a retirement fund's poor performance, must workers point to a comparable fund that did better?",
+      "why_it_matters": [
+        {
+          "text": "Underperformance suits against 401(k) plans are common. A benchmark rule works as a gatekeeper at the motion-to-dismiss stage, which can spare plan sponsors costly discovery.",
+          "src": "ballard-intel"
+        },
+        {
+          "text": "At argument, several justices doubted that the Ninth Circuit had demanded an identical comparator (Justice Kagan called that reading a \"caricature\"). Defense-side observers read the Court as inclined to endorse some benchmark requirement while giving guidance on how strict it should be.",
+          "src": "ballard-intel"
+        },
+        {
+          "text": "Plaintiffs' lawyers point to Hughes v. Northwestern (2022) and expect the Court to reject a rigid rule. They warn that a strict requirement would make it harder for workers to get to discovery.",
+          "src": "cohen-intel"
+        }
+      ]
+    },
+    "25-579": {
+      "overview": "Since 1982 the Air Force has disposed of expired bombs, rockets and other hazardous munitions by detonating them on Tarague Beach at Andersen Air Force Base in Guam, under a hazardous-waste permit that must be renewed every three years. Prutehi Guåhan, a local group, sued over the 2021 renewal application. It says the Air Force skipped the environmental review and public comment that the National Environmental Policy Act requires. A divided Ninth Circuit agreed the suit could proceed.",
+      "question_plain": "Is merely applying to renew a hazardous-waste permit a final agency action that can be challenged in court, and must the military do a NEPA review before applying?",
+      "why_it_matters": [
+        {
+          "text": "The Air Force says requiring another layer of review would make routine permit renewals unduly burdensome. The group says environmental laws are one of the few ways Guam residents, who are U.S. citizens but cannot vote for president, can influence federal projects on their land.",
+          "src": "nyt-guahan"
+        },
+        {
+          "text": "At argument (Oct. 7), justices across the spectrum worried that ruling against the group could leave it no way to challenge the detonations at all, while others worried about opening courts to many similar suits.",
+          "src": "nyt-guahan"
+        }
+      ]
+    },
+    "25-5343": {
+      "overview": "Kendrick Beaird's sentence for a gun offense was increased under a federal Sentencing Guidelines enhancement that turned on the Sentencing Commission's official commentary. Under Stinson v. United States (1993), courts treat that commentary as binding unless it is plainly wrong. Since then, the Supreme Court has narrowed deference to agencies' readings of their own rules (Kisor, 2019) and overruled Chevron (Loper Bright, 2024). The Court took the case limited to whether Stinson still holds, and appointed a lawyer to defend it because the government doesn't fully do so.",
+      "question_plain": "How much weight must judges give the Sentencing Commission's commentary on its own Guidelines?",
+      "why_it_matters": [
+        {
+          "text": "The government argued at argument that Kisor's narrower deference standard should now govern the commentary. That would be a middle path, not an end to deference.",
+          "src": "tx-beaird"
+        },
+        {
+          "text": "Justice Gorsuch suggested that binding commentary would leave a \"pretty big hole in Loper Bright.\" Justice Alito said he didn't see how the system could work \"without some degree of deference,\" and Chief Justice Roberts questioned how much the fight matters now that the Guidelines are advisory.",
+          "src": "tx-beaird"
+        }
+      ]
+    },
+    "25-459": {
+      "overview": "Michael Salazar subscribed to a free email newsletter from 247Sports.com, a Paramount sports site that also hosts videos. He says Paramount used Meta's tracking pixel to share which videos he watched, along with his Facebook ID, without his consent. The 1988 Video Privacy Protection Act, passed after a reporter published Judge Robert Bork's video-rental history, protects \"consumers\" of video providers. The Sixth Circuit held that a newsletter subscriber isn't one, because the newsletter isn't video.",
+      "question_plain": "Does a federal video-privacy law protect someone who subscribes to any service from a video provider, or only to its video services?",
+      "why_it_matters": [
+        {
+          "text": "The circuits are split over who counts as a \"consumer,\", with the Sixth and D.C. Circuits reading it narrowly and the Second and Seventh broadly. The answer matters to any site that embeds video and shares viewing data with advertisers.",
+          "src": "bl-salazar"
+        },
+        {
+          "text": "At argument (Oct. 14), the Court appeared likely to side with the consumer. Justices Kagan and Kavanaugh noted that sites could simply get consent or stop sharing the data.",
+          "src": "bl-salazar"
+        },
+        {
+          "text": "Paramount's lawyer, Paul Clement, warned that a broad reading would require consent from huge numbers of non-customers and could push free video behind paywalls.",
+          "src": "bl-salazar"
+        }
+      ]
+    },
+    "25-5930": {
+      "overview": "William Maxwell is serving 20 years for his role in a scheme to take over and loot a Texas mortgage company. He says the Bureau of Prisons failed to apply time credits he earned under the First Step Act, the 2018 criminal-justice law, which would have moved him earlier to a halfway house or home confinement. He filed a habeas petition without a lawyer. The Fifth Circuit held he had to bring a civil-rights suit instead, because winning wouldn't automatically shorten his sentence.",
+      "question_plain": "Can a federal prisoner use a habeas petition to challenge how the Bureau of Prisons applied First Step Act credits that would move him out of prison sooner?",
+      "why_it_matters": [
+        {
+          "text": "The government now agrees with Maxwell that habeas is the right vehicle, so a court-appointed lawyer is defending the Fifth Circuit's ruling. The government instead argues that a separate statute bars courts from reviewing these placement decisions at all.",
+          "src": "us-maxwell"
+        },
+        {
+          "text": "Sentencing-reform advocates say habeas is essential to enforce the Act's promise that eligible people \"shall be placed\" in prerelease custody, and that each extra day in prison is a deprivation of liberty Congress meant to end.",
+          "src": "famm-maxwell"
+        },
+        {
+          "text": "Maxwell filed his petition himself. He is now represented by a former assistant to the solicitor general.",
+          "src": "sb-maxwell"
+        }
+      ]
+    },
+    "25-352": {
+      "overview": "Jasmine Younge, a former deputy chief of staff in the Fulton County, Georgia, District Attorney's Office, sued for pregnancy discrimination under Title VII. Title VII exempts elected officials' \"personal staff,\" but the office didn't raise that exemption in its answer to her complaint. It first raised it in a summary-judgment motion, after the deadline to amend its answer had passed, and won.",
+      "question_plain": "Can a defendant win on a defense it left out of its answer, without first amending the answer?",
+      "why_it_matters": [
+        {
+          "text": "The Federal Rules say a party \"must\" plead affirmative defenses. How strictly that is enforced affects civil litigation of every kind, not just employment cases.",
+          "src": "qp-younge"
+        },
+        {
+          "text": "The DA's office concedes the omission was an inadvertent mistake. It argues that courts should ask whether the plaintiff was prejudiced, not apply automatic waiver, and that a waiver rule would impose \"potentially ruinous liability\" for an immaterial slip.",
+          "src": "resp-younge"
+        }
+      ]
+    },
+    "25-581": {
+      "overview": "Colorado's universal preschool program pays for up to 15 hours a week of free preschool at participating public and private providers, which must admit all families regardless of factors including religion, sexual orientation and gender identity. Two Catholic parishes, Catholic parents and the Archdiocese of Denver say their preschools can't accept children of same-sex couples or children who identify as transgender consistent with church teaching, so they were shut out. They point to exemptions Colorado allows for other preschools. The Tenth Circuit upheld the program under Employment Division v. Smith, which lets neutral, generally applicable laws burden religion.",
+      "question_plain": "When does a state program with some exemptions stop being \"generally applicable,\" so that excluding religious schools must meet strict scrutiny?",
+      "why_it_matters": [
+        {
+          "text": "The Court limited its review to the first two questions, declining the parishes' request to reconsider Smith itself, so the ruling will refine Smith and Carson v. Makin rather than replace them.",
+          "src": "qp-stmary"
+        },
+        {
+          "text": "LGBTQ-rights groups warn that a ruling for the parishes could let religious providers in taxpayer-funded programs turn away LGBTQ families, leaving some rural families with no preschool option.",
+          "src": "hrc-stmary"
+        },
+        {
+          "text": "Supporters of the parishes frame it as whether religious schools can join public-benefit programs without giving up their beliefs. They note that other appeals courts and state high courts have ruled differently on the same question.",
+          "src": "ds-stmary"
+        },
+        {
+          "text": "The United States is arguing in support of the parishes.",
+          "src": "sb-nov"
+        }
+      ]
+    },
+    "25-1003": {
+      "overview": "Dexter Johnson was sentenced to death in Texas for a 2006 murder. Years after his first federal habeas petition, he sought to file a second one arguing he is intellectually disabled and so cannot be executed under Atkins v. Virginia (2002). Federal law bars most second petitions unless they rely on a new rule that was \"previously unavailable.\" The Fifth Circuit let Johnson proceed, reasoning that his claim had no real chance of success until clinical standards for diagnosing intellectual disability changed in 2013. Texas appealed. (Eric Guerrero is the state prison director.)",
+      "question_plain": "Was a legal rule \"previously unavailable\" to a prisoner if he could have raised it earlier but it would have looked hopeless at the time?",
+      "why_it_matters": [
+        {
+          "text": "Texas says the Fifth Circuit's approach conflicts with the Fourth and Eleventh Circuits. Johnson's lawyers say the issue rarely matters: only two petitioners have won permission under the \"no possibility of merit\" theory in nearly 30 years.",
+          "src": "bl-guerrero"
+        },
+        {
+          "text": "The federal government, supporting Texas, says new psychiatric standards are new facts, not new law. It warns that the Fifth Circuit's view could allow fresh challenges to final death sentences whenever the diagnostic manual changes.",
+          "src": "us-guerrero"
+        }
+      ]
+    },
+    "25-417": {
+      "overview": "Kekai Watanabe, a federal prisoner in Honolulu, says he fractured his tailbone in a fight and that prison medical staff refused for years to send him to a hospital or treat him properly. He sued for damages under Bivens, the 1971 decision that lets people sue federal officers for some constitutional violations. The Ninth Circuit let his claim proceed because it resembled Carlson v. Green (1980), which allowed a Bivens suit over deadly medical neglect in prison. The government says it's a \"new context\" where courts may not create a damages remedy.",
+      "question_plain": "Can a federal prisoner sue prison staff for money over inadequate medical care, or would that be an improper expansion of Bivens?",
+      "why_it_matters": [
+        {
+          "text": "The justices have grown increasingly reluctant to extend Bivens, and this case could narrow it further or end it.",
+          "src": "sb-nov"
+        },
+        {
+          "text": "Some commentators urge the Court to overrule Bivens outright and push Congress to write a real statutory remedy. They reject the government's middle path of treating Carlson as \"moribund\" while leaving Bivens nominally alive.",
+          "src": "lawfare-bivens"
+        },
+        {
+          "text": "Critics of the Court's direction warn that the government's position would leave federal prisoners with Eighth Amendment protection only if they die. They expect the Court to side with the officials.",
+          "src": "tnr-bivens"
+        }
+      ]
+    },
+    "25-159": {
+      "overview": "In 2018 WBI Energy used the federal Natural Gas Act's eminent-domain power to take pipeline easements across ranchland in McKenzie County, North Dakota. The landowners settled on the price but sought their attorney's fees, which North Dakota law awards to landowners in condemnation cases. A district court ordered WBI to pay about $380,000. The Eighth Circuit reversed, holding that federal law governs and requires only the Fifth Amendment's constitutional minimum, which doesn't include fees.",
+      "question_plain": "When a private pipeline company takes land under federal law, does state law decide how much the landowner must be paid, including legal fees?",
+      "why_it_matters": [
+        {
+          "text": "The Third, Fifth, Sixth and Eleventh Circuits apply state compensation rules in these cases, and the Eighth Circuit openly split from them.",
+          "src": "qp-hoffmann"
+        },
+        {
+          "text": "Twelve states led by North Dakota back the landowners. WBI and the Justice Department argue that a uniform federal rule makes sense for interstate pipelines.",
+          "src": "ndm-hoffmann"
+        },
+        {
+          "text": "The landowners didn't oppose the pipeline itself. The outcome could shape landowners' costs on future projects, such as WBI's proposed Bakken East pipeline.",
+          "src": "ndm-hoffmann"
+        }
+      ]
+    },
+    "25-966": {
+      "overview": "Sun Valley Orchards, a New Jersey family farm that has since closed, hired foreign seasonal workers through the H-2A visa program. The Labor Department found violations of the program's housing, meal, transportation and pay terms, and its in-house judge ordered about $212,000 in civil penalties and $345,000 in back wages. Relying on SEC v. Jarkesy (2024), which required the SEC to bring certain fraud penalty cases before a jury, the Third Circuit held these claims belong in federal court, not an agency tribunal.",
+      "question_plain": "Can the Labor Department use its own judges to order farms to pay penalties and back wages for breaking guest-worker rules, or must it go to federal court?",
+      "why_it_matters": [
+        {
+          "text": "It is a major test of how far Jarkesy reaches into agency enforcement. H-2A workers are about one-sixth of the U.S. farm workforce, and the government says losing would strip it of a key enforcement tool.",
+          "src": "chn-sunvalley"
+        },
+        {
+          "text": "The farm's lawyers at the Institute for Justice say businesses facing fines deserve a real judge and jury, not an agency tribunal.",
+          "src": "chn-sunvalley"
+        },
+        {
+          "text": "Labor-law commentators argue that H-2A enforcement is part of immigration control, a \"public right\" that agencies can adjudicate, and note that other employers are already invoking the Third Circuit's ruling.",
+          "src": "onlabor-sunvalley"
+        }
+      ]
+    },
+    "25-183": {
+      "overview": "Two University System of Georgia employees, art professor Thomas Crowther and former Georgia Tech women's basketball coach MaChelle Joseph, sued under Title IX, which bars sex discrimination at federally funded schools. The Eleventh Circuit held that Title IX's implied right to sue covers students but not employees. It reasoned that schools accepting federal money wouldn't expect employment liability that Title VII already covers.",
+      "question_plain": "Can teachers and other school employees sue their employers for sex discrimination under Title IX?",
+      "why_it_matters": [
+        {
+          "text": "Eight circuits allow such suits. The Eleventh Circuit's ruling means the answer currently depends on where a school is located.",
+          "src": "hrdive-crowther"
+        },
+        {
+          "text": "Supporters of the employees argue that schools have long been on notice of employee suits through Cannon, North Haven and Jackson v. Birmingham Board of Education, the 2005 case that let a coach sue for retaliation.",
+          "src": "cac-crowther"
+        },
+        {
+          "text": "The Eleventh Circuit relied on the Spending Clause: funding conditions must be clear, and employees already have a remedy under Title VII.",
+          "src": "hrdive-crowther"
+        }
+      ]
+    },
+    "25-842": {
+      "overview": "Tamer Wassily came from Egypt and was granted asylum in 2000 as a Coptic Christian. After a stalking and child-endangerment conviction, his asylum was terminated. A second petitioner, Byron Velasquez Arreaga of Guatemala, lost his asylum after drunk-driving convictions. Both sought green cards under a provision letting the government adjust the status of \"any alien granted asylum.\" The immigration board and a divided Second Circuit said only people who currently hold asylum qualify.",
+      "question_plain": "Can someone whose asylum was later terminated still apply for a green card?",
+      "why_it_matters": [
+        {
+          "text": "Terminations used to be rare. The administration has announced plans to \"comprehensively re-review\" recent asylum grants (a policy a district court vacated in June 2026), so the answer could matter to many more people.",
+          "src": "sb-wassily"
+        },
+        {
+          "text": "It may be the Court's first immigration case applying Loper Bright, the 2024 decision ending Chevron deference to agencies' readings of statutes.",
+          "src": "sb-wassily"
+        },
+        {
+          "text": "The Solicitor General argues the statute's structure and a 1990 statutory note show that terminated asylees are ineligible.",
+          "src": "sb-wassily"
+        }
+      ]
+    },
+    "25-246": {
+      "overview": "Kenneth Jouppi, a bush pilot, was convicted of a misdemeanor for flying a customer's beer into an Alaska village that bans alcohol. He knew a six-pack was in a grocery bag. The state forfeited his $95,000 plane. The Alaska Supreme Court upheld the forfeiture under the Excessive Fines Clause, judging the offense by the general harm alcohol causes in rural Alaska rather than by what Jouppi himself did.",
+      "question_plain": "When judges decide whether a fine or forfeiture is excessive, do they weigh the crime in general or what this defendant actually did?",
+      "why_it_matters": [
+        {
+          "text": "Critics of the ruling note that \"the more abstract the level of inquiry, often the better the governmental interest will look,\" quoting then-Judge Gorsuch. The answer could affect fines and forfeitures nationwide, possibly including civil penalties.",
+          "src": "jd-jouppi"
+        },
+        {
+          "text": "Alaska stresses that remote villages have few police and public-health resources, and its high court called even a six-pack \"grave societal harm\" given alcohol's toll in rural communities.",
+          "src": "tnr-jouppi"
+        },
+        {
+          "text": "Matt Ford notes Jouppi was a first-time offender whose delivery never arrived, and calls the abstract approach \"bad news\" for him.",
+          "src": "tnr-jouppi"
+        }
+      ]
+    },
+    "25-238": {
+      "overview": "Cook County, Illinois, which includes Chicago, has banned more than 100 named semiautomatic rifles, including the AR-15, since 1993. Cutberto Viramontes challenges the ban. The Seventh Circuit upheld it, following its earlier ruling that AR-style rifles are not materially different from the military's M16. The Court is hearing this case together with Grant v. Higgins, a challenge to Connecticut's ban.",
+      "question_plain": "Does the Second Amendment protect a right to own AR-15s and similar semiautomatic rifles?",
+      "why_it_matters": [
+        {
+          "text": "Eleven states and D.C. ban assault weapons. In 2025 the Court turned away similar cases, with Justice Kavanaugh saying the challengers had a \"strong argument\" but that more courts should weigh in first.",
+          "src": "bl-ar15"
+        },
+        {
+          "text": "Challengers say the AR-15 is the most popular rifle in America, so it is \"in common use\" and protected under Heller.",
+          "src": "jurist-ar15"
+        },
+        {
+          "text": "Cook County and Connecticut say these guns are functionally military weapons, so banning them fits the nation's historical tradition of regulation under Bruen however popular they are.",
+          "src": "jurist-ar15"
+        },
+        {
+          "text": "Observers see Chief Justice Roberts and Justice Barrett as the likely deciding votes.",
+          "src": "bl-ar15"
+        }
+      ]
+    },
+    "25-566": {
+      "overview": "Gun owners and gun-rights groups challenge Connecticut's ban on assault weapons, which the state passed after the 2012 Sandy Hook school shooting. The Second Circuit upheld it, finding it targets \"unusually dangerous weapons\" consistent with historical regulation. This case is argued together with Viramontes v. Cook County.",
+      "question_plain": "Does the Second Amendment protect a right to own AR-15s and similar semiautomatic rifles?",
+      "why_it_matters": [
+        {
+          "text": "This is the companion to Viramontes; see that case for commentary. Together they ask the Court, for the first time in a full argument, whether the Second Amendment protects AR-15-style rifles.",
+          "src": "bl-ar15"
+        }
+      ]
+    },
+    "25-840": {
+      "overview": "Washington amended its runaway-youth law in 2023. When a minor seeking \"protected health services,\" including gender-affirming care, arrives at a licensed shelter, the shelter now contacts the state children's agency instead of the parents. The agency must try to notify parents but may withhold information if disclosure would harm the minor. A parents' group and individual parents sued. The Ninth Circuit dismissed the suit, saying their fears of future harm were too speculative to give them standing.",
+      "question_plain": "Do parents have standing to challenge a state law that limits what they learn when their child seeks gender-transition care?",
+      "why_it_matters": [
+        {
+          "text": "It is formally a standing case, but it is part of a broader set of disputes over parents' rights and children's gender identity. In March 2026 the Court sided with parents on an emergency application over a California school disclosure policy.",
+          "src": "bl-ipec"
+        },
+        {
+          "text": "Washington calls the law a modest response to transgender youth homelessness. The parents say it is designed to keep them in the dark and chills their speech with their children.",
+          "src": "bl-ipec"
+        }
+      ]
+    },
+    "25-1017": {
+      "overview": "Arizona's 2022 election laws require documentary proof of citizenship to register using the state form, and require election officials to check voter rolls and cancel registrations of people found not to be citizens, including within 90 days of an election. Voting-rights groups sued. The lower courts held that the National Voter Registration Act and a 2018 consent decree block much of the scheme. In 2024 the Supreme Court, on an emergency basis, partly let the proof-of-citizenship rule for state-form registrants take effect.",
+      "question_plain": "Does federal law stop Arizona from requiring proof of citizenship to register and from removing noncitizens from voter rolls close to an election?",
+      "why_it_matters": [
+        {
+          "text": "In 2024 the Court let Arizona require proof of citizenship for state-form registrants while the case continued. Justices Alito, Thomas and Gorsuch would have allowed more of the law to take effect.",
+          "src": "ncsl-rnc"
+        },
+        {
+          "text": "The ruling could come before the 2028 election and affect similar laws elsewhere. Proof of citizenship is also a central goal of the stalled federal SAVE America Act.",
+          "src": "azm-rnc"
+        },
+        {
+          "text": "Supporters of Arizona's laws say states must be able to verify voter eligibility. They call the Ninth Circuit's reading of the 90-day rule \"absurd\" because it could stop states from removing anyone who was never eligible.",
+          "src": "fox-rnc"
+        },
+        {
+          "text": "Voting-rights groups say documentary-proof rules fall hardest on Latino, Native American and student citizens who lack birth certificates or passports. They note the laws were passed after unproven claims of widespread noncitizen voting.",
+          "src": "azm-rnc"
+        },
+        {
+          "text": "At earlier stages of the litigation, the Brennan Center argued that the theory behind parts of the defense would weaken Congress's power over federal elections more broadly.",
+          "src": "brennan-rnc"
+        }
+      ]
+    },
+    "26-426": {
+      "overview": "The administration deports some people with final removal orders to \"third countries\" that are not their home country and are not named in their orders, including South Sudan, Eswatini, Uganda and Rwanda. A class of noncitizens challenged the DHS guidance governing those removals. A federal judge in Boston held it unlawful, requiring meaningful notice and a chance to raise fear-of-torture claims before removal. The First Circuit largely agreed. In September 2026 the Supreme Court paused that ruling, 6–3, and expedited the case.",
+      "question_plain": "Were the lower courts allowed to block the government's third-country deportation guidance, and does that guidance violate immigration law, due process or the torture convention?",
+      "why_it_matters": [
+        {
+          "text": "This returns the Court to a fight it first handled on its emergency docket in 2025, when it let removals continue over dissents from Justices Sotomayor, Kagan and Jackson.",
+          "src": "sb-dvd"
+        },
+        {
+          "text": "While the case is pending, third-country removals continue under the Court's stay.",
+          "src": "dorsey-dvd"
+        },
+        {
+          "text": "Critics of the stays argue that deportation causes irreversible harm, so the balance favored pausing removals, and they fault the Court for not explaining its emergency orders.",
+          "src": "sb-dvd"
+        },
+        {
+          "text": "The government's questions include whether the district court had jurisdiction at all and whether federal immigration law bars classwide relief of this kind.",
+          "src": "dorsey-dvd"
+        }
+      ]
+    },
+    "25-965": {
+      "overview": "Daniel Grand, an Orthodox Jewish man in University Heights, Ohio, began hosting Sabbath prayer gatherings of about 15 people at his home because the nearest Orthodox synagogue is almost a mile away. After neighbors complained, city officials told him he needed a special-use permit. Grand says officials then harassed and surveilled him. He withdrew his permit application rather than accept a condition barring residential use of the home, and sued. The Sixth Circuit said he had to finish the permit process first.",
+      "question_plain": "Must someone who says officials' threats chilled his religious practice finish a zoning permit process before suing?",
+      "why_it_matters": [
+        {
+          "text": "The Court is deciding when such a suit can be brought, not whether the city violated religious-land-use law. The answer will affect how quickly people can challenge local restrictions on worship.",
+          "src": "fwd-grand"
+        },
+        {
+          "text": "The city says it never took enforcement action because Grand abandoned his application before any final decision. Grand's lawyers say the threats themselves were the injury.",
+          "src": "fwd-grand"
+        }
+      ]
+    }
+  }
+}

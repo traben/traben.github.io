@@ -1,0 +1,4 @@
+{
+  "_comment": "Manual corrections applied after each build. Keys are docket numbers; values replace fields in data/scotus.json.",
+  "25-159": {"title": "Hoffmann v. WBI Energy Transmission, Inc."}
+}
