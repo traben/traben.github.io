@@ -31,11 +31,16 @@ non-lawyers who are about to listen to the argument. Produce three parts, modele
 1. overview: 60-110 words of plain narrative. Who the parties are, what happened, what the
    lower court(s) held. Concrete facts (places, amounts, dates) over abstractions.
 2. question_plain: ONE sentence, a plain-English question a listener could answer yes/no or pick a side on.
-3. why_it_matters: 2-4 points, each 1-2 sentences, drawn from news coverage, legal blogs, briefs and
+3. why_it_matters: 1-4 points, each 1-2 sentences, drawn from news coverage, legal blogs, briefs and
    advocacy groups found by searching. Cover scope (who else is affected, circuit splits, related
    cases), real-world stakes, and, if the case has been argued, how the justices/judges seemed to lean.
    Be even-handed: on contested issues include the strongest point from each side and attribute
    characterizations to whoever made them. Every point needs a source URL from your search results.
+
+Federal courts of appeals cases get far less coverage than Supreme Court cases. For them, also look
+for the lower-court decision being appealed (CourtListener, Justia, Casetext, Google Scholar) and local
+news. If facts can't be confirmed, keep the overview short and say what is unknown rather than guess;
+one or two well-sourced "why it matters" points are better than four thin ones.
 
 Rules: state only what the official text or a source supports; if sources disagree, say so; no
 predictions of your own; no markdown. Search before writing (SCOTUSblog, Bloomberg Law, Reuters, AP,

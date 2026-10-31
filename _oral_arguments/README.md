@@ -50,6 +50,17 @@ GitHub Action (8 a.m. + 5 p.m. ET)          GitHub Pages (static)
 2. Optional secrets (**Settings → Secrets and variables → Actions**): `ANTHROPIC_API_KEY` for AI-drafted briefs on new cases (about 5 web searches per case, a few cents each); `COURTLISTENER_TOKEN` (free) to avoid rate limits.
 3. **Actions → Update oral argument data → Run workflow** for the first refresh.
 
+## AI summaries for selected appeals cases
+
+Only the appeals cases you pick get an AI summary (Supreme Court cases all do). The list is
+`_oral_arguments/selected_cases.json`; summaries are written to `courts/oral-arguments/data/circuit_briefs.json`.
+
+**Add a case, either way:**
+1. **From the calendar.** Visit `https://traben.github.io/courts/oral-arguments/?owner=1` once in your browser to turn on owner mode (`?owner=0` turns it off; it is remembered per browser and shows nothing special to visitors). Each upcoming appeals case without a summary then shows **✦ Request AI summary**. It opens a pre-filled GitHub issue (`Summarize ca4 25-2342`); click **Submit new issue**. The *Summarize an appeals case* workflow adds the case to the list, writes the summary, commits, and closes the issue with a comment. Issues from anyone but the repo owner are ignored.
+2. **By hand.** Edit `selected_cases.json` on github.com and add `{"court": "ca4", "docket": "25-2342"}`. For a case on a calendar the site doesn't read (2nd, 9th, D.C. …) add `"title": "Case name"` too. The daily run picks it up. Or use **Actions → Summarize an appeals case → Run workflow**.
+
+To remove a summary, delete the entry from the list; the next run drops it. A summary is refreshed once after the argument so it can say how the argument went. Each one costs a few cents (up to 5 web searches plus tokens). Requires the `ANTHROPIC_API_KEY` secret.
+
 ## Run locally
 
 ```bash

@@ -52,11 +52,12 @@ excerpt: "Upcoming Supreme Court and federal appellate oral arguments: when they
       </div>
       <div class="toolbar">
         <div class="chips" id="up-filter" aria-label="Circuit"></div>
+        <label class="check"><input type="checkbox" id="up-briefs"> Only cases with AI summaries</label>
         <label class="check"><input type="checkbox" id="up-noarg"> Include cases decided without argument</label>
       </div>
       <p class="meta" id="up-meta"></p>
       <div id="up-list"></div>
-      <p class="meta">Calendars are read from the 1st, 4th, 8th, 10th, 11th and Federal Circuits. The 2nd, 3rd, 5th, 6th, 7th, 9th and D.C. Circuits don't post calendars in a form this site can read yet; use the court links below. Case names and issue statements here come from the courts' own calendars, not AI.</p>
+      <p class="meta">Calendars are read from the 1st, 4th, 8th, 10th, 11th and Federal Circuits. The 2nd, 3rd, 5th, 6th, 7th, 9th and D.C. Circuits don't post calendars in a form this site can read yet; use the court links below. Case names and issue statements come from the courts' own calendars. Selected cases also have an AI summary written by Claude, marked as such.</p>
     </div>
 
     <div id="c-recent" hidden>
@@ -82,7 +83,7 @@ excerpt: "Upcoming Supreme Court and federal appellate oral arguments: when they
   <p class="foot">Data: <a href="https://www.supremecourt.gov/oral_arguments/calendarsandlists.aspx">supremecourt.gov</a> calendars, dockets and Questions Presented;
     circuit recordings via <a href="https://www.courtlistener.com/">CourtListener</a> (Free Law Project).
     Circuit calendars come from each court's published calendar PDFs.
-    Supreme Court case overviews, plain-English questions and “Why it matters” notes are written by Claude (an AI model by Anthropic) from the linked sources and may contain errors.
+    Case overviews, plain-English questions and “Why it matters” notes (all Supreme Court cases and selected appeals cases) are written by Claude (an AI model by Anthropic) from the linked sources and may contain errors.
     The official question presented, docket and court calendars are the authoritative text. <span id="updated"></span></p>
 
   <template id="tpl-case">

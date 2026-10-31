@@ -2,6 +2,16 @@
 (() => {
   "use strict";
   const ET = "America/New_York";
+  const REPO = "traben/traben.github.io";   // where "Request AI summary" opens an issue
+
+  // Owner mode: visit the page once with ?owner=1 (or ?owner=0 to turn it off). Remembered in this browser only.
+  let owner = false;
+  try {
+    const q = new URLSearchParams(location.search).get("owner");
+    if (q === "1") localStorage.setItem("oacOwner", "1");
+    if (q === "0") localStorage.removeItem("oacOwner");
+    owner = localStorage.getItem("oacOwner") === "1";
+  } catch (e) { /* storage blocked: owner mode stays off */ }
   const $ = (s, el = document) => el.querySelector(s);
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
@@ -139,7 +149,23 @@
   }
 
   // ---------- Courts of Appeals ----------
-  let circuits = { cases: [] }, upcoming = { cases: [], courts: [] }, courts = [];
+  let circuits = { cases: [] }, upcoming = { cases: [], courts: [] }, courts = [], briefs = { briefs: {}, pending: [] };
+  const briefFor = (c) => c.docket.split(/,\s*/).map((d) => briefs.briefs[`${c.court}:${d}`]).find(Boolean);
+  const isPending = (c) => c.docket.split(/,\s*/).some((d) => (briefs.pending || []).includes(`${c.court}:${d}`));
+  function briefHTML(b) {
+    const why = (b.why_it_matters || []).map((w) =>
+      `<li>${esc(w.text)} <a class="src" href="${esc(w.source.url)}" target="_blank" rel="noopener">${esc(w.source.name)}</a></li>`).join("");
+    return `<div class="brief">
+      ${b.question_plain ? `<p class="ask">${esc(b.question_plain)}</p>` : ""}
+      <p class="summary">${esc(b.overview)}<span class="tag">· Summary written by Claude (AI)</span></p>
+      ${why ? `<div class="why"><h4>Why it matters</h4><ul>${why}</ul></div>` : ""}
+    </div>`;
+  }
+  function requestHref(c) {
+    const d = c.docket.split(/,\s*/)[0];
+    const body = `Case name: ${c.title}\n\nSubmitting this issue asks the site's GitHub Action to write an AI summary for this case (${courtShort(c.court)} No. ${c.docket}, argued ${c.date}).`;
+    return `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(`Summarize ${c.court} ${d}`)}&body=${encodeURIComponent(body)}`;
+  }
   let circuitFilter = "all", shown = 40, cView = "upcoming", cRange = "week", upFilter = "all", upShown = 60;
   const courtShort = (id) => (courts.find((c) => c.id === id) || {}).short || id;
   const dur = (s) => (s ? `${Math.round(s / 60)} min` : "");
@@ -162,11 +188,16 @@
     else if (n > 0) act += `<a class="oac-btn" href="${esc(c.links.live)}" target="_blank" rel="noopener">Live stream page</a>`;
     else act += `<span class="pending">Recording usually posted within a day</span>`;
     act += `<a class="oac-btn quiet" href="${esc(c.links.calendar)}" target="_blank" rel="noopener">Court calendar (PDF)</a>`;
+    const brief = briefFor(c);
+    if (!brief && isPending(c)) act += `<span class="pending">AI summary requested</span>`;
+    else if (!brief && owner) act += `<a class="oac-btn owner" href="${esc(requestHref(c))}" target="_blank" rel="noopener">✦ Request AI summary</a>`;
+    if (brief) row.classList.add("has-brief");
     row.innerHTML = `<div class="when"><span class="time">${esc(when)}</span><span class="local">${esc(local)}</span></div>
       <div class="body"><div class="t">${esc(c.title)}</div><div class="d">${sub}</div>
       ${c.issue ? `<p class="issue"><span class="lbl">From the court's calendar:</span> ${esc(c.issue)}</p>` : ""}
       ${c.notes ? `<p class="d">${esc(c.notes.join(" · "))}</p>` : ""}
       ${c.live_note && n >= 0 ? `<p class="d">${esc(c.live_note)}</p>` : ""}
+      ${brief ? briefHTML(brief) : ""}
       <div class="actions">${act}</div></div>`;
     return row;
   }
@@ -182,9 +213,11 @@
       if (cRange === "month" && (n < 0 || n > 30)) return false;
       if (cRange === "all" && n < 0) return false;
       if (cRange === "past" && n >= 0) return false;
+      if ($("#up-briefs").checked && !briefFor(c)) return false;
       return (upFilter === "all" || c.court === upFilter) && (withNoArg || !c.no_argument);
     });
-    if (q) list = list.filter((c) => [c.title, c.docket, c.issue, c.origin].join(" ").toLowerCase().includes(q));
+    if (q) list = list.filter((c) => { const b = briefFor(c) || {};
+      return [c.title, c.docket, c.issue, c.origin, b.overview, b.question_plain].join(" ").toLowerCase().includes(q); });
     const at = (c) => (c.time_local ? instantIn(c.date, c.time_local, c.tz).getTime() : Date.parse(c.date + "T23:59:00Z"));
     list.sort((a, b) => a.date.localeCompare(b.date) || at(a) - at(b) || a.court.localeCompare(b.court));
     if (cRange === "past") list.reverse();
@@ -215,8 +248,9 @@
       box.appendChild(more);
     }
     const covered = (upcoming.courts || []).map(courtShort).join(", ");
+    const nb = Object.keys(briefs.briefs || {}).length;
     $("#up-meta").textContent = `${list.length} argument${list.length === 1 ? "" : "s"} · calendars from ${covered || "—"} · times shown in each court's local time` +
-      (withNoArg ? "" : " · cases decided without argument hidden");
+      (withNoArg ? "" : " · cases decided without argument hidden") + (nb ? ` · ${nb} with AI summaries` : "") + (owner ? " · owner mode on" : "");
   }
 
   function renderUpChips() {
@@ -309,6 +343,7 @@
   });
   $("#up-q").addEventListener("input", () => { upShown = 60; renderUpcoming(); });
   $("#up-noarg").addEventListener("change", renderUpcoming);
+  $("#up-briefs").addEventListener("change", () => { upShown = 60; renderUpcoming(); });
   $("#circuit-filter").addEventListener("click", (e) => {
     const b = e.target.closest("button"); if (!b) return;
     circuitFilter = b.dataset.c; shown = 40; renderCircuitChips(); renderCircuits();
@@ -316,7 +351,8 @@
 
   const load = (p) => fetch(p, { cache: "no-cache" }).then((r) => (r.ok ? r.json() : Promise.reject(p)));
   Promise.allSettled([load("data/scotus.json"), load("data/circuits_recent.json"), load("data/courts.json"),
-    load("data/circuits_upcoming.json")]).then(([s, ci, co, up]) => {
+    load("data/circuits_upcoming.json"), load("data/circuit_briefs.json")]).then(([s, ci, co, up, br]) => {
+    if (br.status === "fulfilled") briefs = br.value;
     if (s.status === "fulfilled") scotus = s.value;
     if (ci.status === "fulfilled") circuits = ci.value;
     if (co.status === "fulfilled") courts = co.value.courts;

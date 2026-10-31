@@ -1,0 +1,4 @@
+{
+  "_help": "Appeals cases that get an AI summary. Add {\"court\": \"ca4\", \"docket\": \"25-2342\"}. For a case not on a calendar this site reads, also give \"title\". Remove an entry to remove its summary.",
+  "cases": []
+}
