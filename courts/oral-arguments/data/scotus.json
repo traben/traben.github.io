@@ -2,7 +2,7 @@
   "court": "scotus",
   "name": "Supreme Court of the United States",
   "term": "October Term 2026",
-  "generated_at": "2026-10-28T18:30:00-07:00",
+  "generated_at": "2026-10-30T23:29:30+00:00",
   "sources": [
     "https://www.supremecourt.gov/oral_arguments/calendarsandlists.aspx",
     "https://www.supremecourt.gov/oral_arguments/argument_audio/2026",
@@ -21,16 +21,7 @@
       "order": 1,
       "lower_court": "Supreme Court of Colorado",
       "question": "Whether federal law precludes state-law claims seeking relief for injuries allegedly caused by the effects of interstate and international greenhouse-gas emissions on the global climate. The Court also asked the parties to address whether it has jurisdiction.",
-      "summary_source": "editor",
-      "note": "Justice Alito is not participating.",
-      "argued": true,
-      "links": {
-        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-170",
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-170",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00170qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-170.html"
-      },
+      "question_full": "25-170 SUNCOR ENERGY, INC. V. COMMISSIONERS OF BOULDER COUNTY DECISION BELOW: 2025 WL 1363355 IN ADDITION TO THE QUESTION PRESENTED BY THE PETITION, THE PARTIES ARE DIRECTED TO BRIEF AND ARGUE THE FOLLOWING QUESTION: WHETHER THIS COURT HAS STATUTORY AND ARTICLE III JURISDICTION TO HEAR THIS CASE. SEPTEMBER 28 , 2026 : JUSTICE ALITO WILL NOT CONTINUE TO PARTICIPATE IN THIS CASE. CERT. GRANTED 2/23/2026 QUESTION PRESENTED: Whether federal law precludes state-law claims seeking relief for injuries allegedly caused by the effects of interstate and international greenhouse-gas emissions on the global climate. LOWER COURT CASE NUMBER: 24SA206",
       "overview": "In 2018 the City and County of Boulder, Colorado, sued Suncor Energy and ExxonMobil in state court. They seek money for the local costs of adapting to climate change, alleging under Colorado tort law that the companies' fossil-fuel products contributed to the problem and that the companies misled the public about it. The companies say climate harms from worldwide emissions are a matter for federal law and the EPA, not state juries. Colorado's courts let the suit go forward. The Supreme Court also asked whether it can hear the case at all before Colorado's courts reach a final judgment.",
       "question_plain": "Does federal law block a city or county from using state tort law to seek damages for local harm caused by global greenhouse-gas emissions?",
       "why_it_matters": [
@@ -63,7 +54,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": "Justice Alito is not participating.",
+      "argued": true,
+      "links": {
+        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-170",
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-170",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00170qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-170.html"
+      }
     },
     {
       "id": "scotus-25-735",
@@ -74,18 +75,9 @@
       "time_et": "11:00",
       "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
       "order": 2,
-      "lower_court": null,
+      "lower_court": "United States Court of Appeals for the Eleventh Circuit",
       "question": "Whether the Veterans' Judicial Review Act stripped district courts of the jurisdiction recognized in Johnson v. Robison to hear constitutional challenges to acts of Congress affecting veterans' benefits.",
-      "summary_source": "editor",
-      "note": null,
-      "argued": true,
-      "links": {
-        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-735",
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-735",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00735qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-735.html"
-      },
+      "question_full": "25-735 JOHNSON V. UNITED STATES CONGRESS DECISION BELOW: 151 F.4th 1287 CERT. GRANTED 4/6/2026 QUESTION PRESENTED: Did the Veterans' Judicial Review Act strip district courts of the jurisdiction, recognized by this Court in Johnson v. Robison , 415 U.S. 361 (1974), to hear challenges to the constitutionality of acts of Congress affecting veterans' benefits? LOWER COURT CASE NUMBER: 23-10682",
       "overview": "Floyd Johnson, a veteran, challenges a federal law that cuts disability benefits for veterans who are incarcerated for more than 60 days. He filed his constitutional challenge in federal district court in Florida. The government says the Veterans' Judicial Review Act sends all disputes about benefits through the VA's own appeals system, so the district court has no power to hear it. The lower courts agreed with the government.",
       "question_plain": "Can a veteran go straight to federal district court to argue that a veterans-benefits statute is unconstitutional, or must the challenge go through the VA's appeals process?",
       "why_it_matters": [
@@ -111,7 +103,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": true,
+      "links": {
+        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-735",
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-735",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00735qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-735.html"
+      }
     },
     {
       "id": "scotus-25-498",
@@ -124,16 +126,7 @@
       "order": 1,
       "lower_court": "United States Court of Appeals for the Ninth Circuit",
       "question": "Whether, for ERISA duty-of-prudence claims based on fund underperformance, a plaintiff must allege a \"meaningful benchmark.\"",
-      "summary_source": "editor",
-      "note": null,
-      "argued": true,
-      "links": {
-        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-498",
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-498",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00498qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-498.html"
-      },
+      "question_full": "25-498 ANDERSON V. INTEL CORP. INV. DECISION BELOW: 137 F.4th 1015 CERT. GRANTED 1/16/2026 QUESTION PRESENTED: Under the Employee Retirement Income Security Act of 1974 (ERISA), a plan fiduciary is subject to a \"[p]rudent man standard of care,\" which requires the fiduciary to \"discharge his duties with respect to a plan\" with the \"care, skill, prudence, and diligence\" that a prudent person \"acting in a like capacity and familiar with such matters would use.\" 29 U.S.C. § 1104(a) (1)). As this Court has recognized, a court's inquiry into whether a plaintiff has adequately alleged that a fiduciary breached ERISA's duty of prudence \"will necessarily be context specific\" because the content of that duty \"turns on 'the circumstances ... prevailing' at the time the fiduciary acts.\" Fifth Third Bancorp. v. Dudenhoeffer , 573 U.S. 409, 425 (2014) (quoting 29 U.S.C. § 1104(a)(1)(B)). As a result, \"categorical\" pleading rules are \"inconsistent with the context-specific inquiry that ERISA requires.\" Hughes v. Nw. Univ ., 595 U.S.170, 173 (2022). The question presented is: Whether, for claims predicated on fund underperformance, pleading that an ERISA fiduciary failed to use the requisite \"care, skill, prudence, or diligence\" under the circumstances and thus breached ERISA's duty of prudence when investing plan assets requires alleging a \"meaningful benchmark.\" LOWER COURT CASE NUMBER: 22-16268",
       "overview": "Former Intel employees say the company's retirement-plan managers imprudently put 401(k) money into the company's own target-date and diversified funds, which lagged simpler stock-and-bond funds. The Ninth Circuit dismissed the suit because the complaint didn't identify a \"meaningful benchmark\": a comparable fund that did better. The employees say ERISA's prudence standard is too context-specific for any rigid pleading rule.",
       "question_plain": "To sue over a retirement fund's poor performance, must workers point to a comparable fund that did better?",
       "why_it_matters": [
@@ -159,7 +152,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": true,
+      "links": {
+        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-498",
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-498",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00498qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-498.html"
+      }
     },
     {
       "id": "scotus-25-579",
@@ -172,16 +175,7 @@
       "order": 1,
       "lower_court": "United States Court of Appeals for the Ninth Circuit",
       "question": "(1) Whether the federal government's application to a territorial regulator to renew a RCRA hazardous-waste permit is final agency action reviewable under the APA; (2) whether NEPA review is required before submitting that application.",
-      "summary_source": "editor",
-      "note": null,
-      "argued": true,
-      "links": {
-        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-579",
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-579",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00579qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-579.html"
-      },
+      "question_full": "25-579 DEPT. OF AIR FORCE V. GUAHAN DECISION BELOW: 128 F.4th 1089 CERT. GRANTED 3/9/2026 QUESTION PRESENTED: The Resource Conservation and Recovery Act of 1976 (RCRA), 42 U.S.C. 6901 et seq ., is a comprehensive environmental statute providing for cradle-to-grave regulation of hazardous waste through a scheme of cooperative federalism. Under RCRA, the United States Environmental Protection Agency may authorize state and territorial regulators to administer permitting programs for hazardous-waste-treatment facilities in their respective jurisdictions, including facilities operated by the federal government. The questions presented are as follows: 1. Whether the federal government's submission to a state or territorial regulator of an application to renew a RCRA permit is \"final agency action\" that is immediately reviewable under the Administrative Procedure Act, 5 U.S.C. 704. 2. Whether the federal government must comply with the general environmentalreview procedures of the National Environmental Policy Act of 1969, 42 U.S.C. 4321 et seq ., before submitting a permit-renewal application under RCRA, which sets forth its own specific procedures to review environmental impacts in the context of hazardous-waste treatment. LOWER COURT CASE NUMBER: 22-16613",
       "overview": "Since 1982 the Air Force has disposed of expired bombs, rockets and other hazardous munitions by detonating them on Tarague Beach at Andersen Air Force Base in Guam, under a hazardous-waste permit that must be renewed every three years. Prutehi Guåhan, a local group, sued over the 2021 renewal application. It says the Air Force skipped the environmental review and public comment that the National Environmental Policy Act requires. A divided Ninth Circuit agreed the suit could proceed.",
       "question_plain": "Is merely applying to renew a hazardous-waste permit a final agency action that can be challenged in court, and must the military do a NEPA review before applying?",
       "why_it_matters": [
@@ -200,7 +194,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": true,
+      "links": {
+        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-579",
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-579",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00579qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-579.html"
+      }
     },
     {
       "id": "scotus-25-5343",
@@ -211,18 +215,9 @@
       "time_et": "10:00",
       "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
       "order": 1,
-      "lower_court": null,
+      "lower_court": "United States Court of Appeals for the Fifth Circuit",
       "question": "Whether Stinson v. United States (1993) still correctly states the rule for the deference courts must give the commentary to the Sentencing Guidelines.",
-      "summary_source": "editor",
-      "note": null,
-      "argued": true,
-      "links": {
-        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-5343",
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-5343",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-05343qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-5343.html"
-      },
+      "question_full": "25-5343 BEAIRD V. UNITED STATES DECISION BELOW: 2025 WL 1410410 THE MOTION OF PETITIONER FOR LEAVE TO PROCEED IN FORMA PAUPERIS IS GRANTED. THE PETITION FOR A WRIT OF CERTIORARI IS GRANTED LIMITED TO THE FOLLOWING QUESTION: WHETHER STINSON V. UNITED STATES , 508 U. S. 36 ( 1993 ), STILL CORRECTLY STATES THE RULE FOR THE DEFERENCE THAT COURTS MUST GIVE THE COMMENTARY TO THE SENTENCING GUIDELINES. Order of May 6 , 2026 ANTHONY J. DICK, ESQUIRE, OF WASHINGTON, D. C., IS INVITED TO BRIEF AND ARGUE THIS CASE, AS AMICUS CURIAE , IN SUPPORT OF THE POSITION THAT STINSON V. UNITED STATES , 508 U. S. 36 ( 1993 ), STILL CORRECTLY STATES THE RULE FOR THE DEFERENCE THAT COURTS MUST GIVE THE COMMENTARY TO THE SENTENCING GUIDELINES. CERT. GRANTED 4/20/2026 QUESTION PRESENTED: I. Whether 18 U.S.C. § 922(g)(1) comports with the Second Amendment? II. Whether Stinson v. United States still accurately state the level of deference due to the Commentary of the Federal Sentencing Guidelines? III. Whether 18 U.S.C. § 922(g) permits conviction for the possession of any firearm that has ever crossed state lines at any time in the indefinite past, and, if so, if it is facially unconstitutional? LOWER COURT CASE NUMBER: 24-10764",
       "overview": "Kendrick Beaird's sentence for a gun offense was increased under a federal Sentencing Guidelines enhancement that turned on the Sentencing Commission's official commentary. Under Stinson v. United States (1993), courts treat that commentary as binding unless it is plainly wrong. Since then, the Supreme Court has narrowed deference to agencies' readings of their own rules (Kisor, 2019) and overruled Chevron (Loper Bright, 2024). The Court took the case limited to whether Stinson still holds, and appointed a lawyer to defend it because the government doesn't fully do so.",
       "question_plain": "How much weight must judges give the Sentencing Commission's commentary on its own Guidelines?",
       "why_it_matters": [
@@ -241,7 +236,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": true,
+      "links": {
+        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-5343",
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-5343",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-05343qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-5343.html"
+      }
     },
     {
       "id": "scotus-25-459",
@@ -252,18 +257,9 @@
       "time_et": "10:00",
       "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
       "order": 1,
-      "lower_court": null,
+      "lower_court": "United States Court of Appeals for the Sixth Circuit",
       "question": "Whether \"goods or services from a video tape service provider\" in the Video Privacy Protection Act's definition of \"consumer\" means all of the provider's goods or services, or only its audiovisual ones.",
-      "summary_source": "editor",
-      "note": null,
-      "argued": true,
-      "links": {
-        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-459",
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-459",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00459qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-459.html"
-      },
+      "question_full": "25-459 SALAZAR V. PARAMOUNT GLOBAL DECISION BELOW: 133 F.4th 642 CERT. GRANTED 1/26/2026 QUESTION PRESENTED: The Video Privacy Protection Act (“ VPPA ”) contains a one-sentence liability clause. It prohibits a “ video tape service provider ” from “ knowingly disclos[ing], to any person, personally identifiable information concerning any consumer of such provider. ” 18 U.S.C. § 2710 (b)( 1 ). The statute defines “ consumer ” broadly to include a “ subscriber of goods or services from a video tape service provider. ” Id. § 2710 (a)( 1 ). It defines “ personally identifiable information ” to include information that “ identifies a person as having requested or obtained specific video materials or services from a video tape service provider. ” Id. § 2710 (a)( 3 ). And it defines “ video tape service provider ” to include those in the business of delivering audiovisual materials. Id . § 2710 (a)( 4 ). Paramount is a “ video tape service provider. ” Both courts below assumed as much. Michael Salazar subscribed to Paramount ’ s online newsletter, which he used to view videos. Paramount then disclosed Mr. Salazar ’ s Facebook ID and his video-watching history to Facebook. That information counts as “ personally identifiable information. ” Again, both courts below assumed as much. The question here is whether the phrase “ goods or services from a video tape service provider, ” as used in the VPPA ’ s definition of “ consumer, ” refers to all of a video tape service provider ’ s goods or services or only to its audiovisual goods or services. LOWER COURT CASE NUMBER: 23-5748",
       "overview": "Michael Salazar subscribed to a free email newsletter from 247Sports.com, a Paramount sports site that also hosts videos. He says Paramount used Meta's tracking pixel to share which videos he watched, along with his Facebook ID, without his consent. The 1988 Video Privacy Protection Act, passed after a reporter published Judge Robert Bork's video-rental history, protects \"consumers\" of video providers. The Sixth Circuit held that a newsletter subscriber isn't one, because the newsletter isn't video.",
       "question_plain": "Does a federal video-privacy law protect someone who subscribes to any service from a video provider, or only to its video services?",
       "why_it_matters": [
@@ -289,7 +285,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": true,
+      "links": {
+        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-459",
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-459",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00459qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-459.html"
+      }
     },
     {
       "id": "scotus-25-5930",
@@ -302,16 +308,7 @@
       "order": 1,
       "lower_court": "United States Court of Appeals for the Fifth Circuit",
       "question": "Whether a claim about applying First Step Act time credits, seeking earlier transfer to a halfway house or home confinement, can be brought in a habeas petition under 28 U.S.C. §2241.",
-      "summary_source": "editor",
-      "note": "Court-appointed amicus Brian W. Barnes argues in support of the judgment below.",
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-5930",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-05930qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-5930.html"
-      },
+      "question_full": "25-5930 MAXWELL V. THOMAS DECISION BELOW: 133 F.4th 453 QUESTION PRESENTED: In 2020 Maxwell sought transfer to halfway house or home confinement under the First Step Act of 2018, 18 U.S.C. §3624(g), 18 U.S.C. §3621(b) and §3621(h), the CARES Act of 2020, 18 U.S.C. §3624(c), the Second Chance Act of 2018 reauthorized by the First Step Act of 2018, 34 U.S.C. §60541, and Compassionate Release. The Warden only addressed Maxwell's CARES Act request and denied relief. The warden otherwise ignored all Maxwell's other explicitly pled issues. Maxwell, after exhausting his administrative remedies proceeded in Court, filing a §2241 habeas. The U.S.D.C. dismissed alleging Maxwell failed to exhaust his administrative remedies for First Step Act relief. Maxwell appealed the decision of the U.S.D.C. to the Fifth Circuit. Sua sponte , the Fifth Circuit held, contrary to this Court ’ s decision in Jones v. Hendrix , 216 L.Ed.2d 471, 484 (2022), and contrary to nine other Courts of Appeal -- see Woodall v. Fed. Bureau of Prisons , 432 F.3d 235, 241 (3d Cir. 2025); Jiminian v. Nash , 245 F.3d 144, 147 (2d Cir. 2001); Hernandez v, Campbell , 204 F.3d 861, 864 (9th Cir. 2000); United States v. Hutchins , 835 F.2d 185, 186 (8th Cir, 1987); Montez v. McKinna , 208 F.3d 862, 865 (10th Cir. 2000); United States v. Little , 392 F.3d 671, 678- 79 (4th Cir. 2024); McCarthan v. Dir. of Goodwill Indus. Suncoast , 851 F.3d 1076, 1092-93 (11th Cir. 2007) ( en banc ); United States v. Barrett , 178 F.3d 34, 50 n.10 (1st Cir. 1999); and Valona v. United States , 138 F.3d 693, 694 (7th Cir. 1998) --that its bright-line rule adopted in Melot v. Bergomi , 970 F.3d 596, 599 (5th Cir. 2020) controlled. There the Fifth Circuit held that unless a favorable determination of the prisoner's claim would not automatically entitle him to accelerated release from his sentence, then the proper vehicle is a civil rights suit. The Fifth Circuit dismissed. I. The question for this Court is whether disputes regarding the calculation of an inmate's earned First Step Act time credits, enabling the inmate to transfer into halfway house or home confinement earlier, similar to parole, are actionable under 28 U.S.C. §2241, II. The question for this Court is whether, given all the obstruction of the administrative remedy process that took place in this case, under Perttu v. Richards , exhaustion of administrative remedies is interwoven into the underlying claims themselves, creating a fact issue for a jury, and whether the trial court must make that determination in the first instance LOWER COURT CASE NUMBER: 23-40699 THE PETITION FOR A WRIT OF CERTIORARI IS GRANTED LIMITED TO THE FOLLOWING QUESTION: WHETHER A CLAIM REGARDING APPLICATION OF TIME CREDITS UNDER THE FIRST STEP ACT OF 2018 , 132 STAT. 5195 – 5208 (CODIFIED IN RELEVANT PART AT 18 U. S. C. §§ 3631 – 3635 ), SEEKING ACCELERATED TRANSFER TO A HALFWAY HOUSE OR HOME CONFINEMENT, CAN BE BROUGHT IN A HABEAS PETITION UNDER 28 U. S. C. § 2241 . ORDER OF June 16 , 2026 : BRIAN W. BARNES, ESQUIRE, OF WASHINGTON, D. C., IS INVITED TO BRIEF AND ARGUE THIS CASE, AS AMICUS CURIAE, IN SUPPORT OF THE JUDGMENT BELOW. CERT. GRANTED 6/1/2026",
       "overview": "William Maxwell is serving 20 years for his role in a scheme to take over and loot a Texas mortgage company. He says the Bureau of Prisons failed to apply time credits he earned under the First Step Act, the 2018 criminal-justice law, which would have moved him earlier to a halfway house or home confinement. He filed a habeas petition without a lawyer. The Fifth Circuit held he had to bring a civil-rights suit instead, because winning wouldn't automatically shorten his sentence.",
       "question_plain": "Can a federal prisoner use a habeas petition to challenge how the Bureau of Prisons applied First Step Act credits that would move him out of prison sooner?",
       "why_it_matters": [
@@ -337,7 +334,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": "Court-appointed amicus Brian W. Barnes argues in support of the judgment below.",
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-5930",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-05930qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-5930.html"
+      }
     },
     {
       "id": "scotus-25-352",
@@ -348,18 +355,9 @@
       "time_et": "11:00",
       "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
       "order": 2,
-      "lower_court": null,
+      "lower_court": "United States Court of Appeals for the Eleventh Circuit",
       "question": "Where a defendant's answer omitted an affirmative defense, may it still raise that defense on summary judgment without amending its answer — even if amendment would be barred by Rule 16(b)(4)?",
-      "summary_source": "editor",
-      "note": null,
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-352",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00352qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-352.html"
-      },
+      "question_full": "25-352 YOUNGE V. FULTON JUDICIAL CIRC. DIST. ATTORNEY'S OFFICE DECISION BELOW: 2025 WL 974309 CERT. GRANTED 3/30/2026 QUESTION PRESENTED: Rule 8(c)(1) of the Federal Rules of Civil Procedure provides that a party \"must\" plead \"any\" affirmative defense. The question presented is: Where a defendant has filed an answer without pleading an affirmative defense, may the defendant nonetheless assert that affirmative defense as the basis for a summary judgment motion, without amending or seeking to amend its answer to plead that affirmative defense, and may a defendant do so even if an amendment adding that affirmative defense would be barred by Rule 16(b)(4)? LOWER COURT CASE NUMBER: 23-11418",
       "overview": "Jasmine Younge, a former deputy chief of staff in the Fulton County, Georgia, District Attorney's Office, sued for pregnancy discrimination under Title VII. Title VII exempts elected officials' \"personal staff,\" but the office didn't raise that exemption in its answer to her complaint. It first raised it in a summary-judgment motion, after the deadline to amend its answer had passed, and won.",
       "question_plain": "Can a defendant win on a defense it left out of its answer, without first amending the answer?",
       "why_it_matters": [
@@ -378,7 +376,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-352",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00352qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-352.html"
+      }
     },
     {
       "id": "scotus-25-581",
@@ -391,16 +399,7 @@
       "order": 1,
       "lower_court": "United States Court of Appeals for the Tenth Circuit",
       "question": "(1) Whether proving a law is not generally applicable under Employment Division v. Smith requires unfettered discretion or categorical exemptions for identical secular conduct; (2) whether Carson v. Makin displaces Smith only when the government explicitly excludes religious people and institutions.",
-      "summary_source": "editor",
-      "note": "The United States argues as amicus in support of the petitioners.",
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-581",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00581qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-581.html"
-      },
+      "question_full": "25-581 ST. MARY CATHOLIC PARISH V. ROY DECISION BELOW: 154 F.4th 752 THE PETITION FOR A WRIT OF CERTIORARI IS GRANTED LIMITED TO QUESTIONS 1 AND 2 PRESENTED BY THE PETITION. CERT. GRANTED 4/20/2026 QUESTION PRESENTED: Colorado's so-called universal preschool program pays for families to send their children to the preschool of their choice, public or private. To participate, preschools must ensure all families have an \"equal opportunity\" to enroll regardless of, inter alia , race, religious affiliation, sexual orientation, gender identity, income level, or disability. Colorado nonetheless permits numerous exemptions from this requirement, both categorical and discretionary, allowing preschools to admit only \"children of color,\" \"gender-nonconforming children,\" \"the LGBTQ community,\" low-income families, and children with disabilities. But Colorado excludes Catholic preschools because they admit only families who support Catholic beliefs, including on sex and gender. The Tenth Circuit upheld Colorado's decision to exclude Catholic preschools. Applying Employment Division v. Smith , it held that Colorado's secular exemptions and discretion did not undermine general applicability. In so doing, the court sided with the minority position in an entrenched and acknowledged 7 -4 split over what kinds of exemptions and discretion undermine general applicability. The court also eschewed Carson v. Makin , concluding that its rule was inapplicable because Colorado's exclusion was not \"on the explicit basis\" of religion. The questions presented are: 1. Whether proving a lack of general applicability under Employment Division v. Smith requires showing unfettered discretion or categorical exemptions for identical secular conduct. 2. Whether Carson v. Makin displaces the rule of Employment Division v. Smith only when the government explicitly excludes religious people and institutions. 3. Whether Employment Division v. Smith should be overruled LOWER COURT CASE NUMBER: 24-1267",
       "overview": "Colorado's universal preschool program pays for up to 15 hours a week of free preschool at participating public and private providers, which must admit all families regardless of factors including religion, sexual orientation and gender identity. Two Catholic parishes, Catholic parents and the Archdiocese of Denver say their preschools can't accept children of same-sex couples or children who identify as transgender consistent with church teaching, so they were shut out. They point to exemptions Colorado allows for other preschools. The Tenth Circuit upheld the program under Employment Division v. Smith, which lets neutral, generally applicable laws burden religion.",
       "question_plain": "When does a state program with some exemptions stop being \"generally applicable,\" so that excluding religious schools must meet strict scrutiny?",
       "why_it_matters": [
@@ -433,7 +432,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": "The United States argues as amicus in support of the petitioners.",
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-581",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00581qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-581.html"
+      }
     },
     {
       "id": "scotus-25-1003",
@@ -446,16 +455,7 @@
       "order": 1,
       "lower_court": "United States Court of Appeals for the Fifth Circuit",
       "question": "Whether a claim relies on a new retroactive constitutional rule that was \"previously unavailable\" under AEDPA when the petitioner could have raised a claim based on the rule in an earlier federal habeas petition.",
-      "summary_source": "editor",
-      "note": null,
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-1003",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-01003qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1003.html"
-      },
+      "question_full": "25-1003 GUERRERO V. JOHNSON DECISION BELOW: 23-70002 CERT. GRANTED 6/15/2026 QUESTION PRESENTED: The Anti-Terrorism and Effective Death Penalty Act of 1996 (AEDPA) prohibits successive habeas applications by state prisoners with only narrow exceptions, including for claims that \"rel[y] on a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable.\" 28 U.S.C. § 2244(b)(2)(A). Near-identical language allows federal prisoners to file a successive habeas motion that contains \"a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable.\" Id. § 2255(h)(2). The courts of appeals are divided over whether claims rely on \"a new rule ... that was previously unavailable\" when a claim based on the rule could have been raised in an earlier federal habeas petition but would not have succeeded. The Eleventh and Fourth Circuits hold that whether a claim would have been meritorious does not affect whether the rule was previously available. In the decision below, the Fifth Circuit adhered to its view (and that of the Ninth Circuit) that a claim was previously available only if it had \"some possibility of merit\" based on the evidence available to the petitioner at the time of an earlier petition. The question presented is: Whether a claim relies on a \"a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable\" when the habeas petitioner could have asserted a claim based on the rule in a prior federal habeas petition. LOWER COURT CASE NUMBER: 23-70002",
       "overview": "Dexter Johnson was sentenced to death in Texas for a 2006 murder. Years after his first federal habeas petition, he sought to file a second one arguing he is intellectually disabled and so cannot be executed under Atkins v. Virginia (2002). Federal law bars most second petitions unless they rely on a new rule that was \"previously unavailable.\" The Fifth Circuit let Johnson proceed, reasoning that his claim had no real chance of success until clinical standards for diagnosing intellectual disability changed in 2013. Texas appealed. (Eric Guerrero is the state prison director.)",
       "question_plain": "Was a legal rule \"previously unavailable\" to a prisoner if he could have raised it earlier but it would have looked hopeless at the time?",
       "why_it_matters": [
@@ -474,7 +474,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-1003",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-01003qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1003.html"
+      }
     },
     {
       "id": "scotus-25-417",
@@ -487,16 +497,7 @@
       "order": 1,
       "lower_court": "United States Court of Appeals for the Ninth Circuit",
       "question": "Whether the Ninth Circuit erred in recognizing a Bivens cause of action for a federal prisoner's claim of inadequate medical care.",
-      "summary_source": "editor",
-      "note": null,
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-417",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00417qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-417.html"
-      },
+      "question_full": "25-417 NIELSEN V. WATANABE DECISION BELOW: 115 F.4th 1034 CERT. GRANTED 6/22/2026 QUESTION PRESENTED: This case concerns the judicially created damages remedy first recognized in Bivens v. Six Unknown Named Agents of Federal Bureau of Narcotics , 403 U.S. 388 (1971). In Carlson v. Green , 446 U.S. 14 (1980), the Court extended Bivens to an Eighth Amendment claim of deliberate indifference to medical needs where prison officials failed to address an inmate's acute asthma attack and exacerbated it, causing his death on-site within hours. Since then, this Court has emphasized that the creation of damages actions rests with Congress, not courts. The judicially created Bivens remedy thus cannot be ex-tended to any \"new Bivens context\" if any \"special factor counsel[s] hesitation\" in doing so. Ziglar v. Abbasi , 582 U.S. 120, 139-140 (2017). \"[T]he new-context inquiry is easily satisfied,\" encompassing cases with '\"meaningful[ly]\"' different facts, or \"'potential special factors' \"-including \"alternative remedial structures\"-\" 'not consider[ed]\"' in the Court's prior cases. Egbert v. Boule , 596 U.S. 482, 492-493 (2022). \"[A] court may not recognize a Bivens remedy\" if \"there is any reason to think that Congress might be better equipped to create a damages remedy.\" Id . at 492. In this case, respondent alleged that he suffered a fractured coccyx in a prison gang fight, causing chronic pain, but was not sent to a hospital. The Ninth Circuit held the suit did not present a \"new\" context from Carlson -not-withstanding an alternative remedial scheme this Court did not consider in Carlson , and despite significant factual differences such as the immediacy and severity of the harm alleged. The question presented is: Whether the Ninth Circuit here erred in recognizing a Bivens cause of action. LOWER COURT CASE NUMBER: 23-15605",
       "overview": "Kekai Watanabe, a federal prisoner in Honolulu, says he fractured his tailbone in a fight and that prison medical staff refused for years to send him to a hospital or treat him properly. He sued for damages under Bivens, the 1971 decision that lets people sue federal officers for some constitutional violations. The Ninth Circuit let his claim proceed because it resembled Carlson v. Green (1980), which allowed a Bivens suit over deadly medical neglect in prison. The government says it's a \"new context\" where courts may not create a damages remedy.",
       "question_plain": "Can a federal prisoner sue prison staff for money over inadequate medical care, or would that be an improper expansion of Bivens?",
       "why_it_matters": [
@@ -522,7 +523,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-417",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00417qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-417.html"
+      }
     },
     {
       "id": "scotus-25-159",
@@ -535,16 +546,7 @@
       "order": 2,
       "lower_court": "United States Court of Appeals for the Eighth Circuit",
       "question": "In private condemnations under the Natural Gas Act, should just compensation be determined by reference to state law?",
-      "summary_source": "editor",
-      "note": null,
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-159",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00159qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-159.html"
-      },
+      "question_full": "25-159 HOFFMAN V. WBI ENERGY TRANSMISSION, INC. DECISION BELOW: 132 F.4th 1058 CERT. GRANTED 6/29/2026 QUESTION PRESENTED: The Natural Gas Act authorizes private companies to condemn land in order to build certain natural gas infrastructure, but it says nothing about how to determine the amount of just compensation owed for the property taken. 15 U.S.C. § 717f. The Third, Fifth, Sixth, and Eleventh Circuits have all held that compensation awards in private condemnations under the Natural Gas Act must therefore be determined by reference to state law, which often mandates higher compensation than the floor set by the Fifth Amendment. In this case, the Eighth Circuit expressly split with its sister circuits and instead held that the Natural Gas Act permits only the constitutional minimum of compensation required by the Fifth Amendment. The question presented is: In private condemnations under the Natural Gas Act, should just compensation be determined by reference to state law? LOWER COURT CASE NUMBER: 24-1693",
       "overview": "In 2018 WBI Energy used the federal Natural Gas Act's eminent-domain power to take pipeline easements across ranchland in McKenzie County, North Dakota. The landowners settled on the price but sought their attorney's fees, which North Dakota law awards to landowners in condemnation cases. A district court ordered WBI to pay about $380,000. The Eighth Circuit reversed, holding that federal law governs and requires only the Fifth Amendment's constitutional minimum, which doesn't include fees.",
       "question_plain": "When a private pipeline company takes land under federal law, does state law decide how much the landowner must be paid, including legal fees?",
       "why_it_matters": [
@@ -570,7 +572,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-159",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00159qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-159.html"
+      }
     },
     {
       "id": "scotus-25-966",
@@ -581,18 +593,9 @@
       "time_et": "10:00",
       "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
       "order": 1,
-      "lower_court": null,
+      "lower_court": "United States Court of Appeals for the Third Circuit",
       "question": "(1) Whether Article III precludes the Department of Labor from adjudicating proceedings to collect monetary remedies from employers that allegedly violated H-2A worker protections; (2) whether 8 U.S.C. §1188(g)(2) authorizes it to do so.",
-      "summary_source": "editor",
-      "note": null,
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-966",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00966qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-966.html"
-      },
+      "question_full": "25-966 DEPARTMENT OF LABOR V. SUN VALLEY ORCHARDS, LLC DECISION BELOW: 148 F.4th 121 THE PETITION FOR A WRIT OF CERTIORARI IS GRANTED LIMITED TO THE FOLLOWING QUESTIONS: 1) WHETHER ARTICLE III OF THE CONSTITUTION PRECLUDES THE DEPARTMENT OF LABOR FROM ADJUDICATING PROCEEDINGS TO COLLECT MONETARY REMEDIES FROM EMPLOYERS WHO HAVE ALLEGEDLY VIOLATED THE TERMS AND CONDITIONS OF EMPLOYMENT OF H-2A WORKERS AND DOMESTIC WORKERS IN CORRESPONDING EMPLOYMENT. 2) WHETHER 8 U. S. C. §1188(g)(2) AUTHORIZES THE DEPARTMENT OF LABOR TO ADJUDICATE PROCEEDINGS TO COLLECT MONETARY REMEDIES FROM EMPLOYERS WHO HAVE ALLEGEDLY VIOLATED THE TERMS AND CONDITIONS OF EMPLOYMENT OF H-2A WORKERS AND DOMESTIC WORKERS IN CORRESPONDING EMPLOYMENT. CERT. GRANTED 4/27/2026 QUESTION PRESENTED: The H2 A visa program grants U.S. employers the privilege of \"import[ing]\" foreign aliens into the United States for temporary agricultural work under special visas. 8 U.S.C. 1188 (a)( 1 ). As a condition of granting petitions to import foreign workers, federal law requires an employer to agree to comply with statutory and regulatory requirements governing workers' living and working conditions. Congress has authorized the Secretary of Labor to impose monetary remedies to assure employer compliance with those \"terms and conditions.\" 8 U.S.C. 1188 (g)( 2 ). The question presented is: Whether Article III of the Constitution precludes Congress from assigning to the Secretary of Labor the initial adjudication of proceedings to collect monetary remedies from employers who violate the terms and conditions of participating in the H2 A visa program. LOWER COURT CASE NUMBER: 23-2608",
       "overview": "Sun Valley Orchards, a New Jersey family farm that has since closed, hired foreign seasonal workers through the H-2A visa program. The Labor Department found violations of the program's housing, meal, transportation and pay terms, and its in-house judge ordered about $212,000 in civil penalties and $345,000 in back wages. Relying on SEC v. Jarkesy (2024), which required the SEC to bring certain fraud penalty cases before a jury, the Third Circuit held these claims belong in federal court, not an agency tribunal.",
       "question_plain": "Can the Labor Department use its own judges to order farms to pay penalties and back wages for breaking guest-worker rules, or must it go to federal court?",
       "why_it_matters": [
@@ -618,7 +621,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-966",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00966qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-966.html"
+      }
     },
     {
       "id": "scotus-25-183",
@@ -631,16 +644,7 @@
       "order": 1,
       "lower_court": "United States Court of Appeals for the Eleventh Circuit",
       "question": "Whether Title IX provides employees of federally funded educational institutions a private right of action to sue for sex discrimination in employment.",
-      "summary_source": "editor",
-      "note": null,
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-183",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00183qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-183.html"
-      },
+      "question_full": "25-183 CROWTHER V. BOARD OF REGENTS OF THE UNIVERSITY SYSTEM OF GEORGIA DECISION BELOW: 121 F.4th 855 CERT. GRANTED 5/18/2026 QUESTION PRESENTED: Title IX of the Education Amendments of 1972 prohibits federally funded educational institutions from discriminating \"on the basis of sex.\" In Cannon v. University of Chicago , 441 U.S. 677 (1979), this Court held that Title IX is privately enforceable by \"victims of discrimination\" through an implied right of action. And in Jackson v. Birmingham Board of Education , 544 U.S. 167 (2005), this Court held that employees of federally funded educational institutions may invoke Title IX's implied private right of action to bring claims for retaliation. Following Jackson , and until the decision below, \"every ... circuit[] that has considered whether a teacher may sue under Title IX\" for sex discrimination in their employment \"has found they may.\" Pet App. 124a (Rosenbaum, J., dissenting from denial of rehearing en banc ). Splitting with eight courts of appeals, the Eleventh Circuit held in the decision below that Title IX \"do[es] not embrace a private right of action for employees.\" Pet. App. 21a. In so holding, the Eleventh Circuit joined preJackson decisions from the Fifth and Seventh Circuits in an 8-3 split. The question presented is: Whether Title IX provides employees of federally funded educational institutions a private right of action to sue for sex discrimination in employment. LOWER COURT CASE NUMBER: 23-12475, 23-11037",
       "overview": "Two University System of Georgia employees, art professor Thomas Crowther and former Georgia Tech women's basketball coach MaChelle Joseph, sued under Title IX, which bars sex discrimination at federally funded schools. The Eleventh Circuit held that Title IX's implied right to sue covers students but not employees. It reasoned that schools accepting federal money wouldn't expect employment liability that Title VII already covers.",
       "question_plain": "Can teachers and other school employees sue their employers for sex discrimination under Title IX?",
       "why_it_matters": [
@@ -666,7 +670,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-183",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00183qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-183.html"
+      }
     },
     {
       "id": "scotus-25-842",
@@ -677,18 +691,9 @@
       "time_et": "11:00",
       "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
       "order": 2,
-      "lower_court": null,
+      "lower_court": "United States Court of Appeals for the Second Circuit",
       "question": "Whether noncitizens who were granted asylum, but whose asylum was later terminated, are eligible to adjust to lawful permanent resident status under 8 U.S.C. §1159(b).",
-      "summary_source": "editor",
-      "note": null,
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-842",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00842qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-842.html"
-      },
+      "question_full": "25-842 WASSILY V. BLANCHE DECISION BELOW: 150 F.4th 100 CERT. GRANTED 6/29/2026 QUESTION PRESENTED: The asylum laws offer protection against removal for certain noncitizens in this country who suffered past persecution or reasonably fear future persecution in their country of nationality. For those “ granted asylum, ” the immigration laws also provide a pathway to obtain lawful permanent resident (LPR) status. Under 8 U.S.C. § 1159(b), the government \"may adjust to the status of an alien lawfully admitted for permanent residence the status of any alien granted asylum,\" if certain statutory criteria are satisfied. The question presented is: Whether noncitizens who were \"granted asylum,\" but whose asylum was later terminated, are eligible for adjustment to LPR status under Section 1159(b) (as the Fifth Circuit held), or are categorically ineligible (as the Second and Fourth Circuits held)? LOWER COURT CASE NUMBER: 22-6247, 23-6289",
       "overview": "Tamer Wassily came from Egypt and was granted asylum in 2000 as a Coptic Christian. After a stalking and child-endangerment conviction, his asylum was terminated. A second petitioner, Byron Velasquez Arreaga of Guatemala, lost his asylum after drunk-driving convictions. Both sought green cards under a provision letting the government adjust the status of \"any alien granted asylum.\" The immigration board and a divided Second Circuit said only people who currently hold asylum qualify.",
       "question_plain": "Can someone whose asylum was later terminated still apply for a green card?",
       "why_it_matters": [
@@ -714,7 +719,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-842",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00842qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-842.html"
+      }
     },
     {
       "id": "scotus-25-246",
@@ -727,16 +742,7 @@
       "order": 1,
       "lower_court": "Supreme Court of Alaska",
       "question": "In deciding whether a fine violates the Excessive Fines Clause, may courts consider the gravity of the underlying offense purely in the abstract, or must they consider the specific defendant's wrongdoing?",
-      "summary_source": "editor",
-      "note": null,
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-246",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00246qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-246.html"
-      },
+      "question_full": "25-246 JOUPPI V. ALASKA DECISION BELOW: 566 P.3d 943 CERT. GRANTED 7/20/2026 QUESTION PRESENTED: The \"touchstone of the constitutional inquiry under the Excessive Fines Clause\" is that the amount of the fine \"must bear some relationship to the gravity of the offense that it is designed to punish.\" United States v. Bajakajian , 524 U.S. 321,334 (1998). Below, the Alaska Supreme Court upheld the forfeiture of petitioner's $95,000 airplane because, the court reasoned, petitioner knew that one of his passenger's grocery bags contained a sixpack of Budweiser. In so holding, the court captured vividly a lower-court conflict over the standard for evaluating the gravity of a property owner's offense under the Excessive Fines Clause. Aligning with the Eleventh Circuit, the Alaska Supreme Court examined the gravity of the defendant's offense at a stratospheric level of abstraction. Meanwhile, the federal circuit in which Alaska sits-in line with many other state and federal courts-holds that \"[i]t is critical\" to \"review the specific actions of the violator rather than by taking an abstract view of the violation.\" The question presented is whether, in determining whether a fine contravenes the Excessive Fines Clause, courts may consider the gravity of the underlying offense purely in the abstract or should consider the gravity of the specific defendant's wrongdoing. LOWER COURT CASE NUMBER: S-18598, S-18637",
       "overview": "Kenneth Jouppi, a bush pilot, was convicted of a misdemeanor for flying a customer's beer into an Alaska village that bans alcohol. He knew a six-pack was in a grocery bag. The state forfeited his $95,000 plane. The Alaska Supreme Court upheld the forfeiture under the Excessive Fines Clause, judging the offense by the general harm alcohol causes in rural Alaska rather than by what Jouppi himself did.",
       "question_plain": "When judges decide whether a fine or forfeiture is excessive, do they weigh the crime in general or what this defendant actually did?",
       "why_it_matters": [
@@ -762,7 +768,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-246",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00246qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-246.html"
+      }
     },
     {
       "id": "scotus-25-238",
@@ -775,16 +791,7 @@
       "order": 1,
       "lower_court": "United States Court of Appeals for the Seventh Circuit",
       "question": "Whether the Second and Fourteenth Amendments guarantee the right to possess AR-15 platform and similar semiautomatic rifles.",
-      "summary_source": "editor",
-      "note": "Consolidated with 25-566 (Grant v. Higgins) for one hour of argument.",
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-238",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00238qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-238.html"
-      },
+      "question_full": "25-238 VIRAMONTES V. COOK COUNTY, IL DECISION BELOW: 2025 WL 1553896 PETITIONS GRANTED AS TO THE QUESTION PRESENTED BY THE PETITION IN NO. 25-238. CONSOLIDATED WITH 25-566 FOR ONE HOUR ORAL ARGUMENT. CERT. GRANTED 6/30/2026 QUESTION PRESENTED: Whether the Second and Fourteenth Amendments guarantee the right to possess AR-15 platform and similar semiautomatic rifles. LOWER COURT CASE NUMBER: 24-1437",
       "overview": "Cook County, Illinois, which includes Chicago, has banned more than 100 named semiautomatic rifles, including the AR-15, since 1993. Cutberto Viramontes challenges the ban. The Seventh Circuit upheld it, following its earlier ruling that AR-style rifles are not materially different from the military's M16. The Court is hearing this case together with Grant v. Higgins, a challenge to Connecticut's ban.",
       "question_plain": "Does the Second Amendment protect a right to own AR-15s and similar semiautomatic rifles?",
       "why_it_matters": [
@@ -817,7 +824,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": "Consolidated with 25-566 (Grant v. Higgins) for one hour of argument.",
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-238",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00238qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-238.html"
+      }
     },
     {
       "id": "scotus-25-566",
@@ -828,18 +845,9 @@
       "time_et": "10:00",
       "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
       "order": 1,
-      "lower_court": null,
+      "lower_court": "United States Court of Appeals for the Second Circuit",
       "question": "Whether the Second and Fourteenth Amendments guarantee the right to possess AR-15 platform and similar semiautomatic rifles.",
-      "summary_source": "editor",
-      "note": "Consolidated with 25-238 (Viramontes v. Cook County) for one hour of argument.",
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-566",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00566qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-566.html"
-      },
+      "question_full": "25-566 GRANT V. HIGGINS DECISION BELOW: 153 F.4th 213 PETITIONS GRANTED AS TO THE QUESTION PRESENTED BY THE PETITION IN NO. 25-238. CONSOLIDATED WITH 25-238 FOR ONE HOUR ORAL ARGUMENT. CERT. GRANTED 6/30/2026 QUESTION PRESENTED: Whether the Second and Fourteenth Amendments to the United States Constitution guarantee the right to possess semiautomatic rifles that are in common use for lawful purposes, including the most popular rifle in the country, the AR-15. LOWER COURT CASE NUMBER: 23-1344",
       "overview": "Gun owners and gun-rights groups challenge Connecticut's ban on assault weapons, which the state passed after the 2012 Sandy Hook school shooting. The Second Circuit upheld it, finding it targets \"unusually dangerous weapons\" consistent with historical regulation. This case is argued together with Viramontes v. Cook County.",
       "question_plain": "Does the Second Amendment protect a right to own AR-15s and similar semiautomatic rifles?",
       "why_it_matters": [
@@ -851,7 +859,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": "Consolidated with 25-238 (Viramontes v. Cook County) for one hour of argument.",
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-566",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00566qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-566.html"
+      }
     },
     {
       "id": "scotus-25-840",
@@ -864,16 +882,7 @@
       "order": 1,
       "lower_court": "United States Court of Appeals for the Ninth Circuit",
       "question": "Whether parents have standing to challenge a law or policy that displaces their decision-making role as to their children's gender transitions.",
-      "summary_source": "editor",
-      "note": null,
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-840",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00840qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-840.html"
-      },
+      "question_full": "25-840 INTERNATIONAL PARTNERS FOR ETHICAL CARE, INC. V. FERGUSON DECISION BELOW: 146 F.4th 841 CERT. GRANTED 6/29/2026 QUESTION PRESENTED: The \"interest of parents in the care, custody, and control of their children □ is perhaps the oldest of the fundamental liberty interests recognized by this Court.\" Troxel v. Granville , 530 U.S. 57, 65 (2000). But that right is mere rhetoric if federal judges bar parents from court via a miserly interpretation of standing doctrine-a question, as three Justices recently recognized, that is of \"great and growing national importance.\" Lee v. Poudre Sch. Dist. R-1 , 607 U.S. --, 2025 WL 2906469, *1 (2025) (Alita, J., statement) (citation omitted). It is certainly important to Petitioners, who are parents of gender-confused children (including one child who previously ran away) and who do not wish to affirm that confusion. They challenged Washington laws designed to give runaway minors \"gender affirming treatment\" without parental notice or consent. But despite their being the challenged laws' target, and despite their alleging specific current harms and a substantial risk of specific future harms to their ability to parent, the Ninth Circuit held that Petitioners lacked Article III standing. The question presented is: Whether parents have standing to challenge a law or policy that deliberately displaces their decision-making role as to \"gender transitions\" of their children, and in so doing creates present and likely future impediments to their ability to parent their children as they deem best for them. LOWER COURT CASE NUMBER: 24-3661",
       "overview": "Washington amended its runaway-youth law in 2023. When a minor seeking \"protected health services,\" including gender-affirming care, arrives at a licensed shelter, the shelter now contacts the state children's agency instead of the parents. The agency must try to notify parents but may withhold information if disclosure would harm the minor. A parents' group and individual parents sued. The Ninth Circuit dismissed the suit, saying their fears of future harm were too speculative to give them standing.",
       "question_plain": "Do parents have standing to challenge a state law that limits what they learn when their child seeks gender-transition care?",
       "why_it_matters": [
@@ -892,7 +901,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-840",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00840qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-840.html"
+      }
     },
     {
       "id": "scotus-25-1017",
@@ -905,16 +924,7 @@
       "order": 1,
       "lower_court": "United States Court of Appeals for the Ninth Circuit",
       "question": "(1) Does the National Voter Registration Act or a federal consent decree bar Arizona from requiring proof of citizenship from applicants using the state registration form? (2) Does the NVRA bar Arizona from canceling non-citizens' registrations within 90 days of a federal election?",
-      "summary_source": "editor",
-      "note": null,
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-1017",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-01017qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1017.html"
-      },
+      "question_full": "25-1017 REPUBLICAN NATIONAL COMMITTEE V. MI FAMILIA VOTA DECISION BELOW: 129 F.4th 691 CERT. GRANTED 6/29/2026 QUESTION PRESENTED: Like every other State, Arizona permits only United States citizens to vote in federal elections. To enforce that qualification, Arizona requires every applicant who registers to vote to produce \"satisfactory evidence of citizenship.\" Ariz. Rev. Stat. §16-121.01(C). If election officials obtain \"information\" from periodic inspections of Arizona's voter rolls that \"confirms\" a \"person registered is not a United States citizen,\" they \"cancel the registration.\" Id . §16-165(A) (10). The Ninth Circuit held that the National Voter Registration Act-52 U.S.C. §§20506(a)(6) (A)(ii), 20508(b)(1), 20507(c)(2)(a)-preempts those provisions of Arizona law. It also held that Arizona cannot require voter-registration applicants to produce proof of citizenship because in 2018, a previous Arizona Secretary of State entered a consent decree with private litigants. This Court has granted an emergency stay on each issue: One in this case and one in a Fourth Circuit case. The RNC raises both questions here on the merits. The questions presented are: (1) Does the National Voter Registration Act or a federal consent decree prohibit Arizona from requiring voter-registration applicants to produce \"satisfactory evidence\" of U.S. citizenship when registering with a state registration form? (2) Does the National Voter Registration Act prohibit Arizona from implementing a program within 90 days of a federal election to cancel the registrations of voters who are not U.S. citizens? LOWER COURT CASE NUMBER: 24-3188, 24-3559, 24-4029",
       "overview": "Arizona's 2022 election laws require documentary proof of citizenship to register using the state form, and require election officials to check voter rolls and cancel registrations of people found not to be citizens, including within 90 days of an election. Voting-rights groups sued. The lower courts held that the National Voter Registration Act and a 2018 consent decree block much of the scheme. In 2024 the Supreme Court, on an emergency basis, partly let the proof-of-citizenship rule for state-form registrants take effect.",
       "question_plain": "Does federal law stop Arizona from requiring proof of citizenship to register and from removing noncitizens from voter rolls close to an election?",
       "why_it_matters": [
@@ -954,7 +964,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-1017",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-01017qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1017.html"
+      }
     },
     {
       "id": "scotus-26-426",
@@ -965,18 +985,9 @@
       "time_et": "10:00",
       "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
       "order": 1,
-      "lower_court": null,
+      "lower_court": "United States Court of Appeals for the First Circuit",
       "question": "(1) Whether the district court had jurisdiction; (2) whether it could enter classwide declaratory relief and APA vacatur under 8 U.S.C. §1252(f)(1); (3) whether the government's guidance on third-country removals is unlawful under §1231(b), due process, or FARRA/CAT.",
-      "summary_source": "editor",
-      "note": null,
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/26-426",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/26-00426qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-426.html"
-      },
+      "question_full": "26-426 DEPT. OF HOMELAND SECURITY V. D.V.D. DECISION BELOW: 2026 WL 2797801 EXPEDITED BRIEFING SCHEDULE CERT. GRANTED 9/29/2026 QUESTION PRESENTED: Order of September 29, 2026 The parties are directed to brief and argue the following questions: (1) Whether the district court had jurisdiction over Respondents ’ claims. (2) Whether the district court had authority to enter classwide declaratory relief and APA vacatur under 8 U. S. C. §1252(f)(1). (3) Whether the Government ’ s Guidance on third-country removals is unlawful under 8 U. S. C. §1231(b), the Due Process Clause, or FARRA/CAT and its implementing regulations. (4) Such other questions that the Government determines are appropriate for the proper disposition of the case. LOWER COURT CASE NUMBER: 26-1212",
       "overview": "The administration deports some people with final removal orders to \"third countries\" that are not their home country and are not named in their orders, including South Sudan, Eswatini, Uganda and Rwanda. A class of noncitizens challenged the DHS guidance governing those removals. A federal judge in Boston held it unlawful, requiring meaningful notice and a chance to raise fear-of-torture claims before removal. The First Circuit largely agreed. In September 2026 the Supreme Court paused that ruling, 6–3, and expedited the case.",
       "question_plain": "Were the lower courts allowed to block the government's third-country deportation guidance, and does that guidance violate immigration law, due process or the torture convention?",
       "why_it_matters": [
@@ -1009,7 +1020,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/26-426",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/26-00426qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-426.html"
+      }
     },
     {
       "id": "scotus-25-965",
@@ -1022,16 +1043,7 @@
       "order": 2,
       "lower_court": "United States Court of Appeals for the Sixth Circuit",
       "question": "Whether the First Amendment chilling-effect doctrine is displaced by Williamson County's land-use finality requirement when a plaintiff alleges government threats chilled religious exercise, worship, and assembly.",
-      "summary_source": "editor",
-      "note": null,
-      "argued": false,
-      "links": {
-        "recording": null,
-        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-965",
-        "live": "https://www.supremecourt.gov/",
-        "qp": "https://www.supremecourt.gov/qp/25-00965qp.pdf",
-        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-965.html"
-      },
+      "question_full": "25-965 GRAND V. UNIVERSITY HEIGHTS, OH DECISION BELOW: 159 F.4th 507 CERT. GRANTED 6/30/2026 QUESTION PRESENTED: Whether the First Amendment's established chilling-effect doctrine-under which a credible government threat that deters the exercise of fundamental rights constitutes a complete and independently actionable constitutional injury-is displaced by Williamson Cnty .'s land-use finality requirement when a plaintiff alleges that government threats both before and after a Planning Commission meeting chilled religious exercise, worship, and assembly. LOWER COURT CASE NUMBER: 24-3876",
       "overview": "Daniel Grand, an Orthodox Jewish man in University Heights, Ohio, began hosting Sabbath prayer gatherings of about 15 people at his home because the nearest Orthodox synagogue is almost a mile away. After neighbors complained, city officials told him he needed a special-use permit. Grand says officials then harassed and surveilled him. He withdrew his permit application rather than accept a condition barring residential use of the home, and sued. The Sixth Circuit said he had to finish the permit process first.",
       "question_plain": "Must someone who says officials' threats chilled his religious practice finish a zoning permit process before suing?",
       "why_it_matters": [
@@ -1050,7 +1062,17 @@
           }
         }
       ],
-      "summary_checked": "2026-10-29"
+      "summary_source": "editor",
+      "summary_checked": "2026-10-29",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-965",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-00965qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-965.html"
+      }
     }
   ]
 }
