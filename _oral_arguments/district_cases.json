@@ -1,0 +1,18 @@
+{
+  "_help": "District court cases to track. Each needs a CourtListener docket id (the number in courtlistener.com/docket/<id>/...). 'listen' is optional; for D.D.C. the judge's public line is looked up automatically. Briefs (overview + history) are written when a case is added and refreshed when the docket shows major new events. Hand-written briefs live in editorial/district.json and take priority.",
+  "cases": [
+    {
+      "id": "dcd-26-cv-477",
+      "court": "dcd",
+      "court_name": "U.S. District Court for the District of Columbia",
+      "courtlistener_docket": 72278895,
+      "docket_number": "1:26-cv-00477-ACR",
+      "title": "D.C. Preservation League v. Department of the Interior",
+      "judge": "Ana C. Reyes",
+      "tz": "America/New_York",
+      "related": [
+        {"label": "Government's appeal of the preliminary injunction", "court": "D.C. Circuit", "docket": "26-5374"}
+      ]
+    }
+  ]
+}

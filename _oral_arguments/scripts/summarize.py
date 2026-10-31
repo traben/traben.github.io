@@ -127,3 +127,57 @@ def oyez_facts(term: int, docket: str) -> str:
     except (requests.RequestException, ValueError):
         pass
     return ""
+
+
+HISTORY_GUIDE = """You keep a running case history for a public calendar of court hearings. Readers are
+curious non-lawyers. You get the case's current overview, its history so far, and new docket entries
+(official court text). Return ONLY JSON:
+{"history": [{"date": "YYYY-MM-DD", "text": "one or two plain sentences", "source_url": "..."}],
+ "overview": "a revised 80-130 word overview, or null if the current one is still accurate"}
+
+Rules: add only events that matter to a reader (rulings, hearings held, appeals, major motions,
+injunctions, deadlines that change what happens next); skip routine filings. One item per event,
+dated by the docket entry. Describe what the court or party did in neutral terms; attribute
+characterizations. Use the docket URL given as the source for docket events; you may search for news
+coverage and cite it for context. Never invent facts or dates."""
+
+
+def write_history_update(*, title: str, court: str, docket: str, overview: str, history: list[str],
+                         new_entries: list[str], docket_url: str) -> dict | None:
+    key = os.environ.get("ANTHROPIC_API_KEY")
+    if not key or not new_entries:
+        return None
+    user = (f"Case: {title}\nCourt: {court}\nDocket: {docket}\nDocket URL: {docket_url}\n\n"
+            f"Current overview:\n{overview}\n\nHistory so far:\n- " + "\n- ".join(history[-25:]) +
+            "\n\nNew docket entries:\n" + "\n".join(new_entries)[:12000])
+    try:
+        r = requests.post(API, timeout=180, headers={
+            "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
+            json={"model": os.environ.get("SUMMARY_MODEL", "claude-sonnet-5-5"), "max_tokens": 2000,
+                  "system": HISTORY_GUIDE,
+                  "tools": [{"type": "web_search_20250305", "name": "web_search", "max_uses": 3}],
+                  "messages": [{"role": "user", "content": user}]})
+        r.raise_for_status()
+        blocks = r.json().get("content", [])
+    except requests.RequestException as e:
+        print(f"  ! history update failed for {docket}: {e}", file=sys.stderr)
+        return None
+    seen = {_norm(docket_url)}
+    for b in blocks:
+        if b.get("type") == "web_search_tool_result" and isinstance(b.get("content"), list):
+            seen |= {_norm(x["url"]) for x in b["content"] if x.get("url")}
+    text = "".join(b.get("text", "") for b in blocks if b.get("type") == "text")
+    m = re.search(r"\{.*\}", text, re.S)
+    try:
+        out = json.loads(m.group(0)) if m else None
+    except json.JSONDecodeError:
+        out = None
+    if not out:
+        return None
+    items = []
+    for h in out.get("history", []):
+        url = (h.get("source_url") or "").strip()
+        if h.get("text") and re.match(r"\d{4}-\d{2}(-\d{2})?$", h.get("date", "")) and _norm(url) in seen:
+            name = "Docket, via CourtListener" if _norm(url) == _norm(docket_url) else url.split("/")[2]
+            items.append({"date": h["date"], "text": h["text"].strip(), "source": {"name": name, "url": url}, "ai_update": True})
+    return {"history": items, "overview": out.get("overview") or None}

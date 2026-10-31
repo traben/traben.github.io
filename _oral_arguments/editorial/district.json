@@ -1,0 +1,43 @@
+{
+  "_comment": "Brief and case history for tracked district court cases. Written by Claude (AI) on Oct. 30, 2026 from the court record and linked coverage; labeled as AI on the site. 'through' is the last docket date the brief reflects.",
+  "sources": {
+    "op103": {"name": "Memorandum Opinion, Dkt. 103 (Oct. 26, 2026)", "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.103.0.pdf"},
+    "docket": {"name": "Docket, via CourtListener", "url": "https://www.courtlistener.com/docket/72278895/dc-preservation-league-v-department-of-interior/"},
+    "ap-feb": {"name": "AP via WTOP, Feb. 13, 2026", "url": "https://wtop.com/national/2026/02/a-lawsuit-seeks-to-stop-trumps-overhaul-of-a-100-year-old-public-golf-course-in-washington/"},
+    "wtop-jul": {"name": "WTOP (Mike Murillo), July 2026", "url": "https://wtop.com/dc/2026/07/judge-wont-stop-east-potomac-plans-but-"},
+    "npr-oct18": {"name": "NPR via WGCU (Andrew Limbong), Oct. 18, 2026", "url": "https://www.wgcu.org/2026-10-18/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle"},
+    "ap-oct27": {"name": "AP via Spectrum News, Oct. 27, 2026", "url": "https://spectrumnews1.com/ky/louisville/politics/2026/10/27/judge-extends-block-on-trump-renovation-public-golf-course-washington"},
+    "golf-oct27": {"name": "GOLF.com (Josh Schrock), Oct. 27, 2026", "url": "https://golf.com/news/donald-trump-east-potomac-renovation-halted/"},
+    "dcd-line": {"name": "D.D.C. public access teleconference page", "url": "https://www.dcd.uscourts.gov/public-access-teleconference-information"}
+  },
+  "cases": {
+    "dcd-26-cv-477": {
+      "through": "2026-10-30",
+      "question_plain": "Did the Interior Department have to study the environmental effects of its whole plan to rebuild East Potomac Golf Course before cutting trees and starting work, and can the court keep the project on hold while the case goes on?",
+      "overview": "East Potomac Golf Links is a 106-year-old public course in East Potomac Park, on the National Register of Historic Places. The D.C. Preservation League and two regular golfers sued the Interior Department and the National Park Service in February 2026, after debris from the White House East Wing demolition was dumped on the course. They say the government is carrying out a plan to replace the course with a championship layout designed by Tom Fazio, in pieces, to avoid the full environmental review that the National Environmental Policy Act requires. For months the government told the court there was no final plan, and Judge Ana C. Reyes declined to step in. After about 430 trees were cut down over a weekend in October, she issued a restraining order and then a preliminary injunction. The government has appealed.",
+      "why_it_matters": [
+        {"text": "It is one of several lawsuits over the administration's changes to Washington's public landscape, alongside challenges to the White House ballroom, a planned arch and a National Garden of American Heroes.", "src": "ap-oct27"},
+        {"text": "Opponents say the redesign would replace three courses with one 18-hole course, remove Ohio Drive and a century-old cherry grove, and raise the cost of a long-affordable public facility.", "src": "golf-oct27"},
+        {"text": "The President calls the current course \"old, broken, dilapidated\" and wants one able to host world-class tournaments. Interior argues the plaintiffs' preferences about how the park looks are not a legally protected interest, and it ended the prior operator's lease for unmet capital improvements.", "src": "npr-oct18"},
+        {"text": "The judge found the President's public statements at odds with sworn testimony and earlier assurances by Justice Department lawyers. The government accuses her of bias and has appealed to the D.C. Circuit.", "src": "ap-oct27"}
+      ],
+      "history": [
+        {"date": "2025-12", "text": "Interior ends the National Links Trust's lease for East Potomac and two other D.C. courses, saying required capital improvements weren't made; the Trust says it invested $8.5 million.", "src": "ap-feb"},
+        {"date": "2026-02-13", "text": "The D.C. Preservation League and golfers Dave Roberts and Alex Dickson sue (Dkt. 1), citing NEPA and the 1897 law creating the park for public recreation, and the dumping of East Wing demolition debris on the course.", "src": "docket"},
+        {"date": "2026-02-23", "text": "Plaintiffs move to stay the project or for a preliminary injunction (Dkt. 8).", "src": "docket"},
+        {"date": "2026-03-11", "text": "First hearing, a status conference open to the public by phone. Over the following months (hearings Apr. 9, May 4, July 2) the court declines about a dozen requests for relief while the government says no final plan exists.", "src": "op103"},
+        {"date": "2026-07-02", "text": "Judge Reyes again declines to block the work but asks for advance notice before major work, wanting comfort that \"we're not sending in bulldozers in the dark of night.\"", "src": "wtop-jul"},
+        {"date": "2026-09-03", "text": "After plaintiffs report accelerated construction, another hearing; the court again declines to intervene.", "src": "op103"},
+        {"date": "2026-10-09", "text": "The government notifies the court of a Tree Management Plan and moves for summary judgment (Dkt. 74, 75). The next day roughly 430 trees are removed.", "src": "op103"},
+        {"date": "2026-10-12", "text": "On plaintiffs' emergency motion (Dkt. 76), the court issues a temporary restraining order halting work (Dkt. 79).", "src": "op103"},
+        {"date": "2026-10-16", "text": "The government moves to disqualify Judge Reyes for bias (Dkt. 86); she denies the motion (Dkt. 95).", "src": "npr-oct18"},
+        {"date": "2026-10-18", "text": "The President announces the course will close Nov. 15 for a 15-month rebuild to a Fazio design.", "src": "npr-oct18"},
+        {"date": "2026-10-19", "text": "Evidentiary hearing on the preliminary injunction, with sworn testimony from four witnesses including the acting NPS director.", "src": "op103"},
+        {"date": "2026-10-26", "text": "Preliminary injunction granted (Dkt. 101, 103): no further tree removal, and 10 business days' written notice before any irreversible change to the park. The court finds the plan likely exists and is final, and calls the stated reason for the tree removal pretextual.", "src": "op103"},
+        {"date": "2026-10-27", "text": "The government appeals to the D.C. Circuit (No. 26-5374). The court orders it to explain how the President's post about closing the course Nov. 15 squares with counsel's statement that there was no plan to close it.", "src": "docket"},
+        {"date": "2026-10-29", "text": "The government asks Judge Reyes to stay her injunction pending appeal (Dkt. 112).", "src": "docket"},
+        {"date": "2026-10-30", "text": "In-person hearing on the government's show-cause response, open to the public by phone. The court orders disclosures and filings due Nov. 2–6, including whether a Fazio design contract exists, and a proposed evidence-preservation order.", "src": "docket"}
+      ]
+    }
+  }
+}

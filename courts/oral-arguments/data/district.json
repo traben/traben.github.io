@@ -1,0 +1,321 @@
+{
+ "generated_at": "2026-10-31T00:15:45+00:00",
+ "cases": [
+  {
+   "id": "dcd-26-cv-477",
+   "court": "dcd",
+   "court_name": "U.S. District Court for the District of Columbia",
+   "title": "D.C. Preservation League v. Department of the Interior",
+   "docket_number": "1:26-cv-00477-ACR",
+   "judge": "Ana C. Reyes",
+   "tz": "America/New_York",
+   "links": {
+    "docket": "https://www.courtlistener.com/docket/72278895/"
+   },
+   "related": [
+    {
+     "label": "Government's appeal of the preliminary injunction",
+     "court": "D.C. Circuit",
+     "docket": "26-5374"
+    }
+   ],
+   "listen": {
+    "phone": "833-990-9400",
+    "code": "787605272",
+    "source": "https://www.dcd.uscourts.gov/public-access-teleconference-information",
+    "note": "The judge decides hearing by hearing whether to open the public line; the docket says so when it's available. Recording or rebroadcasting is prohibited."
+   },
+   "hearings": [
+    {
+     "date": "2026-03-11",
+     "type": "Status Conference",
+     "time": "15:00",
+     "room": "Courtroom 12",
+     "status": "held",
+     "public_line": true,
+     "noticed": "2026-03-10"
+    },
+    {
+     "date": "2026-10-30",
+     "type": "Oral Argument",
+     "time": "10:00",
+     "room": "Courtroom 12",
+     "status": "held",
+     "public_line": true,
+     "noticed": "2026-10-29"
+    }
+   ],
+   "deadlines": [
+    {
+     "date": "2026-10-31",
+     "what": "The Government to respond to Plaintiffs' 116 Motion to Compel by tomorrow, October 31, 2026, at 10:00 a.m."
+    },
+    {
+     "date": "2026-10-31",
+     "what": "By October 31, 2026, at 5:00 p.m, the parties must meet and confer, in person, to discuss the scope of the Court's notice requirement in its preliminary injunction order, Dkt. 101."
+    },
+    {
+     "date": "2026-11-02",
+     "what": "The parties to meet and confer and to file a proposed preservation order on or before November 2, 2026."
+    },
+    {
+     "date": "2026-11-02",
+     "what": "By November 2, 2026, at 10:00 a.m., the Government will file with the Court the names of all individuals who have participated in preparing the submission identified at Docket 111-…"
+    },
+    {
+     "date": "2026-11-02",
+     "what": "By November 2, 2026, at 10:00 a.m., the Government must brief whether, and if so, how, the deliberative process privilege protects it from disclosing the date on which tree removal…"
+    },
+    {
+     "date": "2026-11-02",
+     "what": "By November 2, 2026, the Government will disclose whether there is a contract with Fazio Design, Tom Fazio, or Gavin Fazio to design or otherwise renovate the East Potomac Golf Cou…"
+    },
+    {
+     "date": "2026-11-03",
+     "what": "The parties must file any joint proposal by November 3, 2026, at 10:00 a.m."
+    },
+    {
+     "date": "2026-11-03",
+     "what": "If the parties cannot agree to a joint proposal, the Government must file its proposal by November 3, 2026, at 10:00 a.m., and Plaintiffs must file their proposal by November 4, 20…"
+    },
+    {
+     "date": "2026-11-03",
+     "what": "Plaintiffs must file any response by November 3, 2026, at 10:00 a.m."
+    },
+    {
+     "date": "2026-11-05",
+     "what": "By November 5, 2026, Plaintiffs must file any motion in connection with the NCPC Proposal, Dkt. 111-1."
+    },
+    {
+     "date": "2026-11-06",
+     "what": "The Government shall file any reply by November 6, 2026."
+    },
+    {
+     "date": "2026-11-30",
+     "what": "Response to Motion for Summary Judgment"
+    }
+   ],
+   "recent": [
+    {
+     "date": "2026-10-30",
+     "entry": null,
+     "text": "MINUTE ORDER. The Court ORDERS the Government to respond to Plaintiffs' 116 Motion to Compel by tomorrow, October 31, 2026, at 10:00 a.m. Signed by Judge Ana C. Reyes on 10/30/2026. (lcacr1)",
+     "doc": null
+    },
+    {
+     "date": "2026-10-30",
+     "entry": null,
+     "text": "Minute Entry or proceedings held before Judge Ana C. Reyes: Oral Argument held on 10/30/2026. (Court Reporter: Christine Asif) (zcdw)",
+     "doc": null
+    },
+    {
+     "date": "2026-10-30",
+     "entry": 116,
+     "text": "MOTION to Compel Immediate Production of October 30, 2026 National Capital Planning Commission Filings by DC PRESERVATION LEAGUE. (Attachments: # 1 Text of Proposed Order)(Lowell, Abbe) (Entered: 10/30/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-10-30",
+     "entry": null,
+     "text": "MINUTE ORDER. The Court ORDERS the parties to meet and confer and to file a proposed preservation order on or before November 2, 2026. The Court adds this as a separate Minute Order to alert counsel, as it did not reference it at today's hearing. Signed by Judge Ana C. Reyes on 10/30/2026. (lcacr2)",
+     "doc": null
+    },
+    {
+     "date": "2026-10-30",
+     "entry": null,
+     "text": "MINUTE ORDER. For the reasons discussed today on the record, and with some minor modifications of deadlines and dates, the Court ORDERS the following. 1. By November 2, 2026, at 10:00 a.m., the Government will file with the Court the names of all individuals who have participated in preparing the submission identified at Docket 111-1 to the National Capital Planning Commission (\"NCPC Proposal\"). The Government may file under seal. 2. By October 31, 2026, at 5:00 p.m, the parties must meet and confer, in person, to discuss the scope of the Court's notice requirement in its preliminary injunctio…",
+     "doc": null
+    },
+    {
+     "date": "2026-10-29",
+     "entry": null,
+     "text": "MINUTE ORDER. Given her recently filed declaration, see Dkt. 111-2, Jessica Bowron is now ORDERED to appear at tomorrow's hearing in person. Signed by Judge Ana C. Reyes on 10/29/2026. (lcacr2)",
+     "doc": null
+    },
+    {
+     "date": "2026-10-29",
+     "entry": null,
+     "text": "MINUTE ORDER. The hearing set for tomorrow, October 30, 2026, at 10:00 a.m., will be accessible to the public via the Court's public access dial-in line. The public access telephone number is 833-990-9400, and the access code is 787605272. It is ORDERED that the attendees using the public access telephone line shall adhere to the following: Persons remotely accessing court proceedings are reminded of the general prohibition against photographing, recording, and rebroadcasting any court proceedings (including those held by telephone or videoconference). Signed by Judge Ana C. Reyes on 10/29/202…",
+     "doc": null
+    },
+    {
+     "date": "2026-10-29",
+     "entry": 112,
+     "text": "MOTION to Stay re 101 Order on Motion for Preliminary Injunction, Order on Motion to Stay, 103 Memorandum & Opinion by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Piropato, Marissa) (Entered: 10/29/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-10-29",
+     "entry": null,
+     "text": "Set/Reset Deadlines/Hearings: Response to Motion for Summary Judgment due by 11/30/2026. (zcdw)",
+     "doc": null
+    },
+    {
+     "date": "2026-10-29",
+     "entry": null,
+     "text": "Set/Reset Deadlines/Hearings: Oral Argument set for 10/30/2026 at 10:00 AM in Courtroom 12 Judge Ana C. Reyes. (zcdw)",
+     "doc": null
+    }
+   ],
+   "brief": {
+    "overview": "East Potomac Golf Links is a 106-year-old public course in East Potomac Park, on the National Register of Historic Places. The D.C. Preservation League and two regular golfers sued the Interior Department and the National Park Service in February 2026, after debris from the White House East Wing demolition was dumped on the course. They say the government is carrying out a plan to replace the course with a championship layout designed by Tom Fazio, in pieces, to avoid the full environmental review that the National Environmental Policy Act requires. For months the government told the court there was no final plan, and Judge Ana C. Reyes declined to step in. After about 430 trees were cut down over a weekend in October, she issued a restraining order and then a preliminary injunction. The government has appealed.",
+    "question_plain": "Did the Interior Department have to study the environmental effects of its whole plan to rebuild East Potomac Golf Course before cutting trees and starting work, and can the court keep the project on hold while the case goes on?",
+    "why_it_matters": [
+     {
+      "text": "It is one of several lawsuits over the administration's changes to Washington's public landscape, alongside challenges to the White House ballroom, a planned arch and a National Garden of American Heroes.",
+      "source": {
+       "name": "AP via Spectrum News, Oct. 27, 2026",
+       "url": "https://spectrumnews1.com/ky/louisville/politics/2026/10/27/judge-extends-block-on-trump-renovation-public-golf-course-washington"
+      }
+     },
+     {
+      "text": "Opponents say the redesign would replace three courses with one 18-hole course, remove Ohio Drive and a century-old cherry grove, and raise the cost of a long-affordable public facility.",
+      "source": {
+       "name": "GOLF.com (Josh Schrock), Oct. 27, 2026",
+       "url": "https://golf.com/news/donald-trump-east-potomac-renovation-halted/"
+      }
+     },
+     {
+      "text": "The President calls the current course \"old, broken, dilapidated\" and wants one able to host world-class tournaments. Interior argues the plaintiffs' preferences about how the park looks are not a legally protected interest, and it ended the prior operator's lease for unmet capital improvements.",
+      "source": {
+       "name": "NPR via WGCU (Andrew Limbong), Oct. 18, 2026",
+       "url": "https://www.wgcu.org/2026-10-18/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle"
+      }
+     },
+     {
+      "text": "The judge found the President's public statements at odds with sworn testimony and earlier assurances by Justice Department lawyers. The government accuses her of bias and has appealed to the D.C. Circuit.",
+      "source": {
+       "name": "AP via Spectrum News, Oct. 27, 2026",
+       "url": "https://spectrumnews1.com/ky/louisville/politics/2026/10/27/judge-extends-block-on-trump-renovation-public-golf-course-washington"
+      }
+     }
+    ],
+    "history": [
+     {
+      "date": "2025-12",
+      "text": "Interior ends the National Links Trust's lease for East Potomac and two other D.C. courses, saying required capital improvements weren't made; the Trust says it invested $8.5 million.",
+      "source": {
+       "name": "AP via WTOP, Feb. 13, 2026",
+       "url": "https://wtop.com/national/2026/02/a-lawsuit-seeks-to-stop-trumps-overhaul-of-a-100-year-old-public-golf-course-in-washington/"
+      }
+     },
+     {
+      "date": "2026-02-13",
+      "text": "The D.C. Preservation League and golfers Dave Roberts and Alex Dickson sue (Dkt. 1), citing NEPA and the 1897 law creating the park for public recreation, and the dumping of East Wing demolition debris on the course.",
+      "source": {
+       "name": "Docket, via CourtListener",
+       "url": "https://www.courtlistener.com/docket/72278895/dc-preservation-league-v-department-of-interior/"
+      }
+     },
+     {
+      "date": "2026-02-23",
+      "text": "Plaintiffs move to stay the project or for a preliminary injunction (Dkt. 8).",
+      "source": {
+       "name": "Docket, via CourtListener",
+       "url": "https://www.courtlistener.com/docket/72278895/dc-preservation-league-v-department-of-interior/"
+      }
+     },
+     {
+      "date": "2026-03-11",
+      "text": "First hearing, a status conference open to the public by phone. Over the following months (hearings Apr. 9, May 4, July 2) the court declines about a dozen requests for relief while the government says no final plan exists.",
+      "source": {
+       "name": "Memorandum Opinion, Dkt. 103 (Oct. 26, 2026)",
+       "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.103.0.pdf"
+      }
+     },
+     {
+      "date": "2026-07-02",
+      "text": "Judge Reyes again declines to block the work but asks for advance notice before major work, wanting comfort that \"we're not sending in bulldozers in the dark of night.\"",
+      "source": {
+       "name": "WTOP (Mike Murillo), July 2026",
+       "url": "https://wtop.com/dc/2026/07/judge-wont-stop-east-potomac-plans-but-"
+      }
+     },
+     {
+      "date": "2026-09-03",
+      "text": "After plaintiffs report accelerated construction, another hearing; the court again declines to intervene.",
+      "source": {
+       "name": "Memorandum Opinion, Dkt. 103 (Oct. 26, 2026)",
+       "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.103.0.pdf"
+      }
+     },
+     {
+      "date": "2026-10-09",
+      "text": "The government notifies the court of a Tree Management Plan and moves for summary judgment (Dkt. 74, 75). The next day roughly 430 trees are removed.",
+      "source": {
+       "name": "Memorandum Opinion, Dkt. 103 (Oct. 26, 2026)",
+       "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.103.0.pdf"
+      }
+     },
+     {
+      "date": "2026-10-12",
+      "text": "On plaintiffs' emergency motion (Dkt. 76), the court issues a temporary restraining order halting work (Dkt. 79).",
+      "source": {
+       "name": "Memorandum Opinion, Dkt. 103 (Oct. 26, 2026)",
+       "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.103.0.pdf"
+      }
+     },
+     {
+      "date": "2026-10-16",
+      "text": "The government moves to disqualify Judge Reyes for bias (Dkt. 86); she denies the motion (Dkt. 95).",
+      "source": {
+       "name": "NPR via WGCU (Andrew Limbong), Oct. 18, 2026",
+       "url": "https://www.wgcu.org/2026-10-18/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle"
+      }
+     },
+     {
+      "date": "2026-10-18",
+      "text": "The President announces the course will close Nov. 15 for a 15-month rebuild to a Fazio design.",
+      "source": {
+       "name": "NPR via WGCU (Andrew Limbong), Oct. 18, 2026",
+       "url": "https://www.wgcu.org/2026-10-18/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle"
+      }
+     },
+     {
+      "date": "2026-10-19",
+      "text": "Evidentiary hearing on the preliminary injunction, with sworn testimony from four witnesses including the acting NPS director.",
+      "source": {
+       "name": "Memorandum Opinion, Dkt. 103 (Oct. 26, 2026)",
+       "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.103.0.pdf"
+      }
+     },
+     {
+      "date": "2026-10-26",
+      "text": "Preliminary injunction granted (Dkt. 101, 103): no further tree removal, and 10 business days' written notice before any irreversible change to the park. The court finds the plan likely exists and is final, and calls the stated reason for the tree removal pretextual.",
+      "source": {
+       "name": "Memorandum Opinion, Dkt. 103 (Oct. 26, 2026)",
+       "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.103.0.pdf"
+      }
+     },
+     {
+      "date": "2026-10-27",
+      "text": "The government appeals to the D.C. Circuit (No. 26-5374). The court orders it to explain how the President's post about closing the course Nov. 15 squares with counsel's statement that there was no plan to close it.",
+      "source": {
+       "name": "Docket, via CourtListener",
+       "url": "https://www.courtlistener.com/docket/72278895/dc-preservation-league-v-department-of-interior/"
+      }
+     },
+     {
+      "date": "2026-10-29",
+      "text": "The government asks Judge Reyes to stay her injunction pending appeal (Dkt. 112).",
+      "source": {
+       "name": "Docket, via CourtListener",
+       "url": "https://www.courtlistener.com/docket/72278895/dc-preservation-league-v-department-of-interior/"
+      }
+     },
+     {
+      "date": "2026-10-30",
+      "text": "In-person hearing on the government's show-cause response, open to the public by phone. The court orders disclosures and filings due Nov. 2–6, including whether a Fazio design contract exists, and a proposed evidence-preservation order.",
+      "source": {
+       "name": "Docket, via CourtListener",
+       "url": "https://www.courtlistener.com/docket/72278895/dc-preservation-league-v-department-of-interior/"
+      }
+     }
+    ],
+    "through": "2026-10-30",
+    "author": "Claude (AI)"
+   },
+   "updated": "2026-10-30"
+  }
+ ]
+}

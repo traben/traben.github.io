@@ -315,6 +315,78 @@
       <a href="${esc(c.calendar || c.home)}" target="_blank" rel="noopener">${c.calendar ? "Calendar" : "Court site"}</a></div>`).join("");
   }
 
+
+  // ---------- District courts ----------
+  let district = { cases: [] };
+  const fmtDate = (iso) => new Date(iso.length === 7 ? iso + "-15T12:00:00Z" : iso + "T12:00:00Z")
+    .toLocaleDateString("en-US", iso.length === 7 ? { month: "long", year: "numeric", timeZone: "UTC" } : { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
+
+  function districtCard(c, today) {
+    const el = document.createElement("article");
+    el.className = "dcase";
+    const upcoming = (c.hearings || []).filter((h) => h.date >= today && h.status === "scheduled");
+    const past = (c.hearings || []).filter((h) => !(h.date >= today && h.status === "scheduled")).reverse();
+    const L = c.listen;
+    const listenHTML = L ? `<div class="listen">
+        <div><span class="lbl">Public listen line</span> <a href="tel:+1${esc(L.phone.replace(/\D/g, ""))}">${esc(L.phone)}</a>, access code <code class="sel">${esc(L.code)}</code>
+          <button class="oac-btn quiet copy" data-copy="${esc(L.phone)}, ${esc(L.code)}">Copy</button></div>
+        <div class="d">${esc(L.note || "")} <a href="${esc(L.source)}" target="_blank" rel="noopener">Court's page</a></div></div>` : "";
+    const next = upcoming[0];
+    let nextHTML;
+    if (next) {
+      const inst = instantIn(next.date, next.time || "09:00", c.tz);
+      const rel = relLabel(next.date, today)[0];
+      nextHTML = `<div class="next on">
+        <div class="when"><span class="lbl">Next hearing · ${esc(rel)}</span>
+          <strong>${fmtDay(next.date)}, ${next.time ? fmtTime(inst, c.tz) + " " + tzAbbr(inst, c.tz) : "time TBA"}</strong>
+          <span class="d">${esc(next.type)}${next.room ? " · " + esc(next.room) : ""}${next.time && tzAbbr(inst, c.tz) !== tzAbbr(inst, localTZ) ? " · " + fmtTime(inst, localTZ) + " " + tzAbbr(inst, localTZ) + " your time" : ""}</span></div>
+        <div class="pl ${next.public_line ? "yes" : ""}">${next.public_line ? "✓ Public phone line announced for this hearing" : "Public line not announced yet; the judge usually says so on the docket the day before"}</div>
+        ${listenHTML}</div>`;
+    } else {
+      nextHTML = `<div class="next"><div class="when"><span class="lbl">Next hearing</span><strong>None scheduled yet</strong>
+        <span class="d">Hearings are usually set a few days ahead. Upcoming court deadlines are listed below.</span></div>${listenHTML}</div>`;
+    }
+    const b = c.brief || {};
+    const why = (b.why_it_matters || []).map((w) =>
+      `<li>${esc(w.text)} <a class="src" href="${esc(w.source.url)}" target="_blank" rel="noopener">${esc(w.source.name)}</a></li>`).join("");
+    const hist = (b.history || []).slice().reverse().map((h) => `<li><span class="hd">${fmtDate(h.date)}</span>
+        <span>${esc(h.text)}${h.source ? ` <a class="src" href="${esc(h.source.url)}" target="_blank" rel="noopener">${esc(h.source.name)}</a>` : ""}</span></li>`).join("");
+    const dl = (c.deadlines || []).filter((d) => d.date >= today).map((d) =>
+      `<li><span class="hd">${fmtDate(d.date)}</span><span>${esc(d.what)}</span></li>`).join("");
+    const rec = (c.recent || []).map((r) => `<li><span class="hd">${fmtDate(r.date)}</span><span>${r.entry ? `<b>Dkt. ${esc(r.entry)}</b> ` : ""}${esc(r.text)}${r.doc ? ` <a href="${esc(r.doc)}" target="_blank" rel="noopener">PDF</a>` : ""}</span></li>`).join("");
+    const pastH = past.map((h) => `<li><span class="hd">${fmtDate(h.date)}</span><span>${esc(h.type)} · ${esc(h.status)}${h.public_line ? " · public line" : ""}</span></li>`).join("");
+    const rel = (c.related || []).map((r) => `${esc(r.label)}: ${esc(r.court)} No. ${esc(r.docket)}`).join(" · ");
+
+    el.innerHTML = `
+      <h3 class="title">${esc(c.title)}</h3>
+      <p class="sub">${esc(c.court_name)} · No. ${esc(c.docket_number)}${c.judge ? " · Judge " + esc(c.judge) : ""}</p>
+      ${rel ? `<p class="sub">${rel}</p>` : ""}
+      ${nextHTML}
+      ${b.question_plain ? `<p class="ask">${esc(b.question_plain)}</p>` : ""}
+      ${b.overview ? `<p class="summary">${esc(b.overview)}<span class="tag">· Summary written by Claude (AI)${b.through ? ", reflects the docket through " + fmtDate(b.through) : ""}</span></p>` : ""}
+      ${why ? `<div class="why"><h4>Why it matters</h4><ul>${why}</ul></div>` : ""}
+      ${hist ? `<details class="block" open><summary>Case history <span class="d">(written by Claude, AI; newest first)</span></summary><ul class="tl">${hist}</ul></details>` : ""}
+      ${dl ? `<details class="block" open><summary>Upcoming deadlines <span class="d">(from the docket)</span></summary><ul class="tl">${dl}</ul></details>` : ""}
+      ${rec ? `<details class="block"><summary>Recent docket activity <span class="d">(court's text)</span></summary><ul class="tl small">${rec}</ul></details>` : ""}
+      ${pastH ? `<details class="block"><summary>Past hearings</summary><ul class="tl">${pastH}</ul></details>` : ""}
+      <div class="actions"><a class="oac-btn quiet" href="${esc(c.links.docket)}" target="_blank" rel="noopener">Full docket on CourtListener</a></div>`;
+    return el;
+  }
+
+  function renderDistrict() {
+    const today = todayET();
+    const box = $("#district-list");
+    box.innerHTML = district.cases.length ? "" : '<p class="empty">No district cases are being tracked right now.</p>';
+    for (const c of district.cases) box.appendChild(districtCard(c, today));
+  }
+  document.addEventListener("click", (e) => {
+    const b = e.target.closest(".copy"); if (!b) return;
+    const txt = b.dataset.copy;
+    (navigator.clipboard ? navigator.clipboard.writeText(txt) : Promise.reject()).then(
+      () => { b.textContent = "Copied"; setTimeout(() => (b.textContent = "Copy"), 1500); },
+      () => { const r = document.createRange(); r.selectNodeContents(b.previousElementSibling); const s = getSelection(); s.removeAllRanges(); s.addRange(r); });
+  });
+
   // ---------- wiring ----------
   function selectTab(name) {
     document.querySelectorAll(".oac-tabs button").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.tab === name)));
@@ -351,7 +423,9 @@
 
   const load = (p) => fetch(p, { cache: "no-cache" }).then((r) => (r.ok ? r.json() : Promise.reject(p)));
   Promise.allSettled([load("data/scotus.json"), load("data/circuits_recent.json"), load("data/courts.json"),
-    load("data/circuits_upcoming.json"), load("data/circuit_briefs.json")]).then(([s, ci, co, up, br]) => {
+    load("data/circuits_upcoming.json"), load("data/circuit_briefs.json"), load("data/district.json")]).then(([s, ci, co, up, br, di]) => {
+    if (di.status === "fulfilled") district = di.value;
+    renderDistrict();
     if (br.status === "fulfilled") briefs = br.value;
     if (s.status === "fulfilled") scotus = s.value;
     if (ci.status === "fulfilled") circuits = ci.value;

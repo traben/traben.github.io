@@ -61,6 +61,18 @@ Only the appeals cases you pick get an AI summary (Supreme Court cases all do). 
 
 To remove a summary, delete the entry from the list; the next run drops it. A summary is refreshed once after the argument so it can say how the argument went. Each one costs a few cents (up to 5 web searches plus tokens). Requires the `ANTHROPIC_API_KEY` secret.
 
+## District court cases (hand-picked)
+
+Tracked cases are listed in `_oral_arguments/district_cases.json` (CourtListener docket id, title, judge, related appeals). Each day `scripts/build_district.py`:
+- pulls the latest docket entries from CourtListener (**needs the `COURTLISTENER_TOKEN` secret**; a free CourtListener account gives you one at courtlistener.com/profile/api-token);
+- finds hearings from entries like "Motion Hearing set for 11/12/2026 at 2:30 PM in Courtroom 12", marks them held or vacated, and notes when the judge announces the public phone line;
+- lists upcoming deadlines (from "due by" entries and from dates written out in minute orders) and the ten most recent docket entries;
+- for D.D.C., looks up the judge's public line on the court's teleconference page.
+
+The case brief (overview, plain question, why it matters, case history) starts from a hand-written version in `_oral_arguments/editorial/district.json`, written when the case is added. When the docket shows major new events (opinions, orders on motions, appeals, hearings held), Claude adds to the history at most once a week (needs `ANTHROPIC_API_KEY`); additions are stored in `_oral_arguments/district_ai.json` and labeled on the page.
+
+**Adding a case:** add an entry to `district_cases.json` and ask Claude to write the starting brief into `editorial/district.json` (or leave it out; the first major docket event will start one).
+
 ## Run locally
 
 ```bash
