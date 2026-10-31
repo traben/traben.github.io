@@ -52,7 +52,7 @@ COURTS: dict[str, dict] = {
         "tz": "America/New_York", "location": "Richmond, VA",
         "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments",
         "docket": r"\d{2}-\d{4}",
-        "issue_lines": True,          # the 4th Circuit prints a short issue statement under each case
+        "parser": "ca4",              # issue statement, docket, caption, "Briefs", judge; time/room at page foot
     },
     "ca8": {
         "index": ["https://www.ca8.uscourts.gov/argument-calendars"],
@@ -101,10 +101,11 @@ CITY_TZ = {  # sessions held away from the usual courthouse
 MONTHS = "january february march april may june july august september october november december".split()
 DAY_RE = re.compile(r"\b(?:mon|tues|wednes|thurs|fri|satur|sun)day,?\s+([a-z]+)\.?\s+(\d{1,2}),?\s+(\d{4})", re.I)
 TIME_RE = re.compile(r"\b(\d{1,2}):(\d{2})\s*([ap])\.?\s*m\.?", re.I)
+DATE_LINE_RE = re.compile(r"^\s*(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{1,2}),?\s+(\d{4})\s*$", re.I)
 NO_ARG_RE = re.compile(r"\bNO\s+ARG(?:UMENT)?\b|\bon the briefs\b|submitted on (?:the )?briefs|\*\*", re.I)
 STATUS_RE = re.compile(r"\[(?:argued|on the briefs)\]|\bNO\s+ARG(?:UMENT)?\b|\s\d{1,2}$|\*+", re.I)
 SKIP_LINE_RE = re.compile(r"^(page \d+|\(\d+ minutes?.*\)|briefs?$|appellant|appellee|petitioner|respondent|counsel|"
-                          r"argued by|for (the )?(appellant|appellee|petitioner|respondent))", re.I)
+                          r"argued by|arguing counsel|panel [a-z0-9]{1,3}:?$|for (the )?(appellant|appellee|petitioner|respondent))", re.I)
 
 
 # --------------------------------------------------------------------------- polite fetching
@@ -206,7 +207,7 @@ def parse_pdf_text(pages: list[str], cfg: dict) -> list[dict]:
 
     for page in pages:
         lines = [l.rstrip() for l in page.splitlines()]
-        dates = [(i, to_date(*m.groups())) for i, l in enumerate(lines) for m in [DAY_RE.search(l)] if m]
+        dates = [(i, to_date(*m.groups())) for i, l in enumerate(lines) for m in [DAY_RE.search(l) or DATE_LINE_RE.match(l)] if m]
         times = [(i, to_time(*m.groups())) for i, l in enumerate(lines) for m in [TIME_RE.search(l)] if m]
         rooms = [(i, r) for i, l in enumerate(lines) for r in [room_label(l)] if r]
 
@@ -238,6 +239,11 @@ def parse_pdf_text(pages: list[str], cfg: dict) -> list[dict]:
                     and not DAY_RE.search(lines[j]) and len(extra) < 6:
                 extra.append(lines[j].strip())
                 j += 1
+            if cfg.get("origin_token") and not origin and not rest and extra and re.fullmatch(r"[A-Z]{2,5}", extra[0]):
+                origin = extra.pop(0)
+            if not rest and extra and not SKIP_LINE_RE.match(extra[0]):
+                rest = extra.pop(0)
+            rest = re.sub(r"^-[A-Z]\s*[–-]\s*", "", rest)       # "No.25-10137-P – HODGES ..." (11th Cir. special hearings)
             caption, notes, issue = rest, [], []
             cont = re.compile(r"(and\b|et al|Inc\b|LLC|Corp|Co\.|&|of\b|the\b|[a-z])")
             for x in extra:
@@ -251,7 +257,8 @@ def parse_pdf_text(pages: list[str], cfg: dict) -> list[dict]:
                     continue
                 if re.search(r"\bamic(?:i|us)\b", x, re.I) or x.startswith("("):
                     notes.append(x.strip(" ;"))
-                elif len(caption) < 200 and (cont.match(x) or (len(x.split()) <= 3 and not x.endswith("."))
+                elif len(caption) < 240 and (cont.match(x) or (len(x.split()) <= 3 and not x.endswith("."))
+                                             or re.search(r"(\bof|\bthe|\band|\bfor|\bto|&|,|\bv\.|ex rel\.)$", caption.strip())
                                              or (" v. " not in caption and not cfg.get("issue_lines"))):
                     caption += " " + x                      # caption wrapped onto the next line
                 elif cfg.get("issue_lines"):
@@ -293,6 +300,103 @@ def parse_pdf_text(pages: list[str], cfg: dict) -> list[dict]:
         if rooms:
             carry_room = rooms[-1][1]
     return [c for c in cases if c["date"] and c["caption"]]
+
+
+ISSUE_START_RE = re.compile(r"^(?:Briefs\s+)?([A-Z][A-Z ,/&'\-]{2,40}):\s*(.*)$")
+
+
+def parse_ca4(pages: list[str], cfg: dict) -> list[dict]:
+    """4th Circuit calendar pages: each page is one panel. Each case has a docket number on its own
+    line (sometimes followed by "Briefs" or "Rehearing En Banc"), the caption, "Briefs", the district
+    judge in parentheses, and an issue statement ("CIVIL: Whether ...") either just before or just
+    after it. The date is in the page header; the panel, courtroom and time are at the page foot."""
+    out = []
+    dk = re.compile(r"^\s*(\d{2}-\d{4})\b\s*(.*)$")
+    for page in pages:
+        raw = [re.sub(r"_{5,}", "", l) for l in page.splitlines()]
+        lines = [re.sub(r"\s+", " ", l).strip() for l in raw]
+        dm = next((m for l in lines for m in [DAY_RE.search(l)] if m), None)
+        if not dm:
+            continue
+        date = to_date(*dm.groups())
+        tm = [to_time(*m.groups()) for l in lines for m in [TIME_RE.search(l)] if m]
+        room = " · ".join(dict.fromkeys(r for l in lines for r in [room_label(l)] if r)) or None
+        # split the page into case blocks at docket lines (not "Associations:" lines)
+        idx = [i for i, l in enumerate(lines) if dk.match(l)]
+        issues, cases = [], []
+        # issue statements, in page order
+        i = 0
+        while i < len(lines):
+            m = ISSUE_START_RE.match(lines[i])
+            if m and re.search(r"whether|rehearing|appeal", lines[i], re.I):
+                txt, j = [f"{m.group(1).title()}: {m.group(2)}"], i + 1
+                while j < len(lines) and lines[j] and not dk.match(lines[j]) and not ISSUE_START_RE.match(lines[j]) \
+                        and " v. " not in lines[j] and not lines[j].startswith(("(", "Briefs", "Panel", "Judge", "Chief Judge")) \
+                        and not DAY_RE.search(lines[j]) and not TIME_RE.search(lines[j]):
+                    txt.append(lines[j]); j += 1
+                issues.append((i, " ".join(txt)))
+                i = j
+            else:
+                i += 1
+        for n, i in enumerate(idx):
+            end = idx[n + 1] if n + 1 < len(idx) else len(lines)
+            block = lines[i + 1:end]
+            m = dk.match(lines[i])
+            tail = m.group(2)
+            # some calendars print the issue in a second column on the docket line itself
+            inline = ISSUE_START_RE.match(re.sub(r"^Briefs\s+", "", tail))
+            inline_issue = [f"{inline.group(1).title()}: {inline.group(2)}"] if inline and re.search(r"whether", tail, re.I) else []
+            cap = []
+            for k, l in enumerate(block):
+                cols = re.split(r"\s{2,}", raw[i + 1 + k].strip()) if inline_issue else [l]
+                if inline_issue and len(cols) == 1 and " v. " in l:
+                    # columns ran together: cut the caption at the first lowercase word a case name wouldn't have
+                    words, keep = l.split(" "), 0
+                    ok = {"v.", "of", "the", "and", "et", "al.", "al.,", "ex", "rel.", "de", "la", "del", "for", "in", "on", "by", "to", "&", "von", "van", "da", "dos", "y", "e"}
+                    for w_i, w in enumerate(words):
+                        if w and w[0].islower() and w.lower().strip(",.;") not in {x.strip(",.") for x in ok}:
+                            break
+                        keep = w_i + 1
+                    if keep < len(words):
+                        cols = [" ".join(words[:keep]), " ".join(words[keep:])]
+                if inline_issue and len(cols) > 1 and not cols[0].startswith(("(", "Associations")):
+                    l = cols[0]
+                    inline_issue.append(" ".join(cols[1:]))
+                elif inline_issue and cap and not l.startswith(("(", "Associations", "Judge", "Chief Judge")) and " v. " not in l \
+                        and l[:1].islower():
+                    inline_issue.append(l)              # issue wrapped onto its own line
+                    continue
+                if not l or l.startswith(("(", "Briefs", "Associations", "Panel", "Judge", "Chief Judge", "Senior Judge", "*")) \
+                        or ISSUE_START_RE.match(l) or DAY_RE.search(l) or TIME_RE.search(l) or room_label(l):
+                    if cap:
+                        break
+                    continue
+                cap.append(l)
+                if len(cap) >= 3:
+                    break
+            caption = re.sub(r"(\w)v\.(?=[A-Z])", r"\1 v. ", " ".join(cap))
+            caption = re.sub(r"\s+", " ", caption).strip()
+            note = "Rehearing en banc" if re.search(r"rehearing en banc", tail + " " + " ".join(block[:3]), re.I) else None
+            cases.append({"line": i, "dockets": [m.group(1)], "caption": caption, "note": note,
+                          "inline": " ".join(inline_issue).strip() or None})
+        # pair issues with cases: an issue belongs to the nearest case below it, else the nearest above
+        for c in cases:
+            c["issue"] = c.get("inline")
+        inline_lines = {c["line"] for c in cases if c.get("inline")}
+        issues = [(li, t) for li, t in issues if li not in inline_lines]
+        for li, txt in issues:
+            below = [c for c in cases if c["line"] > li and c["issue"] is None]
+            above = [c for c in reversed(cases) if c["line"] < li and c["issue"] is None]
+            target = below[0] if below and (not above or below[0]["line"] - li <= li - above[0]["line"]) else (above[0] if above else None)
+            if target:
+                target["issue"] = txt
+        for c in cases:
+            if not re.search(r"\bv\.|\bIn re\b|\bIn the Matter\b|\bex parte\b", c["caption"], re.I):
+                continue   # not a caption (e.g. a stray "LIVESTREAM" line)
+            out.append({"dockets": c["dockets"], "caption": c["caption"][:300], "origin": None,
+                        "no_argument": False, "notes": [c["note"]] if c["note"] else [],
+                        "issue": c["issue"], "date": date, "time": tm[-1] if tm else None, "room": room})
+    return out
 
 
 # --------------------------------------------------------------------------- per-court driver
@@ -338,7 +442,9 @@ def build_court(court: str, cfg: dict, keep_from: str) -> list[dict]:
         else:
             location = cfg.get("location")
 
-        parsed = parse_pdf_text(pages, cfg)
+        if len(text) < 800 and re.search(r"will be (published|posted)", text, re.I):
+            continue                                  # placeholder: "calendar will be published ~30 days ahead"
+        parsed = (parse_ca4 if cfg.get("parser") == "ca4" else parse_pdf_text)(pages, cfg)
         if not parsed:
             PROBLEMS.setdefault(court, []).append(f"parsed 0 cases from {url} ({len(text)} chars of text)")
         for c in parsed:

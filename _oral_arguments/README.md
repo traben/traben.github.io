@@ -73,6 +73,14 @@ The case brief (overview, plain question, why it matters, case history) starts f
 
 **Adding a case:** add an entry to `district_cases.json` and ask Claude to write the starting brief into `editorial/district.json` (or leave it out; the first major docket event will start one).
 
+## Shipping updates (rule)
+
+The daily job keeps these files current on GitHub, so code updates must **never** include them:
+`courts/oral-arguments/data/*.json`, `_oral_arguments/debug/`, `_oral_arguments/district_ai.json`,
+`_oral_arguments/selected_cases.json` (edited by you and by the summary-request workflow).
+Updates should contain only scripts, page files (`index.html`, `app.js`, `style.css`), workflows, docs and
+hand-written editorial files that the job never writes.
+
 ## Run locally
 
 ```bash
