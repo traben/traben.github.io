@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T17:18:22+00:00",
+ "generated_at": "2026-11-01T17:59:10+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -37,14 +37,6 @@
     }
    ],
    "deadlines": [
-    {
-     "date": "2026-10-31",
-     "what": "The Government to respond to Plaintiffs' 116 Motion to Compel by tomorrow, October 31, 2026, at 10:00 a.m."
-    },
-    {
-     "date": "2026-10-31",
-     "what": "By October 31, 2026, at 5:00 p.m, the parties must meet and confer, in person, to discuss the scope of the Court's notice requirement in its preliminary injunction order, Dkt. 101."
-    },
     {
      "date": "2026-11-02",
      "what": "The parties to meet and confer and to file a proposed preservation order on or before November 2, 2026."
@@ -314,7 +306,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-10-31"
+   "updated": "2026-11-01"
   }
  ]
 }
