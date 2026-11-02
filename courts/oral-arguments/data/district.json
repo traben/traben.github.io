@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T17:59:10+00:00",
+ "generated_at": "2026-11-02T21:46:45+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -59,6 +59,10 @@
     },
     {
      "date": "2026-11-03",
+     "what": "The Government's response is due by November 3, 2026, at 10:00 a.m."
+    },
+    {
+     "date": "2026-11-03",
      "what": "The parties must file any joint proposal by November 3, 2026, at 10:00 a.m."
     },
     {
@@ -88,6 +92,36 @@
    ],
    "recent": [
     {
+     "date": "2026-11-02",
+     "entry": null,
+     "text": "MINUTE ORDER granting 100 Motion for Leave to File Amicus Brief. Signed by Judge Ana C. Reyes on 11/2/2026. (lcacr3)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-02",
+     "entry": null,
+     "text": "MINUTE ORDER granting 109 Sealed Motion for Leave to File Document Under Seal; granting 117 Sealed Motion for Leave to File Document Under Seal. Upon consideration of the Hubbard factors, the Court concludes that Defendants may file unredacted copies of the relevant notifications under seal. Signed by Judge Ana C. Reyes on 11/2/2026. (lcacr3)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-02",
+     "entry": 121,
+     "text": "RESPONSE TO ORDER OF THE COURT re Order,,,,,,,, filed by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Block, Andrew) (Entered: 11/02/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.121.0_1.pdf"
+    },
+    {
+     "date": "2026-11-01",
+     "entry": null,
+     "text": "MINUTE ORDER. The Court GRANTS the Government's 120 Motion for Extension of Time. The Government's response is due by November 3, 2026, at 10:00 a.m. Signed by Judge Ana C. Reyes on 11/1/2026. (lcacr1)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-01",
+     "entry": 120,
+     "text": "MOTION for Extension of Time to Respond to Minute Order by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Attachments: # 1 Text of Proposed Order)(Robertson, Michael) (Entered: 11/01/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.120.0.pdf"
+    },
+    {
      "date": "2026-10-31",
      "entry": null,
      "text": "MINUTE ORDER. Upon consideration of Defendants' 119 Response, the Court DENIES Plaintiffs' 116 Motion to Compel as moot. Signed by Judge Ana C. Reyes on 10/31/2026. (lcacr2)",
@@ -115,36 +149,6 @@
      "date": "2026-10-30",
      "entry": null,
      "text": "MINUTE ORDER. The Court ORDERS the Government to respond to Plaintiffs' 116 Motion to Compel by tomorrow, October 31, 2026, at 10:00 a.m. Signed by Judge Ana C. Reyes on 10/30/2026. (lcacr1)",
-     "doc": null
-    },
-    {
-     "date": "2026-10-30",
-     "entry": null,
-     "text": "Minute Entry or proceedings held before Judge Ana C. Reyes: Oral Argument held on 10/30/2026. (Court Reporter: Christine Asif) (zcdw)",
-     "doc": null
-    },
-    {
-     "date": "2026-10-30",
-     "entry": 116,
-     "text": "MOTION to Compel Immediate Production of October 30, 2026 National Capital Planning Commission Filings by DC PRESERVATION LEAGUE. (Attachments: # 1 Text of Proposed Order)(Lowell, Abbe) (Entered: 10/30/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.116.0.pdf"
-    },
-    {
-     "date": "2026-10-30",
-     "entry": 115,
-     "text": "TRANSCRIPT OF MOTION HEARING before Judge Ana C. Reyes held on 10/12/2026. Page Numbers: 1-159. Date of Issuance: 10/30/2026. Court Reporter: Sara Wick, telephone number 202-354-3284. Transcripts may be ordered by submitting the Transcript Order FormFor the first 90 days after this filing date, the transcript may be viewed at the courthouse at a public terminal or purchased from the court reporter referenced above. After 90 days, the transcript may be accessed via PACER. Other transcript formats, (multi-page, condensed, CD or ASCII) may be purchased from the court reporter.NOTICE RE REDACTION …",
-     "doc": null
-    },
-    {
-     "date": "2026-10-30",
-     "entry": null,
-     "text": "MINUTE ORDER. The Court ORDERS the parties to meet and confer and to file a proposed preservation order on or before November 2, 2026. The Court adds this as a separate Minute Order to alert counsel, as it did not reference it at today's hearing. Signed by Judge Ana C. Reyes on 10/30/2026. (lcacr2)",
-     "doc": null
-    },
-    {
-     "date": "2026-10-30",
-     "entry": null,
-     "text": "MINUTE ORDER. For the reasons discussed today on the record, and with some minor modifications of deadlines and dates, the Court ORDERS the following. . By November 2, 2026, at 10:00 a.m., the Government will file with the Court the names of all individuals who have participated in preparing the submission identified at Docket 111-1 to the National Capital Planning Commission (\"NCPC Proposal\"). The Government may file under seal. 2. By October 31, 2026, at 5:00 p.m, the parties must meet and confer, in person, to discuss the scope of the Court's notice requirement in its preliminary injunction…",
      "doc": null
     }
    ],
@@ -306,7 +310,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-01"
+   "updated": "2026-11-02"
   }
  ]
 }
