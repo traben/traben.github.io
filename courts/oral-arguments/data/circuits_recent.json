@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-11-03T02:57:35+00:00",
+  "generated_at": "2026-11-03T19:33:08+00:00",
   "window_days": 10,
   "source": "CourtListener oral argument search (Free Law Project)",
   "cases": [
+    {
+      "id": "cl-107346",
+      "court": "ca11",
+      "docket": "25-11265",
+      "title": "Solomon Btesh v. Isaac Btesh",
+      "date": "2026-11-03",
+      "duration_sec": 2572,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/solomon_btesh_v._isaac_btesh_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107346/solomon-btesh-v-isaac-btesh/"
+    },
+    {
+      "id": "cl-107350",
+      "court": "ca2",
+      "docket": "26-113",
+      "title": "Yes I Can Licensed Behavior Analyst PLLC v. Green Tree Capital, LLC",
+      "date": "2026-11-03",
+      "duration_sec": 1192,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/yes_i_can_licensed_behavior_analyst_pllc_v._green_tree_capital_llc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107350/yes-i-can-licensed-behavior-analyst-pllc-v-green-tree-capital-llc/"
+    },
+    {
+      "id": "cl-107348",
+      "court": "cadc",
+      "docket": "26-5072",
+      "title": "Joe Neguse v. U.S. Immigration and Customs Enforcement",
+      "date": "2026-11-03",
+      "duration_sec": 3152,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/joe_neguse_v._u.s._immigration_and_customs_enforcement_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107348/joe-neguse-v-us-immigration-and-customs-enforcement/"
+    },
+    {
+      "id": "cl-107347",
+      "court": "cadc",
+      "docket": "25-5354",
+      "title": "Rural Empowerment Association for Community Help v. EPA",
+      "date": "2026-11-03",
+      "duration_sec": 2449,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/rural_empowerment_association_for_community_help_v._epa_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107347/rural-empowerment-association-for-community-help-v-epa/"
+    },
     {
       "id": "cl-107339",
       "court": "ca1",
@@ -1362,46 +1402,6 @@
       "duration_sec": 2470,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/27/maik_ens_loblein_v._roxana_alcaraz_de_ens_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107201/maik-ens-loblein-v-roxana-alcaraz-de-ens/"
-    },
-    {
-      "id": "cl-107200",
-      "court": "ca4",
-      "docket": "25-1054",
-      "title": "Research and Manufacturers of America v. John McCuskey",
-      "date": "2026-10-27",
-      "duration_sec": 3829,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/27/research_and_manufacturers_of_america_v._john_mccuskey_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107200/research-and-manufacturers-of-america-v-john-mccuskey/"
-    },
-    {
-      "id": "cl-107199",
-      "court": "ca4",
-      "docket": "24-6378",
-      "title": "Ronald Sutherland, Jr. v. State of North Carolina",
-      "date": "2026-10-27",
-      "duration_sec": 2628,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/27/ronald_sutherland_jr._v._state_of_north_carolina_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107199/ronald-sutherland-jr-v-state-of-north-carolina/"
-    },
-    {
-      "id": "cl-107198",
-      "court": "ca4",
-      "docket": "25-1832",
-      "title": "The Summit Church-Homestead Heights Baptist Church v. Chatham County, North Carolina Board of Commis",
-      "date": "2026-10-27",
-      "duration_sec": 2766,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/27/the_summit_church-homestead_heights_baptist_church_v._chatham_county_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107198/the-summit-church-homestead-heights-baptist-church-v-chatham-county-north/"
-    },
-    {
-      "id": "cl-107197",
-      "court": "ca4",
-      "docket": "25-4259",
-      "title": "United States v. Alex Chin",
-      "date": "2026-10-27",
-      "duration_sec": 1988,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/27/united_states_v._alex_chin_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107197/united-states-v-alex-chin/"
     }
   ]
 }
