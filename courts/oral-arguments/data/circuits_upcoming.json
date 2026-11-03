@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T21:46:39+00:00",
+ "generated_at": "2026-11-03T02:58:28+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -9,406 +9,6 @@
   "cafc"
  ],
  "cases": [
-  {
-   "id": "ca8-25-2423-2026-10-19",
-   "court": "ca8",
-   "docket": "25-2423",
-   "title": "United States v. Matthew Wessels",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "NI",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2673-2026-10-19",
-   "court": "ca8",
-   "docket": "25-2673",
-   "title": "United States v. Clinton Rongey",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "EM",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26omh.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2745-2026-10-19",
-   "court": "ca8",
-   "docket": "25-2745",
-   "title": "United States v. Patrick Robinson",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "EA",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26omh.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2763-2026-10-19",
-   "court": "ca8",
-   "docket": "25-2763",
-   "title": "United States v. Bryan Perry",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "WM",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26omh.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2815-2026-10-19",
-   "court": "ca8",
-   "docket": "25-2815",
-   "title": "United States v. Elijah Barse",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "SD",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26omh.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2880-2026-10-19",
-   "court": "ca8",
-   "docket": "25-2880",
-   "title": "United States v. Courtney Brown, Jr.",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "WM",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26omh.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2906-2026-10-19",
-   "court": "ca8",
-   "docket": "25-2906",
-   "title": "United States v. Devon Miller",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "SI",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2908-2026-10-19",
-   "court": "ca8",
-   "docket": "25-2908",
-   "title": "United States v. Devon Miller",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "SI",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2913-2026-10-19",
-   "court": "ca8",
-   "docket": "25-2913",
-   "title": "United States v. Richard Carpenter, Jr.",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "SD",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2993-2026-10-19",
-   "court": "ca8",
-   "docket": "25-2993",
-   "title": "United States v. Matthew Timothy",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "NE",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3071-2026-10-19",
-   "court": "ca8",
-   "docket": "25-3071",
-   "title": "United States v. Michael Grayson",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "WM",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3149-2026-10-19",
-   "court": "ca8",
-   "docket": "25-3149",
-   "title": "United States v. Dimitric Wilson",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "MN",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3183-2026-10-19",
-   "court": "ca8",
-   "docket": "25-3183",
-   "title": "United States v. Gustavo Coronado, Jr.",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "NI",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3223-2026-10-19",
-   "court": "ca8",
-   "docket": "25-3223",
-   "title": "United States v. Noel Hall",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "MN",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3363-2026-10-19",
-   "court": "ca8",
-   "docket": "25-3363",
-   "title": "United States v. Deion Watts",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "WM",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3392-2026-10-19",
-   "court": "ca8",
-   "docket": "25-3392",
-   "title": "United States v. Jose Botello-Vargas",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "MN",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3416-2026-10-19",
-   "court": "ca8",
-   "docket": "25-3416",
-   "title": "United States v. Javier Jasso",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "NE",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-26-1052-2026-10-19",
-   "court": "ca8",
-   "docket": "26-1052",
-   "title": "United States v. Cordell Mayfield",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "NI",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26omh.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-26-1199-2026-10-19",
-   "court": "ca8",
-   "docket": "26-1199",
-   "title": "United States v. Isaac Johnson",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "NE",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-26-1677-2026-10-19",
-   "court": "ca8",
-   "docket": "26-1677",
-   "title": "United States v. Nicholas McElligott",
-   "date": "2026-10-19",
-   "time_local": null,
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "NI",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
   {
    "id": "ca8-25-2803-2026-10-20",
    "court": "ca8",
@@ -1847,7 +1447,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
+    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/27/abbvie_inc._v._anthony_brown_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107205/abbvie-inc-v-anthony-brown/"
    },
    "live_note": null
   },
@@ -1869,7 +1471,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
+    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/27/research_and_manufacturers_of_america_v._john_mccuskey_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107200/research-and-manufacturers-of-america-v-john-mccuskey/"
    },
    "live_note": null
   },
@@ -1889,7 +1493,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
+    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/27/ronald_sutherland_jr._v._state_of_north_carolina_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107199/ronald-sutherland-jr-v-state-of-north-carolina/"
    },
    "live_note": null
   },
@@ -1909,7 +1515,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
+    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/27/the_summit_church-homestead_heights_baptist_church_v._chatham_county_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107198/the-summit-church-homestead-heights-baptist-church-v-chatham-county-north/"
    },
    "live_note": null
   },
@@ -1929,7 +1537,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
+    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/27/john_doe_v._kash_patel_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107202/john-doe-v-kash-patel/"
    },
    "live_note": null
   },
@@ -1949,7 +1559,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
+    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/27/daniel_international_corporation_v._travelers_indemnity_company_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107204/daniel-international-corporation-v-travelers-indemnity-company/"
    },
    "live_note": null
   },
@@ -1969,7 +1581,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
+    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/27/united_states_v._alex_chin_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107197/united-states-v-alex-chin/"
    },
    "live_note": null
   },
@@ -1989,7 +1603,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
+    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/27/in_the_matter_of_the_search_of_under_seal_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107203/in-the-matter-of-the-search-of-under-seal/"
    },
    "live_note": null
   },
@@ -2009,7 +1625,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
+    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/27/maik_ens_loblein_v._roxana_alcaraz_de_ens_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107201/maik-ens-loblein-v-roxana-alcaraz-de-ens/"
    },
    "live_note": null
   },
@@ -2950,7 +2568,7 @@
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/02/american_honda_motor_co._inc._v._neo_wireless_llc_cl.mp3",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/02/american_honda_motor_co._inc._v._neo_wireless_llc_cl_1.mp3",
     "recording_page": "https://www.courtlistener.com/audio/107343/american-honda-motor-co-inc-v-neo-wireless-llc/"
    },
    "live_note": null
@@ -5782,7 +5400,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -5804,7 +5422,7 @@
    ],
    "no_argument": true,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -5826,7 +5444,7 @@
    ],
    "no_argument": true,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -5846,7 +5464,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -5870,7 +5488,7 @@
    ],
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -5892,7 +5510,7 @@
    ],
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -5909,10 +5527,12 @@
    "room": "Courtroom IV",
    "origin": "EOK",
    "issue": null,
-   "notes": null,
-   "no_argument": false,
+   "notes": [
+    "(Submitted on the Briefs)"
+   ],
+   "no_argument": true,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -5932,7 +5552,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -5954,7 +5574,7 @@
    ],
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -5976,7 +5596,7 @@
    ],
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -5999,7 +5619,7 @@
    ],
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6019,7 +5639,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6039,7 +5659,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6059,7 +5679,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6079,7 +5699,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6099,7 +5719,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6119,7 +5739,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6139,7 +5759,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6159,7 +5779,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6179,7 +5799,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6199,7 +5819,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6221,7 +5841,7 @@
    ],
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6241,7 +5861,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6621,7 +6241,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6641,7 +6261,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6661,7 +6281,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6681,7 +6301,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6701,7 +6321,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6721,7 +6341,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6741,7 +6361,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6761,7 +6381,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6781,7 +6401,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6801,7 +6421,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6823,7 +6443,7 @@
    ],
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6843,7 +6463,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6863,7 +6483,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6885,7 +6505,7 @@
    ],
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6907,7 +6527,7 @@
    ],
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6927,7 +6547,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6949,7 +6569,7 @@
    ],
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6969,7 +6589,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -6991,7 +6611,7 @@
    ],
    "no_argument": true,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7013,7 +6633,7 @@
    ],
    "no_argument": true,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7033,7 +6653,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7055,7 +6675,7 @@
    ],
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7077,7 +6697,7 @@
    ],
    "no_argument": true,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7397,7 +7017,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7417,7 +7037,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7439,7 +7059,7 @@
    ],
    "no_argument": true,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7459,7 +7079,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7479,7 +7099,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7499,7 +7119,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7519,7 +7139,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7539,7 +7159,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7559,7 +7179,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7579,7 +7199,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7601,7 +7221,7 @@
    ],
    "no_argument": true,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7621,7 +7241,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7641,7 +7261,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7661,7 +7281,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7681,7 +7301,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7703,7 +7323,7 @@
    ],
    "no_argument": true,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7723,7 +7343,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -7743,7 +7363,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8065,7 +7685,7 @@
    ],
    "no_argument": true,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8085,7 +7705,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8108,7 +7728,7 @@
    ],
    "no_argument": true,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8128,7 +7748,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8148,7 +7768,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8168,7 +7788,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8188,7 +7808,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8208,7 +7828,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8228,7 +7848,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8248,7 +7868,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8268,7 +7888,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8288,7 +7908,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8308,7 +7928,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8328,7 +7948,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8348,7 +7968,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8368,7 +7988,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8388,7 +8008,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -8408,7 +8028,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
