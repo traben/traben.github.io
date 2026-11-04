@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T19:34:03+00:00",
+ "generated_at": "2026-11-04T01:28:51+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -37,26 +37,6 @@
     }
    ],
    "deadlines": [
-    {
-     "date": "2026-11-03",
-     "what": "The Government's response is due by November 3, 2026, at 10:00 a.m."
-    },
-    {
-     "date": "2026-11-03",
-     "what": "The parties must file any joint proposal by November 3, 2026, at 10:00 a.m."
-    },
-    {
-     "date": "2026-11-03",
-     "what": "If the parties cannot agree to a joint proposal, the Government must file its proposal by November 3, 2026, at 10:00 a.m., and Plaintiffs must file their proposal by November 4, 20…"
-    },
-    {
-     "date": "2026-11-03",
-     "what": "Plaintiffs must file any response by November 3, 2026, at 10:00 a.m."
-    },
-    {
-     "date": "2026-11-03",
-     "what": "If the parties cannot agree to a joint proposal, the Government must file its proposal by November 3, 2026, at 10:00 a.m., and Plaintiffs must file their proposal by November 4, at…"
-    },
     {
      "date": "2026-11-05",
      "what": "By November 5, 2026, Plaintiffs must file any motion in connection with the NCPC Proposal, Dkt. 111-1."
@@ -290,7 +270,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-03"
+   "updated": "2026-11-04"
   }
  ]
 }

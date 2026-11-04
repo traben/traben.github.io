@@ -1,0 +1,42 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "ebe7c9f1-b3cb-f111-a05a-001dd804a354",
+  "ca3dev_casenumber": "24-3063",
+  "ca3dev_caption": "USA v. Kevin Jones"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "1c6b88f6-b3cb-f111-a05a-001dd804a68a",
+  "ca3dev_casenumber": "25-2490",
+  "ca3dev_caption": "USA v. Thomas Autry"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "016b88f6-b3cb-f111-a05a-001dd804a68a",
+  "ca3dev_casenumber": "25-2623",
+  "ca3dev_caption": "PPL Electric Utilities et al  v. IBEW Local 1600"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "e59ed10a-b4cb-f111-a05a-001dd804a354",
+  "ca3dev_casenumber": "25-3080",
+  "ca3dev_caption": "AmTrust Financial Services Inc v. Liberty Insurance Underwri"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "ad2856fe-b3cb-f111-a05a-001dd804a354",
+  "ca3dev_casenumber": "25-3175",
+  "ca3dev_caption": "USA v. Ivan Baez"
+ }
+]

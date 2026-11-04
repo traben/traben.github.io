@@ -1,0 +1,2077 @@
+{
+ "today": "2026-11-03",
+ "days": [
+  {
+   "date": "2026-11-02",
+   "notes": [],
+   "panelVisible": true,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "East Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [
+      "Duncan",
+      "Engelhardt",
+      "Ramirez"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/east",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "26-20018",
+       "caption": "Wesco Aircraft Holdings, Et Al. v. 2026 Noteholders, Appellant.",
+       "nature": "Bankruptcy",
+       "natureClass": "bkr",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-60057",
+       "caption": "Assist Wireless, Et Al., Petitioners v. Federal Communications Commission, Et Al.",
+       "nature": "Agency",
+       "natureClass": "agc",
+       "origin": "Federal Communications Commission",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-11060",
+       "caption": "Peter Sabine, Appellant v. Carroll Independent School District, Et Al.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "East Courtroom",
+     "building": "223",
+     "amPm": "p",
+     "judges": [
+      "King",
+      "Smith",
+      "Ramirez"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/east",
+     "cases": [
+      {
+       "time": "15:00",
+       "docket": "26-10536",
+       "caption": "Ellen Fisher, Appellant v. Texas Tech University Regents.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Northern District of Texas, Lubbock",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [
+      "Elrod",
+      "King",
+      "Stewart"
+     ],
+     "chief": "Elrod",
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-30664",
+       "caption": "USA v. Charles Ray Keys, Appellant. (Cons. w/ No. 25-30690)",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Eastern District of Louisiana, New Orleans",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-40766",
+       "caption": "State of Texas, Et Al. v. Mehmet Oz, Et Al., Appellants.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Eastern District of Texas, Tyler",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-51034",
+       "caption": "Min Huang, Et Al., Appellants v. Ken Paxton.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, Austin",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-30109",
+       "caption": "Tonya Mann v. Daniel Haugen, Et Al., Appellants.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Louisiana, Shreveport",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "p",
+     "judges": [
+      "Richman",
+      "Haynes",
+      "Douglas"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "13:00",
+       "docket": "25-60703",
+       "caption": "Robbi Jones, Et Al., Petitioners v. Securities and Exchange Commission.",
+       "nature": "Agency",
+       "natureClass": "agc",
+       "origin": "Securities & Exchange Commission",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "13:00",
+       "docket": "26-10106",
+       "caption": "Carol Irwin, Et Al., Appellants v. Caroline Hill.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Northern District of Texas, Dallas",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [
+      "Smith",
+      "Graves",
+      "Ho"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-50680",
+       "caption": "USA v. Jonathan Bringus-Torres, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Western District of Texas, Midland Odessa",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-40379",
+       "caption": "USA v. Damilola Kumapayi, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Eastern District of Texas, Sherman",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "notes": [],
+   "panelVisible": true,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "East Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [
+      "Duncan",
+      "Engelhardt",
+      "Ramirez"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/east",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-11332",
+       "caption": "USA v. Stephanie Hockridge, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-11394",
+       "caption": "USA v. Nathan Reis, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-40011",
+       "caption": "John Pollock, Appellant v. American Endowment Foundation.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Eastern District of Texas, Sherman",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-51033",
+       "caption": "Brenda Ramos v. Christopher Taylor, Appellant.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, Austin",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [
+      "Elrod",
+      "King",
+      "Stewart"
+     ],
+     "chief": "Elrod",
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-40537",
+       "caption": "USA v. Steven Donofrio, Appellant. (Cons. w/ No. 25-40610)",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Eastern District of Texas, Texarkana",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-51006",
+       "caption": "USA v. Tyrell Ezekiel Darden, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Western District of Texas, San Antonio",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-11210",
+       "caption": "Ashley Culley v. Jeff Lyde, Et Al., Appellants.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Northern District of Texas, Wichita Falls",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-30087",
+       "caption": "Sydney Petite, Appellant v. Robert Lowe, Et Al.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Eastern District of Louisiana, New Orleans",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "p",
+     "judges": [
+      "Richman",
+      "Haynes",
+      "Douglas"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "13:00",
+       "docket": "26-30003",
+       "caption": "USA v. Gary Haynes, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Western District of Louisiana, Lafayette",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "13:00",
+       "docket": "25-20407",
+       "caption": "USA v. Jonathan Lopez-Porras, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "13:00",
+       "docket": "25-20090",
+       "caption": "Robin Wayne Smith v. Monte Smith, Appellant.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [
+      "Smith",
+      "Graves",
+      "Ho"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-60487",
+       "caption": "Matterhorn Express Pipeline, Petitioner v. Federal Energy Regulatory Commission. (Cons. w/ No. 26-60051)",
+       "nature": "Agency",
+       "natureClass": "agc",
+       "origin": "Federal Energy Regulatory Commission",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-30702",
+       "caption": "Carla Hall, Appellant v. LaSalle Management Company, Et Al.",
+       "nature": "Employment",
+       "natureClass": "emp",
+       "origin": "Western District of Louisiana, Monroe",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-30677",
+       "caption": "Greater Guide, Appellant v. SAPS, L.L.C., Et Al.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Eastern District of Louisiana, New Orleans",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "p",
+     "judges": [
+      "Willett",
+      "Oldham",
+      "Wilson"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "13:00",
+       "docket": "25-11062",
+       "caption": "USA v. Alan Spencer Thompson, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "13:00",
+       "docket": "25-11033",
+       "caption": "USA v. Eleazar Eloy Lara, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "notes": [],
+   "panelVisible": true,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "East Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [
+      "Duncan",
+      "Engelhardt",
+      "Ramirez"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/east",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "26-10431",
+       "caption": "USA v. Rhode Island Hospital, Appellant.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-50226",
+       "caption": "Jane Doe, Appellant v. University of Texas at San Antonio, Et Al.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, San Antonio",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-60424",
+       "caption": "USA v. Cleveland Anderson; Rudolph M. Warnock, Jr., Appellants.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Southern District of Mississippi, Jackson",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [
+      "Elrod",
+      "King",
+      "Stewart"
+     ],
+     "chief": "Elrod",
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "24-40799",
+       "caption": "USA v. Antonio Castro-Mendez, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Southern District of Texas, Corpus Christi",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-10018",
+       "caption": "Antonio Torres, Appellant v. Jeremiah Byous.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Northern District of Texas, Dallas",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "p",
+     "judges": [
+      "Richman",
+      "Haynes",
+      "Douglas"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "13:00",
+       "docket": "25-20481",
+       "caption": "Dawn Buckingham, Appellant-Appellee v. Pearl Resources, Et Al.",
+       "nature": "Bankruptcy",
+       "natureClass": "bkr",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "13:00",
+       "docket": "26-40187",
+       "caption": "Robin Shields, Appellant v. Port Arthur Independent School District, Et Al.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Eastern District of Texas, Beaumont",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "13:00",
+       "docket": "26-40071",
+       "caption": "Pamela Riggins, Et Al. v. Corporal Garcia, Et Al., Appellants.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Eastern District of Texas, Sherman",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [
+      "Smith",
+      "Graves",
+      "Ho"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "26-30174",
+       "caption": "O.E., Appellant v. Advocates for Arts-Based Education Corporation.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Eastern District of Louisiana, New Orleans",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-30043",
+       "caption": "Bobby Stevenson v. Randy Lavespere, Appellant.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Middle District of Louisiana, Baton Rouge",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "p",
+     "judges": [
+      "Willett",
+      "Oldham",
+      "Wilson"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "13:00",
+       "docket": "25-60055",
+       "caption": "Vistra Corporation, Et Al., Petitioners v. Federal Energy Regulatory Commission. (Cons. w/ Nos. 25-60149, 25-60329, and 25-60453)",
+       "nature": "Agency",
+       "natureClass": "agc",
+       "origin": "Federal Energy Regulatory Commission",
+       "perSide": 30,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "13:00",
+       "docket": "26-50181",
+       "caption": "Wild Type, Et Al., Appellants v. Imelda Garcia, Et Al.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, Austin",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "notes": [],
+   "panelVisible": true,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [
+      "Willett",
+      "Oldham",
+      "Wilson"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "26-50111",
+       "caption": "American Sustainable Business Council v. Don Huffines, Et Al., Appellants.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, Austin",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-60458",
+       "caption": "Reginald Desmond Wallace, Appellant v. State of Mississippi, Et Al.",
+       "nature": "Habeas",
+       "natureClass": "hab",
+       "origin": "Southern District of Mississippi, Jackson",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [
+      "Smith",
+      "Graves",
+      "Ho"
+     ],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "26-10080",
+       "caption": "Tim Gooden, Appellant v. Lhoist North America of Texas.",
+       "nature": "Employment",
+       "natureClass": "emp",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-10093",
+       "caption": "Jonathan Harvey, Appellant v. Lhoist North America of Texas.",
+       "nature": "Employment",
+       "natureClass": "emp",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-30",
+   "notes": [],
+   "panelVisible": false,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "East Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "p",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/east",
+     "cases": [
+      {
+       "time": "14:00",
+       "docket": "25-11102",
+       "caption": "Asbury Automotive Group, Et Al., Appellants v. Federal Trade Commission, Et Al.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "14:00",
+       "docket": "25-60553",
+       "caption": "Sealed Appellee v. Seal Appellant, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Southern District of Mississippi, Jackson",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "notes": [],
+   "panelVisible": false,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "East Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/east",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "26-60077",
+       "caption": "Satellite Healthcare, Petitioner-Respondent v. National Labor Relations Board.",
+       "nature": "Agency",
+       "natureClass": "agc",
+       "origin": "National Labor Relations Board",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-20159",
+       "caption": "Canada Hockey, Et Al., Appellants v. Brad Marquardt.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-60694",
+       "caption": "Vapor Technology Assocation, Et Al., Appellants v. Chris Graham. (Cons. w/ No. 26-60013)",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Southern District of Mississippi, Gulfport",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "26-40132",
+       "caption": "Vertical Bridge Development v. The Town of Westlake, Texas, Et Al., Appellants.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Eastern District of Texas, Sherman",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-51040",
+       "caption": "Jed Wallace, Et Al., Appellants v. Blake Lively.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Western District of Texas, Austin",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-20133",
+       "caption": "2425 WL, L.L.C., Appellant v. Christoper Murray.",
+       "nature": "Bankruptcy",
+       "natureClass": "bkr",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-60316",
+       "caption": "Gore, Kilpatrick & Dambrino, Appellant v. Spinnaker Insurance Company, Et Al.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Northern District of Mississippi, Greenville",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-50964",
+       "caption": "USA v. Gustavo Alonzo Tobias, Appellant. (Cons. w/ No. 25-50968, USA v. Gustavo Alonzo Tobias-Rivera, Appellant).",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Western District of Texas, Waco",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-10302",
+       "caption": "Charles Ziegenfuss, Et Al., Appellants v. Freeman Martin.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-30190",
+       "caption": "Causeway Partners v. Indian Harbor Insurance Company, Et Al., Appellants.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Eastern District of Louisiana, New Orleans",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-30653",
+       "caption": "Pelnor, L.L.C. v. First State Insurance Company, Appellant-Appellee.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Eastern District of Louisiana, New Orleans",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "265",
+     "amPm": "p",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "15:00",
+       "docket": "26-20568",
+       "caption": "In re: BMI OLDCO Inc. Official Committee of Unsecured Creditors, Petitioners.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-12-02",
+   "notes": [],
+   "panelVisible": false,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "East Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/east",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "26-30101",
+       "caption": "Mario Cacho, Et Al. v. State of Louisiana, Appellant.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Eastern District of Louisiana, New Orleans",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-10265",
+       "caption": "Michael Torres, Appellant v. City of Fort Worth, Et Al.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-60119",
+       "caption": "Charles Slaughter, Appellant v. Daniel Edney; Mississippi Association for Home Care.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Southern District of Mississippi, Jackson",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "East Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "p",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/east",
+     "cases": [
+      {
+       "time": "12:00",
+       "docket": "26-20028",
+       "caption": "SandRidge, Appellant v. Beazley Insurance Company, Et Al.",
+       "nature": "Bankruptcy",
+       "natureClass": "bkr",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "12:00",
+       "docket": "25-30513",
+       "caption": "Latrice Walker, Et Al. v. Blake Hines, Et Al., Appellants.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Louisiana, Shreveport",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "12:00",
+       "docket": "26-60222",
+       "caption": "Toria Neal, Et Al. v. Derek Henderson, Appellant.",
+       "nature": "Bankruptcy",
+       "natureClass": "bkr",
+       "origin": "Northern District of Mississippi, Aberdeen",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "26-20063",
+       "caption": "USA v. Jamie Cruise, Appellant. (Cons. w/ No. 26-20193, USA v. Romello Burros, Appellant.)",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-50192",
+       "caption": "American Beverage Association, Et Al. v. Ken Paxton, Appellant.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, Waco",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-50012",
+       "caption": "Gloria Navarro, Et Al. v. Apolonio Gomez, Appellant.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, San Antonio",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-60604",
+       "caption": "USA v. Andrew Murphy, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Northern District of Mississippi, Aberdeen",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "p",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "13:00",
+       "docket": "26-20028",
+       "caption": "SandRidge, Appellant v. Beazley Insurance Company, Et Al.",
+       "nature": "Bankruptcy",
+       "natureClass": "bkr",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "13:00",
+       "docket": "25-30513",
+       "caption": "Latrice Walker, Et Al. v. Blake Hines, Et Al., Appellants.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Louisiana, Shreveport",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "13:00",
+       "docket": "26-60222",
+       "caption": "Toria Neal, Et Al. v. Derek Henderson, Appellant.",
+       "nature": "Bankruptcy",
+       "natureClass": "bkr",
+       "origin": "Northern District of Mississippi, Aberdeen",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-10537",
+       "caption": "USA v. Roberto Chairez, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Northern District of Texas, Dallas",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-11303",
+       "caption": "American Association of Cosmetology Schools, Et Al., Appellants v. United States Department of Education, Et Al.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-20236",
+       "caption": "Tracy Brown, Appellant v. Floyd Winkler, Et Al.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "265",
+     "amPm": "p",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "15:00",
+       "docket": "26-20106",
+       "caption": "Monique Mason-Kelly, Appellant v. Houston Independent School District, Et Al.",
+       "nature": "Employment",
+       "natureClass": "emp",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-12-03",
+   "notes": [],
+   "panelVisible": false,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "East Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/east",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-50262",
+       "caption": "USA v. Luis Muniz Espinoza, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Western District of Texas, Pecos",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-30709",
+       "caption": "USA v. Larry Mtchell, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Western District of Louisiana, Monroe",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-20437",
+       "caption": "Constance Joy II, Appellant-Appellee v. Stewart & Stevenson FDDA.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "East Courtroom",
+     "building": "223",
+     "amPm": "p",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/east",
+     "cases": [
+      {
+       "time": "13:00",
+       "docket": "23-70009",
+       "caption": "Terry Pitchford v. Burl Cain, Et Al., Appellants.",
+       "nature": "Habeas",
+       "natureClass": "hab",
+       "origin": "Northern District of Mississippi, Greenville",
+       "perSide": 30,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "East Courtroom",
+     "building": "223",
+     "amPm": "p",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/east",
+     "cases": [
+      {
+       "time": "16:00",
+       "docket": "25-11205",
+       "caption": "Promed, L.L.C., Appellant-Appellee v. Quintairos Prieto Wood & Boyer.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Northern District of Texas, Dallas",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-50567",
+       "caption": "Rogelio Carlos v. Carlos Chavez, Et Al., Appellants-Appellees v. City of San Antonio.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, San Antonio",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-30179",
+       "caption": "Michael DeSelle, Et Al., Appellants v. Lafayette City-Parish Consolidated Government.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Louisiana, Lafayette",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-11356",
+       "caption": "USA v. Marerllis Nix, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "23-60285",
+       "caption": "Nubia Yolani Marquez Villeda, Petitioner v. Todd Blanche. (Cons. w/ No. 26-60137)",
+       "nature": "Immigration",
+       "natureClass": "imm",
+       "origin": "Board of Immigration Appeals",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-50891",
+       "caption": "Book People, Et Al. v. Mike Morath, Appellant.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, Austin",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "notes": [],
+   "panelVisible": false,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "265",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-11302",
+       "caption": "Humana, Incorporated, Et Al., Appellants v. United States Department of Health and Human Services, Et Al.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": [
+  {
+   "year": 2026,
+   "months": [
+    {
+     "label": "Jan",
+     "href": "/court-calendars/month/2026/1",
+     "legacy": false
+    },
+    {
+     "label": "Feb",
+     "href": "/court-calendars/month/2026/2",
+     "legacy": false
+    },
+    {
+     "label": "Mar",
+     "href": "/court-calendars/month/2026/3",
+     "legacy": false
+    },
+    {
+     "label": "Apr",
+     "href": "/court-calendars/month/2026/4",
+     "legacy": false
+    },
+    {
+     "label": "May",
+     "href": "/court-calendars/month/2026/5",
+     "legacy": false
+    },
+    {
+     "label": "Jun",
+     "href": "/court-calendars/month/2026/6",
+     "legacy": false
+    },
+    {
+     "label": "Jul",
+     "href": "/court-calendars/month/2026/7",
+     "legacy": false
+    },
+    {
+     "label": "Aug",
+     "href": "/court-calendars/month/2026/8",
+     "legacy": false
+    },
+    {
+     "label": "Sep",
+     "href": "/court-calendars/month/2026/9",
+     "legacy": false
+    },
+    {
+     "label": "Oct",
+     "href": "/court-calendars/month/2026/10",
+     "legacy": false
+    },
+    {
+     "label": "Nov",
+     "href": "/court-calendars/month/2026/11",
+     "legacy": false
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "months": [
+    {
+     "label": "Jan",
+     "href": "/court-calendars/month/2025/1",
+     "legacy": false
+    },
+    {
+     "label": "Feb",
+     "href": "/court-calendars/month/2025/2",
+     "legacy": false
+    },
+    {
+     "label": "Mar",
+     "href": "/court-calendars/month/2025/3",
+     "legacy": false
+    },
+    {
+     "label": "Apr",
+     "href": "/court-calendars/month/2025/4",
+     "legacy": false
+    },
+    {
+     "label": "May",
+     "href": "/court-calendars/month/2025/5",
+     "legacy": false
+    },
+    {
+     "label": "Jun",
+     "href": "/court-calendars/month/2025/6",
+     "legacy": false
+    },
+    {
+     "label": "Jul",
+     "href": "/court-calendars/month/2025/7",
+     "legacy": false
+    },
+    {
+     "label": "Aug",
+     "href": "/court-calendars/month/2025/8",
+     "legacy": false
+    },
+    {
+     "label": "Sep",
+     "href": "/court-calendars/month/2025/9",
+     "legacy": false
+    },
+    {
+     "label": "Oct",
+     "href": "/court-calendars/month/2025/10",
+     "legacy": false
+    },
+    {
+     "label": "Nov",
+     "href": "/court-calendars/month/2025/11",
+     "legacy": false
+    },
+    {
+     "label": "Dec",
+     "href": "/court-calendars/month/2025/12",
+     "legacy": false
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "months": [
+    {
+     "label": "Jan",
+     "href": "/court-calendars/month/2024/1",
+     "legacy": false
+    },
+    {
+     "label": "Feb",
+     "href": "/court-calendars/month/2024/2",
+     "legacy": false
+    },
+    {
+     "label": "Mar",
+     "href": "/court-calendars/month/2024/3",
+     "legacy": false
+    },
+    {
+     "label": "Apr",
+     "href": "/court-calendars/month/2024/4",
+     "legacy": false
+    },
+    {
+     "label": "May",
+     "href": "/court-calendars/month/2024/5",
+     "legacy": false
+    },
+    {
+     "label": "Jun",
+     "href": "/court-calendars/month/2024/6",
+     "legacy": false
+    },
+    {
+     "label": "Jul",
+     "href": "/court-calendars/month/2024/7",
+     "legacy": false
+    },
+    {
+     "label": "Aug",
+     "href": "/court-calendars/month/2024/8",
+     "legacy": false
+    },
+    {
+     "label": "Sep",
+     "href": "/court-calendars/month/2024/9",
+     "legacy": false
+    },
+    {
+     "label": "Oct",
+     "href": "/court-calendars/month/2024/10",
+     "legacy": false
+    },
+    {
+     "label": "Nov",
+     "href": "/court-calendars/month/2024/11",
+     "legacy": false
+    },
+    {
+     "label": "Dec",
+     "href": "/court-calendars/month/2024/12",
+     "legacy": false
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "months": [
+    {
+     "label": "Jan",
+     "href": "/court-calendars/month/2023/1",
+     "legacy": false
+    },
+    {
+     "label": "Feb",
+     "href": "/court-calendars/month/2023/2",
+     "legacy": false
+    },
+    {
+     "label": "Mar",
+     "href": "/court-calendars/month/2023/3",
+     "legacy": false
+    },
+    {
+     "label": "Apr",
+     "href": "/court-calendars/month/2023/4",
+     "legacy": false
+    },
+    {
+     "label": "May",
+     "href": "/court-calendars/month/2023/5",
+     "legacy": false
+    },
+    {
+     "label": "Jun",
+     "href": "/court-calendars/month/2023/6",
+     "legacy": false
+    },
+    {
+     "label": "Jul",
+     "href": "/court-calendars/month/2023/7",
+     "legacy": false
+    },
+    {
+     "label": "Aug",
+     "href": "/court-calendars/month/2023/8",
+     "legacy": false
+    },
+    {
+     "label": "Sep",
+     "href": "/court-calendars/month/2023/9",
+     "legacy": false
+    },
+    {
+     "label": "Oct",
+     "href": "/court-calendars/month/2023/10",
+     "legacy": false
+    },
+    {
+     "label": "Nov",
+     "href": "/court-calendars/month/2023/11",
+     "legacy": false
+    },
+    {
+     "label": "Dec",
+     "href": "/court-calendars/month/2023/12",
+     "legacy": false
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "months": [
+    {
+     "label": "Jan",
+     "href": "/court-calendars/month/2022/1",
+     "legacy": false
+    },
+    {
+     "label": "Feb",
+     "href": "/court-calendars/month/2022/2",
+     "legacy": false
+    },
+    {
+     "label": "Mar",
+     "href": "/court-calendars/month/2022/3",
+     "legacy": false
+    },
+    {
+     "label": "Apr",
+     "href": "/court-calendars/month/2022/4",
+     "legacy": false
+    },
+    {
+     "label": "May",
+     "href": "/court-calendars/month/2022/5",
+     "legacy": false
+    },
+    {
+     "label": "Jun",
+     "href": "/court-calendars/month/2022/6",
+     "legacy": false
+    },
+    {
+     "label": "Jul",
+     "href": "/court-calendars/month/2022/7",
+     "legacy": false
+    },
+    {
+     "label": "Aug",
+     "href": "/court-calendars/month/2022/8",
+     "legacy": false
+    },
+    {
+     "label": "Sep",
+     "href": "/court-calendars/month/2022/9",
+     "legacy": false
+    },
+    {
+     "label": "Oct",
+     "href": "/court-calendars/month/2022/10",
+     "legacy": false
+    },
+    {
+     "label": "Nov",
+     "href": "/court-calendars/month/2022/11",
+     "legacy": false
+    },
+    {
+     "label": "Dec",
+     "href": "/court-calendars/month/2022/12",
+     "legacy": false
+    }
+   ]
+  },
+  {
+   "year": 2021,
+   "months": [
+    {
+     "label": "Jan",
+     "href": "/court-calendars/month/2021/1",
+     "legacy": false
+    },
+    {
+     "label": "Feb",
+     "href": "/court-calendars/month/2021/2",
+     "legacy": false
+    },
+    {
+     "label": "Mar",
+     "href": "/court-calendars/month/2021/3",
+     "legacy": false
+    },
+    {
+     "label": "Apr",
+     "href": "/court-calendars/month/2021/4",
+     "legacy": false
+    },
+    {
+     "label": "May",
+     "href": "/court-calendars/month/2021/5",
+     "legacy": false
+    },
+    {
+     "label": "Jun",
+     "href": "/court-calendars/month/2021/6",
+     "legacy": false
+    },
+    {
+     "label": "Jul",
+     "href": "/court-calendars/month/2021/7",
+     "legacy": false
+    },
+    {
+     "label": "Aug",
+     "href": "/court-calendars/month/2021/8",
+     "legacy": false
+    },
+    {
+     "label": "Sep",
+     "href": "/court-calendars/month/2021/9",
+     "legacy": false
+    },
+    {
+     "label": "Oct",
+     "href": "/court-calendars/month/2021/10",
+     "legacy": false
+    },
+    {
+     "label": "Nov",
+     "href": "/court-calendars/month/2021/11",
+     "legacy": false
+    },
+    {
+     "label": "Dec",
+     "href": "/court-calendars/month/2021/12",
+     "legacy": false
+    }
+   ]
+  },
+  {
+   "year": 2020,
+   "months": [
+    {
+     "label": "Jan",
+     "href": "/court-calendars/month/2020/1",
+     "legacy": false
+    },
+    {
+     "label": "Feb",
+     "href": "/court-calendars/month/2020/2",
+     "legacy": false
+    },
+    {
+     "label": "Mar",
+     "href": "/court-calendars/month/2020/3",
+     "legacy": false
+    },
+    {
+     "label": "Apr",
+     "href": "/court-calendars/month/2020/4",
+     "legacy": false
+    },
+    {
+     "label": "May",
+     "href": "/court-calendars/month/2020/5",
+     "legacy": false
+    },
+    {
+     "label": "Jun",
+     "href": "/court-calendars/month/2020/6",
+     "legacy": false
+    },
+    {
+     "label": "Jul",
+     "href": "/court-calendars/month/2020/7",
+     "legacy": false
+    },
+    {
+     "label": "Aug",
+     "href": "/court-calendars/month/2020/8",
+     "legacy": false
+    },
+    {
+     "label": "Sep",
+     "href": "/court-calendars/month/2020/9",
+     "legacy": false
+    },
+    {
+     "label": "Oct",
+     "href": "/court-calendars/month/2020/10",
+     "legacy": false
+    },
+    {
+     "label": "Nov",
+     "href": "/court-calendars/month/2020/11",
+     "legacy": false
+    },
+    {
+     "label": "Dec",
+     "href": "/court-calendars/month/2020/12",
+     "legacy": false
+    }
+   ]
+  },
+  {
+   "year": 2019,
+   "months": [
+    {
+     "label": "Jan",
+     "href": "/court-calendars/month/2019/1",
+     "legacy": false
+    },
+    {
+     "label": "Feb",
+     "href": "/court-calendars/month/2019/2",
+     "legacy": false
+    },
+    {
+     "label": "Mar",
+     "href": "/court-calendars/month/2019/3",
+     "legacy": false
+    },
+    {
+     "label": "Apr",
+     "href": "/court-calendars/month/2019/4",
+     "legacy": false
+    },
+    {
+     "label": "May",
+     "href": "/court-calendars/month/2019/5",
+     "legacy": false
+    },
+    {
+     "label": "Jun",
+     "href": "/court-calendars/month/2019/6",
+     "legacy": false
+    },
+    {
+     "label": "Jul",
+     "href": "/court-calendars/month/2019/7",
+     "legacy": false
+    },
+    {
+     "label": "Aug",
+     "href": "/court-calendars/month/2019/8",
+     "legacy": false
+    },
+    {
+     "label": "Sep",
+     "href": "/court-calendars/month/2019/9",
+     "legacy": false
+    },
+    {
+     "label": "Oct",
+     "href": "/court-calendars/month/2019/10",
+     "legacy": false
+    },
+    {
+     "label": "Nov",
+     "href": "/court-calendars/month/2019/11",
+     "legacy": false
+    },
+    {
+     "label": "Dec",
+     "href": "/court-calendars/month/2019/12",
+     "legacy": false
+    }
+   ]
+  },
+  {
+   "year": 2018,
+   "months": [
+    {
+     "label": "Jul",
+     "href": "/court-calendars/month/2018/7",
+     "legacy": false
+    },
+    {
+     "label": "Aug",
+     "href": "/court-calendars/month/2018/8",
+     "legacy": false
+    },
+    {
+     "label": "Sep",
+     "href": "/court-calendars/month/2018/9",
+     "legacy": false
+    },
+    {
+     "label": "Oct",
+     "href": "/court-calendars/month/2018/10",
+     "legacy": false
+    },
+    {
+     "label": "Nov",
+     "href": "/court-calendars/month/2018/11",
+     "legacy": false
+    },
+    {
+     "label": "Dec",
+     "href": "/court-calendars/month/2018/12",
+     "legacy": false
+    }
+   ]
+  }
+ ],
+ "archiveLegacyUrl": "/clerk/calendar/int-cal-arch.htm"
+}

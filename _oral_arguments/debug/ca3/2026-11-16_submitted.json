@@ -1,0 +1,34 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "d033d646-55d4-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "25-2504",
+  "ca3dev_caption": "USA v. Hector Ciprian"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "23dc6249-55d4-f111-a05a-001dd81166bf",
+  "ca3dev_casenumber": "25-2774",
+  "ca3dev_caption": "Sonnie Cooper v. USA"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "0aaa8a55-55d4-f111-a05a-001dd81166bf",
+  "ca3dev_casenumber": "25-3300",
+  "ca3dev_caption": "USA v. Oladapo Ogunbiyi"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "1baa8a55-55d4-f111-a05a-001dd81166bf",
+  "ca3dev_casenumber": "25-3326",
+  "ca3dev_caption": "Francisco  Gonzalez Ortiz v. Attorney General United States"
+ }
+]

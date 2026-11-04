@@ -1,0 +1,66 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "58f7d840-55d4-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "22-1741",
+  "ca3dev_caption": "Michael Balbosa v. Attorney General United States of America"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "3daa443d-55d4-f111-a05a-001dd81166bf",
+  "ca3dev_casenumber": "23-1008",
+  "ca3dev_caption": "Michael Balbosa v. Attorney General United States of America"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, BRANN",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "eb08a10f-b6d3-f111-a05a-001dd81166bf",
+  "ca3dev_casenumber": "25-3015",
+  "ca3dev_caption": "White Pine Insurance Company v. Chase's Auto Salvage LLC et"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "49dc6249-55d4-f111-a05a-001dd81166bf",
+  "ca3dev_casenumber": "25-3105",
+  "ca3dev_caption": "USA v. Robby Velazquez"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, BRANN",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "9fe09c11-b6d3-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-3242",
+  "ca3dev_caption": "Flavia Stovall v. James Grazioli et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "eb71f952-55d4-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "25-3419",
+  "ca3dev_caption": "USA v. Tonnaire  McNair-Matthews"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "8fba0b4e-55d4-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-3450",
+  "ca3dev_caption": "USA v. Brandon Rollines"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, BRANN",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "659d451e-b6d3-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "26-1022",
+  "ca3dev_caption": "Hector Tipan Lopez v. Attorney General United States of Amer"
+ }
+]

@@ -2,7 +2,7 @@
   "court": "scotus",
   "name": "Supreme Court of the United States",
   "term": "October Term 2026",
-  "generated_at": "2026-11-03T19:31:31+00:00",
+  "generated_at": "2026-11-04T01:25:06+00:00",
   "sources": [
     "https://www.supremecourt.gov/oral_arguments/calendarsandlists.aspx",
     "https://www.supremecourt.gov/oral_arguments/argument_audio/2026",
@@ -435,9 +435,9 @@
       "summary_source": "editor",
       "summary_checked": "2026-10-29",
       "note": "The United States argues as amicus in support of the petitioners.",
-      "argued": false,
+      "argued": true,
       "links": {
-        "recording": null,
+        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-581",
         "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-581",
         "live": "https://www.supremecourt.gov/",
         "qp": "https://www.supremecourt.gov/qp/25-00581qp.pdf",

@@ -1,0 +1,50 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "7bdc88f0-b3cb-f111-a05a-001dd804a68a",
+  "ca3dev_casenumber": "24-2759",
+  "ca3dev_caption": "USA v. Antoine Montgomery"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "e8e7c9f1-b3cb-f111-a05a-001dd804a354",
+  "ca3dev_casenumber": "25-1469",
+  "ca3dev_caption": "Ruben  Morales-Medina v. Attorney General United States of A"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "bc2856fe-b3cb-f111-a05a-001dd804a354",
+  "ca3dev_casenumber": "25-3145",
+  "ca3dev_caption": "USA v. Yanthonic Herrera"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "71c37404-b4cb-f111-a05a-001dd804a354",
+  "ca3dev_casenumber": "25-3224",
+  "ca3dev_caption": "Ruben Morales-Medina v. Attorney General United States of Am"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "10127c02-b4cb-f111-a05a-001dd804a68a",
+  "ca3dev_casenumber": "25-3409",
+  "ca3dev_caption": "USA v. Naquann Simmons"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "d29e0817-b4cb-f111-a05a-001dd804a354",
+  "ca3dev_casenumber": "25-3537",
+  "ca3dev_caption": "USA v. Michael Hochman"
+ }
+]

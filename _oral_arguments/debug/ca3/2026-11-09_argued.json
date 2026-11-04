@@ -1,0 +1,20 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 10:00am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "b52856fe-b3cb-f111-a05a-001dd804a354",
+  "ca3dev_casenumber": "25-3257",
+  "ca3dev_caption": "USA v. Eliot Gentry"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 10:00am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "7e799714-b4cb-f111-a05a-001dd804a68a",
+  "ca3dev_casenumber": "25-3582",
+  "ca3dev_caption": "Brian Callery et al  v. HOP Energy"
+ }
+]

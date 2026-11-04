@@ -1,0 +1,50 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "f54d1348-55d4-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-2682",
+  "ca3dev_caption": "Greicy Rodriguez-Ramirez v. Attorney General United States o"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "b033d646-55d4-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "25-2705",
+  "ca3dev_caption": "Timothy McLaughlin v. International Brotherhood of Teamsters"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "f14d1348-55d4-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-3096",
+  "ca3dev_caption": "USA v. Mark Herrick"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, MASCOTT",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "c7bc4db0-23d2-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "25-3256",
+  "ca3dev_caption": "Patrick Farrone v. Peter Acker et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "8644f258-55d4-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "25-3331",
+  "ca3dev_caption": "USA v. Markeith Johnson"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, MASCOTT",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "f798b9c3-23d2-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "26-1497",
+  "ca3dev_caption": "Ming Xi Zhang v. Attorney General United States of America"
+ }
+]

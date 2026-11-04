@@ -1,0 +1,42 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, MASCOTT",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "aeaeb2bd-23d2-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-2925",
+  "ca3dev_caption": "Lee Alexander v. Progressive Advanced Insurance Co et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, MASCOTT",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "d1748abd-23d2-f111-a05a-001dd81166bf",
+  "ca3dev_casenumber": "25-3508",
+  "ca3dev_caption": "Eliana  Tuyo Quispe v. Attorney General United States of Ame"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, MASCOTT",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "0698b9c3-23d2-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "26-1176",
+  "ca3dev_caption": "Emily Lee et al  v. County of Chester et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, MASCOTT",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "537f70c2-23d2-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "26-1326",
+  "ca3dev_caption": "Qiaomei  Li v. Attorney General United States of America"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, MASCOTT",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "2ce664bc-23d2-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "26-1435",
+  "ca3dev_caption": "Joshua White v. Progressive Advanced Insurance Co et al"
+ }
+]

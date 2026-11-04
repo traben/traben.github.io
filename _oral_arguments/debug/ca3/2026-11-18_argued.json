@@ -1,0 +1,65 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "ca3dev_locationtime": "Philadelphia, PA - Seitz Courtroom / 9:30am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "8adf7720-8cd3-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-2583",
+  "ca3dev_caption": "USA v. Dennis Nerolich"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, MASCOTT",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:00am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "cbe464bc-23d2-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "25-2903",
+  "ca3dev_caption": "FTC et al  v. American Future Systems Inc et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, MASCOTT",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:00 am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "c3bc4db0-23d2-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "25-3250",
+  "ca3dev_caption": "Thomas Neuberger et al  v. Cabinet Secretary Delaware Depart"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "ca3dev_locationtime": "Philadelphia, PA - Seitz Courtroom / 9:30am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "2977bc26-8cd3-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-3310",
+  "ca3dev_caption": "Sophia O'Neill v. Trustees of the University of Pennsylvania"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "ca3dev_locationtime": "Philadelphia, PA - Seitz Courtroom / 9:30am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "dda55535-8cd3-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "26-1015",
+  "ca3dev_caption": "Matthew Heckman v. North Penn Comprehensive Health Services"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, MASCOTT",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:00 am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "e697b9c3-23d2-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "26-1195",
+  "ca3dev_caption": "Loretta Flynn-Murphy et al  v. Jaguar Land Rover North Ameri"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, MASCOTT",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:00 am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "0899b9c3-23d2-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "26-1425",
+  "ca3dev_caption": "In re: Application of Maso Capital Investments"
+ }
+]

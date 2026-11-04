@@ -1,0 +1,29 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, BRANN",
+  "ca3dev_locationtime": "Harrisburg, PA - Courtroom 5A / 9:30am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "883b5105-b6d3-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-3212",
+  "ca3dev_caption": "USA v. Elinson Camacho"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, BRANN",
+  "ca3dev_locationtime": "Harrisburg, PA - Courtroom 5A / 9:30am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "bfa7d71b-b6d3-f111-a05a-001dd81166bf",
+  "ca3dev_casenumber": "26-1241",
+  "ca3dev_caption": "Kimberly Andrews v. New Vitae Inc"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, BRANN",
+  "ca3dev_locationtime": "Harrisburg, PA - Courtroom 5A / 9:30am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "3e962822-b6d3-f111-a05a-001dd81166bf",
+  "ca3dev_casenumber": "26-1515",
+  "ca3dev_caption": "Kelly Croley v. Jewish Residential Services Inc"
+ }
+]

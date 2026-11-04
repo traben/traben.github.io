@@ -1,0 +1,29 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:30am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "3f6e3ee6-ecd2-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-2888",
+  "ca3dev_caption": "Amy Wax v. Trustees of the University of Pennsylvania"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:30am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "856bc02c-8cd3-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-3269",
+  "ca3dev_caption": "Peter Kravitz v. Samson Energy Co LLC et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:30am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "0ea65535-8cd3-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "26-1014",
+  "ca3dev_caption": "Josh Shapiro et al  v. U.S. Department of Agriculture et al"
+ }
+]

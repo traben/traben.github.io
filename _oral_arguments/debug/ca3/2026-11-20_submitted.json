@@ -1,0 +1,58 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, BRANN",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "3cf8ebfd-b5d3-f111-a05a-001dd8116378",
+  "ca3dev_casenumber": "22-3464",
+  "ca3dev_caption": "USA v. Rodney Kent"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "24a51342-55d4-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-1006",
+  "ca3dev_caption": "USA v. Aron Puretz"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, BRANN",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "65f5760b-b6d3-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-3122",
+  "ca3dev_caption": "Sandra De La O-Montano et al  v. Attorney General United Sta"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, BRANN",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "f99d451e-b6d3-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "25-3567",
+  "ca3dev_caption": "Paul Qassis et al  v. Borough of Carlstadt"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "a9548561-55d4-f111-a05a-001dd81166bf",
+  "ca3dev_casenumber": "26-1078",
+  "ca3dev_caption": "Dennis Jackson et al  v. Allstate Indemnity Co."
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "HARDIMAN, MCKEE, AMBRO",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "fd311666-55d4-f111-a05a-001dd8116671",
+  "ca3dev_casenumber": "26-1095",
+  "ca3dev_caption": "Keidy Posada-Arriola et al  v. Attorney General United State"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, PORTER, BRANN",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "dc08a10f-b6d3-f111-a05a-001dd81166bf",
+  "ca3dev_casenumber": "26-1268",
+  "ca3dev_caption": "Adenike Ajayi v. Cula, LLC"
+ }
+]
