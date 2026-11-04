@@ -1,0 +1,1667 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Tell Internet Explorer not to use compatibility mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="CADC" content="no-cache">
+<meta name="robots" content="noindex">
+
+<meta http-equiv="CADC" content="no-cache">
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+
+<!-- Bootstrap - compiled and minified CSS, optional theme, compiled and minified JavaScript  -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+<!-- dataTables - jQuery plugins with row grouping  -->
+<link rel="stylesheet" href="css/dataTables.bootstrap.css">
+<script src="js/jquery.dataTables.min.js"></script>
+<script src="js/jquery.dataTables.rowGrouping.js"></script>
+<script src="js/dataTables.bootstrap.js"></script>
+<link rel="stylesheet" href="css/cadc.bootstrap.css">
+<link rel="stylesheet" href="css/loader.css">
+<script src="js/mastercalendar20260731.generic.js"></script>
+<script src="js/mastercalendar20210202.jquery.js"></script>
+<noscript><style>#calendarentries {visibility: visible;}  #loadingDiv {visibility: hidden;} </style></noscript>
+  <link rel="stylesheet" href="css/bootstrap-theme-brown.min.css">  <title>Oral Argument Calendar</title>
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- Begin navbar-->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+			</button> 
+			<a class="navbar-brand" href="https://www.cadc.uscourts.gov/"><span class="glyphicon glyphicon-home"></span></a>
+		</div>
+		<div class="collapse navbar-collapse" id="myNavbar">
+			<ul class="nav navbar-nav">
+				<li><a href="calendar.php?cal=TodaysSitting">Today's Sitting</a></li>
+				<li><a href="calendar.php?cal=FutureDates">Future Dates</a></li>
+				<li><a href="calendar.php?cal=EntireTerm">Entire Term</a></li>
+			</ul>
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="about.php"><span class="glyphicon glyphicon-info-sign"></span></a></li>
+			</ul>
+		</div>
+	</div>
+</nav>
+<!-- End navbar-->
+<!-- Begin Page Header -->
+<div class="page-header">
+	<div class="row">
+		<div class="col-xs-9">
+			<h3 id="pageTitle">Oral Argument Calendar -<small> 11/04/2026 through 06/30/2027</small></h3>
+		</div>
+		<div class="col-xs-3 text-right"><h3><small>As of:  11/03/2026</small></h3></div>
+	</div>
+</div>
+<!-- End Page Header -->
+
+
+<!-- Begin accordian -->
+<div class="panel-group hidden-print " id="accordion">
+	
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h4 class="panel-title">
+				<button id="filter" type="button" class="btn btn-default" data-toggle="collapse" data-target="#collapseOne">
+					<span class="glyphicon glyphicon-chevron-down"></span> Show Filters
+				</button>
+				<div id="selectedDates" class="label label-default">11/04/2026 to 06/30/2027</div>
+				<div id="selectedJudge" class="label label-default"></div>
+				<div id="selectedHideManual" class="label label-default"></div>
+			</h4>
+		</div>
+		
+		<div id="collapseOne" class="panel-collapse collapse">
+        	<div class="panel-body">
+				<div class="row">
+					<div class="col-sm-2 col-xs-4">Start Date:</div>
+					<div class="col-sm-2 col-xs-8">
+						<div class="form-group">
+							<div class="input-group">						
+								<input name="dspDateStart" value="11/04/2026" id="myDateStart" class="datepicker form-control"><label for="myDateStart" class="input-group-addon btn"><span class="glyphicon glyphicon-calendar"></span></label>
+							</div>
+						</div>
+					</div><!-- end of column -->
+					<div class="col-sm-offset-1 col-sm-2 col-xs-4">End Date:</div>
+					<div class="col-sm-2 col-xs-8">
+						<div class="form-group">
+							<div class="input-group">		
+								<input name="dspEndDate" value="06/30/2027" id="myDateEnd" class="datepicker form-control"><label for="myDateEnd" class="input-group-addon btn"><span class="glyphicon glyphicon-calendar"></span></label>
+							</div>
+						</div>
+					</div><!-- end of column -->
+					<div class="col-sm-3 col-xs-12 text-right">
+						<div class="form-group">
+							<button id="myDateSubmit" class="btn btn-default form-control" >Submit</button>
+						</div>
+					</div><!-- end of column -->
+				</div><!-- end of row -->
+			
+        		<div class="hidden">
+                            <input type="radio" name="narrowBy4" id="Master" value="Master" checked="true"/>
+                            <label for="Master" class="leftpad">Master</label>
+                            </div>
+        	</div><!-- end of panel-body -->
+		</div><!-- end of panel-collapse -->
+	</div><!-- end of panel -->
+</div>
+<!-- End accordian -->
+
+<div id="loaderArea"><div style="" id="loadingDiv"><div class="loader">Loading...</div></div></div>
+
+<!-- Must set the width attribute so Table resizes with window -->
+<table id="calendarentries" class="table" width="100%" >
+  <thead id="invisibleheader" class="invisible"><tr><th>1</th><th>2</th><th> 3 </th><th>4 </th><th>5 </th></tr></thead>
+  <tbody>
+        
+                    <tr id="26-5033">
+<td>{d '2026-11-05'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, November 5, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Rao, Childs, Rogers</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>1</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-5033</div>
+  <div class="col-xs-5">Paul Guertin v. USA</div>
+  <div class="col-xs-4">10 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Rao, Childs, Rogers</td>
+
+</tr>
+     
+    
+                    <tr id="25-5194">
+<td>{d '2026-11-05'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, November 5, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Rao, Childs, Rogers</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>2</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5194</div>
+  <div class="col-xs-5">In re:  Subpoena Issued to Pretrial Services Agency</div>
+  <div class="col-xs-4">10 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Rao, Childs, Rogers</td>
+
+</tr>
+     
+    
+                    <tr id="25-1123">
+<td>{d '2026-11-05'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, November 5, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Rao, Childs, Rogers</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>3</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-1123</div>
+  <div class="col-xs-5">Niagara Mohawk Power Corporation v. FERC</div>
+  <div class="col-xs-4">10 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Rao, Childs, Rogers</td>
+
+</tr>
+     
+    
+                    <tr id="25-5363">
+<td>{d '2026-11-06'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, November 6, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Srinivasan, Childs, Ginsburg</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>1</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5363</div>
+  <div class="col-xs-5">Louis D. Brandeis Center, Inc. v. EDUC</div>
+  <div class="col-xs-4">10 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Srinivasan, Childs, Ginsburg</td>
+
+</tr>
+     
+    
+                    <tr id="25-5279">
+<td>{d '2026-11-06'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, November 6, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Srinivasan, Childs, Ginsburg</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>2</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5279</div>
+  <div class="col-xs-5">Afghan and Iraqi Allies v. Marco Rubio</div>
+  <div class="col-xs-4">15 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Srinivasan, Childs, Ginsburg</td>
+
+</tr>
+     
+    
+                    <tr id="25-5189">
+<td>{d '2026-11-09'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Monday, November 9, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Rao, Childs, Pan</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>1</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5189</div>
+  <div class="col-xs-5">Prescript Pharmaceuticals, Inc. v. DOJ</div>
+  <div class="col-xs-4">10 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Rao, Childs, Pan</td>
+
+</tr>
+     
+    
+                    <tr id="25-1121">
+<td>{d '2026-11-09'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Monday, November 9, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Rao, Childs, Pan</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>2</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-1121</div>
+  <div class="col-xs-5">Prescript Pharmaceuticals, Inc. v. DEA</div>
+  <div class="col-xs-4">10 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Rao, Childs, Pan</td>
+
+</tr>
+     
+    
+                    <tr id="25-5432">
+<td>{d '2026-11-09'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Monday, November 9, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Rao, Childs, Pan</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>3</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5432</div>
+  <div class="col-xs-5">Andrea Conte v. FBI</div>
+  <div class="col-xs-4">10 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Rao, Childs, Pan</td>
+
+</tr>
+     
+    
+                    <tr id="25-5190">
+<td>{d '2026-11-10'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Tuesday, November 10, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Millett, Wilkins, Pan</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>1</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5190</div>
+  <div class="col-xs-5">Gottlieb Memorial Hospital v. Robert Kennedy, Jr.</div>
+  <div class="col-xs-4">10 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Millett, Wilkins, Pan</td>
+
+</tr>
+     
+    
+                    <tr id="25-7173">
+<td>{d '2026-11-10'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Tuesday, November 10, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Millett, Wilkins, Pan</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>2</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-7173</div>
+  <div class="col-xs-5">Jason McManus Holtzman v. Kunstmuseen Krefeld</div>
+  <div class="col-xs-4">10 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Millett, Wilkins, Pan</td>
+
+</tr>
+     
+    
+                    <tr id="26-1029">
+<td>{d '2026-11-10'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Tuesday, November 10, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Millett, Wilkins, Pan</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>3</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-1029</div>
+  <div class="col-xs-5">Mark Huff v. DEA</div>
+  <div class="col-xs-4">10 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Millett, Wilkins, Pan</td>
+
+</tr>
+     
+    
+                    <tr id="25-1182">
+<td>{d '2026-11-12'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, November 12, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Pillard, Wilkins, Katsas</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-1182</div>
+  <div class="col-xs-5">Sierra Club v. EPA</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Pillard, Wilkins, Katsas</td>
+
+</tr>
+     
+    
+                    <tr id="25-3118">
+<td>{d '2026-11-12'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, November 12, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Pillard, Wilkins, Katsas</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-3118</div>
+  <div class="col-xs-5">USA v. Daniel Kingery</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Pillard, Wilkins, Katsas</td>
+
+</tr>
+     
+    
+                    <tr id="25-7162">
+<td>{d '2026-11-12'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, November 12, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Pillard, Wilkins, Katsas</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-7162</div>
+  <div class="col-xs-5">Central American Bank for Economic Integration v. Dante Mossi</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Pillard, Wilkins, Katsas</td>
+
+</tr>
+     
+    
+                    <tr id="24-1361">
+<td>{d '2026-11-13'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, November 13, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Pillard, Wilkins, Randolph</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>1</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">24-1361</div>
+  <div class="col-xs-5">American Electric Power Service Corporation v. FERC</div>
+  <div class="col-xs-4">10 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Pillard, Wilkins, Randolph</td>
+
+</tr>
+     
+    
+                    <tr id="25-5196">
+<td>{d '2026-11-13'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, November 13, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Henderson, Pillard, Randolph</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>2</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5196</div>
+  <div class="col-xs-5">Michelle Murray v. Debbie Shaw</div>
+  <div class="col-xs-4">15 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Henderson, Pillard, Randolph</td>
+
+</tr>
+     
+    
+                    <tr id="26-7004">
+<td>{d '2026-11-13'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, November 13, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Henderson, Pillard, Randolph</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>3</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-7004</div>
+  <div class="col-xs-5">Michael Leach v. DC</div>
+  <div class="col-xs-4">10 minutes per side</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Henderson, Pillard, Randolph</td>
+
+</tr>
+     
+    
+                    <tr id="25-1119">
+<td>{d '2026-11-16'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Monday, November 16, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Henderson, Millett, Rogers</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-1119</div>
+  <div class="col-xs-5">Service Employees International Union v. NLRB</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Henderson, Millett, Rogers</td>
+
+</tr>
+     
+    
+                    <tr id="26-5253">
+<td>{d '2026-11-16'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Monday, November 16, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Henderson, Millett, Rogers</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-5253</div>
+  <div class="col-xs-5">New York Times Company v. DOD</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Henderson, Millett, Rogers</td>
+
+</tr>
+     
+    
+                    <tr id="26-5113">
+<td>{d '2026-11-16'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Monday, November 16, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Henderson, Millett, Rogers</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-5113</div>
+  <div class="col-xs-5">New York Times Company v. DOD</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Henderson, Millett, Rogers</td>
+
+</tr>
+     
+    
+                    <tr id="25-5268">
+<td>{d '2026-11-17'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Tuesday, November 17, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Henderson, Pillard, Edwards</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5268</div>
+  <div class="col-xs-5">Todd Harper v. Scott Bessent</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Henderson, Pillard, Edwards</td>
+
+</tr>
+     
+    
+                    <tr id="25-5185">
+<td>{d '2026-11-17'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Tuesday, November 17, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Henderson, Pillard, Edwards</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5185</div>
+  <div class="col-xs-5">United States Institute of Peace v. Kenneth Jackson</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Henderson, Pillard, Edwards</td>
+
+</tr>
+     
+    
+                    <tr id="25-5197">
+<td>{d '2026-11-17'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Tuesday, November 17, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Henderson, Pillard, Edwards</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5197</div>
+  <div class="col-xs-5">Travis LeBlanc v. United States Privacy and Civil Liberties</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Henderson, Pillard, Edwards</td>
+
+</tr>
+     
+    
+                    <tr id="26-7003">
+<td>{d '2026-11-19'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, November 19, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Walker, Garcia, Edwards</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-7003</div>
+  <div class="col-xs-5">Reade Whitney v. DC Soccer, LLC</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Walker, Garcia, Edwards</td>
+
+</tr>
+     
+    
+                    <tr id="25-1289">
+<td>{d '2026-11-19'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, November 19, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Walker, Garcia, Edwards</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-1289</div>
+  <div class="col-xs-5">USPS v. PRC</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Walker, Garcia, Edwards</td>
+
+</tr>
+     
+    
+                    <tr id="25-5415">
+<td>{d '2026-11-19'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, November 19, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Walker, Garcia, Edwards</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5415</div>
+  <div class="col-xs-5">Western Towboat Company v. NOAA</div>
+  <div class="col-xs-4">To be decided w/o argument pursuant to Rule 34(j)</div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Walker, Garcia, Edwards</td>
+
+</tr>
+     
+    
+                    <tr id="26-5238">
+<td>{d '2026-11-20'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, November 20, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Srinivasan, Katsas, Walker</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-5238</div>
+  <div class="col-xs-5">Jane Doe v. Todd Blanche</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Srinivasan, Katsas, Walker</td>
+
+</tr>
+     
+    
+                    <tr id="25-1144">
+<td>{d '2026-11-20'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, November 20, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Srinivasan, Katsas, Walker</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-1144</div>
+  <div class="col-xs-5">Salsa Solar Energy, LLC v. FERC</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Srinivasan, Katsas, Walker</td>
+
+</tr>
+     
+    
+                    <tr id="25-5397">
+<td>{d '2026-11-20'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, November 20, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Srinivasan, Katsas, Walker</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5397</div>
+  <div class="col-xs-5">Phillip Simon v. SSA</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Srinivasan, Katsas, Walker</td>
+
+</tr>
+     
+    
+                    <tr id="24-1053">
+<td>{d '2026-12-01'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Tuesday, December 1, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Millett, Pillard, Katsas</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">24-1053</div>
+  <div class="col-xs-5">Atlantic Veal and Lamb, LLC v. NLRB</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Millett, Pillard, Katsas</td>
+
+</tr>
+     
+    
+                    <tr id="26-5306">
+<td>{d '2026-12-01'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Tuesday, December 1, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Millett, Pillard, Katsas</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-5306</div>
+  <div class="col-xs-5">Tohono O'odham Nation v. Markwayne Mullin</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Millett, Pillard, Katsas</td>
+
+</tr>
+     
+    
+                    <tr id="25-3027">
+<td>{d '2026-12-01'} 20100 P.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Tuesday, December 1, 2026  1:00 P.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Millett, Pillard, Katsas</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-3027</div>
+  <div class="col-xs-5">In re:  Orlando Bell</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Millett, Pillard, Katsas</td>
+
+</tr>
+     
+    
+                    <tr id="25-1250">
+<td>{d '2026-12-03'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, December 3, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Henderson, Rao, Pan</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-1250</div>
+  <div class="col-xs-5">American Municipal Power, Inc. v. FERC</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Henderson, Rao, Pan</td>
+
+</tr>
+     
+    
+                    <tr id="25-5125">
+<td>{d '2026-12-03'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, December 3, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Henderson, Rao, Pan</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5125</div>
+  <div class="col-xs-5">Neurelis Inc. v. Martin Makary</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Henderson, Rao, Pan</td>
+
+</tr>
+     
+    
+                    <tr id="25-3115">
+<td>{d '2026-12-03'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, December 3, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i>Judges Henderson, Rao, Pan</i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-3115</div>
+  <div class="col-xs-5">USA v. Kevontae Stewart</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;">Judges Henderson, Rao, Pan</td>
+
+</tr>
+     
+    
+                    <tr id="26-1036">
+<td>{d '2026-12-07'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Monday, December 7, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-1036</div>
+  <div class="col-xs-5">Sierra Club v. DOE</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="26-7026">
+<td>{d '2026-12-07'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Monday, December 7, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-7026</div>
+  <div class="col-xs-5">National Railroad Passenger Corporation v. Sublease Interest Obtained Pursuant to an Assignm</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="25-3096">
+<td>{d '2026-12-07'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Monday, December 7, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-3096</div>
+  <div class="col-xs-5">USA v. Hachikosela Muchimba</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="26-8001">
+<td>{d '2026-12-08'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Tuesday, December 8, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-8001</div>
+  <div class="col-xs-5">In re:  DC</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="25-5403">
+<td>{d '2026-12-08'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Tuesday, December 8, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5403</div>
+  <div class="col-xs-5">Paul Radtke v. United States Bureau of Customs and Border Protec</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="26-7024">
+<td>{d '2026-12-08'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Tuesday, December 8, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-7024</div>
+  <div class="col-xs-5">Larry Klayman v. Julia Porter</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="25-1262">
+<td>{d '2026-12-10'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, December 10, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-1262</div>
+  <div class="col-xs-5">Advanced Power Alliance v. FERC</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="26-7045">
+<td>{d '2026-12-10'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, December 10, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-7045</div>
+  <div class="col-xs-5">Charmain Taylor v. Tarique Roberts</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="25-5455">
+<td>{d '2026-12-10'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, December 10, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5455</div>
+  <div class="col-xs-5">Cape Cod Charter Boat Association v. Douglas Burgum</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="26-1081">
+<td>{d '2026-12-11'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, December 11, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-1081</div>
+  <div class="col-xs-5">Mazen Mokhtar v. TSA</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="26-7033">
+<td>{d '2026-12-11'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, December 11, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-7033</div>
+  <div class="col-xs-5">Terry Robinson v. American National Red Cross</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="25-7103">
+<td>{d '2026-12-11'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, December 11, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-7103</div>
+  <div class="col-xs-5">In re:  Rail Freight Fuel Surcharge Antitrust Litigation</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="25-3066">
+<td>{d '2026-12-14'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Monday, December 14, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-3066</div>
+  <div class="col-xs-5">USA v. Shane Lamond</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="25-1001">
+<td>{d '2026-12-14'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Monday, December 14, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-1001</div>
+  <div class="col-xs-5">Hospital Espanol Auxilio Mutuo de Puerto Rico v. NLRB</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="26-7042">
+<td>{d '2026-12-14'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Monday, December 14, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-7042</div>
+  <div class="col-xs-5">Pao Tatneft v. Ukraine</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="26-5004">
+<td>{d '2026-12-17'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, December 17, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-5004</div>
+  <div class="col-xs-5">Paul Brundage v. Robert Kennedy, Jr.</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="25-1256">
+<td>{d '2026-12-17'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, December 17, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-1256</div>
+  <div class="col-xs-5">Whistleblower 20442-18W v. Cmsnr. IRS</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="26-7051">
+<td>{d '2026-12-17'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Thursday, December 17, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-7051</div>
+  <div class="col-xs-5">Maki Revend v. Masoud Barzani</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="25-5431">
+<td>{d '2026-12-18'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, December 18, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">25-5431</div>
+  <div class="col-xs-5">James Farmer v. EPA</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="26-1071">
+<td>{d '2026-12-18'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, December 18, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-1071</div>
+  <div class="col-xs-5">Southern Alliance for Clean Energy v. FERC</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+    
+                    <tr id="26-5021">
+<td>{d '2026-12-18'} 10930 A.M.  USCA Courtroom 31 0</td>
+
+<td>
+<div class="col-xs-12 col-sm-9">
+<div class="print-bold">Friday, December 18, 2026  9:30 A.M.  USCA Courtroom 31</div>
+<div class="col-xs-offset-1 "><i></i></div>
+</div>
+<div class="col-xs-12 col-sm-3 text-right">
+</div>
+</td>
+
+<td>9</td>
+
+<td>
+<div class="row">
+  <div class="col-xs-3">26-5021</div>
+  <div class="col-xs-5">Diane Klivington v. Department of the Air Force</div>
+  <div class="col-xs-4"></div>
+</div><!-- end of row -->
+</td>
+
+<td style="width: 1px; display: none;"></td>
+
+</tr>
+     
+      </tbody>
+</table>
+
+<div class="btn-group hidden-print extratoppadding" role="group">
+	<div class="btn-group" role="group">
+		<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Listen Live  <span class="caret"></span></button>
+		<ul class="dropdown-menu" role="menu">
+			<li><a href="https://www.youtube.com/USCourtsCADC"><span style="margin-right:10px" class="glyphicon glyphicon-headphones"></span> USCA Live Stream Oral Argument Cases</a></li>
+		</ul>
+	</div>
+        	<a class="btn btn-default" href="https://media.cadc.uscourts.gov/recordings/">
+		<span class="glyphicon glyphicon-book"></span> Archive of Recordings
+	</a>
+</div>
+<p class="extratoppadding">As of:  11/03/2026</p>
+</div><!-- end container div -->
+
+<div class="scroll-top-wrapper ">
+	<span class="scroll-top-inner">
+		<i class="glyphicon glyphicon-chevron-up"></i>
+	</span>
+</div>
+
+</body>
+</html>

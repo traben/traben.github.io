@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T01:33:39+00:00",
+ "generated_at": "2026-11-04T01:36:55+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -11,9 +11,262 @@
   "ca5",
   "ca6",
   "ca7",
-  "ca9"
+  "ca9",
+  "cadc",
+  "ca2"
  ],
  "cases": [
+  {
+   "id": "ca2-24-1024-2026-10-21",
+   "court": "ca2",
+   "docket": "24-1024, 24-2492",
+   "title": "United States of America v. Adrian Bradshaw",
+   "date": "2026-10-21",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Parker, Livingston, Pérez",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789135563",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-24-3286-2026-10-21",
+   "court": "ca2",
+   "docket": "24-3286",
+   "title": "Phoenix Fashion, Inc. v. Yakoub N. Saadia, et al",
+   "date": "2026-10-21",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Kearse, Chin, Kahn",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789138312",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1395-2026-10-21",
+   "court": "ca2",
+   "docket": "25-1395",
+   "title": "Kevin Alexander Orellana Posadas v. Todd Blanche",
+   "date": "2026-10-21",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Parker, Livingston, Pérez",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789135563",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1788-2026-10-21",
+   "court": "ca2",
+   "docket": "25-1788",
+   "title": "Roger W. Clarke, Jr. v. County of Suffolk, et al",
+   "date": "2026-10-21",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Kearse, Chin, Kahn",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789138312",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1792-2026-10-21",
+   "court": "ca2",
+   "docket": "25-1792",
+   "title": "Sebastien Funez Mene v. Kaja Funez Sokola",
+   "date": "2026-10-21",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Kearse, Chin, Kahn",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789138312",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1871-2026-10-21",
+   "court": "ca2",
+   "docket": "25-1871",
+   "title": "Wells Fargo Bank, N.A. v. The Estate of Cecile Gold",
+   "date": "2026-10-21",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Parker, Livingston, Pérez",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789135563",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2059-2026-10-21",
+   "court": "ca2",
+   "docket": "25-2059",
+   "title": "Estate of Russel Mechling v. U.S. Bank National Association }",
+   "date": "2026-10-21",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Parker, Livingston, Pérez",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789135563",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2176-2026-10-21",
+   "court": "ca2",
+   "docket": "25-2176",
+   "title": "Iasia Eaves v. Hub International Group Northeast, Inc.",
+   "date": "2026-10-21",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Kearse, Chin, Kahn",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789138312",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2825-2026-10-21",
+   "court": "ca2",
+   "docket": "25-2825",
+   "title": "Pastor Aden Rusfeldt v. City of New York, Stephen Hughes",
+   "date": "2026-10-21",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Parker, Livingston, Pérez",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789135563",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-664-2026-10-21",
+   "court": "ca2",
+   "docket": "25-664, 25-1541",
+   "title": "United States of America v. Glenn Griffin",
+   "date": "2026-10-21",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Kearse, Chin, Kahn",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789138312",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-931-2026-10-21",
+   "court": "ca2",
+   "docket": "25-931",
+   "title": "Jace R. Yzaguirre v. Dave Levin, Benny Vazquez, KIPP et al",
+   "date": "2026-10-21",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "5 min per side"
+   ],
+   "panel": "Parker, Livingston, Pérez",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789135563",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
   {
    "id": "ca8-25-2111-2026-10-21",
    "court": "ca8",
@@ -823,6 +1076,207 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "ca2-24-1611-2026-10-22",
+   "court": "ca2",
+   "docket": "24-1611",
+   "title": "GEICO Indemnity, et al v. Colin Clarke M.D., et al",
+   "date": "2026-10-22",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Nathan, Kahn",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=22&id=789139066",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1989-2026-10-22",
+   "court": "ca2",
+   "docket": "25-1989",
+   "title": "Rudolph R. Clark v. St. Lawrence County, et al",
+   "date": "2026-10-22",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Nathan, Kahn",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=22&id=789139066",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2216-2026-10-22",
+   "court": "ca2",
+   "docket": "25-2216",
+   "title": "De'Jon Hall, Dorethea Franklin, et al v. City of Buffalo, et al",
+   "date": "2026-10-22",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Nathan, Kahn",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=22&id=789139066",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2544-2026-10-22",
+   "court": "ca2",
+   "docket": "25-2544",
+   "title": "Josette Rodriguez v. United States of America, et al",
+   "date": "2026-10-22",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Nathan, Kahn",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=22&id=789139066",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1812-2026-10-22",
+   "court": "ca2",
+   "docket": "25-1812",
+   "title": "Roura Rosario v. United States Railroad Retirement Board",
+   "date": "2026-10-22",
+   "time_local": "11:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Livingston, Menashi, Schwartz",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=22&id=789135860",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2066-2026-10-22",
+   "court": "ca2",
+   "docket": "25-2066, 25-2196",
+   "title": "Zeta Charter Schools, Valence College Prep v. Linda McMahon, United States et al",
+   "date": "2026-10-22",
+   "time_local": "11:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Livingston, Menashi, Schwartz",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=22&id=789135860",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-244-2026-10-22",
+   "court": "ca2",
+   "docket": "25-244",
+   "title": "United States of America v. Kenneth Hoyt",
+   "date": "2026-10-22",
+   "time_local": "11:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Livingston, Menashi, Schwartz",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=22&id=789135860",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2554-2026-10-22",
+   "court": "ca2",
+   "docket": "25-2554",
+   "title": "Justin Mattera v. Westhampton Beach School District, et al",
+   "date": "2026-10-22",
+   "time_local": "11:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Livingston, Menashi, Schwartz",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=22&id=789135860",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2940-2026-10-22",
+   "court": "ca2",
+   "docket": "25-2940",
+   "title": "Todd C. Bank v. NFL Properties LLC",
+   "date": "2026-10-22",
+   "time_local": "11:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Livingston, Menashi, Schwartz",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=22&id=789135860",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca8-25-2140-2026-10-22",
@@ -1690,6 +2144,207 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
+   "id": "ca2-24-1940-2026-10-23",
+   "court": "ca2",
+   "docket": "24-1940",
+   "title": "In Re: Application of Moussy Salem",
+   "date": "2026-10-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Menashi, Kahn, Schwartz",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=23&id=789136122",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-24-3059-2026-10-23",
+   "court": "ca2",
+   "docket": "24-3059",
+   "title": "United States of America v. Wilfredo Rosado",
+   "date": "2026-10-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Lee, Nathan",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=23&id=789139425",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1665-2026-10-23",
+   "court": "ca2",
+   "docket": "25-1665",
+   "title": "National Credit Union Administration et al v. Alan Kaufman",
+   "date": "2026-10-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "5 min per side"
+   ],
+   "panel": "Lee, Nathan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=23&id=789139425",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1742-2026-10-23",
+   "court": "ca2",
+   "docket": "25-1742",
+   "title": "United States of America v. Corderro Jones",
+   "date": "2026-10-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Menashi, Kahn, Schwartz",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=23&id=789136122",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1993-2026-10-23",
+   "court": "ca2",
+   "docket": "25-1993",
+   "title": "Janet Jenkins v. Rena M. Lindevaldsen, Liberty et al",
+   "date": "2026-10-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Menashi, Kahn, Schwartz",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=23&id=789136122",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2241-2026-10-23",
+   "court": "ca2",
+   "docket": "25-2241",
+   "title": "Adam Margules v. Massachusetts Mutual Life Insurance, et al",
+   "date": "2026-10-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "14 min per side"
+   ],
+   "panel": "Lee, Nathan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=23&id=789139425",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2535-2026-10-23",
+   "court": "ca2",
+   "docket": "25-2535",
+   "title": "Paul McCartney, Craig Collopy, et al v. City of New York, Eric Adams, et al",
+   "date": "2026-10-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Menashi, Kahn, Schwartz",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=23&id=789136122",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3214-2026-10-23",
+   "court": "ca2",
+   "docket": "25-3214",
+   "title": "Northwell Health, Inc. v. Blue Cross and Blue Shield et al",
+   "date": "2026-10-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Lee, Nathan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=23&id=789139425",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-796-2026-10-23",
+   "court": "ca2",
+   "docket": "25-796",
+   "title": "United States of America v. Tony Kirik",
+   "date": "2026-10-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Lee, Nathan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=23&id=789139425",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca8-25-2712-2026-10-23",
    "court": "ca8",
    "docket": "25-2712",
@@ -2174,6 +2829,142 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "ca2-24-1192-2026-10-26",
+   "court": "ca2",
+   "docket": "24-1192",
+   "title": "Pamela Sava, et al v. Todd Blanche, Acting US Atty General",
+   "date": "2026-10-26",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Menashi, Merriam, Schwartz",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=26&id=788542270",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1118-2026-10-26",
+   "court": "ca2",
+   "docket": "25-1118, 25-1164",
+   "title": "United States of America v. Deborah Bowers",
+   "date": "2026-10-26",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "30 min per side"
+   ],
+   "panel": "Menashi, Merriam, Schwartz",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=26&id=788542270",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2528-2026-10-26",
+   "court": "ca2",
+   "docket": "25-2528",
+   "title": "Selma Moy v. Napoli Shkolnik, PLLC, et al",
+   "date": "2026-10-26",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Menashi, Merriam, Schwartz",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=26&id=788542270",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2727-2026-10-26",
+   "court": "ca2",
+   "docket": "25-2727",
+   "title": "A.H., V.B. v. New York City Dept. of Education",
+   "date": "2026-10-26",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Menashi, Merriam, Schwartz",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=26&id=788542270",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2747-2026-10-26",
+   "court": "ca2",
+   "docket": "25-2747",
+   "title": "Hector Gonzalez v. Port Authority of New York et al",
+   "date": "2026-10-26",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Menashi, Merriam, Schwartz",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=26&id=788542270",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-24-2529-2026-10-26",
+   "court": "ca2",
+   "docket": "24-2529",
+   "title": "United States of America v. James P. Fox",
+   "date": "2026-10-26",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Chin, Lee, Nathan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=26&id=788542423",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca7-22-2929-2026-10-26",
@@ -2789,6 +3580,117 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "ca2-23-6871-2026-10-27",
+   "court": "ca2",
+   "docket": "23-6871",
+   "title": "United States of America v. Brinae Thornton",
+   "date": "2026-10-27",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Carney, Park, Merriam",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=27&id=788542963",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-24-647-2026-10-27",
+   "court": "ca2",
+   "docket": "24-647, 24-2030, 24-1521",
+   "title": "United States of America v. Brandon Soto",
+   "date": "2026-10-27",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "12 min per side"
+   ],
+   "panel": "Carney, Park, Merriam",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=27&id=788542963",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1571-2026-10-27",
+   "court": "ca2",
+   "docket": "25-1571",
+   "title": "Marcus Stroud v. Stover, Warden, Federal Bureau of Prisons",
+   "date": "2026-10-27",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Carney, Park, Merriam",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=27&id=788542963",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-600-2026-10-27",
+   "court": "ca2",
+   "docket": "26-600",
+   "title": "John A. Mansour v. Morgan Stanley, et al",
+   "date": "2026-10-27",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Carney, Park, Merriam",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=27&id=788542963",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2418-2026-10-27",
+   "court": "ca2",
+   "docket": "25-2418, 25-2578",
+   "title": "Patrick M. McGrath v. Scottsdale Insurance Company",
+   "date": "2026-10-27",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Lohier, Ch.J., Carney, Merriam",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=27&id=788543125",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca4-24-1939-2026-10-27",
@@ -3510,6 +4412,138 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "ca2-22-3133-2026-10-28",
+   "court": "ca2",
+   "docket": "22-3133",
+   "title": "United States of America v. Joshua A. Schohn",
+   "date": "2026-10-28",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Carney, Park, Merriam",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=28&id=788547685",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-24-1376-2026-10-28",
+   "court": "ca2",
+   "docket": "24-1376, 24-2396, 24-2191",
+   "title": "United States of America v. Keily Nunez",
+   "date": "2026-10-28",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Carney, Park, Merriam",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=28&id=788547685",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1985-2026-10-28",
+   "court": "ca2",
+   "docket": "25-1985",
+   "title": "Gerald J. Peters v. City of Torrington, et al",
+   "date": "2026-10-28",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Carney, Park, Merriam",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=28&id=788547685",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2416-2026-10-28",
+   "court": "ca2",
+   "docket": "25-2416",
+   "title": "Ryan Morrison v. New York State Trooper Michael Strain, et al",
+   "date": "2026-10-28",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Carney, Park, Merriam",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=28&id=788547685",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2511-2026-10-28",
+   "court": "ca2",
+   "docket": "25-2511",
+   "title": "Nagi Quhshi v. Hartford Underwriters Insurance Company",
+   "date": "2026-10-28",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Carney, Park, Merriam",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=28&id=788547685",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-337-2026-10-28",
+   "court": "ca2",
+   "docket": "26-337",
+   "title": "Edna Silas Marungo v. Edmund Coletti, Kathleen Martucci, et al",
+   "date": "2026-10-28",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Carney, Park, Merriam",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=28&id=788547685",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca4-23-2012-2026-10-28",
@@ -4284,6 +5318,94 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "ca2-22-2885-2026-10-29",
+   "court": "ca2",
+   "docket": "22-2885",
+   "title": "United States of America v. Juan Taveras",
+   "date": "2026-10-29",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Livingston, Carney, Park",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=29&id=788547967",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2505-2026-10-29",
+   "court": "ca2",
+   "docket": "25-2505",
+   "title": "Scholastic Inc., v. St. Paul Fire and Marine Insurance Co.",
+   "date": "2026-10-29",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Livingston, Carney, Park",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=29&id=788547967",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2507-2026-10-29",
+   "court": "ca2",
+   "docket": "25-2507",
+   "title": "New York-Presbyterian Hospital v. New York State Nurses Association",
+   "date": "2026-10-29",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Carney, Park",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=29&id=793200584",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2863-2026-10-29",
+   "court": "ca2",
+   "docket": "25-2863",
+   "title": "United States Securities & Exchange Comm. v. Jill A. Dunn",
+   "date": "2026-10-29",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Livingston, Carney, Park",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=29&id=788547967",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca4-24-1533-2026-10-29",
@@ -5283,6 +6405,106 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "ca2-25-1763-2026-10-30",
+   "court": "ca2",
+   "docket": "25-1763",
+   "title": "Erron Lennon Alexander v. Todd Blanche, Acting US Atty General",
+   "date": "2026-10-30",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Carney, Park, Lee",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=30&id=788548250",
+    "live": "https://ww2.ca2.uscourts.gov/court.html",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/30/alexander_v._blanche_cl_4.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107293/alexander-v-blanche/"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2467-2026-10-30",
+   "court": "ca2",
+   "docket": "25-2467",
+   "title": "United States of America v. Maurice Yarborough",
+   "date": "2026-10-30",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Carney, Park, Lee",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=30&id=788548250",
+    "live": "https://ww2.ca2.uscourts.gov/court.html",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/30/united_states_v._yarborough_cl_5.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107290/united-states-v-yarborough/"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2644-2026-10-30",
+   "court": "ca2",
+   "docket": "25-2644",
+   "title": "Malvia M. Freckleton v. Ambulnz, NYLLC",
+   "date": "2026-10-30",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "5 min per side"
+   ],
+   "panel": "Carney, Park, Lee",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=30&id=788548250",
+    "live": "https://ww2.ca2.uscourts.gov/court.html",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/30/freckleton_v._ambulnz_ny_llc_cl_5.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107292/freckleton-v-ambulnz-ny-llc/"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-638-2026-10-30",
+   "court": "ca2",
+   "docket": "26-638",
+   "title": "Yeshiva Ohr Shraga Veretzky v. Town of Highland Zoning Board et al",
+   "date": "2026-10-30",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Carney, Park, Lee",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=30&id=788548250",
+    "live": "https://ww2.ca2.uscourts.gov/court.html",
+    "recording": "https://storage.courtlistener.com/mp3/2026/10/30/shraga_veretzky_v._town_of_highland_zoning_board_of_appeals_cl_5.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107291/shraga-veretzky-v-town-of-highland-zoning-board-of-appeals/"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca4-24-6528-2026-10-30",
@@ -6332,6 +7554,119 @@
    "live_note": null
   },
   {
+   "id": "ca2-25-1907-2026-11-02",
+   "court": "ca2",
+   "docket": "25-1907",
+   "title": "Gerald C. Prophete v. Haydee Acevedo-Smith, et al",
+   "date": "2026-11-02",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Walker, Jacobs, Bianco",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=2&id=789133520",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1922-2026-11-02",
+   "court": "ca2",
+   "docket": "25-1922",
+   "title": "United States of America v. Raheem Maldonado",
+   "date": "2026-11-02",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Walker, Jacobs, Bianco",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=2&id=789133520",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2487-2026-11-02",
+   "court": "ca2",
+   "docket": "25-2487, 25-2503",
+   "title": "Lian Wang v. Sammy Sussman, Vox Media et al",
+   "date": "2026-11-02",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Walker, Jacobs, Bianco",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=2&id=789133520",
+    "live": "https://ww2.ca2.uscourts.gov/court.html",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/02/wang_v._sussman_cl_5.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107319/wang-v-sussman/"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3042-2026-11-02",
+   "court": "ca2",
+   "docket": "25-3042",
+   "title": "Douglas Ivan Miranda Acosta v. Todd Blanche",
+   "date": "2026-11-02",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Walker, Jacobs, Bianco",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=2&id=789133520",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3192-2026-11-02",
+   "court": "ca2",
+   "docket": "25-3192",
+   "title": "Dongkyu Kim v. Anthony Scardino, Felician et al",
+   "date": "2026-11-02",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "5 min per side"
+   ],
+   "panel": "Walker, Jacobs, Bianco",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=2&id=789133520",
+    "live": "https://ww2.ca2.uscourts.gov/court.html",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/02/kim_v._state_of_new_jersey_cl_5.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107320/kim-v-state-of-new-jersey/"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca5-25-11060-2026-11-02",
    "court": "ca5",
    "docket": "25-11060",
@@ -7214,6 +8549,77 @@
     "recording_page": "https://www.courtlistener.com/audio/107353/united-states-v-charles-williams/"
    },
    "live_note": null
+  },
+  {
+   "id": "ca2-25-1556-2026-11-03",
+   "court": "ca2",
+   "docket": "25-1556",
+   "title": "Robert Ricketts v. Westwood Condominium et al",
+   "date": "2026-11-03",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Walker, Jacobs, Bianco",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=3&id=789134153",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-773-2026-11-03",
+   "court": "ca2",
+   "docket": "25-773, 25-786",
+   "title": "United States of America v. Ikechukwu Udeokoro, Ayodeji Fasonu",
+   "date": "2026-11-03",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Walker, Jacobs, Bianco",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=3&id=789134153",
+    "live": "https://ww2.ca2.uscourts.gov/court.html",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/united_states_v._udeokoro_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107351/united-states-v-udeokoro/"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-113-2026-11-03",
+   "court": "ca2",
+   "docket": "26-113",
+   "title": "Yes I can Licensed Behavior et al v. Green Tree Capital, LLC, et al",
+   "date": "2026-11-03",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Walker, Jacobs, Bianco",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=3&id=789134153",
+    "live": "https://ww2.ca2.uscourts.gov/court.html",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/yes_i_can_licensed_behavior_analyst_pllc_v._green_tree_capital_llc_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107350/yes-i-can-licensed-behavior-analyst-pllc-v-green-tree-capital-llc/"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca3-24-9002-2026-11-03",
@@ -8507,6 +9913,142 @@
    "live_note": null
   },
   {
+   "id": "ca2-24-2477-2026-11-04",
+   "court": "ca2",
+   "docket": "24-2477",
+   "title": "United States of America v. Joshua Saunders",
+   "date": "2026-11-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "5 min per side"
+   ],
+   "panel": "Walker, Lynch, Bianco",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=4&id=789134681",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2032-2026-11-04",
+   "court": "ca2",
+   "docket": "25-2032",
+   "title": "Ako K. Burrell v. Hill, Vesenske, J. Bullock, et al",
+   "date": "2026-11-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Walker, Lynch, Bianco",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=4&id=789134681",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2530-2026-11-04",
+   "court": "ca2",
+   "docket": "25-2530",
+   "title": "Liberty Mutual Fire Insurance et al v. Ategrity Specialty Insurance et al",
+   "date": "2026-11-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Walker, Lynch, Bianco",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=4&id=789134681",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2640-2026-11-04",
+   "court": "ca2",
+   "docket": "25-2640, 25-2794",
+   "title": "ICON International, Inc., et al v. Elevation Health LLC",
+   "date": "2026-11-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Walker, Lynch, Bianco",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=4&id=789134681",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3151-2026-11-04",
+   "court": "ca2",
+   "docket": "25-3151",
+   "title": "Massapequa Union Free School et al v. New York State Board of Regents, et al }",
+   "date": "2026-11-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "6 min per side"
+   ],
+   "panel": "Walker, Lynch, Bianco",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=4&id=789134681",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3221-2026-11-04",
+   "court": "ca2",
+   "docket": "25-3221",
+   "title": "Native American Guardian's et al v. New York State Borad of Regents, et al }",
+   "date": "2026-11-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "6 min per side"
+   ],
+   "panel": "Walker, Lynch, Bianco",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=4&id=789134681",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca5-24-40799-2026-11-04",
    "court": "ca5",
    "docket": "24-40799",
@@ -9718,6 +11260,75 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
+   "id": "cadc-25-1123-2026-11-05",
+   "court": "cadc",
+   "docket": "25-1123",
+   "title": "Niagara Mohawk Power Corporation v. FERC",
+   "date": "2026-11-05",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 minutes per side"
+   ],
+   "panel": "Rao, Childs, Rogers",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-5194-2026-11-05",
+   "court": "cadc",
+   "docket": "25-5194",
+   "title": "In re: Subpoena Issued to Pretrial Services Agency",
+   "date": "2026-11-05",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 minutes per side"
+   ],
+   "panel": "Rao, Childs, Rogers",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-5033-2026-11-05",
+   "court": "cadc",
+   "docket": "26-5033",
+   "title": "Paul Guertin v. USA",
+   "date": "2026-11-05",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 minutes per side"
+   ],
+   "panel": "Rao, Childs, Rogers",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
    "id": "cafc-25-1293-2026-11-05",
    "court": "cafc",
    "docket": "25-1293",
@@ -10358,6 +11969,52 @@
    "live_note": "The 7th Circuit streams arguments live on YouTube."
   },
   {
+   "id": "cadc-25-5279-2026-11-06",
+   "court": "cadc",
+   "docket": "25-5279",
+   "title": "Afghan and Iraqi Allies v. Marco Rubio",
+   "date": "2026-11-06",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "15 minutes per side"
+   ],
+   "panel": "Srinivasan, Childs, Ginsburg",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-5363-2026-11-06",
+   "court": "cadc",
+   "docket": "25-5363",
+   "title": "Louis D. Brandeis Center, Inc. v. EDUC",
+   "date": "2026-11-06",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 minutes per side"
+   ],
+   "panel": "Srinivasan, Childs, Ginsburg",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
    "id": "cafc-25-1545-2026-11-06",
    "court": "cafc",
    "docket": "25-1545",
@@ -10876,6 +12533,75 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
+   "id": "cadc-25-1121-2026-11-09",
+   "court": "cadc",
+   "docket": "25-1121",
+   "title": "Prescript Pharmaceuticals, Inc. v. DEA",
+   "date": "2026-11-09",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 minutes per side"
+   ],
+   "panel": "Rao, Childs, Pan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-5189-2026-11-09",
+   "court": "cadc",
+   "docket": "25-5189",
+   "title": "Prescript Pharmaceuticals, Inc. v. DOJ",
+   "date": "2026-11-09",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 minutes per side"
+   ],
+   "panel": "Rao, Childs, Pan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-5432-2026-11-09",
+   "court": "cadc",
+   "docket": "25-5432",
+   "title": "Andrea Conte v. FBI",
+   "date": "2026-11-09",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 minutes per side"
+   ],
+   "panel": "Rao, Childs, Pan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
    "id": "cafc-24-1894-2026-11-09",
    "court": "cafc",
    "docket": "24-1894",
@@ -11385,6 +13111,75 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
+   "id": "cadc-25-5190-2026-11-10",
+   "court": "cadc",
+   "docket": "25-5190",
+   "title": "Gottlieb Memorial Hospital v. Robert Kennedy, Jr.",
+   "date": "2026-11-10",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 minutes per side"
+   ],
+   "panel": "Millett, Wilkins, Pan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-7173-2026-11-10",
+   "court": "cadc",
+   "docket": "25-7173",
+   "title": "Jason McManus Holtzman v. Kunstmuseen Krefeld",
+   "date": "2026-11-10",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 minutes per side"
+   ],
+   "panel": "Millett, Wilkins, Pan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-1029-2026-11-10",
+   "court": "cadc",
+   "docket": "26-1029",
+   "title": "Mark Huff v. DEA",
+   "date": "2026-11-10",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 minutes per side"
+   ],
+   "panel": "Millett, Wilkins, Pan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
    "id": "ca7-25-2955-2026-11-12",
    "court": "ca7",
    "docket": "25-2955",
@@ -11533,6 +13328,138 @@
     "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-2473&incOrigDkt=Y&incDktEntries=Y"
    },
    "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "cadc-25-1182-2026-11-12",
+   "court": "cadc",
+   "docket": "25-1182",
+   "title": "Sierra Club v. EPA",
+   "date": "2026-11-12",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Pillard, Wilkins, Katsas",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-3118-2026-11-12",
+   "court": "cadc",
+   "docket": "25-3118",
+   "title": "USA v. Daniel Kingery",
+   "date": "2026-11-12",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Pillard, Wilkins, Katsas",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-7162-2026-11-12",
+   "court": "cadc",
+   "docket": "25-7162",
+   "title": "Central American Bank for Economic Integration v. Dante Mossi",
+   "date": "2026-11-12",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Pillard, Wilkins, Katsas",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-24-1361-2026-11-13",
+   "court": "cadc",
+   "docket": "24-1361",
+   "title": "American Electric Power Service Corporation v. FERC",
+   "date": "2026-11-13",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 minutes per side"
+   ],
+   "panel": "Pillard, Wilkins, Randolph",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-5196-2026-11-13",
+   "court": "cadc",
+   "docket": "25-5196",
+   "title": "Michelle Murray v. Debbie Shaw",
+   "date": "2026-11-13",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "15 minutes per side"
+   ],
+   "panel": "Henderson, Pillard, Randolph",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-7004-2026-11-13",
+   "court": "cadc",
+   "docket": "26-7004",
+   "title": "Michael Leach v. DC",
+   "date": "2026-11-13",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 minutes per side"
+   ],
+   "panel": "Henderson, Pillard, Randolph",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
    "id": "ca10-25-1347-2026-11-16",
@@ -13325,6 +15252,69 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "cadc-25-1119-2026-11-16",
+   "court": "cadc",
+   "docket": "25-1119",
+   "title": "Service Employees International Union v. NLRB",
+   "date": "2026-11-16",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Henderson, Millett, Rogers",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-5113-2026-11-16",
+   "court": "cadc",
+   "docket": "26-5113",
+   "title": "New York Times Company v. DOD",
+   "date": "2026-11-16",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Henderson, Millett, Rogers",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-5253-2026-11-16",
+   "court": "cadc",
+   "docket": "26-5253",
+   "title": "New York Times Company v. DOD",
+   "date": "2026-11-16",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Henderson, Millett, Rogers",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
    "id": "ca10-24-4110-2026-11-17",
@@ -15348,6 +17338,69 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "cadc-25-5185-2026-11-17",
+   "court": "cadc",
+   "docket": "25-5185",
+   "title": "United States Institute of Peace v. Kenneth Jackson",
+   "date": "2026-11-17",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Henderson, Pillard, Edwards",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-5197-2026-11-17",
+   "court": "cadc",
+   "docket": "25-5197",
+   "title": "Travis LeBlanc v. United States Privacy and Civil Liberties",
+   "date": "2026-11-17",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Henderson, Pillard, Edwards",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-5268-2026-11-17",
+   "court": "cadc",
+   "docket": "25-5268",
+   "title": "Todd Harper v. Scott Bessent",
+   "date": "2026-11-17",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Henderson, Pillard, Edwards",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
    "id": "ca10-25-1295-2026-11-18",
@@ -18907,6 +20960,71 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
+   "id": "cadc-25-1289-2026-11-19",
+   "court": "cadc",
+   "docket": "25-1289",
+   "title": "USPS v. PRC",
+   "date": "2026-11-19",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Walker, Garcia, Edwards",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-5415-2026-11-19",
+   "court": "cadc",
+   "docket": "25-5415",
+   "title": "Western Towboat Company v. NOAA",
+   "date": "2026-11-19",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "To be decided w/o argument pursuant to Rule 34(j)"
+   ],
+   "panel": "Walker, Garcia, Edwards",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-7003-2026-11-19",
+   "court": "cadc",
+   "docket": "26-7003",
+   "title": "Reade Whitney v. DC Soccer, LLC",
+   "date": "2026-11-19",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Walker, Garcia, Edwards",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
    "id": "ca3-22-3464-2026-11-20",
    "court": "ca3",
    "docket": "22-3464",
@@ -20073,6 +22191,69 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
+   "id": "cadc-25-1144-2026-11-20",
+   "court": "cadc",
+   "docket": "25-1144",
+   "title": "Salsa Solar Energy, LLC v. FERC",
+   "date": "2026-11-20",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Srinivasan, Katsas, Walker",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-5397-2026-11-20",
+   "court": "cadc",
+   "docket": "25-5397",
+   "title": "Phillip Simon v. SSA",
+   "date": "2026-11-20",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Srinivasan, Katsas, Walker",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-5238-2026-11-20",
+   "court": "cadc",
+   "docket": "26-5238",
+   "title": "Jane Doe v. Todd Blanche",
+   "date": "2026-11-20",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Srinivasan, Katsas, Walker",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
    "id": "ca5-25-11102-2026-11-30",
    "court": "ca5",
    "docket": "25-11102",
@@ -20743,6 +22924,69 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "cadc-24-1053-2026-12-01",
+   "court": "cadc",
+   "docket": "24-1053",
+   "title": "Atlantic Veal and Lamb, LLC v. NLRB",
+   "date": "2026-12-01",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Millett, Pillard, Katsas",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-5306-2026-12-01",
+   "court": "cadc",
+   "docket": "26-5306",
+   "title": "Tohono O'odham Nation v. Markwayne Mullin",
+   "date": "2026-12-01",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Millett, Pillard, Katsas",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-3027-2026-12-01",
+   "court": "cadc",
+   "docket": "25-3027",
+   "title": "In re: Orlando Bell",
+   "date": "2026-12-01",
+   "time_local": "13:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Millett, Pillard, Katsas",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
    "id": "ca5-25-10537-2026-12-02",
@@ -21584,6 +23828,69 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "cadc-25-1250-2026-12-03",
+   "court": "cadc",
+   "docket": "25-1250",
+   "title": "American Municipal Power, Inc. v. FERC",
+   "date": "2026-12-03",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Henderson, Rao, Pan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-3115-2026-12-03",
+   "court": "cadc",
+   "docket": "25-3115",
+   "title": "USA v. Kevontae Stewart",
+   "date": "2026-12-03",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Henderson, Rao, Pan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-5125-2026-12-03",
+   "court": "cadc",
+   "docket": "25-5125",
+   "title": "Neurelis Inc. v. Martin Makary",
+   "date": "2026-12-03",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Henderson, Rao, Pan",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
    "id": "ca5-25-11302-2026-12-04",
@@ -22814,6 +25121,69 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "cadc-25-3096-2026-12-07",
+   "court": "cadc",
+   "docket": "25-3096",
+   "title": "USA v. Hachikosela Muchimba",
+   "date": "2026-12-07",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-1036-2026-12-07",
+   "court": "cadc",
+   "docket": "26-1036",
+   "title": "Sierra Club v. DOE",
+   "date": "2026-12-07",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-7026-2026-12-07",
+   "court": "cadc",
+   "docket": "26-7026",
+   "title": "National Railroad Passenger Corporation v. Sublease Interest Obtained Pursuant to an Assignm",
+   "date": "2026-12-07",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
    "id": "cafc-24-1817-2026-12-07",
@@ -24724,6 +27094,69 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "cadc-25-5403-2026-12-08",
+   "court": "cadc",
+   "docket": "25-5403",
+   "title": "Paul Radtke v. United States Bureau of Customs and Border Protec",
+   "date": "2026-12-08",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-7024-2026-12-08",
+   "court": "cadc",
+   "docket": "26-7024",
+   "title": "Larry Klayman v. Julia Porter",
+   "date": "2026-12-08",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-8001-2026-12-08",
+   "court": "cadc",
+   "docket": "26-8001",
+   "title": "In re: DC",
+   "date": "2026-12-08",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
    "id": "cafc-24-2377-2026-12-08",
@@ -27991,6 +30424,69 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
+   "id": "cadc-25-1262-2026-12-10",
+   "court": "cadc",
+   "docket": "25-1262",
+   "title": "Advanced Power Alliance v. FERC",
+   "date": "2026-12-10",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-5455-2026-12-10",
+   "court": "cadc",
+   "docket": "25-5455",
+   "title": "Cape Cod Charter Boat Association v. Douglas Burgum",
+   "date": "2026-12-10",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-7045-2026-12-10",
+   "court": "cadc",
+   "docket": "26-7045",
+   "title": "Charmain Taylor v. Tarique Roberts",
+   "date": "2026-12-10",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
    "id": "cafc-26-1575-2026-12-10",
    "court": "cafc",
    "docket": "26-1575",
@@ -29098,6 +31594,69 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
+   "id": "cadc-25-7103-2026-12-11",
+   "court": "cadc",
+   "docket": "25-7103",
+   "title": "In re: Rail Freight Fuel Surcharge Antitrust Litigation",
+   "date": "2026-12-11",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-1081-2026-12-11",
+   "court": "cadc",
+   "docket": "26-1081",
+   "title": "Mazen Mokhtar v. TSA",
+   "date": "2026-12-11",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-7033-2026-12-11",
+   "court": "cadc",
+   "docket": "26-7033",
+   "title": "Terry Robinson v. American National Red Cross",
+   "date": "2026-12-11",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
    "id": "cafc-25-1155-2026-12-11",
    "court": "cafc",
    "docket": "25-1155",
@@ -29318,6 +31877,69 @@
    "live_note": null
   },
   {
+   "id": "cadc-25-1001-2026-12-14",
+   "court": "cadc",
+   "docket": "25-1001",
+   "title": "Hospital Espanol Auxilio Mutuo de Puerto Rico v. NLRB",
+   "date": "2026-12-14",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-3066-2026-12-14",
+   "court": "cadc",
+   "docket": "25-3066",
+   "title": "USA v. Shane Lamond",
+   "date": "2026-12-14",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-7042-2026-12-14",
+   "court": "cadc",
+   "docket": "26-7042",
+   "title": "Pao Tatneft v. Ukraine",
+   "date": "2026-12-14",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
    "id": "cafc-26-1960-2026-12-14",
    "court": "cafc",
    "docket": "26-1960",
@@ -29422,6 +32044,132 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "cadc-25-1256-2026-12-17",
+   "court": "cadc",
+   "docket": "25-1256",
+   "title": "Whistleblower 20442-18W v. Cmsnr. IRS",
+   "date": "2026-12-17",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-5004-2026-12-17",
+   "court": "cadc",
+   "docket": "26-5004",
+   "title": "Paul Brundage v. Robert Kennedy, Jr.",
+   "date": "2026-12-17",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-7051-2026-12-17",
+   "court": "cadc",
+   "docket": "26-7051",
+   "title": "Maki Revend v. Masoud Barzani",
+   "date": "2026-12-17",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-25-5431-2026-12-18",
+   "court": "cadc",
+   "docket": "25-5431",
+   "title": "James Farmer v. EPA",
+   "date": "2026-12-18",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-1071-2026-12-18",
+   "court": "cadc",
+   "docket": "26-1071",
+   "title": "Southern Alliance for Clean Energy v. FERC",
+   "date": "2026-12-18",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "cadc-26-5021-2026-12-18",
+   "court": "cadc",
+   "docket": "26-5021",
+   "title": "Diane Klivington v. Department of the Air Force",
+   "date": "2026-12-18",
+   "time_local": "09:30",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "USCA Courtroom 31",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+   },
+   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
    "id": "ca9-20-70844-2027-01-11",
@@ -31675,5 +34423,7 @@
    }
   }
  ],
- "manual_refreshed": {}
+ "manual_refreshed": {
+  "cadc": "2026-11-04T01:36:05+00:00"
+ }
 }
