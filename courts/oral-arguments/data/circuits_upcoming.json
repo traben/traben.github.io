@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T01:36:55+00:00",
+ "generated_at": "2026-11-04T03:48:18+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -11020,6 +11020,94 @@
    "live_note": null
   },
   {
+   "id": "ca2-25-2472-2026-11-05",
+   "court": "ca2",
+   "docket": "25-2472",
+   "title": "Nancy M. Espinal Lora v. Cowan Intermodal Group LLC, et al",
+   "date": "2026-11-05",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Parker, Lynch, Nardini",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=5&id=789134983",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2978-2026-11-05",
+   "court": "ca2",
+   "docket": "25-2978",
+   "title": "Maura O'Neill v. NYU Langone Hospital - Long Island",
+   "date": "2026-11-05",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "6 min per side"
+   ],
+   "panel": "Parker, Nardini",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=5&id=793290118",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-376-2026-11-05",
+   "court": "ca2",
+   "docket": "25-376",
+   "title": "Natividad Pomavilla Falcon, et al v. Todd Blanche",
+   "date": "2026-11-05",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Parker, Lynch, Nardini",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=5&id=789134983",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-565-2026-11-05",
+   "court": "ca2",
+   "docket": "25-565, 25-777",
+   "title": "United States of America v. Jacob Carter",
+   "date": "2026-11-05",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "20 min per side"
+   ],
+   "panel": "Parker, Lynch, Nardini",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=5&id=789134983",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca5-25-60458-2026-11-05",
    "court": "ca5",
    "docket": "25-60458",
@@ -11869,6 +11957,96 @@
    "live_note": null
   },
   {
+   "id": "ca2-24-2352-2026-11-06",
+   "court": "ca2",
+   "docket": "24-2352",
+   "title": "Curt Herrera v. United States of America",
+   "date": "2026-11-06",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Parker, Lynch, Nardini",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=6&id=789135278",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2342-2026-11-06",
+   "court": "ca2",
+   "docket": "25-2342",
+   "title": "Aetna Life Insurance Company v. Board of Trustees of the AGMA et al",
+   "date": "2026-11-06",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Parker, Lynch, Nardini",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=6&id=789135278",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-286-2026-11-06",
+   "court": "ca2",
+   "docket": "25-286",
+   "title": "United States of America v. Roberto Morales Sanchez",
+   "date": "2026-11-06",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "Parker, Lynch, Nardini",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=6&id=789135278",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-667-2026-11-06",
+   "court": "ca2",
+   "docket": "25-667",
+   "title": "Alec Soybel, Galina Kaminker, et al v. The City of New York, et al",
+   "date": "2026-11-06",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "Parker, Lynch, Nardini",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=6&id=789135278",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca7-25-1693-2026-11-06",
    "court": "ca7",
    "docket": "25-1693",
@@ -12213,6 +12391,73 @@
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
    },
    "live_note": null
+  },
+  {
+   "id": "ca2-25-2108-2026-11-09",
+   "court": "ca2",
+   "docket": "25-2108",
+   "title": "Sixty Lower East Side, LLC, et al v. Margaret Betts",
+   "date": "2026-11-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=9&id=790791015",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2547-2026-11-09",
+   "court": "ca2",
+   "docket": "25-2547",
+   "title": "Merary Yamileth Mejia Diaz v. Todd Blanche",
+   "date": "2026-11-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "8 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=9&id=790791015",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2608-2026-11-09",
+   "court": "ca2",
+   "docket": "25-2608",
+   "title": "United States of America v. Robert W. Atkins",
+   "date": "2026-11-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=9&id=790791015",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca3-24-3063-2026-11-09",
@@ -12962,6 +13207,75 @@
    "live_note": null
   },
   {
+   "id": "ca2-25-121-2026-11-10",
+   "court": "ca2",
+   "docket": "25-121, 25-227",
+   "title": "United States of America v. Yong Zhu",
+   "date": "2026-11-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "14 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=10&id=789143108",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1239-2026-11-10",
+   "court": "ca2",
+   "docket": "25-1239",
+   "title": "Derrick White v. Julie Wolcott, et al",
+   "date": "2026-11-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=10&id=789143108",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2821-2026-11-10",
+   "court": "ca2",
+   "docket": "25-2821",
+   "title": "Curtis T. Arata v. Standard Lithium Ltd., et al",
+   "date": "2026-11-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=10&id=789143108",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca3-24-2759-2026-11-10",
    "court": "ca3",
    "docket": "24-2759",
@@ -13180,6 +13494,119 @@
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
+   "id": "ca2-24-2949-2026-11-12",
+   "court": "ca2",
+   "docket": "24-2949",
+   "title": "United States of America v. Genaro Garcia Luna",
+   "date": "2026-11-12",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=12&id=789143750",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-24-3212-2026-11-12",
+   "court": "ca2",
+   "docket": "24-3212",
+   "title": "Lorenzo Martinez v. Thomas Duquin, et al",
+   "date": "2026-11-12",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=12&id=789143750",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2813-2026-11-12",
+   "court": "ca2",
+   "docket": "25-2813",
+   "title": "The Central Orthopedic Group, LLP } v. Aetna Life Insurance Company ]",
+   "date": "2026-11-12",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=12&id=789143750",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2814-2026-11-12",
+   "court": "ca2",
+   "docket": "25-2814",
+   "title": "The Central Orthopedic Group, LLP } v. Aetna Life Insurance Company ]",
+   "date": "2026-11-12",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=12&id=789143750",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-603-2026-11-12",
+   "court": "ca2",
+   "docket": "25-603",
+   "title": "United States Securities & Exchange et al v. Joseph M. Laura, Anthony R. Schenzio",
+   "date": "2026-11-12",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=12&id=789143750",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca7-25-2955-2026-11-12",
    "court": "ca7",
    "docket": "25-2955",
@@ -13391,6 +13818,117 @@
     "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
    },
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
+  },
+  {
+   "id": "ca2-25-1505-2026-11-13",
+   "court": "ca2",
+   "docket": "25-1505",
+   "title": "United States of America v. Jason Galanis",
+   "date": "2026-11-13",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=13&id=789144239",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1585-2026-11-13",
+   "court": "ca2",
+   "docket": "25-1585",
+   "title": "United States of America v. Malcolm Hogue",
+   "date": "2026-11-13",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=13&id=789144239",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-186-2026-11-13",
+   "court": "ca2",
+   "docket": "25-186",
+   "title": "Danny Reynoso v. Postmaster General David Steiner",
+   "date": "2026-11-13",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=13&id=789144239",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2605-2026-11-13",
+   "court": "ca2",
+   "docket": "25-2605",
+   "title": "Peter Wilds v. The Board of Education of the City et al",
+   "date": "2026-11-13",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=13&id=789144239",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-12-2026-11-13",
+   "court": "ca2",
+   "docket": "26-12",
+   "title": "Paul West v. City of Hartford",
+   "date": "2026-11-13",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "8 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=13&id=789144239",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "cadc-24-1361-2026-11-13",
@@ -14021,6 +14559,140 @@
     "live": "https://video.ibm.com/channel/62DDAa3dN7z"
    },
    "live_note": null
+  },
+  {
+   "id": "ca2-25-1212-2026-11-16",
+   "court": "ca2",
+   "docket": "25-1212",
+   "title": "Shixuan Luo v. AIK Renovation Inc., et al",
+   "date": "2026-11-16",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "5 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=16&id=790791882",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2209-2026-11-16",
+   "court": "ca2",
+   "docket": "25-2209",
+   "title": "Dalila Yeend, et al v. Akima Global Services, et al",
+   "date": "2026-11-16",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=16&id=790791882",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-629-2026-11-16",
+   "court": "ca2",
+   "docket": "25-629",
+   "title": "United States of America v. Devaughn Holmes",
+   "date": "2026-11-16",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=16&id=790791882",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-2427-2026-11-16",
+   "court": "ca2",
+   "docket": "26-2427",
+   "title": "People of the State of New York v. Donald Trump",
+   "date": "2026-11-16",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=16&id=790791882",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-49-2026-11-16",
+   "court": "ca2",
+   "docket": "26-49",
+   "title": "In Re: GOL Linhas Aereas Inteligentes S.A.",
+   "date": "2026-11-16",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=16&id=790791882",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-870-2026-11-16",
+   "court": "ca2",
+   "docket": "26-870",
+   "title": "Charles Paul Amara v. Jonathan Hattenrath, et al",
+   "date": "2026-11-16",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=16&id=790791882",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca3-25-2504-2026-11-16",
@@ -15871,6 +16543,75 @@
     "live": "https://video.ibm.com/channel/62DDAa3dN7z"
    },
    "live_note": null
+  },
+  {
+   "id": "ca2-25-1965-2026-11-17",
+   "court": "ca2",
+   "docket": "25-1965, 25-2114",
+   "title": "United States of America v. Sean Falzarano",
+   "date": "2026-11-17",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=17&id=790793252",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2612-2026-11-17",
+   "court": "ca2",
+   "docket": "25-2612",
+   "title": "John Doe v. United States SEC",
+   "date": "2026-11-17",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=17&id=790793252",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-846-2026-11-17",
+   "court": "ca2",
+   "docket": "26-846",
+   "title": "Theresa Collins",
+   "date": "2026-11-17",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=17&id=790793252",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca3-25-2682-2026-11-17",
@@ -17849,6 +18590,140 @@
    "live_note": null
   },
   {
+   "id": "ca2-23-6708-2026-11-18",
+   "court": "ca2",
+   "docket": "23-6708",
+   "title": "United States of America v. Mark Roman",
+   "date": "2026-11-18",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=18&id=790795811",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1451-2026-11-18",
+   "court": "ca2",
+   "docket": "25-1451, 26-340",
+   "title": "Martine Thomas, et al v. David C. Banks, et al",
+   "date": "2026-11-18",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=18&id=790795811",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1711-2026-11-18",
+   "court": "ca2",
+   "docket": "25-1711",
+   "title": "Royce Corley v. United States of America",
+   "date": "2026-11-18",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=18&id=790795811",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2067-2026-11-18",
+   "court": "ca2",
+   "docket": "25-2067",
+   "title": "Wendy A. Blum, Ilene G. Fattore v. David L. Heller, Esq., et al",
+   "date": "2026-11-18",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=18&id=790795811",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2921-2026-11-18",
+   "court": "ca2",
+   "docket": "25-2921",
+   "title": "Wendy A. Blum, Ilene G. Fattore v. David Lee Heller, Ellen Heller",
+   "date": "2026-11-18",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=18&id=790795811",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-703-2026-11-18",
+   "court": "ca2",
+   "docket": "26-703",
+   "title": "Jane Doe v. The Bank of New York Mellon Corp.",
+   "date": "2026-11-18",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=18&id=790795811",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca3-25-2925-2026-11-18",
    "court": "ca3",
    "docket": "25-2925",
@@ -19626,6 +20501,98 @@
    "live_note": null
   },
   {
+   "id": "ca2-24-3010-2026-11-19",
+   "court": "ca2",
+   "docket": "24-3010, 24-193, 24-85, 24-3115",
+   "title": "Christine Levinson, et al v. Kuwait Finance House Berhad",
+   "date": "2026-11-19",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=19&id=790796673",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1848-2026-11-19",
+   "court": "ca2",
+   "docket": "25-1848",
+   "title": "Alroy Richards v. Mount Sinai South Nassau, et al",
+   "date": "2026-11-19",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=19&id=790796673",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2159-2026-11-19",
+   "court": "ca2",
+   "docket": "25-2159",
+   "title": "United States of America v. Bilal Nagi",
+   "date": "2026-11-19",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=19&id=790796673",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2536-2026-11-19",
+   "court": "ca2",
+   "docket": "25-2536",
+   "title": "New York City Fire et al v. Coupang, Inc., et al",
+   "date": "2026-11-19",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=19&id=790796673",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca3-22-1741-2026-11-19",
    "court": "ca3",
    "docket": "22-1741",
@@ -21025,6 +21992,96 @@
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
+   "id": "ca2-25-1668-2026-11-20",
+   "court": "ca2",
+   "docket": "25-1668",
+   "title": "United States of America v. Tyler Hayes",
+   "date": "2026-11-20",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=20&id=790799590",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3083-2026-11-20",
+   "court": "ca2",
+   "docket": "25-3083",
+   "title": "Canandaigua National Corporation v. Board of Governors of the Federal et al",
+   "date": "2026-11-20",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=20&id=790799590",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-233-2026-11-20",
+   "court": "ca2",
+   "docket": "26-233",
+   "title": "In Re: Rock 51 LLC",
+   "date": "2026-11-20",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=20&id=790799590",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-60-2026-11-20",
+   "court": "ca2",
+   "docket": "26-60",
+   "title": "Juice Creative Group LLC v. UncommonGood, Inc.",
+   "date": "2026-11-20",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=20&id=790799590",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca3-22-3464-2026-11-20",
    "court": "ca3",
    "docket": "22-3464",
@@ -22254,6 +23311,433 @@
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
+   "id": "ca2-25-2339-2026-11-23",
+   "court": "ca2",
+   "docket": "25-2339",
+   "title": "United States of America v. Andris Pukke",
+   "date": "2026-11-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=23&id=790087039",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2694-2026-11-23",
+   "court": "ca2",
+   "docket": "25-2694",
+   "title": "Junsai Xu v. Teneo, Young, Ellison, et al",
+   "date": "2026-11-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "5 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=23&id=790087039",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2750-2026-11-23",
+   "court": "ca2",
+   "docket": "25-2750",
+   "title": "Elias Feuer v. James R. Murphy",
+   "date": "2026-11-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=23&id=790087039",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-941-2026-11-23",
+   "court": "ca2",
+   "docket": "26-941",
+   "title": "Wampus Mills, LLC, The Byram et al v. Town of North Castle }",
+   "date": "2026-11-23",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=23&id=790087039",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-24-1620-2026-11-24",
+   "court": "ca2",
+   "docket": "24-1620",
+   "title": "United States of America v. Michael Mungin",
+   "date": "2026-11-24",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=24&id=790087313",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1718-2026-11-24",
+   "court": "ca2",
+   "docket": "25-1718",
+   "title": "United States of America v. Richard Dale Sterritt, Jr.",
+   "date": "2026-11-24",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=24&id=790087313",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2981-2026-11-24",
+   "court": "ca2",
+   "docket": "25-2981",
+   "title": "Slawomir Bronakowski, Alicja et al v. Todd Blanche",
+   "date": "2026-11-24",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=24&id=790087313",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-2516-2026-11-24",
+   "court": "ca2",
+   "docket": "26-2516",
+   "title": "Cumulus Media New Holdings, Inc. v. The Nielsen Company (US), LLC",
+   "date": "2026-11-24",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=24&id=790087313",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-264-2026-11-24",
+   "court": "ca2",
+   "docket": "26-264",
+   "title": "Seth Goldstein v. Gabbit, LLC",
+   "date": "2026-11-24",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=24&id=790087313",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-24-2489-2026-11-25",
+   "court": "ca2",
+   "docket": "24-2489",
+   "title": "United States of America v. Michael Palleschi",
+   "date": "2026-11-25",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=25&id=790087684",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1294-2026-11-25",
+   "court": "ca2",
+   "docket": "25-1294",
+   "title": "United States of America v. Teimuraz Tavberidze",
+   "date": "2026-11-25",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=25&id=790087684",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1900-2026-11-25",
+   "court": "ca2",
+   "docket": "25-1900",
+   "title": "United States of America v. Jorge Arias",
+   "date": "2026-11-25",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=25&id=790087684",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2244-2026-11-25",
+   "court": "ca2",
+   "docket": "25-2244",
+   "title": "Carman Williams v. New York City Board of Elections, et al",
+   "date": "2026-11-25",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=25&id=790087684",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2475-2026-11-25",
+   "court": "ca2",
+   "docket": "25-2475",
+   "title": "Old Gate Partners, LLC v. Paddock Enterprises, LLC",
+   "date": "2026-11-25",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=25&id=790087684",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-909-2026-11-25",
+   "court": "ca2",
+   "docket": "26-909",
+   "title": "Trucking Association of New York v. Metropolitan Transportation et al",
+   "date": "2026-11-25",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=25&id=790087684",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2927-2026-11-30",
+   "court": "ca2",
+   "docket": "25-2927",
+   "title": "United States of America v. Timothy Goetze",
+   "date": "2026-11-30",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=30&id=790785007",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-127-2026-11-30",
+   "court": "ca2",
+   "docket": "26-127",
+   "title": "Julissa Crespo, et al v. Melissa Aviles-Ramos, et al",
+   "date": "2026-11-30",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=30&id=790785007",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-385-2026-11-30",
+   "court": "ca2",
+   "docket": "26-385",
+   "title": "In Re: Wythe Berry Fee Owner LLC",
+   "date": "2026-11-30",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=30&id=790785007",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-403-2026-11-30",
+   "court": "ca2",
+   "docket": "26-403",
+   "title": "Arthur Samodovitz v. Shirley Troutman, Madeline Singas et al",
+   "date": "2026-11-30",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=30&id=790785007",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca5-25-11102-2026-11-30",
    "court": "ca5",
    "docket": "25-11102",
@@ -22468,6 +23952,96 @@
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
+  },
+  {
+   "id": "ca2-25-1534-2026-12-01",
+   "court": "ca2",
+   "docket": "25-1534",
+   "title": "United States of America v. Thierry Antoine",
+   "date": "2026-12-01",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=1&id=790785236",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2774-2026-12-01",
+   "court": "ca2",
+   "docket": "25-2774",
+   "title": "Celedonio Aguilar Flores, et al v. Todd Blanche, United States et al",
+   "date": "2026-12-01",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=1&id=790785236",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3177-2026-12-01",
+   "court": "ca2",
+   "docket": "25-3177",
+   "title": "Clayton Wilson v. Connecticut Department of Public et al",
+   "date": "2026-12-01",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "8 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=1&id=790785236",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-521-2026-12-01",
+   "court": "ca2",
+   "docket": "26-521",
+   "title": "Jong Bu Wang v. Keeper Holdings, Inc., et al",
+   "date": "2026-12-01",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=1&id=790785236",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca5-25-30653-2026-12-01",
@@ -22989,6 +24563,140 @@
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
+   "id": "ca2-25-1565-2026-12-02",
+   "court": "ca2",
+   "docket": "25-1565",
+   "title": "Maryam Alhariri v. Marco Rubio, et al",
+   "date": "2026-12-02",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=2&id=790785672",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2084-2026-12-02",
+   "court": "ca2",
+   "docket": "25-2084",
+   "title": "Tecnotubi S.p.A v. Tex-Isle Supply Inc., et al",
+   "date": "2026-12-02",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=2&id=790785672",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2394-2026-12-02",
+   "court": "ca2",
+   "docket": "25-2394",
+   "title": "Jorge Rafael Arita-Almendarez v. Todd Blanche",
+   "date": "2026-12-02",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=2&id=790785672",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2504-2026-12-02",
+   "court": "ca2",
+   "docket": "25-2504",
+   "title": "Matthew Ronen v. FlipCx, Inc., Brian Schriff, et al",
+   "date": "2026-12-02",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=2&id=790785672",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3063-2026-12-02",
+   "court": "ca2",
+   "docket": "25-3063",
+   "title": "Jianqiao Lu v. George Hermans, et al",
+   "date": "2026-12-02",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=2&id=790785672",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3258-2026-12-02",
+   "court": "ca2",
+   "docket": "25-3258, 26-57",
+   "title": "United States of America v. David DeGrasse",
+   "date": "2026-12-02",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=2&id=790785672",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca5-25-10537-2026-12-02",
    "court": "ca5",
    "docket": "25-10537",
@@ -23466,6 +25174,119 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
+   "id": "ca2-24-2184-2026-12-03",
+   "court": "ca2",
+   "docket": "24-2184",
+   "title": "Al Washer v. Wallesca Penz",
+   "date": "2026-12-03",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=3&id=790786007",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2297-2026-12-03",
+   "court": "ca2",
+   "docket": "25-2297",
+   "title": "Jerome Smith v. Mark Miller et al",
+   "date": "2026-12-03",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=3&id=790786007",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2372-2026-12-03",
+   "court": "ca2",
+   "docket": "25-2372",
+   "title": "Haitian Evangelical Clergy, et al v. Donald J. Trump, et al",
+   "date": "2026-12-03",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=3&id=790786007",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-620-2026-12-03",
+   "court": "ca2",
+   "docket": "25-620",
+   "title": "United States of America v. Mustafa Kamel Mustafa",
+   "date": "2026-12-03",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=3&id=790786007",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-589-2026-12-03",
+   "court": "ca2",
+   "docket": "26-589",
+   "title": "Rosemary Korines v. Qutoutiao Inc., et al",
+   "date": "2026-12-03",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=3&id=790786007",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca5-23-60285-2026-12-03",
    "court": "ca5",
    "docket": "23-60285",
@@ -23893,6 +25714,119 @@
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
+   "id": "ca2-25-2232-2026-12-04",
+   "court": "ca2",
+   "docket": "25-2232, 25-2287",
+   "title": "Pradeep B. Gupte v. Uber Technologies, Inc.",
+   "date": "2026-12-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "5 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=4&id=790786220",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2758-2026-12-04",
+   "court": "ca2",
+   "docket": "25-2758",
+   "title": "Aubrey Drake Graham v. UMG Recordings Inc.",
+   "date": "2026-12-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=4&id=790786220",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2926-2026-12-04",
+   "court": "ca2",
+   "docket": "25-2926",
+   "title": "United States of America v. Brian Mejia",
+   "date": "2026-12-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "5 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=4&id=790786220",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2952-2026-12-04",
+   "court": "ca2",
+   "docket": "25-2952",
+   "title": "Leticia Morales, Saul Sanchez Ocampo v. Todd Blanche",
+   "date": "2026-12-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=4&id=790786220",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-261-2026-12-04",
+   "court": "ca2",
+   "docket": "26-261",
+   "title": "Dr. Joel F. Levy, D.D.S. v. Penn Mutual Life Insurance et al",
+   "date": "2026-12-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=4&id=790786220",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca5-25-11302-2026-12-04",
    "court": "ca5",
    "docket": "25-11302",
@@ -24046,6 +25980,232 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "ca2-23-7094-2026-12-07",
+   "court": "ca2",
+   "docket": "23-7094",
+   "title": "Hardip Mannu v.Todd Blanchhe, US Atty General",
+   "date": "2026-12-07",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=7&id=792089435",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-24-2738-2026-12-07",
+   "court": "ca2",
+   "docket": "24-2738, 25-2572",
+   "title": "Seagrape Investors LLC v. Kaleil Isaza Tuzman, KIT Capital et al",
+   "date": "2026-12-07",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=7&id=792088028",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1923-2026-12-07",
+   "court": "ca2",
+   "docket": "25-1923",
+   "title": "United States of America v. Bruce Morris",
+   "date": "2026-12-07",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=7&id=792089435",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2469-2026-12-07",
+   "court": "ca2",
+   "docket": "25-2469",
+   "title": "Ben Umeze, MD v. New York State Department, et al }",
+   "date": "2026-12-07",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "6 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=7&id=792088028",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3047-2026-12-07",
+   "court": "ca2",
+   "docket": "25-3047",
+   "title": "Marisol Arroyo-Castro v. Anthony Gasper, et al",
+   "date": "2026-12-07",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=7&id=792088028",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3079-2026-12-07",
+   "court": "ca2",
+   "docket": "25-3079",
+   "title": "Jane Doe v. Tracki, Inc., Trackimo, Inc., et al",
+   "date": "2026-12-07",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=7&id=792088028",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3105-2026-12-07",
+   "court": "ca2",
+   "docket": "25-3105",
+   "title": "United States of America v. Javon Wright",
+   "date": "2026-12-07",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=7&id=792088028",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3220-2026-12-07",
+   "court": "ca2",
+   "docket": "25-3220",
+   "title": "Scott Bierce v. Rossana Rosado, et al",
+   "date": "2026-12-07",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=7&id=792089435",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-249-2026-12-07",
+   "court": "ca2",
+   "docket": "26-249",
+   "title": "Richard Rosato v. City of Yonkers",
+   "date": "2026-12-07",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=7&id=792089435",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-56-2026-12-07",
+   "court": "ca2",
+   "docket": "26-56",
+   "title": "Vincent Artis v. Phelps Memorial Hospital Association, et al",
+   "date": "2026-12-07",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "5 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=7&id=792089435",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca9-20-70296-2026-12-07",
@@ -25544,6 +27704,184 @@
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
    },
    "live_note": null
+  },
+  {
+   "id": "ca2-24-1860-2026-12-08",
+   "court": "ca2",
+   "docket": "24-1860",
+   "title": "Thomas Hubiack v. Ajay Kochhar, et al",
+   "date": "2026-12-08",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=8&id=792090087",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2142-2026-12-08",
+   "court": "ca2",
+   "docket": "25-2142",
+   "title": "Hope Clough v. Daniel Richardson, et al",
+   "date": "2026-12-08",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=8&id=792088299",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2169-2026-12-08",
+   "court": "ca2",
+   "docket": "25-2169",
+   "title": "United States of America v. Cristal Starling",
+   "date": "2026-12-08",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=8&id=792090087",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2180-2026-12-08",
+   "court": "ca2",
+   "docket": "25-2180",
+   "title": "David Louis Whitehead v. The Walt Disney Co., et al",
+   "date": "2026-12-08",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "5 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=8&id=792090087",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3138-2026-12-08",
+   "court": "ca2",
+   "docket": "25-3138",
+   "title": "United States of America v. Shawntell Rush",
+   "date": "2026-12-08",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=8&id=792088299",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3142-2026-12-08",
+   "court": "ca2",
+   "docket": "25-3142",
+   "title": "United States of America v. Jonathan Joshua Munafo",
+   "date": "2026-12-08",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=8&id=792090087",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-926-2026-12-08",
+   "court": "ca2",
+   "docket": "25-926",
+   "title": "Richard Ryan v. Earl Bell, et al",
+   "date": "2026-12-08",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=8&id=792088299",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-51-2026-12-08",
+   "court": "ca2",
+   "docket": "26-51",
+   "title": "Manta Industries Ltd. v. Paul P. Law, Lourdes Law",
+   "date": "2026-12-08",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=8&id=792088299",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca4-24-4676-2026-12-08",
@@ -27419,6 +29757,230 @@
    "live_note": null
   },
   {
+   "id": "ca2-25-1356-2026-12-09",
+   "court": "ca2",
+   "docket": "25-1356",
+   "title": "Dongmei Li v. Richard Peck, Town of Fairfield }",
+   "date": "2026-12-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "6 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=9&id=792088636",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1918-2026-12-09",
+   "court": "ca2",
+   "docket": "25-1918",
+   "title": "Sherrance Henderson, Cornucopia et al v. Golden Corral Franchising Systems, Inc.",
+   "date": "2026-12-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=9&id=792090784",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2217-2026-12-09",
+   "court": "ca2",
+   "docket": "25-2217",
+   "title": "United States of America v. Michael W. Landon",
+   "date": "2026-12-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=9&id=792088636",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2506-2026-12-09",
+   "court": "ca2",
+   "docket": "25-2506",
+   "title": "Humberto Rivera, Jr., v. Town of New Fairfield, et al",
+   "date": "2026-12-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "5 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=9&id=792090784",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3146-2026-12-09",
+   "court": "ca2",
+   "docket": "25-3146",
+   "title": "Public Sector Pension Investment et al v. Citigroup, Inc., et al",
+   "date": "2026-12-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=9&id=792088636",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3179-2026-12-09",
+   "court": "ca2",
+   "docket": "25-3179, 25-3180",
+   "title": "United States of America v. Deloyd Lesane",
+   "date": "2026-12-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=9&id=792090784",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-139-2026-12-09",
+   "court": "ca2",
+   "docket": "26-139, 26-524",
+   "title": "Brianna Davis, Candida Davis, et al v. Melissa Aviles- Ramos, et al",
+   "date": "2026-12-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=9&id=792088636",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-48-2026-12-09",
+   "court": "ca2",
+   "docket": "26-48, 26-738",
+   "title": "United Pool Distribution, Inc. v. Custom Courier Solutions, Inc.",
+   "date": "2026-12-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=9&id=792090784",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-694-2026-12-09",
+   "court": "ca2",
+   "docket": "26-694",
+   "title": "NCRNC, LLC v. Robert F. Kennedy, Jr., et al",
+   "date": "2026-12-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=9&id=792090784",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-797-2026-12-09",
+   "court": "ca2",
+   "docket": "26-797",
+   "title": "MarceAnn Dunning, et al v. Supergoop, LLC",
+   "date": "2026-12-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=9&id=792088636",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca4-21-4680-2026-12-09",
    "court": "ca4",
    "docket": "21-4680",
@@ -29014,6 +31576,234 @@
    "live_note": null
   },
   {
+   "id": "ca2-24-3302-2026-12-10",
+   "court": "ca2",
+   "docket": "24-3302",
+   "title": "Earl Thompson v. Robert Martin",
+   "date": "2026-12-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=10&id=792091405",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1151-2026-12-10",
+   "court": "ca2",
+   "docket": "25-1151",
+   "title": "Shai Harris v. City National Bank",
+   "date": "2026-12-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "6 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=10&id=792091405",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-1917-2026-12-10",
+   "court": "ca2",
+   "docket": "25-1917",
+   "title": "United States of America v. Kenneth Pettway, Jr.",
+   "date": "2026-12-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=10&id=792088935",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2949-2026-12-10",
+   "court": "ca2",
+   "docket": "25-2949",
+   "title": "United States of America v. Jason Bell",
+   "date": "2026-12-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=10&id=792091405",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3120-2026-12-10",
+   "court": "ca2",
+   "docket": "25-3120",
+   "title": "Stichting Philips Pensioenfonds, et al v. Adobe Inc., et al",
+   "date": "2026-12-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=10&id=792088935",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3131-2026-12-10",
+   "court": "ca2",
+   "docket": "25-3131",
+   "title": "David Jones, et al v. Turning Stone Enterprises, LLC, et al",
+   "date": "2026-12-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=10&id=792091405",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-102-2026-12-10",
+   "court": "ca2",
+   "docket": "26-102",
+   "title": "Mariya Zafrani v. Melissa Aviles-Ramos, et al",
+   "date": "2026-12-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "12 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=10&id=792088935",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-177-2026-12-10",
+   "court": "ca2",
+   "docket": "26-177",
+   "title": "Michael Tracy Walker v. State of New York, et al",
+   "date": "2026-12-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "panel": "",
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=10&id=792088935",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-862-2026-12-10",
+   "court": "ca2",
+   "docket": "26-862",
+   "title": "Krista E. Noel v. Pepsico Inc., et al",
+   "date": "2026-12-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=10&id=792091405",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-949-2026-12-10",
+   "court": "ca2",
+   "docket": "26-949",
+   "title": "Alma Roper, Eddie Rodriguez v. American Federation of State, et al",
+   "date": "2026-12-10",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=10&id=792088935",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
    "id": "ca4-24-2227-2026-12-10",
    "court": "ca4",
    "docket": "24-2227",
@@ -30505,6 +33295,190 @@
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
    },
    "live_note": null
+  },
+  {
+   "id": "ca2-25-1348-2026-12-11",
+   "court": "ca2",
+   "docket": "25-1348",
+   "title": "United States of America v. Patrick Tucker",
+   "date": "2026-12-11",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=11&id=792091587",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2639-2026-12-11",
+   "court": "ca2",
+   "docket": "25-2639",
+   "title": "Caderet, Grant & Co., Inc. v. Great American Insurance Company",
+   "date": "2026-12-11",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=11&id=792091587",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-2886-2026-12-11",
+   "court": "ca2",
+   "docket": "25-2886",
+   "title": "United States of America v. Kidane Gallimore",
+   "date": "2026-12-11",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=11&id=792089206",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3034-2026-12-11",
+   "court": "ca2",
+   "docket": "25-3034",
+   "title": "The Travelers Indemnity Company et al v. Norguard Insurance Company",
+   "date": "2026-12-11",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=11&id=792089206",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-3174-2026-12-11",
+   "court": "ca2",
+   "docket": "25-3174",
+   "title": "Kimba Industries Inc. v. Fortega Specialty Insurance Co.",
+   "date": "2026-12-11",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=11&id=792091587",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-25-512-2026-12-11",
+   "court": "ca2",
+   "docket": "25-512, 25-1226",
+   "title": "Adstra, LLC v. Kinesso, LLC, Acxiom, LLC",
+   "date": "2026-12-11",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=11&id=792089206",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-1007-2026-12-11",
+   "court": "ca2",
+   "docket": "26-1007",
+   "title": "David Stern v. Electrolux Home Products, Inc.,",
+   "date": "2026-12-11",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=11&id=792091587",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
+  },
+  {
+   "id": "ca2-26-448-2026-12-11",
+   "court": "ca2",
+   "docket": "26-448",
+   "title": "Sail Charter NYC, LLC v. Rick Mallette",
+   "date": "2026-12-11",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=11&id=792089206",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca4-24-1019-2026-12-11",
@@ -32021,6 +34995,29 @@
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
    },
    "live_note": null
+  },
+  {
+   "id": "ca2-25-1113-2026-12-16",
+   "court": "ca2",
+   "docket": "25-1113",
+   "title": "Mohsen Mahdawi v. Donald J. Trump, et al",
+   "date": "2026-12-16",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "New York, NY",
+   "room": null,
+   "origin": null,
+   "issue": null,
+   "notes": [
+    "30 min per side"
+   ],
+   "panel": "",
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=12&d=16&id=789762311",
+    "live": "https://ww2.ca2.uscourts.gov/court.html"
+   },
+   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
    "id": "ca9-23-35142-2026-12-17",
@@ -34424,6 +37421,7 @@
   }
  ],
  "manual_refreshed": {
-  "cadc": "2026-11-04T01:36:05+00:00"
+  "cadc": "2026-11-04T01:36:05+00:00",
+  "ca2": "2026-11-04T03:48:18+00:00"
  }
 }
