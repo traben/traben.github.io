@@ -17,7 +17,7 @@ Lives inside the traben.github.io Jekyll site at **https://traben.github.io/cour
 | Court | Upcoming calendar | Listen | Summaries |
 |---|---|---|---|
 | Supreme Court | ✅ built daily from supremecourt.gov | live link on argument days; recording link once posted (same day) | ✅ overview, plain-English question, and sourced "why it matters" commentary |
-| Courts of Appeals (13) | ⏳ next phase | ✅ last 10 days of recordings, playable in-page (via CourtListener); live-stream links per court | — |
+| Courts of Appeals (13) | ✅ 1st, 3rd, 4th, 5th, 7th, 8th, 9th, 10th, 11th, Fed. (cases); 6th (sitting days until cases post); 2nd and D.C. linked only | ✅ live-stream and YouTube links per court; last 10 days of recordings playable in-page (via CourtListener) | AI summaries for cases you select |
 | District courts | ⏳ later | — | — |
 
 ## How it works
@@ -26,7 +26,7 @@ Lives inside the traben.github.io Jekyll site at **https://traben.github.io/cour
 GitHub Action (8 a.m. + 5 p.m. ET)          GitHub Pages (static)
  ├─ _oral_arguments/scripts/build_scotus.py   ──► courts/oral-arguments/data/scotus.json ─┐
  ├─ _oral_arguments/scripts/build_circuits.py ──► courts/oral-arguments/data/circuits_recent.json ─┼─► courts/oral-arguments/index.html + app.js
- └─ commits data/ if changed      courts/oral-arguments/data/courts.json (hand-maintained) ─┘
+ └─ commits data/ if changed      courts/oral-arguments/courts.json (hand-maintained) ─┘
 ```
 
 **Supreme Court pipeline** (`build_scotus.py`)
@@ -57,7 +57,7 @@ Only the appeals cases you pick get an AI summary (Supreme Court cases all do). 
 
 **Add a case, either way:**
 1. **From the calendar.** Visit `https://traben.github.io/courts/oral-arguments/?owner=1` once in your browser to turn on owner mode (`?owner=0` turns it off; it is remembered per browser and shows nothing special to visitors). Each upcoming appeals case without a summary then shows **✦ Request AI summary**. It opens a pre-filled GitHub issue (`Summarize ca4 25-2342`); click **Submit new issue**. The *Summarize an appeals case* workflow adds the case to the list, writes the summary, commits, and closes the issue with a comment. Issues from anyone but the repo owner are ignored.
-2. **By hand.** Edit `selected_cases.json` on github.com and add `{"court": "ca4", "docket": "25-2342"}`. For a case on a calendar the site doesn't read (2nd, 9th, D.C. …) add `"title": "Case name"` too. The daily run picks it up. Or use **Actions → Summarize an appeals case → Run workflow**.
+2. **By hand.** Edit `selected_cases.json` on github.com and add `{"court": "ca4", "docket": "25-2342"}`. For a case on a calendar the site doesn't read (2nd, D.C.) add `"title": "Case name"` too. The daily run picks it up. Or use **Actions → Summarize an appeals case → Run workflow**.
 
 To remove a summary, delete the entry from the list; the next run drops it. A summary is refreshed once after the argument so it can say how the argument went. Each one costs a few cents (up to 5 web searches plus tokens). Requires the `ANTHROPIC_API_KEY` secret.
 
@@ -73,12 +73,23 @@ The case brief (overview, plain question, why it matters, case history) starts f
 
 **Adding a case:** add an entry to `district_cases.json` and ask Claude to write the starting brief into `editorial/district.json` (or leave it out; the first major docket event will start one).
 
+## D.C. and 2nd Circuits: refresh on request
+
+Both courts' calendar pages are closed to automated readers by robots.txt (`media.cadc.uscourts.gov` disallows `/calendar/`; HuntCal disallows `/cal/`). So the daily job never reads them. Instead:
+
+- In owner mode (`?owner=1`), the Courts of Appeals tab shows **↻ Refresh D.C. & 2nd Circuit calendars**. It opens a pre-filled issue titled "Refresh calendars"; submitting it runs `.github/workflows/refresh-calendars.yml`, which runs `build_circuit_calendars.py --manual`, commits, and replies on the issue. You can also run that workflow from the Actions tab. Issues from anyone but the owner are ignored.
+- A refresh reads each court at most once per 12 hours (`MANUAL_COOLDOWN_H`); earlier requests are skipped. Its user agent says the refresh was requested by a person. The D.C. Circuit refresh is one page; the 2nd Circuit's is one page per month plus one per argument day (about 25–40 pages).
+- These cases are labeled on the page as refreshed on request, with the time, and may be out of date; each links to the court's own calendar.
+- This is the owner's choice to make a person-requested exception to those robots.txt rules. If either court asks you to stop, stop clicking the button (or delete the workflow), and remove `cadc`/`ca2` from `COURTS`.
+
 ## Shipping updates (rule)
 
 The daily job keeps these files current on GitHub, so code updates must **never** include them:
 `courts/oral-arguments/data/*.json`, `_oral_arguments/debug/`, `_oral_arguments/district_ai.json`,
 `_oral_arguments/selected_cases.json` (edited by you and by the summary-request workflow).
-Updates should contain only scripts, page files (`index.html`, `app.js`, `style.css`), workflows, docs and
+The court directory moved to `courts/oral-arguments/courts.json` (outside `data/`) so it can ship with code updates; the old
+`data/courts.json` is no longer used and can be deleted.
+Updates should contain only scripts, page files (`index.html`, `app.js`, `style.css`, `courts.json`), workflows, docs and
 hand-written editorial files that the job never writes.
 
 ## Run locally
@@ -101,7 +112,20 @@ bundle exec jekyll serve                  # then open http://localhost:4000/cour
 
 ## Roadmap
 
-- **Circuit calendars.** `scripts/build_circuit_calendars.py` reads the calendar PDFs of the 1st, 4th, 8th, 10th, 11th and Federal Circuits into `courts/oral-arguments/data/circuits_upcoming.json` (settings per court in `COURTS`; one generic line parser). It obeys robots.txt, saves the extracted PDF text to `_oral_arguments/debug/<court>/` for fixing parsers, and reports per-court counts in the Actions job summary. Still to do: 5th, 9th, 7th, 6th, 3rd (no machine-readable index yet); 2nd and D.C. block automated access via robots.txt.
+- **Circuit calendars.** `scripts/build_circuit_calendars.py` writes `courts/oral-arguments/data/circuits_upcoming.json` (cases, plus `sessions` for courts that only publish sitting days). Settings per court are in `COURTS`. How each court is read:
+
+  | Court | Source | Notes |
+  |---|---|---|
+  | 1st, 4th, 8th, 10th, 11th, Fed. | calendar PDFs | generic line parser (`parse_pdf_text`); 4th has its own (`parse_ca4`) |
+  | 3rd | month grid on www.ca3.uscourts.gov/calendar → the court's Power Pages portal | the portal's own landing-page flow turns a date into a case-list id; the two grids (argued / submitted) come back as JSON. www.ca3 sets a 10-second crawl delay, which is obeyed |
+  | 5th | JSON block (`<script data-cal-json>`) in the Court Calendars page | includes panels and per-courtroom live feeds |
+  | 6th | yearly sitting-schedule PDFs (session weeks) + weekly case-list PDFs once posted | shown as "in session" days until the cases post (~2 weeks ahead); 10-second crawl delay obeyed |
+  | 7th | the public search form (POST, month view), up to 30 days ahead | panel names appear an hour before argument |
+  | 9th | the `global_panel_sittings` array embedded in the calendar page | "Subm." = submitted without argument |
+  | 2nd | HuntCal month lists → each "Argument Calendar" event page | **on request only** (see below) |
+  | D.C. | the "Future Dates" page (`media.cadc.uscourts.gov/calendar/`) | **on request only** (see below) |
+
+  Every scheduled reader obeys robots.txt (including Crawl-delay), identifies itself with an honest user agent, saves what it read to `_oral_arguments/debug/<court>/`, and reports per-court counts and problems in the Actions job summary. If a court's reader finds nothing on a given day, that court's previous rows are kept.
 - **Circuit calendars, original plan (kept for reference).** Each circuit posts its calendar differently (PDFs, HTML tables, daily schedules). Plan: one small parser per circuit in `_oral_arguments/scripts/circuits/`, starting with the ones that publish structured weekly calendars, writing to `courts/oral-arguments/data/circuits_upcoming.json` in the same case schema as SCOTUS. Oyez doesn't cover the circuits, so briefs come from `_oral_arguments/scripts/summarize.py`, fed the district-court opinion or docket (CourtListener RECAP) instead of a Question Presented. Most circuit cases get little press, so expect shorter "why it matters" sections; a filter for cases that do have coverage would help.
 - **District courts (phase 3).** A hand-curated `courts/oral-arguments/data/district.json` of notable hearings with public audio.
 - **Podcast feed.** An RSS feed of new recordings so arguments show up in a podcast app.

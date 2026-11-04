@@ -143,3 +143,13 @@
 .oac .tl.small li { font-size: 0.82em; }
 .oac .tl .hd { color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
 @media (max-width: 560px) { .oac .tl li { grid-template-columns: minmax(0, 1fr); gap: 0; } }
+
+/* sitting days with no posted case list yet (6th Cir.) and directory extras */
+.oac .up-row.session .t { font-family: inherit; font-weight: 600; color: var(--accent); }
+.oac .up-row.session .when .time { color: var(--muted); }
+.oac .court .links { display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.oac .court .links a { margin-right: 0; }
+.oac .court .cnote { font-style: italic; }
+.oac .up-row .manual { font-style: italic; }
+.oac #manual-refresh { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.oac #manual-refresh[hidden] { display: none; }

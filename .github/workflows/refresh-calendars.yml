@@ -1,0 +1,83 @@
+name: Refresh D.C. and 2nd Circuit calendars
+
+# These two courts' calendar pages ask automated readers not to visit (robots.txt), so the
+# daily update never reads them. This workflow reads them only when the site owner asks:
+#  1. On the calendar page in owner mode, click "Refresh D.C. & 2nd Circuit calendars". It opens a
+#     pre-filled issue titled "Refresh calendars"; submit it. Issues from anyone else are ignored.
+#  2. Or: Actions tab → "Refresh D.C. and 2nd Circuit calendars" → Run workflow.
+# One refresh per court every 12 hours at most (the script enforces it); there is no schedule.
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+
+concurrency:
+  group: update-court-data      # same group as the daily update, so they never push at the same time
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.issue.author_association == 'OWNER' && startsWith(github.event.issue.title, 'Refresh calendars'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r _oral_arguments/requirements.txt
+
+      - name: Read the D.C. and 2nd Circuit calendars (owner-requested)
+        id: read
+        run: |
+          python _oral_arguments/scripts/build_circuit_calendars.py --manual 2>&1 | tee refresh.log
+
+      - name: Commit and push
+        id: commit
+        run: |
+          git config user.name  "court-calendar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add courts/oral-arguments/data/circuits_upcoming.json _oral_arguments/debug/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Owner-requested refresh: D.C. and 2nd Circuit calendars"
+            git pull --rebase
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Rebuild the site
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
+
+      - name: Reply on the issue
+        if: always() && github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUM: ${{ github.event.issue.number }}
+          RESULT: ${{ job.status }}
+        run: |
+          counts=$(grep -E '^\| (cadc|ca2) ' refresh.log 2>/dev/null | awk -F'|' '{gsub(/ /,"",$2); gsub(/ /,"",$3); printf "%s: %s cases. ", $2, $3}')
+          skipped=$(grep -c 'Skipped.' refresh.log 2>/dev/null || true)
+          if [ "$RESULT" != "success" ]; then
+            body="The refresh failed. See the run log in the Actions tab."
+          elif [ -z "$counts" ] && [ "$skipped" != "0" ]; then
+            body="Skipped: these calendars were refreshed less than 12 hours ago. Try again later."
+          else
+            body="Refreshed. ${counts}The calendar page updates after the site rebuilds (a minute or two)."
+          fi
+          gh issue comment "$NUM" --repo "${{ github.repository }}" --body "$body"
+          gh issue close "$NUM" --repo "${{ github.repository }}"
