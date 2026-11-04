@@ -213,13 +213,17 @@ def allowed(url: str) -> bool:
 
 
 _last_hit: dict[str, float] = {}
+HOST_MIN_DELAY = {"www.huntcal.com": 6.0}     # HuntCal answers 429 (too many requests) at one request a second
+_backed_off: set[str] = set()                # hosts that kept saying 429: no more requests to them this run
+_waited_429: dict[str, float] = {}           # seconds spent waiting on each host's 429s this run (capped at 6 min)
 
 
 def _wait_turn(url: str) -> None:
-    """Pause between requests to one host: at least 1 s, or the site's Crawl-delay if it sets one."""
+    """Pause between requests to one host: at least 1 s, the site's Crawl-delay if it sets one,
+    or HOST_MIN_DELAY for hosts known to rate-limit."""
     host = urlparse(url).netloc
     rp = _robots.get(urlparse(url).scheme + "://" + host)
-    delay = 1.0
+    delay = HOST_MIN_DELAY.get(host, 1.0)
     if rp is not None:
         try:
             delay = max(delay, float(rp.crawl_delay(UA) or 0))
@@ -231,23 +235,50 @@ def _wait_turn(url: str) -> None:
     _last_hit[host] = time.monotonic()
 
 
+def _retry_after(r) -> float:
+    try:
+        return min(180.0, max(30.0, float(r.headers.get("Retry-After", 30))))
+    except (TypeError, ValueError):
+        return 30.0
+
+
 def request(court: str, method: str, url: str, binary: bool = False, quiet: bool = False, **kw):
-    """One polite request. Returns text (or bytes), or None after logging the problem."""
-    if urlparse(url).netloc in _owner_requested_hosts:
+    """One polite request. Returns text (or bytes), or None after logging the problem.
+
+    On 429 (too many requests) it waits as long as the server asks (30 s to 3 min) and
+    tries again, twice at most; if the host still refuses, it stops asking that host for
+    the rest of the run rather than keep knocking."""
+    host = urlparse(url).netloc
+    if host in _backed_off:
+        return None
+    if host in _owner_requested_hosts:
         kw.setdefault("headers", {})["User-Agent"] = MANUAL_UA
     elif not allowed(url):
         PROBLEMS.setdefault(court, []).append(f"robots.txt disallows {url}; skipped")
         return None
-    _wait_turn(url)
-    try:
-        r = session.request(method, url, timeout=40, **kw)
-        r.raise_for_status()
-        return r.content if binary else r.text
-    except requests.RequestException as e:
-        if not quiet:
-            status = getattr(getattr(e, "response", None), "status_code", None)
-            PROBLEMS.setdefault(court, []).append(f"{'HTTP ' + str(status) if status else type(e).__name__} {method} {url}")
-        return None
+    for attempt in range(3):
+        _wait_turn(url)
+        try:
+            r = session.request(method, url, timeout=40, **kw)
+            if r.status_code == 429 and attempt < 2 and _waited_429.get(host, 0) < 360:
+                pause = _retry_after(r) * (attempt + 1)
+                _waited_429[host] = _waited_429.get(host, 0) + pause
+                print(f"{host} asked us to slow down (429); waiting {pause:.0f} s")
+                time.sleep(pause)
+                continue
+            if r.status_code == 429:
+                _backed_off.add(host)
+                PROBLEMS.setdefault(court, []).append(
+                    f"{host} kept answering 429 (too many requests); stopped reading it for this run. Try again later.")
+                return None
+            r.raise_for_status()
+            return r.content if binary else r.text
+        except requests.RequestException as e:
+            if not quiet:
+                status = getattr(getattr(e, "response", None), "status_code", None)
+                PROBLEMS.setdefault(court, []).append(f"{'HTTP ' + str(status) if status else type(e).__name__} {method} {url}")
+            return None
+    return None
 
 
 def fetch(court: str, url: str, binary: bool = False, quiet: bool = False):
@@ -907,7 +938,8 @@ def read_ca2(court: str, cfg: dict, keep_from: str) -> tuple[list[dict], list[di
     base = "https://www.huntcal.com/cal"
     today = dt.date.today()
     horizon = (today + dt.timedelta(days=45)).isoformat()
-    months, d = [], dt.date.fromisoformat(keep_from).replace(day=1)
+    start = today.isoformat()            # upcoming only: one page per sitting day, so skip the past ones
+    months, d = [], today.replace(day=1)
     while d.isoformat() <= horizon:
         months.append(d)
         d = (d + dt.timedelta(days=32)).replace(day=1)
@@ -922,7 +954,7 @@ def read_ca2(court: str, cfg: dict, keep_from: str) -> tuple[list[dict], list[di
                 date = dt.date(int(q["yr"]), int(q["m"]), int(q["d"])).isoformat()
             except (KeyError, ValueError):
                 continue
-            if keep_from <= date <= horizon:
+            if start <= date <= horizon:
                 events[q["id"]] = (date, em.group(2).strip())
     rows = []
     for eid, (date, label) in sorted(events.items(), key=lambda x: x[1]):
@@ -1102,6 +1134,12 @@ def main() -> None:
         got, sess = build_court(court, COURTS[court], keep_from)
         if not got:   # nothing new: keep this court's previous rows so a bad day doesn't blank it
             got = [c for c in old["cases"] if c["court"] == court and c["date"] >= keep_from]
+        elif COURTS[court].get("manual"):
+            # a refresh may read only upcoming days, or be cut short by rate limits:
+            # keep earlier rows for any day it didn't re-read
+            read_days = {c["date"] for c in got}
+            got += [c for c in old["cases"] if c["court"] == court and c["date"] >= keep_from
+                    and c["date"] not in read_days]
         if not sess:
             sess = [s for s in old["sessions"] if s["court"] == court and s["date"] >= keep_from]
         counts[court] = len(got)
