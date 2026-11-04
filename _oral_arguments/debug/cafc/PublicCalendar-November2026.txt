@@ -3,7 +3,7 @@ SCHEDULED CASES
 November 2026
  
 (Revised 
-October 29, 2026
+November 3, 2026
 )
 Panel A: 
  
@@ -154,11 +154,6 @@ PTO
 Digital Broadcasting Solutions, LLC v. DISH Network L.L.C.
 [argued]
   Arguing Counsel: John Wittenzellner, Eliot Damon Williams
-26-1992
-DCT
-UCB, Inc. v. Cipla Limited
-[argued]
-  Arguing Counsel: Anil Patel, Alexa Hansen
 26-1549
 MSPB
 Khaghani v. Navy
@@ -181,13 +176,13 @@ Robinson v. Collins
 MSPB
 Kroenung v. Defense
 [argued]
-
-
   Arguing Counsel: Erin Darnell Knese, Catherine M. Yang
 25-1702
 DCT
 Finjan LLC v. Palo Alto Networks, Inc.
 [argued]
+
+
   Arguing Counsel: Roger A. Denning, Brian Robert Matsui
 25-1715
 PTO
@@ -278,13 +273,13 @@ CAVC
 Surratt v. Collins
 [argued]
   Arguing Counsel: Kenneth Dojaquez, Tanya Koenig
-
-
 25-1627
 PTO
 Institut de Cardiologie de Montreal v. Murray & Poole Enterprises Ltd.
 [argued]
   Arguing Counsel: William Milliken, Joanna Brougher
+
+
 25-1640
 DCT
 UUSI, LLC v. Samsung Electronics Co., Ltd.
@@ -378,13 +373,13 @@ Gill v. Collins
 MSPB
 Hendricks v. DHS
 [argued]
-
-
   Arguing Counsel: Joel J. Kirkpatrick, Ioana C. Meyer
 25-1875
 DCT
 Acadia Pharmaceuticals Inc. v. Aurobindo Pharma Ltd.
 [argued]
+
+
   Arguing Counsel: Richard J. Berman, Timothy H. Kratz, Chad Peterman
 26-1509
 CFC

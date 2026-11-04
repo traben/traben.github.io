@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T00:43:07+00:00",
+ "generated_at": "2026-11-03T19:34:03+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -27,15 +27,6 @@
    },
    "hearings": [
     {
-     "date": "2026-03-11",
-     "type": "Status Conference",
-     "time": "15:00",
-     "room": "Courtroom 12",
-     "status": "held",
-     "public_line": true,
-     "noticed": "2026-03-10"
-    },
-    {
      "date": "2026-10-30",
      "type": "Oral Argument",
      "time": "10:00",
@@ -47,28 +38,8 @@
    ],
    "deadlines": [
     {
-     "date": "2026-10-31",
-     "what": "The Government to respond to Plaintiffs' 116 Motion to Compel by tomorrow, October 31, 2026, at 10:00 a.m."
-    },
-    {
-     "date": "2026-10-31",
-     "what": "By October 31, 2026, at 5:00 p.m, the parties must meet and confer, in person, to discuss the scope of the Court's notice requirement in its preliminary injunction order, Dkt. 101."
-    },
-    {
-     "date": "2026-11-02",
-     "what": "The parties to meet and confer and to file a proposed preservation order on or before November 2, 2026."
-    },
-    {
-     "date": "2026-11-02",
-     "what": "By November 2, 2026, at 10:00 a.m., the Government will file with the Court the names of all individuals who have participated in preparing the submission identified at Docket 111-…"
-    },
-    {
-     "date": "2026-11-02",
-     "what": "By November 2, 2026, at 10:00 a.m., the Government must brief whether, and if so, how, the deliberative process privilege protects it from disclosing the date on which tree removal…"
-    },
-    {
-     "date": "2026-11-02",
-     "what": "By November 2, 2026, the Government will disclose whether there is a contract with Fazio Design, Tom Fazio, or Gavin Fazio to design or otherwise renovate the East Potomac Golf Cou…"
+     "date": "2026-11-03",
+     "what": "The Government's response is due by November 3, 2026, at 10:00 a.m."
     },
     {
      "date": "2026-11-03",
@@ -81,6 +52,10 @@
     {
      "date": "2026-11-03",
      "what": "Plaintiffs must file any response by November 3, 2026, at 10:00 a.m."
+    },
+    {
+     "date": "2026-11-03",
+     "what": "If the parties cannot agree to a joint proposal, the Government must file its proposal by November 3, 2026, at 10:00 a.m., and Plaintiffs must file their proposal by November 4, at…"
     },
     {
      "date": "2026-11-05",
@@ -97,63 +72,63 @@
    ],
    "recent": [
     {
-     "date": "2026-10-30",
+     "date": "2026-11-03",
      "entry": null,
-     "text": "MINUTE ORDER. The Court ORDERS the Government to respond to Plaintiffs' 116 Motion to Compel by tomorrow, October 31, 2026, at 10:00 a.m. Signed by Judge Ana C. Reyes on 10/30/2026. (lcacr1)",
+     "text": "MINUTE ORDER. The Court previously ordered that any motion filed in connection with the NCPC Proposal be filed on November 5, 2026. See First Min. Order (Oct. 30, 2026). The Court adjusts several deadlines. Assuming that a motion is filed, the Court ORDERS that any response by the Government is due by the end of the day on Monday, November 9. Any reply by Plaintiffs is due by the end of the day on Tuesday, November 10. The Court SETS an in-person hearing on any motion filed for 10:00 a.m. on Friday, November 13. No fact witnesses will be called to the hearing. The Court ORDERS Associate AG Sta…",
      "doc": null
     },
     {
-     "date": "2026-10-30",
+     "date": "2026-11-03",
+     "entry": 131,
+     "text": "NOTICE OF FILING REDACTED DOCUMENT to 130 Sealed Document, Order,,,,,,,, Regarding Individuals Participating in National Capitol Planning Commission Proposal by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Attachments: # 1 Redacted Submission)(Woodward, Stanley) (Entered: 11/03/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.131.0.pdf"
+    },
+    {
+     "date": "2026-11-03",
+     "entry": 130,
+     "text": "SEALED DOCUMENT filed by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE re Order,,,,,,,, (This document is SEALED and only available to authorized persons.)(Woodward, Stanley) (Entered: 11/03/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-03",
+     "entry": 129,
+     "text": "NOTICE of Proposal by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Robertson, Michael) (Entered: 11/03/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.129.0.pdf"
+    },
+    {
+     "date": "2026-11-03",
+     "entry": 128,
+     "text": "Memorandum in opposition to re 112 MOTION to Stay re 101 Order on Motion for Preliminary Injunction, Order on Motion to Stay, 103 Memorandum & Opinion filed by DC PRESERVATION LEAGUE, ALEX DICKSON, DAVE ROBERTS. (Attachments: # 1 Ex. 1 - NCPC Submission)(Friedl, Kevin) (Entered: 11/03/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.128.0_1.pdf"
+    },
+    {
+     "date": "2026-11-03",
+     "entry": 127,
+     "text": "REPLY re 121 Response to Order of the Court filed by DC PRESERVATION LEAGUE, ALEX DICKSON, DAVE ROBERTS. (Zimliki, Lindsay) (Entered: 11/03/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.127.0.pdf"
+    },
+    {
+     "date": "2026-11-02",
+     "entry": 125,
+     "text": "NOTICE Regarding East Potomac Golf Course Design by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE re Order,,,,,,,, (Woodward, Stanley) (Entered: 11/02/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.125.0.pdf"
+    },
+    {
+     "date": "2026-11-02",
      "entry": null,
-     "text": "Minute Entry or proceedings held before Judge Ana C. Reyes: Oral Argument held on 10/30/2026. (Court Reporter: Christine Asif) (zcdw)",
+     "text": "MINUTE ORDER granting 124 Consent Motion for Extension of Time. The Court ORDERS that the parties file a proposed preservation order with the Court no later than November 9, 2026. Signed by Judge Ana C. Reyes on 11/2/2026. (lcacr3)",
      "doc": null
     },
     {
-     "date": "2026-10-30",
-     "entry": 116,
-     "text": "MOTION to Compel Immediate Production of October 30, 2026 National Capital Planning Commission Filings by DC PRESERVATION LEAGUE. (Attachments: # 1 Text of Proposed Order)(Lowell, Abbe) (Entered: 10/30/2026)",
-     "doc": null
+     "date": "2026-11-02",
+     "entry": 124,
+     "text": "Consent MOTION for Extension of Time to file Proposed Preservation Order by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Attachments: # 1 Text of Proposed Order)(Robertson, Michael) (Entered: 11/02/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.124.0.pdf"
     },
     {
-     "date": "2026-10-30",
-     "entry": null,
-     "text": "MINUTE ORDER. The Court ORDERS the parties to meet and confer and to file a proposed preservation order on or before November 2, 2026. The Court adds this as a separate Minute Order to alert counsel, as it did not reference it at today's hearing. Signed by Judge Ana C. Reyes on 10/30/2026. (lcacr2)",
-     "doc": null
-    },
-    {
-     "date": "2026-10-30",
-     "entry": null,
-     "text": "MINUTE ORDER. For the reasons discussed today on the record, and with some minor modifications of deadlines and dates, the Court ORDERS the following. 1. By November 2, 2026, at 10:00 a.m., the Government will file with the Court the names of all individuals who have participated in preparing the submission identified at Docket 111-1 to the National Capital Planning Commission (\"NCPC Proposal\"). The Government may file under seal. 2. By October 31, 2026, at 5:00 p.m, the parties must meet and confer, in person, to discuss the scope of the Court's notice requirement in its preliminary injunctio…",
-     "doc": null
-    },
-    {
-     "date": "2026-10-29",
-     "entry": null,
-     "text": "MINUTE ORDER. Given her recently filed declaration, see Dkt. 111-2, Jessica Bowron is now ORDERED to appear at tomorrow's hearing in person. Signed by Judge Ana C. Reyes on 10/29/2026. (lcacr2)",
-     "doc": null
-    },
-    {
-     "date": "2026-10-29",
-     "entry": null,
-     "text": "MINUTE ORDER. The hearing set for tomorrow, October 30, 2026, at 10:00 a.m., will be accessible to the public via the Court's public access dial-in line. The public access telephone number is 833-990-9400, and the access code is 787605272. It is ORDERED that the attendees using the public access telephone line shall adhere to the following: Persons remotely accessing court proceedings are reminded of the general prohibition against photographing, recording, and rebroadcasting any court proceedings (including those held by telephone or videoconference). Signed by Judge Ana C. Reyes on 10/29/202…",
-     "doc": null
-    },
-    {
-     "date": "2026-10-29",
-     "entry": 112,
-     "text": "MOTION to Stay re 101 Order on Motion for Preliminary Injunction, Order on Motion to Stay, 103 Memorandum & Opinion by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Piropato, Marissa) (Entered: 10/29/2026)",
-     "doc": null
-    },
-    {
-     "date": "2026-10-29",
-     "entry": null,
-     "text": "Set/Reset Deadlines/Hearings: Response to Motion for Summary Judgment due by 11/30/2026. (zcdw)",
-     "doc": null
-    },
-    {
-     "date": "2026-10-29",
-     "entry": null,
-     "text": "Set/Reset Deadlines/Hearings: Oral Argument set for 10/30/2026 at 10:00 AM in Courtroom 12 Judge Ana C. Reyes. (zcdw)",
+     "date": "2026-11-02",
+     "entry": 123,
+     "text": "TRANSCRIPT OF PROCEEDINGS before Judge Ana C. Reyes held on 10/30/2026; Page Numbers: 1-98. Date of Issuance:11/2/2026. Court Reporter Christine T. Asif, Telephone number 202-354-3247, Transcripts may be ordered by submitting the Transcript Order FormFor the first 90 days after this filing date, the transcript may be viewed at the courthouse at a public terminal or purchased from the court reporter referenced above. After 90 days, the transcript may be accessed via PACER. Other transcript formats, (multi-page, condensed, CD or ASCII) may be purchased from the court reporter.NOTICE RE REDACTION…",
      "doc": null
     }
    ],
@@ -315,7 +290,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-10-30"
+   "updated": "2026-11-03"
   }
  ]
 }

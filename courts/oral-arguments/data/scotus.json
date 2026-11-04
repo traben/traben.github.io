@@ -2,7 +2,7 @@
   "court": "scotus",
   "name": "Supreme Court of the United States",
   "term": "October Term 2026",
-  "generated_at": "2026-10-31T00:42:16+00:00",
+  "generated_at": "2026-11-03T19:31:31+00:00",
   "sources": [
     "https://www.supremecourt.gov/oral_arguments/calendarsandlists.aspx",
     "https://www.supremecourt.gov/oral_arguments/argument_audio/2026",
@@ -337,9 +337,9 @@
       "summary_source": "editor",
       "summary_checked": "2026-10-29",
       "note": "Court-appointed amicus Brian W. Barnes argues in support of the judgment below.",
-      "argued": false,
+      "argued": true,
       "links": {
-        "recording": null,
+        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-5930",
         "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-5930",
         "live": "https://www.supremecourt.gov/",
         "qp": "https://www.supremecourt.gov/qp/25-05930qp.pdf",
@@ -379,9 +379,9 @@
       "summary_source": "editor",
       "summary_checked": "2026-10-29",
       "note": null,
-      "argued": false,
+      "argued": true,
       "links": {
-        "recording": null,
+        "recording": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-352",
         "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-352",
         "live": "https://www.supremecourt.gov/",
         "qp": "https://www.supremecourt.gov/qp/25-00352qp.pdf",
@@ -1072,6 +1072,138 @@
         "live": "https://www.supremecourt.gov/",
         "qp": "https://www.supremecourt.gov/qp/25-00965qp.pdf",
         "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-965.html"
+      }
+    },
+    {
+      "id": "scotus-25-1223",
+      "court": "scotus",
+      "docket": "25-1223",
+      "title": "Montoya Palacios v. Liggins",
+      "date": "2027-01-11",
+      "time_et": "10:00",
+      "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
+      "order": 1,
+      "lower_court": "United States Court of Appeals for the Fourth Circuit",
+      "question": "The Equal Access to Justice Act (EAJA) provides that, \"in any civil action (other than cases sounding in tort)\" by or against the federal government, a court shall award to a prevailing party its fees and costs, unless the court finds certain exceptions present. 28 U.S.C. § 2412(d) (1)(A). The question presented is whether, under EAJA, \"any civil action\" encompasses an action seeking a writ of habeas corpus to challenge civil immigration detention.",
+      "question_full": "25-1223 MONTOYA PALACIOS V. LIGGINS DECISION BELOW: 2026 WL 1154321 CERT. GRANTED 6/29/2026 QUESTION PRESENTED: The Equal Access to Justice Act (EAJA) provides that, \"in any civil action (other than cases sounding in tort)\" by or against the federal government, a court shall award to a prevailing party its fees and costs, unless the court finds certain exceptions present. 28 U.S.C. § 2412(d) (1)(A). The question presented is whether, under EAJA, \"any civil action\" encompasses an action seeking a writ of habeas corpus to challenge civil immigration detention. LOWER COURT CASE NUMBER: 26-6251",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-1223",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-01223qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1223.html"
+      }
+    },
+    {
+      "id": "scotus-25-1311",
+      "court": "scotus",
+      "docket": "25-1311",
+      "title": "Apple Inc. v. Epic Games, Inc.",
+      "date": "2027-01-11",
+      "time_et": "11:00",
+      "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
+      "order": 2,
+      "lower_court": "United States Court of Appeals for the Ninth Circuit",
+      "question": "QUESTION 1 PRESENTED BY THE PETITION.",
+      "question_full": "25-1311 APPLE INC. V. EPIC GAMES, INC. DECISION BELOW: 161 F.4th 1162 GRANTED LIMITED TO QUESTION 1 PRESENTED BY THE PETITION. CERT. GRANTED 6/30/2026 QUESTION PRESENTED: This case presents two fundamental and recurring questions concerning the limits on the equitable authority of the federal courts: 1. Whether a court may hold a party in civil contempt based on a violation of an injunction's \"spirit\" where the injunction is silent as to the conduct upon which contempt is based, as the Ninth Circuit holds; or, instead, whether a court must ground a finding of civil contempt on the violation of an order that clearly and unambiguously proscribes the precise conduct at issue, as other circuits hold. 2. Whether the Ninth Circuit has properly created an \"antitrust\" or \"competition\" exception to Trump v. CASA, Inc ., 606 U.S. 831 (2025), and the longstanding equitable principles on which CASA rests, or otherwise disregarded CASA 's limits. LOWER COURT CASE NUMBER: 25-2935",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-1311",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-01311qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1311.html"
+      }
+    },
+    {
+      "id": "scotus-24-1016",
+      "court": "scotus",
+      "docket": "24-1016",
+      "title": "Riseandshine Corp. v. Pepsico, Inc.",
+      "date": "2027-01-12",
+      "time_et": "10:00",
+      "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
+      "order": 1,
+      "lower_court": "United States Court of Appeals for the Second Circuit",
+      "question": "Courts in every circuit consider several factors in determining whether an alleged trademark infringer's use \"is likely to cause confusion\" under 15 U.S.C. § 1114. Chief among those factors is the trademark's strength, that is, its level of distinctiveness. Twelve circuits consider trademark strength an issue of fact. The Second Circuit stands alone in considering it a question of law. The question presented is: Whether trademark strength is a question of fact in a likelihood-of-confusion analysis under 15 U.S.C. § 1114.",
+      "question_full": "24-1016 RISEANDSHINE CORPORATION V. PEPSICO, INC. DECISION BELOW: 41 F.4th 112 CERT. GRANTED 6/29/2026 QUESTION PRESENTED: Courts in every circuit consider several factors in determining whether an alleged trademark infringer's use \"is likely to cause confusion\" under 15 U.S.C. § 1114. Chief among those factors is the trademark's strength, that is, its level of distinctiveness. Twelve circuits consider trademark strength an issue of fact. The Second Circuit stands alone in considering it a question of law. The question presented is: Whether trademark strength is a question of fact in a likelihood-of-confusion analysis under 15 U.S.C. § 1114. LOWER COURT CASE NUMBER: 23-1176",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/24-1016",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/24-01016qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/24-1016.html"
+      }
+    },
+    {
+      "id": "scotus-25-6623",
+      "court": "scotus",
+      "docket": "25-6623",
+      "title": "Kian v. Florida",
+      "date": "2027-01-13",
+      "time_et": "10:00",
+      "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
+      "order": 1,
+      "lower_court": "District Court of Appeal of Florida, Fourth District",
+      "question": "Whether Petitioner was deprived of his right, under the Sixth and Fourteenth Amendments, to a trial by a 12-person jury when the defendant is charged with a serious felony? There are two other petitions raising the same question presented. See Parada v. United States , No. 25-166; Minor v. Florida , No. 24-7489. This case should at least be held pending resolution of those petitions.",
+      "question_full": "25-6623 KIAN V. FLORIDA DECISION BELOW: 421 So.3d 439 CERT. GRANTED 6/15/2026 QUESTION PRESENTED: Whether Petitioner was deprived of his right, under the Sixth and Fourteenth Amendments, to a trial by a 12-person jury when the defendant is charged with a serious felony? There are two other petitions raising the same question presented. See Parada v. United States , No. 25-166; Minor v. Florida , No. 24-7489. This case should at least be held pending resolution of those petitions. LOWER COURT CASE NUMBER: 4D2024-2370",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-6623",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-06623qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-6623.html"
+      }
+    },
+    {
+      "id": "scotus-25-1349",
+      "court": "scotus",
+      "docket": "25-1349",
+      "title": "Marschner v. Marschner",
+      "date": "2027-01-19",
+      "time_et": "10:00",
+      "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
+      "order": 1,
+      "lower_court": "Supreme Court of North Dakota",
+      "question": "In the Uniformed Services Former Spouses' Protection Act (\"USFSPA\"), Congress provided that a State may treat veterans' longevity-based retirement pay as divisible property in divorce. 10 U.S.C. § 1408(c). But Congress further provided that retirement pay that was waived to receive disability pay, as well as certain retirement pay received due to disability-related retirements, would be indivisible. 10 U.S.C. § 408(a)(4)(A)(ii), (iii). In Howell v. Howell , 581 U.S. 214 (2017), a divorced veteran waived a portion of his longevity-based retirement pay in order to receive disability pay, causing his exwife's share of his retirement pay to decrease. The divorce court ordered him to indemnify his ex-wife for that reduction. This Court held that the USFSPA preempted that indemnification order. See id . at 222. In this case, unlike in Howell , the parties agreed as part of their divorce settlement that the veteran would indemnify his ex-wife if her share of his retirement pay were reduced because he later waived his retirement pay to receive disability benefits or because he received disability-based retirement pay. Even though the veteran agreed to the indemnification provision at the t",
+      "question_full": "25-1349 MARSCHNER V. MARSCHNER DECISION BELOW: 33 N.W.3d 9 CERT. GRANTED 10/1/2026 QUESTION PRESENTED: In the Uniformed Services Former Spouses' Protection Act (\"USFSPA\"), Congress provided that a State may treat veterans' longevity-based retirement pay as divisible property in divorce. 10 U.S.C. § 1408(c). But Congress further provided that retirement pay that was waived to receive disability pay, as well as certain retirement pay received due to disability-related retirements, would be indivisible. 10 U.S.C. § 408(a)(4)(A)(ii), (iii). In Howell v. Howell , 581 U.S. 214 (2017), a divorced veteran waived a portion of his longevity-based retirement pay in order to receive disability pay, causing his exwife's share of his retirement pay to decrease. The divorce court ordered him to indemnify his ex-wife for that reduction. This Court held that the USFSPA preempted that indemnification order. See id . at 222. In this case, unlike in Howell , the parties agreed as part of their divorce settlement that the veteran would indemnify his ex-wife if her share of his retirement pay were reduced because he later waived his retirement pay to receive disability benefits or because he received disability-based retirement pay. Even though the veteran agreed to the indemnification provision at the time of the divorce, the North Dakota Supreme Court nonetheless held that, under Howell , enforcement of the indemnification provision was preempted. The question presented is: Does the USFSPA require state courts to refuse enforcement of indemnification provisions in divorce settlement agreements? LOWER COURT CASE NUMBER: 20250066",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-1349",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-01349qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1349.html"
+      }
+    },
+    {
+      "id": "scotus-25-1131",
+      "court": "scotus",
+      "docket": "25-1131",
+      "title": "Missionaries of St. John the Baptist, Inc. v. Frederic",
+      "date": "2027-01-20",
+      "time_et": "10:00",
+      "time_note": "Court convenes at 10 a.m. ET; cases are heard in calendar order, so later cases start after the earlier argument ends.",
+      "order": 1,
+      "lower_court": "Supreme Court of Kentucky",
+      "question": "QUESTION 1 PRESENTED BY THE PETITION.",
+      "question_full": "25-1131 MISSIONARIES OF ST. JOHN, INC. V. FREDERIC DECISION BELOW: 727 S.W.3d 400 GRANTED LIMITED TO QUESTION 1 PRESENTED BY THE PETITION. CERT. GRANTED 10/1/2026 QUESTION PRESENTED: 1 . Whether a land-use regulation that prohibits a religious institution from building a religious structure on its own property constitutes a \"substantial burden\" on religious exercise under the Substantial Burden Provision of the Religious Land Use and Institutionalized Persons Act (RLUIPA), 42 U.S.C. § 2000 cc(a). 2 . Whether a land-use regulation violates the Equal Terms Provision of RLUIPA, 42 U.S.C.§ 2000 cc(b)( 1 ), by imposing express restrictions on religious assemblies or institutions that it does not impose on nonreligious assemblies or institutions. LOWER COURT CASE NUMBER: 2024-SC-0006",
+      "note": null,
+      "argued": false,
+      "links": {
+        "recording": null,
+        "recording_expected": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-1131",
+        "live": "https://www.supremecourt.gov/",
+        "qp": "https://www.supremecourt.gov/qp/25-01131qp.pdf",
+        "docket": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1131.html"
       }
     }
   ]
