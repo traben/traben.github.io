@@ -1,5 +1,5 @@
 {
- "today": "2026-11-04",
+ "today": "2026-11-05",
  "days": [
   {
    "date": "2026-11-02",
@@ -987,17 +987,6 @@
       },
       {
        "time": "09:00",
-       "docket": "26-30190",
-       "caption": "Causeway Partners v. Indian Harbor Insurance Company, Et Al., Appellants.",
-       "nature": "Civil",
-       "natureClass": "civ",
-       "origin": "Eastern District of Louisiana, New Orleans",
-       "perSide": 20,
-       "submitted": false,
-       "specialNote": null
-      },
-      {
-       "time": "09:00",
        "docket": "25-30653",
        "caption": "Pelnor, L.L.C. v. First State Insurance Company, Appellant-Appellee.",
        "nature": "Civil",
@@ -1481,6 +1470,17 @@
        "nature": "Civil Rights",
        "natureClass": "cr",
        "origin": "Western District of Texas, Austin",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-30653",
+       "caption": "Johnnie Rushing v. Steven Sanders, Appellant.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Middle District of Louisiana, Baton Rouge",
        "perSide": 20,
        "submitted": false,
        "specialNote": null

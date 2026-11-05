@@ -1,15 +1,405 @@
 {
-  "generated_at": "2026-11-04T19:50:19+00:00",
+  "generated_at": "2026-11-05T20:00:50+00:00",
   "window_days": 10,
   "source": "CourtListener oral argument search (Free Law Project)",
   "cases": [
+    {
+      "id": "cl-107438",
+      "court": "ca2",
+      "docket": "25-2640, 25-2794",
+      "title": "Icon International, Inc. v. Elevation Health LLC",
+      "date": "2026-11-06",
+      "duration_sec": 2278,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/06/icon_international_inc._v._elevation_health_llc_cl_1.mp3",
+      "page": "https://www.courtlistener.com/audio/107438/icon-international-inc-v-elevation-health-llc/"
+    },
+    {
+      "id": "cl-107437",
+      "court": "ca2",
+      "docket": "25-2530",
+      "title": "Liberty Mutual Fire Insurance Company v. Ategrity Specialty Insurance Company",
+      "date": "2026-11-06",
+      "duration_sec": 1745,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/06/liberty_mutual_fire_insurance_company_v._ategrity_specialty_insurance_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107437/liberty-mutual-fire-insurance-company-v-ategrity-specialty-insurance/"
+    },
+    {
+      "id": "cl-107436",
+      "court": "ca2",
+      "docket": "25-3151 & 25-3221",
+      "title": "Massapequa Union Free School District v. New York State Board of Regents",
+      "date": "2026-11-06",
+      "duration_sec": 2294,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/06/massapequa_union_free_school_district_v._new_york_state_board_of_regents_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107436/massapequa-union-free-school-district-v-new-york-state-board-of-regents/"
+    },
+    {
+      "id": "cl-107435",
+      "court": "ca2",
+      "docket": "25-2477",
+      "title": "United States v. Saunders",
+      "date": "2026-11-06",
+      "duration_sec": 663,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/06/united_states_v._saunders_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107435/united-states-v-saunders/"
+    },
+    {
+      "id": "cl-107454",
+      "court": "ca1",
+      "docket": "26-1077",
+      "title": "American Paper Corporation v. Clearwater Paper Corporation",
+      "date": "2026-11-05",
+      "duration_sec": 2430,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/american_paper_corporation_v._clearwater_paper_corporation_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107454/american-paper-corporation-v-clearwater-paper-corporation/"
+    },
+    {
+      "id": "cl-107453",
+      "court": "ca1",
+      "docket": "24-1712",
+      "title": "Bancredito Holding Corporation v. Driven Administrative Services, LLC",
+      "date": "2026-11-05",
+      "duration_sec": 2143,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/bancredito_holding_corporation_v._driven_administrative_services_llc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107453/bancredito-holding-corporation-v-driven-administrative-services-llc/"
+    },
+    {
+      "id": "cl-107452",
+      "court": "ca1",
+      "docket": "25-1318",
+      "title": "Figueroa-Rodriguez v. Puerto Rico Department of Education",
+      "date": "2026-11-05",
+      "duration_sec": 2351,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/figueroa-rodriguez_v._puerto_rico_department_of_education_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107452/figueroa-rodriguez-v-puerto-rico-department-of-education/"
+    },
+    {
+      "id": "cl-107451",
+      "court": "ca1",
+      "docket": "25-1463",
+      "title": "Rodriguez-Rivera v. Allscripts Healthcare, LLC",
+      "date": "2026-11-05",
+      "duration_sec": 1730,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/rodriguez-rivera_v._allscripts_healthcare_llc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107451/rodriguez-rivera-v-allscripts-healthcare-llc/"
+    },
+    {
+      "id": "cl-107450",
+      "court": "ca1",
+      "docket": "24-1580",
+      "title": "United States v. Charbonier-Laureano",
+      "date": "2026-11-05",
+      "duration_sec": 4073,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/united_states_v._charbonier-laureano_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107450/united-states-v-charbonier-laureano/"
+    },
+    {
+      "id": "cl-107446",
+      "court": "ca11",
+      "docket": "25-11562",
+      "title": "Jose Elpidio Figueroa-Cruz v. U.S. Attorney Genera",
+      "date": "2026-11-05",
+      "duration_sec": 855,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/jose_elpidio_figueroa-cruz_v._u.s._attorney_genera_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107446/jose-figueroa-cruz-v-us-attorney-general/"
+    },
+    {
+      "id": "cl-107445",
+      "court": "ca11",
+      "docket": "24-12814",
+      "title": "Kevin Harrell v. City of West Palm Beach",
+      "date": "2026-11-05",
+      "duration_sec": 1727,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/kevin_harrell_v._city_of_west_palm_beach_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107445/kevin-harrell-v-city-of-west-palm-beach/"
+    },
+    {
+      "id": "cl-107444",
+      "court": "ca11",
+      "docket": "25-10896",
+      "title": "United States v. Hernan Mojica-Renteria",
+      "date": "2026-11-05",
+      "duration_sec": 2016,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/united_states_v._hernan_mojica-renteria_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107444/united-states-v-hernan-mojica-renteria/"
+    },
+    {
+      "id": "cl-107443",
+      "court": "ca11",
+      "docket": "24-14236",
+      "title": "United States v. Justin Sigmon",
+      "date": "2026-11-05",
+      "duration_sec": 1559,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/united_states_v._justin_sigmon_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107443/united-states-v-justin-sigmon/"
+    },
+    {
+      "id": "cl-107458",
+      "court": "ca5",
+      "docket": "26-50111",
+      "title": "American Sustainable v. Huffines",
+      "date": "2026-11-05",
+      "duration_sec": 2490,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/american_sustainable_v._huffines_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107458/american-sustainable-v-huffines/"
+    },
+    {
+      "id": "cl-107457",
+      "court": "ca5",
+      "docket": "26-10080",
+      "title": "Gooden v. Lhoist North America",
+      "date": "2026-11-05",
+      "duration_sec": 2402,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/gooden_v._lhoist_north_america_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107457/gooden-v-lhoist-north-america/"
+    },
+    {
+      "id": "cl-107456",
+      "court": "ca5",
+      "docket": "26-10093",
+      "title": "Harvey v. Lhoist North America",
+      "date": "2026-11-05",
+      "duration_sec": 2184,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/harvey_v._lhoist_north_america_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107456/harvey-v-lhoist-north-america/"
+    },
+    {
+      "id": "cl-107455",
+      "court": "ca5",
+      "docket": "25-60458",
+      "title": "Wallace v. State of Mississippi",
+      "date": "2026-11-05",
+      "duration_sec": 1673,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/wallace_v._state_of_mississippi_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107455/wallace-v-state-of-mississippi/"
+    },
+    {
+      "id": "cl-107463",
+      "court": "ca7",
+      "docket": "26-1349",
+      "title": "FASORP v. Northwestern University",
+      "date": "2026-11-05",
+      "duration_sec": 2135,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/fasorp_v._northwestern_university_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107463/fasorp-v-northwestern-university/"
+    },
+    {
+      "id": "cl-107461",
+      "court": "ca7",
+      "docket": "26-1199",
+      "title": "Jacob Baxter v. Danny Cheadle",
+      "date": "2026-11-05",
+      "duration_sec": 1092,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/jacob_baxter_v._danny_cheadle_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107461/jacob-baxter-v-danny-cheadle/"
+    },
+    {
+      "id": "cl-107460",
+      "court": "ca7",
+      "docket": "25-2825",
+      "title": "United States v. Demario Flemming",
+      "date": "2026-11-05",
+      "duration_sec": 1054,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/united_states_v._demario_flemming_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107460/united-states-v-demario-flemming/"
+    },
+    {
+      "id": "cl-107459",
+      "court": "ca7",
+      "docket": "26-1676",
+      "title": "Zongzong Tao v. Simplex Investments LLC",
+      "date": "2026-11-05",
+      "duration_sec": 1209,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/zongzong_tao_v._simplex_investments_llc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107459/zongzong-tao-v-simplex-investments-llc/"
+    },
+    {
+      "id": "cl-107464",
+      "court": "ca9",
+      "docket": "10-99002",
+      "title": "Todd Smith v. David Shinn",
+      "date": "2026-11-05",
+      "duration_sec": 3179,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/todd_smith_v._david_shinn_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107464/todd-smith-v-charles-ryan/"
+    },
+    {
+      "id": "cl-107449",
+      "court": "cadc",
+      "docket": "25-1123",
+      "title": "Niagara Mohawk Power Corporation v. FERC",
+      "date": "2026-11-05",
+      "duration_sec": 2494,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/niagara_mohawk_power_corporation_v._ferc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107449/niagara-mohawk-power-corporation-v-ferc/"
+    },
+    {
+      "id": "cl-107448",
+      "court": "cadc",
+      "docket": "26-5033",
+      "title": "Paul Guertin v. United States",
+      "date": "2026-11-05",
+      "duration_sec": 1673,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/paul_guertin_v._united_states_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107448/paul-guertin-v-united-states/"
+    },
+    {
+      "id": "cl-107447",
+      "court": "cadc",
+      "docket": "25-5194",
+      "title": "Subpoena Issued to Pretrial Services Agency",
+      "date": "2026-11-05",
+      "duration_sec": 3319,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/subpoena_issued_to_pretrial_services_agency_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107447/in-re-subpoena-issued-to-pretrial-services-agency/"
+    },
+    {
+      "id": "cl-107471",
+      "court": "cafc",
+      "docket": "25-1424",
+      "title": "Arista Networks, Inc. v. Corrigent Corp.",
+      "date": "2026-11-05",
+      "duration_sec": 1388,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/arista_networks_inc._v._corrigent_corp._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107471/arista-networks-inc-v-corrigent-corp/"
+    },
+    {
+      "id": "cl-107470",
+      "court": "cafc",
+      "docket": "25-2036",
+      "title": "Corrigent Corp. v. Cisco Systems, Inc.",
+      "date": "2026-11-05",
+      "duration_sec": 2043,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/corrigent_corp._v._cisco_systems_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107470/corrigent-corp-v-cisco-systems-inc/"
+    },
+    {
+      "id": "cl-107469",
+      "court": "cafc",
+      "docket": "25-1840",
+      "title": "Ingenus Pharmaceuticals, LLC v. Nexus Pharmaceuticals, Inc.",
+      "date": "2026-11-05",
+      "duration_sec": 1551,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/ingenus_pharmaceuticals_llc_v._nexus_pharmaceuticals_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107469/ingenus-pharmaceuticals-llc-v-nexus-pharmaceuticals-inc/"
+    },
+    {
+      "id": "cl-107468",
+      "court": "cafc",
+      "docket": "25-1293",
+      "title": "Powell v. Collins",
+      "date": "2026-11-05",
+      "duration_sec": 1326,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/powell_v._collins_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107468/powell-v-collins/"
+    },
+    {
+      "id": "cl-107466",
+      "court": "cafc",
+      "docket": "25-1808",
+      "title": "Terracino v. Trimaco, Inc.",
+      "date": "2026-11-05",
+      "duration_sec": 1746,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/terracino_v._trimaco_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107466/terracino-v-trimaco-inc/"
+    },
+    {
+      "id": "cl-107465",
+      "court": "cafc",
+      "docket": "25-1780",
+      "title": "The Green Pet Shop Enterprises, LLC v. Comfort Revolution",
+      "date": "2026-11-05",
+      "duration_sec": 1899,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/the_green_pet_shop_enterprises_llc_v._comfort_revolution_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107465/the-green-pet-shop-enterprises-llc-v-comfort-revolution/"
+    },
+    {
+      "id": "cl-107434",
+      "court": "ca1",
+      "docket": "25-2227",
+      "title": "Silva-Prentice v. Kennedy",
+      "date": "2026-11-04",
+      "duration_sec": 1302,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/silva-prentice_v._kennedy_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107434/silva-prentice-v-kennedy/"
+    },
+    {
+      "id": "cl-107433",
+      "court": "ca1",
+      "docket": "25-1570",
+      "title": "Slim v. Life Insurance Company of North America",
+      "date": "2026-11-04",
+      "duration_sec": 1613,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/slim_v._life_insurance_company_of_north_america_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107433/slim-v-life-insurance-company-of-north-america/"
+    },
+    {
+      "id": "cl-107432",
+      "court": "ca1",
+      "docket": "24-1169",
+      "title": "United States v. Cruz-Osorio",
+      "date": "2026-11-04",
+      "duration_sec": 2448,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._cruz-osorio_cl_1.mp3",
+      "page": "https://www.courtlistener.com/audio/107432/united-states-v-cruz-osorio/"
+    },
+    {
+      "id": "cl-107431",
+      "court": "ca1",
+      "docket": "25-1741",
+      "title": "United States v. Och",
+      "date": "2026-11-04",
+      "duration_sec": 1287,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._och_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107431/united-states-v-och/"
+    },
+    {
+      "id": "cl-107416",
+      "court": "ca1",
+      "docket": "24-1454",
+      "title": "United States v. Perez-Gonzalez",
+      "date": "2026-11-04",
+      "duration_sec": 1306,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._perez-gonzalez_cl_1.mp3",
+      "page": "https://www.courtlistener.com/audio/107416/united-states-v-perez-gonzalez/"
+    },
+    {
+      "id": "cl-107415",
+      "court": "ca1",
+      "docket": "25-1783",
+      "title": "Vazquez-Ramos v. Triple-S Salud, Inc.",
+      "date": "2026-11-04",
+      "duration_sec": 2604,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/vazquez-ramos_v._triple-s_salud_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107415/vazquez-ramos-v-triple-s-salud-inc/"
+    },
+    {
+      "id": "cl-107440",
+      "court": "ca11",
+      "docket": "25-12597",
+      "title": "ADIDAS AG v. locality.com",
+      "date": "2026-11-04",
+      "duration_sec": 1859,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/adidas_ag_v._locality.com_cl_2.mp3",
+      "page": "https://www.courtlistener.com/audio/107440/adidas-ag-v-localityicom/"
+    },
+    {
+      "id": "cl-107410",
+      "court": "ca11",
+      "docket": "25-11320",
+      "title": "Donna Curling v. David J. Worley",
+      "date": "2026-11-04",
+      "duration_sec": 1884,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/donna_curling_v._david_j._worley_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107410/donna-curling-v-david-worley/"
+    },
     {
       "id": "cl-107409",
       "court": "ca11",
       "docket": "25-13166",
       "title": "Global Network Management, Inc. v. Cirion Technologies Solutions, LLC",
       "date": "2026-11-04",
-      "duration_sec": 1605,
+      "duration_sec": 1869,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/global_network_management_inc._v._cirion_technologies_solutions_llc_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107409/global-network-management-inc-v-cirion-technologies-solutions-llc/"
     },
@@ -19,9 +409,19 @@
       "docket": "25-13412",
       "title": "Kenny A. v. Department of Human Resources of the State of Georgia",
       "date": "2026-11-04",
-      "duration_sec": 1193,
+      "duration_sec": 1390,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/kenny_a._v._department_of_human_resources_of_the_state_of_georgia_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107408/kenny-a-v-governor-of-the-state-of-georgia/"
+    },
+    {
+      "id": "cl-107439",
+      "court": "ca11",
+      "docket": "25-10137",
+      "title": "Melvin Gene Hodges v. Commissioner, Alabama Department of Corrections",
+      "date": "2026-11-04",
+      "duration_sec": 3843,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/melvin_gene_hodges_v._commissioner_alabama_department_of_corrections_cl_1.mp3",
+      "page": "https://www.courtlistener.com/audio/107439/melvin-gene-hodges-v-commissioner-alabama-department-of-corrections/"
     },
     {
       "id": "cl-107407",
@@ -49,7 +449,7 @@
       "docket": "25-10465",
       "title": "United States v. Erik Hadad",
       "date": "2026-11-04",
-      "duration_sec": 1260,
+      "duration_sec": 1467,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._erik_hadad_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107405/united-states-v-erik-hadad/"
     },
@@ -74,6 +474,36 @@
       "page": "https://www.courtlistener.com/audio/107396/united-states-v-robert-bowers/"
     },
     {
+      "id": "cl-107419",
+      "court": "ca5",
+      "docket": "26-50226",
+      "title": "Doe v. University of Texas",
+      "date": "2026-11-04",
+      "duration_sec": 1524,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/doe_v._university_of_texas_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107419/doe-v-university-of-texas/"
+    },
+    {
+      "id": "cl-107418",
+      "court": "ca5",
+      "docket": "26-30174",
+      "title": "O. E. v. Advocates for Arts",
+      "date": "2026-11-04",
+      "duration_sec": 2666,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/o._e._v._advocates_for_arts_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107418/o-e-v-advocates-for-arts/"
+    },
+    {
+      "id": "cl-107417",
+      "court": "ca5",
+      "docket": "26-30043",
+      "title": "Stevenson v. Lavespere",
+      "date": "2026-11-04",
+      "duration_sec": 2094,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/stevenson_v._lavespere_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107417/stevenson-v-lavespere/"
+    },
+    {
       "id": "cl-107403",
       "court": "ca5",
       "docket": "26-10018",
@@ -94,12 +524,162 @@
       "page": "https://www.courtlistener.com/audio/107402/united-states-v-anderson/"
     },
     {
+      "id": "cl-107401",
+      "court": "ca5",
+      "docket": "24-40799",
+      "title": "United States v. Castro-Mendez",
+      "date": "2026-11-04",
+      "duration_sec": 2017,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._castro-mendez_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107401/united-states-v-castro-mendez/"
+    },
+    {
+      "id": "cl-107400",
+      "court": "ca5",
+      "docket": "26-10431",
+      "title": "United States v. Rhode Island Hospital",
+      "date": "2026-11-04",
+      "duration_sec": 2484,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._rhode_island_hospital_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107400/united-states-v-rhode-island-hospital/"
+    },
+    {
+      "id": "cl-107442",
+      "court": "ca5",
+      "docket": "25-60055",
+      "title": "Vistra v. FERC",
+      "date": "2026-11-04",
+      "duration_sec": 3740,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/vistra_v._ferc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107442/vistra-v-ferc/"
+    },
+    {
+      "id": "cl-107441",
+      "court": "ca5",
+      "docket": "26-50181",
+      "title": "Wild Type v. Shuford",
+      "date": "2026-11-04",
+      "duration_sec": 2117,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/wild_type_v._shuford_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107441/wild-type-v-garcia/"
+    },
+    {
+      "id": "cl-107430",
+      "court": "ca7",
+      "docket": "26-1974",
+      "title": "Elizabeth Coffey v. Kerrisdale Capital Management",
+      "date": "2026-11-04",
+      "duration_sec": 1787,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/elizabeth_coffey_v._kerrisdale_capital_management_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107430/elizabeth-coffey-v-kerrisdale-capital-management/"
+    },
+    {
+      "id": "cl-107429",
+      "court": "ca7",
+      "docket": "26-1659",
+      "title": "Garrett Mixon v. City of Galesburg",
+      "date": "2026-11-04",
+      "duration_sec": 1366,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/garrett_mixon_v._city_of_galesburg_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107429/garrett-mixon-v-city-of-galesburg/"
+    },
+    {
+      "id": "cl-107428",
+      "court": "ca7",
+      "docket": "26-1432",
+      "title": "McKenzie Jones v. Unum Life Insurance Company of",
+      "date": "2026-11-04",
+      "duration_sec": 1842,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/mckenzie_jones_v._unum_life_insurance_company_of_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107428/mckenzie-jones-v-unum-life-insurance-company-of/"
+    },
+    {
+      "id": "cl-107427",
+      "court": "ca7",
+      "docket": "25-3275",
+      "title": "Michael Melgaard v. Wisconsin Department of Natura",
+      "date": "2026-11-04",
+      "duration_sec": 2181,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/michael_melgaard_v._wisconsin_department_of_natura_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107427/michael-melgaard-v-wisconsin-department-of-natural-resources/"
+    },
+    {
+      "id": "cl-107426",
+      "court": "ca7",
+      "docket": "25-3141",
+      "title": "Mohammed Mahran v. Cook County, Illinois",
+      "date": "2026-11-04",
+      "duration_sec": 1173,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/mohammed_mahran_v._cook_county_illinois_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107426/mohammed-mahran-v-cook-county-illinois/"
+    },
+    {
+      "id": "cl-107425",
+      "court": "ca7",
+      "docket": "25-3089",
+      "title": "Quintez Cephus v. Rebecca Blank",
+      "date": "2026-11-04",
+      "duration_sec": 1878,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/quintez_cephus_v._rebecca_blank_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107425/quintez-cephus-v-rebecca-blank/"
+    },
+    {
+      "id": "cl-107424",
+      "court": "ca7",
+      "docket": "25-2467",
+      "title": "Safari Childcare, Inc. v. Shirley Penny",
+      "date": "2026-11-04",
+      "duration_sec": 1482,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/safari_childcare_inc._v._shirley_penny_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107424/safari-childcare-inc-v-shirley-penny/"
+    },
+    {
+      "id": "cl-107423",
+      "court": "ca7",
+      "docket": "26-1299",
+      "title": "TK Elevator Corporation v. Church Mutual Insurance Compan",
+      "date": "2026-11-04",
+      "duration_sec": 1361,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/tk_elevator_corporation_v._church_mutual_insurance_compan_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107423/tk-elevator-corporation-v-church-mutual-insurance-compan/"
+    },
+    {
+      "id": "cl-107422",
+      "court": "ca7",
+      "docket": "23-3111",
+      "title": "United States v. Curtis Coleman",
+      "date": "2026-11-04",
+      "duration_sec": 865,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._curtis_coleman_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107422/united-states-v-curtis-coleman/"
+    },
+    {
+      "id": "cl-107421",
+      "court": "ca7",
+      "docket": "24-2883",
+      "title": "United States v. Eddie Smith",
+      "date": "2026-11-04",
+      "duration_sec": 1975,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._eddie_smith_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107421/united-states-v-eddie-smith/"
+    },
+    {
+      "id": "cl-107420",
+      "court": "ca7",
+      "docket": "25-3347",
+      "title": "Xu Lun v. Milwaukee Electric Tool Corpor",
+      "date": "2026-11-04",
+      "duration_sec": 2376,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/xu_lun_v._milwaukee_electric_tool_corpor_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107420/xu-lun-v-milwaukee-electric-tool-corporation/"
+    },
+    {
       "id": "cl-107414",
       "court": "cafc",
       "docket": "25-1715",
       "title": "Centripetal Networks, LLC v. Keysight Technologies, Inc.",
       "date": "2026-11-04",
-      "duration_sec": 1483,
+      "duration_sec": 1728,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/centripetal_networks_llc_v._keysight_technologies_inc._cl.mp3",
       "page": "https://www.courtlistener.com/audio/107414/centripetal-networks-llc-v-keysight-technologies-inc/"
     },
@@ -112,6 +692,16 @@
       "duration_sec": 2244,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/digital_broadcasting_solutions_llc_v._dish_network_l.l.c._cl.mp3",
       "page": "https://www.courtlistener.com/audio/107398/digital-broadcasting-solutions-llc-v-dish-network-llc/"
+    },
+    {
+      "id": "cl-107413",
+      "court": "cafc",
+      "docket": "25-1702",
+      "title": "Finjan LLC v. Palo Alto Networks, Inc.",
+      "date": "2026-11-04",
+      "duration_sec": 2333,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/finjan_llc_v._palo_alto_networks_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107413/finjan-llc-v-palo-alto-networks-inc/"
     },
     {
       "id": "cl-107397",
@@ -129,7 +719,7 @@
       "docket": "25-1363",
       "title": "Kroenung v. Defense",
       "date": "2026-11-04",
-      "duration_sec": 1043,
+      "duration_sec": 1215,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/kroenung_v._defense_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107412/kroenung-v-defense/"
     },
@@ -139,7 +729,7 @@
       "docket": "24-1780",
       "title": "Robinson v. Collins",
       "date": "2026-11-04",
-      "duration_sec": 976,
+      "duration_sec": 1137,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/robinson_v._collins_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107411/robinson-v-collins/"
     },
@@ -252,16 +842,6 @@
       "duration_sec": 1623,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/national_wildlife_federation_inc._v._u.s._army_corps_of_engineers_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107354/national-wildlife-federation-v-us-army-corps-of-engineers/"
-    },
-    {
-      "id": "cl-107346",
-      "court": "ca11",
-      "docket": "25-11265",
-      "title": "Solomon Btesh v. Isaac Btesh",
-      "date": "2026-11-03",
-      "duration_sec": 2572,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/solomon_btesh_v._isaac_btesh_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107346/solomon-btesh-v-isaac-btesh/"
     },
     {
       "id": "cl-107353",
@@ -622,586 +1202,6 @@
       "duration_sec": 1973,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/walsh_turner_joint_venture_ii_v._secretary_of_the_army_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107357/walsh-turner-joint-venture-ii-v-secretary-of-the-army/"
-    },
-    {
-      "id": "cl-107339",
-      "court": "ca1",
-      "docket": "23-1973",
-      "title": "Celester v. Lynds",
-      "date": "2026-11-02",
-      "duration_sec": 1046,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/celester_v._lynds_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107339/celester-v-lynds/"
-    },
-    {
-      "id": "cl-107338",
-      "court": "ca1",
-      "docket": "25-1161",
-      "title": "Estancias de Cerro Mar, Inc. v. Puerto Rico Aqueduct and Sewer Authority",
-      "date": "2026-11-02",
-      "duration_sec": 2695,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/estancias_de_cerro_mar_inc._v._puerto_rico_aqueduct_and_sewer_authority_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107338/estancias-de-cerro-mar-inc-v-puerto-rico-aqueduct-and-sewer-authority/"
-    },
-    {
-      "id": "cl-107337",
-      "court": "ca1",
-      "docket": "25-2151",
-      "title": "Melendez v. Kennedy",
-      "date": "2026-11-02",
-      "duration_sec": 2334,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/melendez_v._kennedy_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107337/melendez-v-kennedy/"
-    },
-    {
-      "id": "cl-107336",
-      "court": "ca1",
-      "docket": "24-1803",
-      "title": "Roldan-Cruz v. Commonwealth of Puerto Rico",
-      "date": "2026-11-02",
-      "duration_sec": 1919,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/roldan-cruz_v._commonwealth_of_puerto_rico_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107336/roldan-cruz-v-commonwealth-of-puerto-rico/"
-    },
-    {
-      "id": "cl-107335",
-      "court": "ca1",
-      "docket": "25-1270",
-      "title": "Sandoval v. Mennonite General Hospital, Inc.",
-      "date": "2026-11-02",
-      "duration_sec": 2148,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/sandoval_v._mennonite_general_hospital_inc._cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107335/sandoval-v-mennonite-general-hospital-inc/"
-    },
-    {
-      "id": "cl-107334",
-      "court": "ca1",
-      "docket": "26-1272",
-      "title": "Soscia Holdings, LLC v. Town of Coventry",
-      "date": "2026-11-02",
-      "duration_sec": 2557,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/soscia_holdings_llc_v._town_of_coventry_cl_2.mp3",
-      "page": "https://www.courtlistener.com/audio/107334/soscia-holdings-llc-v-town-of-coventry/"
-    },
-    {
-      "id": "cl-107333",
-      "court": "ca1",
-      "docket": "24-2134",
-      "title": "United States v. Atterberry",
-      "date": "2026-11-02",
-      "duration_sec": 2801,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/united_states_v._atterberry_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107333/united-states-v-atterberry/"
-    },
-    {
-      "id": "cl-107332",
-      "court": "ca1",
-      "docket": "25-1610",
-      "title": "United States v. Joseph",
-      "date": "2026-11-02",
-      "duration_sec": 1352,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/united_states_v._joseph_cl_2.mp3",
-      "page": "https://www.courtlistener.com/audio/107332/united-states-v-joseph/"
-    },
-    {
-      "id": "cl-107331",
-      "court": "ca1",
-      "docket": "25-1562",
-      "title": "United States v. Nguyen",
-      "date": "2026-11-02",
-      "duration_sec": 1255,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/united_states_v._nguyen_cl_2.mp3",
-      "page": "https://www.courtlistener.com/audio/107331/united-states-v-nguyen/"
-    },
-    {
-      "id": "cl-107320",
-      "court": "ca2",
-      "docket": "25-3192",
-      "title": "Kim v. State of New Jersey",
-      "date": "2026-11-02",
-      "duration_sec": 581,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/kim_v._state_of_new_jersey_cl_5.mp3",
-      "page": "https://www.courtlistener.com/audio/107320/kim-v-state-of-new-jersey/"
-    },
-    {
-      "id": "cl-107319",
-      "court": "ca2",
-      "docket": "25-2487, 25-2503",
-      "title": "Wang v. Sussman",
-      "date": "2026-11-02",
-      "duration_sec": 2769,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/wang_v._sussman_cl_5.mp3",
-      "page": "https://www.courtlistener.com/audio/107319/wang-v-sussman/"
-    },
-    {
-      "id": "cl-107326",
-      "court": "ca5",
-      "docket": "25-11060",
-      "title": "Sabine v. Carroll ISD",
-      "date": "2026-11-02",
-      "duration_sec": 2138,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/sabine_v._carroll_isd_cl_3.mp3",
-      "page": "https://www.courtlistener.com/audio/107326/sabine-v-carroll-isd/"
-    },
-    {
-      "id": "cl-107325",
-      "court": "ca5",
-      "docket": "25-40766",
-      "title": "State of Texas v. Oz",
-      "date": "2026-11-02",
-      "duration_sec": 1863,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/state_of_texas_v._oz_cl_3.mp3",
-      "page": "https://www.courtlistener.com/audio/107325/state-of-texas-v-oz/"
-    },
-    {
-      "id": "cl-107324",
-      "court": "ca5",
-      "docket": "25-30664",
-      "title": "United States v. Keys",
-      "date": "2026-11-02",
-      "duration_sec": 2199,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/united_states_v._keys_cl_2.mp3",
-      "page": "https://www.courtlistener.com/audio/107324/united-states-v-keys/"
-    },
-    {
-      "id": "cl-107323",
-      "court": "ca5",
-      "docket": "25-40379",
-      "title": "United States v. Kumapayi",
-      "date": "2026-11-02",
-      "duration_sec": 2345,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/united_states_v._kumapayi_cl_3.mp3",
-      "page": "https://www.courtlistener.com/audio/107323/united-states-v-kumapayi/"
-    },
-    {
-      "id": "cl-107322",
-      "court": "cadc",
-      "docket": "26-7008",
-      "title": "Christopher Chandler v. Donald Berlin",
-      "date": "2026-11-02",
-      "duration_sec": 2589,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/christopher_chandler_v._donald_berlin_cl_3.mp3",
-      "page": "https://www.courtlistener.com/audio/107322/christopher-chandler-v-donald-berlin/"
-    },
-    {
-      "id": "cl-107321",
-      "court": "cadc",
-      "docket": "25-1284",
-      "title": "South Texas Environmental Justice Network v. FERC",
-      "date": "2026-11-02",
-      "duration_sec": 5466,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/south_texas_environmental_justice_network_v._ferc_cl_2.mp3",
-      "page": "https://www.courtlistener.com/audio/107321/south-texas-environmental-justice-network-v-ferc/"
-    },
-    {
-      "id": "cl-107343",
-      "court": "cafc",
-      "docket": "25-1354",
-      "title": "American Honda Motor Co., Inc. v. Neo Wireless LLC",
-      "date": "2026-11-02",
-      "duration_sec": 1705,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/american_honda_motor_co._inc._v._neo_wireless_llc_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107343/american-honda-motor-co-inc-v-neo-wireless-llc/"
-    },
-    {
-      "id": "cl-107342",
-      "court": "cafc",
-      "docket": "25-1982",
-      "title": "Enovsys LLC v. Uber Technologies, Inc.",
-      "date": "2026-11-02",
-      "duration_sec": 1640,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/enovsys_llc_v._uber_technologies_inc._cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107342/enovsys-llc-v-uber-technologies-inc/"
-    },
-    {
-      "id": "cl-107341",
-      "court": "cafc",
-      "docket": "25-1821",
-      "title": "General Electric Company v. LPP Combustion, LLC",
-      "date": "2026-11-02",
-      "duration_sec": 1995,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/general_electric_company_v._lpp_combustion_llc_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107341/general-electric-company-v-lpp-combustion-llc/"
-    },
-    {
-      "id": "cl-107330",
-      "court": "cafc",
-      "docket": "25-1661",
-      "title": "In Re Jefferson Street Holdings LLC",
-      "date": "2026-11-02",
-      "duration_sec": 2144,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/in_re_jefferson_street_holdings_llc_cl_5.mp3",
-      "page": "https://www.courtlistener.com/audio/107330/in-re-jefferson-street-holdings-llc/"
-    },
-    {
-      "id": "cl-107329",
-      "court": "cafc",
-      "docket": "25-2037",
-      "title": "In Re Jefferson Street Holdings LLC",
-      "date": "2026-11-02",
-      "duration_sec": 2274,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/in_re_jefferson_street_holdings_llc_cl_3.mp3",
-      "page": "https://www.courtlistener.com/audio/107329/in-re-jefferson-street-holdings-llc/"
-    },
-    {
-      "id": "cl-107328",
-      "court": "cafc",
-      "docket": "26-1008",
-      "title": "In Re Jefferson Street Holdings LLC",
-      "date": "2026-11-02",
-      "duration_sec": 1708,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/in_re_jefferson_street_holdings_llc_cl_4.mp3",
-      "page": "https://www.courtlistener.com/audio/107328/in-re-jefferson-street-holdings-llc/"
-    },
-    {
-      "id": "cl-107327",
-      "court": "cafc",
-      "docket": "25-1319",
-      "title": "Orckit Corp. v. Cisco Systems, Inc.",
-      "date": "2026-11-02",
-      "duration_sec": 2073,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/orckit_corp._v._cisco_systems_inc._cl_3.mp3",
-      "page": "https://www.courtlistener.com/audio/107327/orckit-corp-v-cisco-systems-inc/"
-    },
-    {
-      "id": "cl-107340",
-      "court": "cafc",
-      "docket": "25-1674",
-      "title": "PT. Zinus Global Indonesia v. United States",
-      "date": "2026-11-02",
-      "duration_sec": 1767,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/pt._zinus_global_indonesia_v._united_states_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107340/pt-zinus-global-indonesia-v-united-states/"
-    },
-    {
-      "id": "cl-107293",
-      "court": "ca2",
-      "docket": "25-1763",
-      "title": "Alexander v. Blanche",
-      "date": "2026-10-30",
-      "duration_sec": 2104,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/alexander_v._blanche_cl_4.mp3",
-      "page": "https://www.courtlistener.com/audio/107293/alexander-v-blanche/"
-    },
-    {
-      "id": "cl-107292",
-      "court": "ca2",
-      "docket": "25-2644",
-      "title": "Freckleton v. Ambulnz NY LLC",
-      "date": "2026-10-30",
-      "duration_sec": 628,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/freckleton_v._ambulnz_ny_llc_cl_5.mp3",
-      "page": "https://www.courtlistener.com/audio/107292/freckleton-v-ambulnz-ny-llc/"
-    },
-    {
-      "id": "cl-107291",
-      "court": "ca2",
-      "docket": "26-638",
-      "title": "Shraga Veretzky v. Town of Highland Zoning Board of Appeals",
-      "date": "2026-10-30",
-      "duration_sec": 1435,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/shraga_veretzky_v._town_of_highland_zoning_board_of_appeals_cl_5.mp3",
-      "page": "https://www.courtlistener.com/audio/107291/shraga-veretzky-v-town-of-highland-zoning-board-of-appeals/"
-    },
-    {
-      "id": "cl-107290",
-      "court": "ca2",
-      "docket": "25-2467",
-      "title": "United States v. Yarborough",
-      "date": "2026-10-30",
-      "duration_sec": 1120,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/united_states_v._yarborough_cl_5.mp3",
-      "page": "https://www.courtlistener.com/audio/107290/united-states-v-yarborough/"
-    },
-    {
-      "id": "cl-107313",
-      "court": "ca4",
-      "docket": "26-1938",
-      "title": "City of Columbus v. Robert Kennedy, Jr.",
-      "date": "2026-10-30",
-      "duration_sec": 2883,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/city_of_columbus_v._robert_kennedy_jr._cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107313/city-of-columbus-v-robert-kennedy-jr/"
-    },
-    {
-      "id": "cl-107312",
-      "court": "ca4",
-      "docket": "25-1843",
-      "title": "Frederick Stuhr v. United States Army Corps of Engineers Charleston",
-      "date": "2026-10-30",
-      "duration_sec": 1452,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/frederick_stuhr_v._united_states_army_corps_of_engineers_charleston_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107312/frederick-stuhr-v-united-states-army-corps-of-engineers-charleston/"
-    },
-    {
-      "id": "cl-107311",
-      "court": "ca4",
-      "docket": "25-2084",
-      "title": "Hector Bonilla Bustillo v. John Roessler",
-      "date": "2026-10-30",
-      "duration_sec": 2426,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/hector_bonilla_bustillo_v._john_roessler_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107311/hector-bonilla-bustillo-v-john-roessler/"
-    },
-    {
-      "id": "cl-107310",
-      "court": "ca4",
-      "docket": "26-0110",
-      "title": "In re: Timothy Guess",
-      "date": "2026-10-30",
-      "duration_sec": 1896,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/in_re_timothy_guess_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107310/in-re-timothy-guess/"
-    },
-    {
-      "id": "cl-107309",
-      "court": "ca4",
-      "docket": "25-1198",
-      "title": "John Burgess v. Nationwide Property & Casualty Ins. Co.",
-      "date": "2026-10-30",
-      "duration_sec": 2059,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/john_burgess_v._nationwide_property__casualty_ins._co._cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107309/john-burgess-v-nationwide-property-casualty-ins-co/"
-    },
-    {
-      "id": "cl-107308",
-      "court": "ca4",
-      "docket": "26-1823",
-      "title": "John Mullins v. National Rural Electric Cooperative Association",
-      "date": "2026-10-30",
-      "duration_sec": 2589,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/john_mullins_v._national_rural_electric_cooperative_association_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107308/john-mullins-v-national-rural-electric-cooperative-association/"
-    },
-    {
-      "id": "cl-107307",
-      "court": "ca4",
-      "docket": "25-6781",
-      "title": "Jonathan Green v. Mark Keel",
-      "date": "2026-10-30",
-      "duration_sec": 2506,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/jonathan_green_v._mark_keel_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107307/jonathan-green-v-mark-keel/"
-    },
-    {
-      "id": "cl-107306",
-      "court": "ca4",
-      "docket": "25-2259",
-      "title": "Michael Taylor v. United States",
-      "date": "2026-10-30",
-      "duration_sec": 2660,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/michael_taylor_v._united_states_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107306/michael-taylor-v-united-states/"
-    },
-    {
-      "id": "cl-107305",
-      "court": "ca4",
-      "docket": "25-2076",
-      "title": "Nathaniel Jackson v. Michael Gilday",
-      "date": "2026-10-30",
-      "duration_sec": 2246,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/nathaniel_jackson_v._michael_gilday_cl_2.mp3",
-      "page": "https://www.courtlistener.com/audio/107305/nathaniel-jackson-v-michael-gilday/"
-    },
-    {
-      "id": "cl-107304",
-      "court": "ca4",
-      "docket": "26-1099",
-      "title": "Tiago Sousa Martins v. Todd Blanche",
-      "date": "2026-10-30",
-      "duration_sec": 2487,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/tiago_sousa_martins_v._todd_blanche_cl_6.mp3",
-      "page": "https://www.courtlistener.com/audio/107304/tiago-sousa-martins-v-todd-blanche/"
-    },
-    {
-      "id": "cl-107303",
-      "court": "ca4",
-      "docket": "24-6528",
-      "title": "United States v. Covia Smith",
-      "date": "2026-10-30",
-      "duration_sec": 1466,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/united_states_v._covia_smith_cl_10.mp3",
-      "page": "https://www.courtlistener.com/audio/107303/united-states-v-covia-smith/"
-    },
-    {
-      "id": "cl-107302",
-      "court": "ca4",
-      "docket": "25-2004",
-      "title": "United States v. George Russell, III",
-      "date": "2026-10-30",
-      "duration_sec": 2773,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/united_states_v._george_russell_iii_cl_4.mp3",
-      "page": "https://www.courtlistener.com/audio/107302/united-states-v-george-russell-iii/"
-    },
-    {
-      "id": "cl-107301",
-      "court": "ca4",
-      "docket": "25-4587",
-      "title": "United States v. Kenneth Nunez-Couret",
-      "date": "2026-10-30",
-      "duration_sec": 1638,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/united_states_v._kenneth_nunez-couret_cl_5.mp3",
-      "page": "https://www.courtlistener.com/audio/107301/united-states-v-kenneth-nunez-couret/"
-    },
-    {
-      "id": "cl-107300",
-      "court": "ca4",
-      "docket": "25-4542",
-      "title": "United States v. Lester Massey, Jr.",
-      "date": "2026-10-30",
-      "duration_sec": 2003,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/united_states_v._lester_massey_jr._cl_7.mp3",
-      "page": "https://www.courtlistener.com/audio/107300/united-states-v-lester-massey-jr/"
-    },
-    {
-      "id": "cl-107289",
-      "court": "ca7",
-      "docket": "25-2864",
-      "title": "Dylan Jones v. Chad Jennings",
-      "date": "2026-10-30",
-      "duration_sec": 1290,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/dylan_jones_v._chad_jennings_cl_9.mp3",
-      "page": "https://www.courtlistener.com/audio/107289/dylan-jones-v-chad-jennings/"
-    },
-    {
-      "id": "cl-107288",
-      "court": "ca7",
-      "docket": "26-1525",
-      "title": "Justin Bartz v. Columbia County, Wisconsin",
-      "date": "2026-10-30",
-      "duration_sec": 941,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/justin_bartz_v._columbia_county_wisconsin_cl_11.mp3",
-      "page": "https://www.courtlistener.com/audio/107288/justin-bartz-v-columbia-county-wisconsin/"
-    },
-    {
-      "id": "cl-107287",
-      "court": "ca7",
-      "docket": "26-1507",
-      "title": "Olga Diaz v. James C. Schmidt",
-      "date": "2026-10-30",
-      "duration_sec": 1757,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/olga_diaz_v._james_c._schmidt_cl_8.mp3",
-      "page": "https://www.courtlistener.com/audio/107287/olga-diaz-v-james-c-schmidt/"
-    },
-    {
-      "id": "cl-107286",
-      "court": "ca7",
-      "docket": "26-1617",
-      "title": "United States v. Donald Heisler",
-      "date": "2026-10-30",
-      "duration_sec": 1596,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/united_states_v._donald_heisler_cl_9.mp3",
-      "page": "https://www.courtlistener.com/audio/107286/united-states-v-donald-heisler/"
-    },
-    {
-      "id": "cl-107299",
-      "court": "ca9",
-      "docket": "19-72694",
-      "title": "Cesar Cardenas Guzman v. Todd Blanche",
-      "date": "2026-10-30",
-      "duration_sec": 1565,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/cesar_cardenas_guzman_v._todd_blanche_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107299/cesar-cardenas-guzman-v-todd-blanche/"
-    },
-    {
-      "id": "cl-107317",
-      "court": "ca9",
-      "docket": "25-2318",
-      "title": "Conrady v. Bradley",
-      "date": "2026-10-30",
-      "duration_sec": 2011,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/conrady_v._bradley_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107317/conrady-v-bradley-et-al/"
-    },
-    {
-      "id": "cl-107294",
-      "court": "ca9",
-      "docket": "26-139",
-      "title": "Kuznetsova v. Blanche",
-      "date": "2026-10-30",
-      "duration_sec": 1922,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/kuznetsova_v._blanche_cl_5.mp3",
-      "page": "https://www.courtlistener.com/audio/107294/kuznetsova-v-blanche/"
-    },
-    {
-      "id": "cl-107316",
-      "court": "ca9",
-      "docket": "25-2798",
-      "title": "Martell v. Houck",
-      "date": "2026-10-30",
-      "duration_sec": 1363,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/martell_v._houck_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107316/martell-v-houck-et-al/"
-    },
-    {
-      "id": "cl-107296",
-      "court": "ca9",
-      "docket": "25-7451",
-      "title": "Monroy Camacho v. Blanche",
-      "date": "2026-10-30",
-      "duration_sec": 1303,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/monroy_camacho_v._blanche_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107296/monroy-camacho-v-blanche/"
-    },
-    {
-      "id": "cl-107315",
-      "court": "ca9",
-      "docket": "25-7161",
-      "title": "Morrison v. Yippee Entertainment, Inc.",
-      "date": "2026-10-30",
-      "duration_sec": 1151,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/morrison_v._yippee_entertainment_inc._cl_4.mp3",
-      "page": "https://www.courtlistener.com/audio/107315/morrison-v-yippee-entertainment-inc/"
-    },
-    {
-      "id": "cl-107318",
-      "court": "ca9",
-      "docket": "25-2165",
-      "title": "Silva v. CreditNinja Lending, LLC",
-      "date": "2026-10-30",
-      "duration_sec": 948,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/silva_v._creditninja_lending_llc_cl_3.mp3",
-      "page": "https://www.courtlistener.com/audio/107318/silva-v-creditninja-lending-llc/"
-    },
-    {
-      "id": "cl-107298",
-      "court": "ca9",
-      "docket": "24-6240",
-      "title": "Simms v. Edwards",
-      "date": "2026-10-30",
-      "duration_sec": 1434,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/simms_v._edwards_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107298/simms-v-edwards/"
-    },
-    {
-      "id": "cl-107297",
-      "court": "ca9",
-      "docket": "25-3819",
-      "title": "United States v. Benner",
-      "date": "2026-10-30",
-      "duration_sec": 1507,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/united_states_v._benner_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107297/united-states-v-benner/"
-    },
-    {
-      "id": "cl-107314",
-      "court": "ca9",
-      "docket": "25-8156",
-      "title": "United States v. Parias",
-      "date": "2026-10-30",
-      "duration_sec": 2603,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/united_states_v._parias_cl_4.mp3",
-      "page": "https://www.courtlistener.com/audio/107314/united-states-of-america-v-parias/"
-    },
-    {
-      "id": "cl-107295",
-      "court": "ca9",
-      "docket": "25-7728",
-      "title": "Villalobos Sanchez v. Blanche",
-      "date": "2026-10-30",
-      "duration_sec": 2235,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/10/30/villalobos_sanchez_v._blanche_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107295/villalobos-sanchez-v-blanche/"
     }
   ]
 }

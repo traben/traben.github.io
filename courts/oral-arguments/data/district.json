@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T01:32:29+00:00",
+ "generated_at": "2026-11-05T20:03:39+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -26,15 +26,6 @@
     "note": "The judge decides hearing by hearing whether to open the public line; the docket says so when it's available. Recording or rebroadcasting is prohibited."
    },
    "hearings": [
-    {
-     "date": "2026-10-30",
-     "type": "Oral Argument",
-     "time": "10:00",
-     "room": "Courtroom 12",
-     "status": "held",
-     "public_line": true,
-     "noticed": "2026-10-29"
-    },
     {
      "date": "2026-11-13",
      "type": "Motion Hearing",
