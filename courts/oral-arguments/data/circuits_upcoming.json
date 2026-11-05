@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T19:51:57+00:00",
+ "generated_at": "2026-11-05T01:32:27+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -16,1067 +16,6 @@
   "ca2"
  ],
  "cases": [
-  {
-   "id": "ca2-24-1024-2026-10-21",
-   "court": "ca2",
-   "docket": "24-1024, 24-2492",
-   "title": "United States of America v. Adrian Bradshaw",
-   "date": "2026-10-21",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "Parker, Livingston, Pérez",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789135563",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-24-3286-2026-10-21",
-   "court": "ca2",
-   "docket": "24-3286",
-   "title": "Phoenix Fashion, Inc. v. Yakoub N. Saadia, et al",
-   "date": "2026-10-21",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "Kearse, Chin, Kahn",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789138312",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-1395-2026-10-21",
-   "court": "ca2",
-   "docket": "25-1395",
-   "title": "Kevin Alexander Orellana Posadas v. Todd Blanche",
-   "date": "2026-10-21",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "Parker, Livingston, Pérez",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789135563",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-1788-2026-10-21",
-   "court": "ca2",
-   "docket": "25-1788",
-   "title": "Roger W. Clarke, Jr. v. County of Suffolk, et al",
-   "date": "2026-10-21",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "panel": "Kearse, Chin, Kahn",
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789138312",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-1792-2026-10-21",
-   "court": "ca2",
-   "docket": "25-1792",
-   "title": "Sebastien Funez Mene v. Kaja Funez Sokola",
-   "date": "2026-10-21",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "Kearse, Chin, Kahn",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789138312",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-1871-2026-10-21",
-   "court": "ca2",
-   "docket": "25-1871",
-   "title": "Wells Fargo Bank, N.A. v. The Estate of Cecile Gold",
-   "date": "2026-10-21",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "Parker, Livingston, Pérez",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789135563",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-2059-2026-10-21",
-   "court": "ca2",
-   "docket": "25-2059",
-   "title": "Estate of Russel Mechling v. U.S. Bank National Association }",
-   "date": "2026-10-21",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "Parker, Livingston, Pérez",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789135563",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-2176-2026-10-21",
-   "court": "ca2",
-   "docket": "25-2176",
-   "title": "Iasia Eaves v. Hub International Group Northeast, Inc.",
-   "date": "2026-10-21",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "Kearse, Chin, Kahn",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789138312",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-2825-2026-10-21",
-   "court": "ca2",
-   "docket": "25-2825",
-   "title": "Pastor Aden Rusfeldt v. City of New York, Stephen Hughes",
-   "date": "2026-10-21",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "Parker, Livingston, Pérez",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789135563",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-664-2026-10-21",
-   "court": "ca2",
-   "docket": "25-664, 25-1541",
-   "title": "United States of America v. Glenn Griffin",
-   "date": "2026-10-21",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "Kearse, Chin, Kahn",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789138312",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-931-2026-10-21",
-   "court": "ca2",
-   "docket": "25-931",
-   "title": "Jace R. Yzaguirre v. Dave Levin, Benny Vazquez, KIPP et al",
-   "date": "2026-10-21",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "5 min per side"
-   ],
-   "panel": "Parker, Livingston, Pérez",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=21&id=789135563",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca8-25-2111-2026-10-21",
-   "court": "ca8",
-   "docket": "25-2111",
-   "title": "United States v. Desean Solomon",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "MN",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2149-2026-10-21",
-   "court": "ca8",
-   "docket": "25-2149",
-   "title": "United States v. Michael Burrell",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "MN",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2292-2026-10-21",
-   "court": "ca8",
-   "docket": "25-2292",
-   "title": "United States v. Leontawan Holt",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "MN",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2372-2026-10-21",
-   "court": "ca8",
-   "docket": "25-2372",
-   "title": "United States v. Arron Davis",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "MN",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-2825-2026-10-21",
-   "court": "ca8",
-   "docket": "25-2825",
-   "title": "United States v. Arnulfo Gomez",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "ND",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3286-2026-10-21",
-   "court": "ca8",
-   "docket": "25-3286",
-   "title": "Ag Tech Resources v. Land O’Lakes",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "SI",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26omh.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3288-2026-10-21",
-   "court": "ca8",
-   "docket": "25-3288",
-   "title": "United States v. Eric Turner",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "MN",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3354-2026-10-21",
-   "court": "ca8",
-   "docket": "25-3354",
-   "title": "Crown Iron Works v. Intecnial S.A.",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "MN",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3435-2026-10-21",
-   "court": "ca8",
-   "docket": "25-3435",
-   "title": "United States v. Andrew Munsinger",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "MN",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3461-2026-10-21",
-   "court": "ca8",
-   "docket": "25-3461",
-   "title": "Autotech Technologies, et al. v. Patrick",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "SI",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3527-2026-10-21",
-   "court": "ca8",
-   "docket": "25-3527",
-   "title": "United States v. Antelmo Obeso-Valenzuela",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "NE",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26omh.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3531-2026-10-21",
-   "court": "ca8",
-   "docket": "25-3531",
-   "title": "United States v. Alexander Jackson",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "NE",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26omh.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3536-2026-10-21",
-   "court": "ca8",
-   "docket": "25-3536",
-   "title": "Jeramy Davis v. Warden, FCI Sandstone",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "MN",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-25-3542-2026-10-21",
-   "court": "ca8",
-   "docket": "25-3542",
-   "title": "Gregg Colton v. Lime Rock Resources GP V, et al.",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "ND",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26omh.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-26-1061-2026-10-21",
-   "court": "ca8",
-   "docket": "26-1061",
-   "title": "United States v. Kyle Soto",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "SD",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-26-1138-2026-10-21",
-   "court": "ca8",
-   "docket": "26-1138",
-   "title": "Jennifer Robles v. Justin Ruby REMOVED",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "NE",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26omh.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-26-1327-2026-10-21",
-   "court": "ca8",
-   "docket": "26-1327",
-   "title": "Rigoberto Soto Jimenez v. Matthew Isihara",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "MN",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca8-26-1336-2026-10-21",
-   "court": "ca8",
-   "docket": "26-1336",
-   "title": "United States v. Cody DeSersa",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "Omaha",
-   "room": null,
-   "origin": "SD",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ecf.ca8.uscourts.gov/webcal/oct26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
-   },
-   "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
-  },
-  {
-   "id": "ca9-23-35598-2026-10-21",
-   "court": "ca9",
-   "docket": "23-35598",
-   "title": "David Johnson v. Michael Dunleavy",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 3, 3rd Floor Rm 307",
-   "origin": "Civil · AK",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-24-6099-2026-10-21",
-   "court": "ca9",
-   "docket": "24-6099",
-   "title": "Amarte USA Holdings, Inc. v. Kendo Holdings, Inc., et al.",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Civil · N. CA",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-1959-2026-10-21",
-   "court": "ca9",
-   "docket": "25-1959",
-   "title": "USA v. Redholtz",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 3",
-   "origin": "Criminal · C. CA",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-198-2026-10-21",
-   "court": "ca9",
-   "docket": "25-198",
-   "title": "Amarte USA Holdings, Inc. v. Kendo Holdings, Inc., et al.",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Civil · N. CA",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-2113-2026-10-21",
-   "court": "ca9",
-   "docket": "25-2113",
-   "title": "USA v. Shepherd",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 3, 3rd Floor Rm 307",
-   "origin": "Criminal · E. CA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-2280-2026-10-21",
-   "court": "ca9",
-   "docket": "25-2280",
-   "title": "Barnett, et al. v. City of San Jose",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 3, 3rd Floor Rm 307",
-   "origin": "Civil · N. CA",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-2719-2026-10-21",
-   "court": "ca9",
-   "docket": "25-2719",
-   "title": "Amarte USA Holdings, Inc. v. Kendo Holdings, Inc., et al.",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Civil · N. CA",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-3181-2026-10-21",
-   "court": "ca9",
-   "docket": "25-3181",
-   "title": "Barnett, et al. v. City of San Jose",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 3, 3rd Floor Rm 307",
-   "origin": "Civil · N. CA",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-3268-2026-10-21",
-   "court": "ca9",
-   "docket": "25-3268",
-   "title": "Zaragoza Bucio v. Blanche",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 3, 3rd Floor Rm 307",
-   "origin": "Immigration · C. CA",
-   "issue": null,
-   "notes": [
-    "Submission deferred"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-3447-2026-10-21",
-   "court": "ca9",
-   "docket": "25-3447",
-   "title": "Betula Lenta, Inc. v. Jinzheng Group USA, LLC",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 1",
-   "origin": "Bankruptcy · C. CA",
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-3701-2026-10-21",
-   "court": "ca9",
-   "docket": "25-3701",
-   "title": "USA v. Rollins",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 3, 3rd Floor Rm 307",
-   "origin": "Criminal · N. CA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-3702-2026-10-21",
-   "court": "ca9",
-   "docket": "25-3702",
-   "title": "USA v. Rollins",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 3, 3rd Floor Rm 307",
-   "origin": "Criminal · N. CA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-3778-2026-10-21",
-   "court": "ca9",
-   "docket": "25-3778",
-   "title": "Stendal v. Memorial Health Services, et al.",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 3",
-   "origin": "Civil · C. CA",
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-4058-2026-10-21",
-   "court": "ca9",
-   "docket": "25-4058",
-   "title": "Renovatio Technologia Digital v. Dolphin Imaging and Management Solutions, et al.",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 1",
-   "origin": "Civil · C. CA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-4114-2026-10-21",
-   "court": "ca9",
-   "docket": "25-4114",
-   "title": "Peak Oil Holdings LLC, et al. v. County of Ventura",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 1",
-   "origin": "Civil · C. CA",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-4222-2026-10-21",
-   "court": "ca9",
-   "docket": "25-4222",
-   "title": "Cockrell v. Navient Corporation, et al.",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 3",
-   "origin": "Civil · C. CA",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-4772-2026-10-21",
-   "court": "ca9",
-   "docket": "25-4772",
-   "title": "Cockrell v. Navient Corporation, et al.",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 3",
-   "origin": "Civil · C. CA",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-705-2026-10-21",
-   "court": "ca9",
-   "docket": "25-705",
-   "title": "Amarte USA Holdings, Inc. v. Kendo Holdings, Inc., et al.",
-   "date": "2026-10-21",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Civil · N. CA",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-24-5100-2026-10-21",
-   "court": "ca9",
-   "docket": "24-5100",
-   "title": "USA v. Alexander",
-   "date": "2026-10-21",
-   "time_local": "11:30",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 3, 3rd Floor Rm 307",
-   "origin": "Criminal · AK",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-24-5105-2026-10-21",
-   "court": "ca9",
-   "docket": "24-5105",
-   "title": "USA v. Alexander",
-   "date": "2026-10-21",
-   "time_local": "11:30",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 3, 3rd Floor Rm 307",
-   "origin": "Criminal · AK",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-21&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
   {
    "id": "ca2-24-1611-2026-10-22",
    "court": "ca2",
@@ -7628,7 +6567,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel B · Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -7650,7 +6589,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel A · Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -7672,7 +6611,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel B · Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -7694,7 +6633,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel A · Courtroom 402",
    "origin": "CIT",
    "issue": null,
    "notes": null,
@@ -7716,7 +6655,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel A · Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -7738,7 +6677,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel A · Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -7760,7 +6699,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel B · Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -7782,7 +6721,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel B · Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -7796,39 +6735,19 @@
    "live_note": null
   },
   {
-   "id": "cafc-26-1012-2026-11-02",
-   "court": "cafc",
-   "docket": "26-1012",
-   "title": "Green v. MSPB",
-   "date": "2026-11-02",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "Courtroom 402",
-   "origin": "MSPB",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
-   },
-   "live_note": null
-  },
-  {
    "id": "cafc-26-1198-2026-11-02",
    "court": "cafc",
    "docket": "26-1198",
-   "title": "McFadden v. DHS",
+   "title": "MSPB",
    "date": "2026-11-02",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "MSPB",
+   "room": "Panel B · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
-   "no_argument": true,
+   "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -7839,13 +6758,13 @@
    "id": "cafc-26-1495-2026-11-02",
    "court": "cafc",
    "docket": "26-1495",
-   "title": "McFadden v. DHS",
+   "title": "MSPB McFadden v. DHS McFadden v. DHS",
    "date": "2026-11-02",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "MSPB",
+   "room": "Panel B · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -7864,7 +6783,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel A · Courtroom 402",
    "origin": "CFC",
    "issue": null,
    "notes": null,
@@ -8884,7 +7803,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel D · Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -8906,7 +7825,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel C · Courtroom 402",
    "origin": "CAVC",
    "issue": null,
    "notes": null,
@@ -8928,7 +7847,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel C · Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -8950,7 +7869,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel C · Courtroom 402",
    "origin": "ITC",
    "issue": null,
    "notes": null,
@@ -8972,7 +7891,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel C · Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -8994,7 +7913,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel D · Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -9016,7 +7935,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel D · Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -9038,7 +7957,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel D · Courtroom 203",
    "origin": "BCA",
    "issue": null,
    "notes": null,
@@ -9055,16 +7974,16 @@
    "id": "cafc-26-1222-2026-11-03",
    "court": "cafc",
    "docket": "26-1222",
-   "title": "Brandenburg v. US",
+   "title": "CFC",
    "date": "2026-11-03",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "CFC",
+   "room": "Panel C · Courtroom 402",
+   "origin": null,
    "issue": null,
    "notes": null,
-   "no_argument": true,
+   "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -9075,16 +7994,16 @@
    "id": "cafc-26-1373-2026-11-03",
    "court": "cafc",
    "docket": "26-1373",
-   "title": "Proceviat v. Collins",
+   "title": "CAVC",
    "date": "2026-11-03",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "CAVC",
+   "room": "Panel D · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
-   "no_argument": true,
+   "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -9095,13 +8014,13 @@
    "id": "cafc-26-1742-2026-11-03",
    "court": "cafc",
    "docket": "26-1742",
-   "title": "May v. DOJ",
+   "title": "MSPB Brandenburg v. US May v. DOJ",
    "date": "2026-11-03",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "MSPB",
+   "room": "Panel C · Courtroom 402",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -9115,13 +8034,13 @@
    "id": "cafc-26-1800-2026-11-03",
    "court": "cafc",
    "docket": "26-1800",
-   "title": "Simpson v. DVA",
+   "title": "MSPB Proceviat v. Collins Simpson v. DVA",
    "date": "2026-11-03",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "MSPB",
+   "room": "Panel D · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -10327,7 +9246,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel F · Courtroom 203",
    "origin": "CAVC",
    "issue": null,
    "notes": null,
@@ -10349,7 +9268,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel E · Courtroom 402",
    "origin": "CAVC",
    "issue": null,
    "notes": null,
@@ -10371,7 +9290,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel F · Courtroom 203",
    "origin": "MSPB",
    "issue": null,
    "notes": null,
@@ -10393,7 +9312,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel E · Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -10415,8 +9334,50 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel F · Courtroom 203",
    "origin": "DCT",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+   },
+   "live_note": null
+  },
+  {
+   "id": "cafc-25-1715-2026-11-04",
+   "court": "cafc",
+   "docket": "25-1715",
+   "title": "Centripetal Networks, LLC v. Keysight Technologies, Inc.",
+   "date": "2026-11-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "Panel F · Courtroom 203",
+   "origin": "PTO",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/centripetal_networks_llc_v._keysight_technologies_inc._cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107414/centripetal-networks-llc-v-keysight-technologies-inc/"
+   },
+   "live_note": null
+  },
+  {
+   "id": "cafc-26-1541-2026-11-04",
+   "court": "cafc",
+   "docket": "26-1541",
+   "title": "CFC",
+   "date": "2026-11-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "Panel F · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": false,
@@ -10430,13 +9391,33 @@
    "id": "cafc-26-1549-2026-11-04",
    "court": "cafc",
    "docket": "26-1549",
-   "title": "Khaghani v. Navy",
+   "title": "MSPB",
    "date": "2026-11-04",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
-   "origin": "MSPB",
+   "room": "Panel E · Courtroom 402",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+   },
+   "live_note": null
+  },
+  {
+   "id": "cafc-26-1574-2026-11-04",
+   "court": "cafc",
+   "docket": "26-1574",
+   "title": "CAVC George v. US Holland v. Collins",
+   "date": "2026-11-04",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "Panel F · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -10450,13 +9431,13 @@
    "id": "cafc-26-1633-2026-11-04",
    "court": "cafc",
    "docket": "26-1633",
-   "title": "Cullerton v. US",
+   "title": "CFC Khaghani v. Navy Cullerton v. US",
    "date": "2026-11-04",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
-   "origin": "CFC",
+   "room": "Panel E · Courtroom 402",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -11147,13 +10128,13 @@
    "id": "cafc-25-1293-2026-11-05",
    "court": "cafc",
    "docket": "25-1293",
-   "title": "Powell v. Collins",
+   "title": "CAVC Powell v. Collins",
    "date": "2026-11-05",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "CAVC",
+   "room": "Panel H · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": false,
@@ -11172,7 +10153,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel H · Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -11192,7 +10173,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel G · Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -11200,28 +10181,6 @@
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "cafc-25-1715-2026-11-05",
-   "court": "cafc",
-   "docket": "25-1715",
-   "title": "Centripetal Networks, LLC v. Keysight Technologies, Inc.",
-   "date": "2026-11-05",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "Courtroom 402",
-   "origin": "PTO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/centripetal_networks_llc_v._keysight_technologies_inc._cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107414/centripetal-networks-llc-v-keysight-technologies-inc/"
    },
    "live_note": null
   },
@@ -11234,7 +10193,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel H · Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -11254,7 +10213,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel G · Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -11274,7 +10233,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel H · Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -11294,7 +10253,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel G · Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -11309,36 +10268,16 @@
    "id": "cafc-26-1288-2026-11-05",
    "court": "cafc",
    "docket": "26-1288",
-   "title": "Lentz v. Interior",
+   "title": "MSPB",
    "date": "2026-11-05",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "MSPB",
+   "room": "Panel H · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "cafc-26-1541-2026-11-05",
-   "court": "cafc",
-   "docket": "26-1541",
-   "title": "George v. US",
-   "date": "2026-11-05",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "Courtroom 402",
-   "origin": "CFC",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
+   "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -11349,36 +10288,16 @@
    "id": "cafc-26-1564-2026-11-05",
    "court": "cafc",
    "docket": "26-1564",
-   "title": "Weber v. MSPB",
+   "title": "MSPB",
    "date": "2026-11-05",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
-   "origin": "MSPB",
+   "room": "Panel G · Courtroom 402",
+   "origin": null,
    "issue": null,
    "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "cafc-26-1574-2026-11-05",
-   "court": "cafc",
-   "docket": "26-1574",
-   "title": "Holland v. Collins",
-   "date": "2026-11-05",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "Courtroom 402",
-   "origin": "CAVC",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
+   "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -11394,7 +10313,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel G · Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -11409,13 +10328,13 @@
    "id": "cafc-26-1774-2026-11-05",
    "court": "cafc",
    "docket": "26-1774",
-   "title": "Banks v. US",
+   "title": "CFC Weber v. MSPB Banks v. US",
    "date": "2026-11-05",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
-   "origin": "CFC",
+   "room": "Panel G · Courtroom 402",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -11429,13 +10348,13 @@
    "id": "cafc-26-1912-2026-11-05",
    "court": "cafc",
    "docket": "26-1912",
-   "title": "Bass v. US",
+   "title": "CFC Lentz v. Interior Bass v. US",
    "date": "2026-11-05",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "CFC",
+   "room": "Panel H · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -11930,7 +10849,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel I · Courtroom 402",
    "origin": "CAVC",
    "issue": null,
    "notes": null,
@@ -11950,7 +10869,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel I · Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -11965,12 +10884,12 @@
    "id": "cafc-25-1640-2026-11-06",
    "court": "cafc",
    "docket": "25-1640",
-   "title": "UUSI, LLC v. Samsung Electronics Co., Ltd.",
+   "title": "UUSI, LLC v. Samsung Electronics Co., Ltd. CAVC25-2097",
    "date": "2026-11-06",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel I · Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -11990,7 +10909,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel J · Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -12010,7 +10929,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel J · Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -12030,7 +10949,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel J · Courtroom 203",
    "origin": "OCWR",
    "issue": null,
    "notes": null,
@@ -12042,39 +10961,19 @@
    "live_note": null
   },
   {
-   "id": "cafc-25-2097-2026-11-06",
-   "court": "cafc",
-   "docket": "25-2097",
-   "title": "Dodson v. Collins",
-   "date": "2026-11-06",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "CAVC",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
-   },
-   "live_note": null
-  },
-  {
    "id": "cafc-26-1481-2026-11-06",
    "court": "cafc",
    "docket": "26-1481",
-   "title": "Rezba v. Collins",
+   "title": "CAVC",
    "date": "2026-11-06",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "CAVC",
+   "room": "Panel J · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
-   "no_argument": true,
+   "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -12085,13 +10984,13 @@
    "id": "cafc-26-1580-2026-11-06",
    "court": "cafc",
    "docket": "26-1580",
-   "title": "Valdez v. OPM",
+   "title": "MSPB Dodson v. Collins Valdez v. OPM",
    "date": "2026-11-06",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "MSPB",
+   "room": "Panel I · Courtroom 402",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -12105,13 +11004,13 @@
    "id": "cafc-26-1704-2026-11-06",
    "court": "cafc",
    "docket": "26-1704",
-   "title": "Bruzzese v. MSPB",
+   "title": "MSPB Rezba v. Collins Bruzzese v. MSPB",
    "date": "2026-11-06",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "MSPB",
+   "room": "Panel J · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -12579,13 +11478,13 @@
    "id": "cafc-24-1894-2026-11-09",
    "court": "cafc",
    "docket": "24-1894",
-   "title": "Natera, Inc. v. CareDx, Inc.",
+   "title": "DCT Natera, Inc. v. CareDx, Inc.",
    "date": "2026-11-09",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
-   "origin": "DCT",
+   "room": "Panel L · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": false,
@@ -12604,7 +11503,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel K · Courtroom 402",
    "origin": "ITC",
    "issue": null,
    "notes": null,
@@ -12624,7 +11523,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel L · Courtroom 203",
    "origin": "CAVC",
    "issue": null,
    "notes": null,
@@ -12644,7 +11543,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel K · Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -12664,7 +11563,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel K · Courtroom 402",
    "origin": "CAVC",
    "issue": null,
    "notes": null,
@@ -12684,7 +11583,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel L · Courtroom 203",
    "origin": "MSPB",
    "issue": null,
    "notes": null,
@@ -12704,7 +11603,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 203",
+   "room": "Panel L · Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -12724,7 +11623,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel K · Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -12736,16 +11635,36 @@
    "live_note": null
   },
   {
-   "id": "cafc-26-1643-2026-11-09",
+   "id": "cafc-26-1509-2026-11-09",
    "court": "cafc",
-   "docket": "26-1643",
-   "title": "Brown v. Defense",
+   "docket": "26-1509",
+   "title": "CFC",
    "date": "2026-11-09",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
-   "origin": "MSPB",
+   "room": "Panel L · Courtroom 203",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+   },
+   "live_note": null
+  },
+  {
+   "id": "cafc-26-1515-2026-11-09",
+   "court": "cafc",
+   "docket": "26-1515",
+   "title": "DOJ McCaster v. US Weston v. DOJ",
+   "date": "2026-11-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "Panel L · Courtroom 203",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -12756,16 +11675,36 @@
    "live_note": null
   },
   {
-   "id": "cafc-26-1948-2026-11-09",
+   "id": "cafc-26-1643-2026-11-09",
    "court": "cafc",
-   "docket": "26-1948",
-   "title": "Zahler v. US",
+   "docket": "26-1643",
+   "title": "MSPB",
    "date": "2026-11-09",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
-   "origin": "CFC",
+   "room": "Panel K · Courtroom 402",
+   "origin": null,
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+   },
+   "live_note": null
+  },
+  {
+   "id": "cafc-26-1948-2026-11-09",
+   "court": "cafc",
+   "docket": "26-1948",
+   "title": "CFC Brown v. Defense Zahler v. US",
+   "date": "2026-11-09",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "Panel K · Courtroom 402",
+   "origin": null,
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -12784,7 +11723,7 @@
    "time_local": "14:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel M · Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -12804,7 +11743,7 @@
    "time_local": "14:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel M · Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -12824,7 +11763,7 @@
    "time_local": "14:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel M · Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -12844,7 +11783,7 @@
    "time_local": "14:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel M · Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -12864,48 +11803,8 @@
    "time_local": "14:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel M · Courtroom 402",
    "origin": "CFC",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "cafc-26-1509-2026-11-09",
-   "court": "cafc",
-   "docket": "26-1509",
-   "title": "McCaster v. US",
-   "date": "2026-11-09",
-   "time_local": "14:00",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "Courtroom 402",
-   "origin": "CFC",
-   "issue": null,
-   "notes": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "cafc-26-1515-2026-11-09",
-   "court": "cafc",
-   "docket": "26-1515",
-   "title": "Weston v. DOJ",
-   "date": "2026-11-09",
-   "time_local": "14:00",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "Courtroom 402",
-   "origin": "DOJ",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -12924,7 +11823,7 @@
    "time_local": "14:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Courtroom 402",
+   "room": "Panel M · Courtroom 402",
    "origin": "MSPB",
    "issue": null,
    "notes": null,
@@ -36350,19 +35249,6 @@
  ],
  "sessions": [
   {
-   "id": "ca6-session-2026-10-21",
-   "court": "ca6",
-   "date": "2026-10-21",
-   "tz": "America/New_York",
-   "location": "Cincinnati, OH",
-   "note": "Court in session. The case list is posted about two weeks ahead.",
-   "links": {
-    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
-    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2026%20Public%20Master%20Sitting%20Schedule.pdf",
-    "live": "https://www.ca6.uscourts.gov/live-arguments"
-   }
-  },
-  {
    "id": "ca6-session-2026-10-22",
    "court": "ca6",
    "date": "2026-10-22",
@@ -36450,6 +35336,656 @@
    "links": {
     "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
     "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2026%20Public%20Master%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-01-25",
+   "court": "ca6",
+   "date": "2027-01-25",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-01-26",
+   "court": "ca6",
+   "date": "2027-01-26",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-01-27",
+   "court": "ca6",
+   "date": "2027-01-27",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-01-28",
+   "court": "ca6",
+   "date": "2027-01-28",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-01-29",
+   "court": "ca6",
+   "date": "2027-01-29",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-02-01",
+   "court": "ca6",
+   "date": "2027-02-01",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-02-02",
+   "court": "ca6",
+   "date": "2027-02-02",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-02-03",
+   "court": "ca6",
+   "date": "2027-02-03",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-02-04",
+   "court": "ca6",
+   "date": "2027-02-04",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-02-05",
+   "court": "ca6",
+   "date": "2027-02-05",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-03-08",
+   "court": "ca6",
+   "date": "2027-03-08",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-03-09",
+   "court": "ca6",
+   "date": "2027-03-09",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-03-10",
+   "court": "ca6",
+   "date": "2027-03-10",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-03-11",
+   "court": "ca6",
+   "date": "2027-03-11",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-03-12",
+   "court": "ca6",
+   "date": "2027-03-12",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-04-26",
+   "court": "ca6",
+   "date": "2027-04-26",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-04-27",
+   "court": "ca6",
+   "date": "2027-04-27",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-04-28",
+   "court": "ca6",
+   "date": "2027-04-28",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-04-29",
+   "court": "ca6",
+   "date": "2027-04-29",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-04-30",
+   "court": "ca6",
+   "date": "2027-04-30",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-05-03",
+   "court": "ca6",
+   "date": "2027-05-03",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-05-04",
+   "court": "ca6",
+   "date": "2027-05-04",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-05-05",
+   "court": "ca6",
+   "date": "2027-05-05",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-05-06",
+   "court": "ca6",
+   "date": "2027-05-06",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-05-07",
+   "court": "ca6",
+   "date": "2027-05-07",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-06-07",
+   "court": "ca6",
+   "date": "2027-06-07",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-06-08",
+   "court": "ca6",
+   "date": "2027-06-08",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-06-09",
+   "court": "ca6",
+   "date": "2027-06-09",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-06-10",
+   "court": "ca6",
+   "date": "2027-06-10",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-06-11",
+   "court": "ca6",
+   "date": "2027-06-11",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-07-19",
+   "court": "ca6",
+   "date": "2027-07-19",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-07-20",
+   "court": "ca6",
+   "date": "2027-07-20",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-07-21",
+   "court": "ca6",
+   "date": "2027-07-21",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-07-22",
+   "court": "ca6",
+   "date": "2027-07-22",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-07-23",
+   "court": "ca6",
+   "date": "2027-07-23",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-07-26",
+   "court": "ca6",
+   "date": "2027-07-26",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-07-27",
+   "court": "ca6",
+   "date": "2027-07-27",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-07-28",
+   "court": "ca6",
+   "date": "2027-07-28",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-07-29",
+   "court": "ca6",
+   "date": "2027-07-29",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-07-30",
+   "court": "ca6",
+   "date": "2027-07-30",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-10-18",
+   "court": "ca6",
+   "date": "2027-10-18",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-10-19",
+   "court": "ca6",
+   "date": "2027-10-19",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-10-20",
+   "court": "ca6",
+   "date": "2027-10-20",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-10-21",
+   "court": "ca6",
+   "date": "2027-10-21",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-10-22",
+   "court": "ca6",
+   "date": "2027-10-22",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-12-13",
+   "court": "ca6",
+   "date": "2027-12-13",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-12-14",
+   "court": "ca6",
+   "date": "2027-12-14",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-12-15",
+   "court": "ca6",
+   "date": "2027-12-15",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-12-16",
+   "court": "ca6",
+   "date": "2027-12-16",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
+    "live": "https://www.ca6.uscourts.gov/live-arguments"
+   }
+  },
+  {
+   "id": "ca6-session-2027-12-17",
+   "court": "ca6",
+   "date": "2027-12-17",
+   "tz": "America/New_York",
+   "location": "Cincinnati, OH",
+   "note": "Court in session. The case list is posted about two weeks ahead.",
+   "links": {
+    "calendar": "https://www.ca6.uscourts.gov/oral-argument-calendars",
+    "schedule": "https://www.ca6.uscourts.gov/sites/ca6/files/documents/oral_argument_calendars/2027%20Public%20Sitting%20Schedule.pdf",
     "live": "https://www.ca6.uscourts.gov/live-arguments"
    }
   }
