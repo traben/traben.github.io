@@ -1267,6 +1267,17 @@
        "perSide": 20,
        "submitted": false,
        "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-30653",
+       "caption": "Johnnie Rushing v. Steven Sanders, Appellant.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Middle District of Louisiana, Baton Rouge",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
       }
      ]
     },
@@ -1470,17 +1481,6 @@
        "nature": "Civil Rights",
        "natureClass": "cr",
        "origin": "Western District of Texas, Austin",
-       "perSide": 20,
-       "submitted": false,
-       "specialNote": null
-      },
-      {
-       "time": "09:00",
-       "docket": "26-30653",
-       "caption": "Johnnie Rushing v. Steven Sanders, Appellant.",
-       "nature": "Civil Rights",
-       "natureClass": "cr",
-       "origin": "Middle District of Louisiana, Baton Rouge",
        "perSide": 20,
        "submitted": false,
        "specialNote": null
