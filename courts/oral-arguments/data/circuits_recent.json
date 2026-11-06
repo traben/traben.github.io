@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T01:36:41+00:00",
+  "generated_at": "2026-11-06T19:28:30+00:00",
   "window_days": 10,
   "source": "CourtListener oral argument search (Free Law Project)",
   "cases": [
@@ -42,6 +42,16 @@
       "duration_sec": 663,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/06/united_states_v._saunders_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107435/united-states-v-saunders/"
+    },
+    {
+      "id": "cl-107474",
+      "court": "cadc",
+      "docket": "25-5279",
+      "title": "Afghan and Iraqi Allies v. Marco Rubio",
+      "date": "2026-11-06",
+      "duration_sec": 3058,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/06/afghan_and_iraqi_allies_v._marco_rubio_cl_1.mp3",
+      "page": "https://www.courtlistener.com/audio/107474/afghan-and-iraqi-allies-v-marco-rubio/"
     },
     {
       "id": "cl-107454",
@@ -132,6 +142,16 @@
       "duration_sec": 1559,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/united_states_v._justin_sigmon_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107443/united-states-v-justin-sigmon/"
+    },
+    {
+      "id": "cl-107475",
+      "court": "ca11",
+      "docket": "25-13867",
+      "title": "United States v. Renardo Turner",
+      "date": "2026-11-05",
+      "duration_sec": 2200,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/united_states_v._renardo_turner_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107475/united-states-v-renardo-turner/"
     },
     {
       "id": "cl-107458",
@@ -874,16 +894,6 @@
       "page": "https://www.courtlistener.com/audio/107354/national-wildlife-federation-v-us-army-corps-of-engineers/"
     },
     {
-      "id": "cl-107346",
-      "court": "ca11",
-      "docket": "25-11265",
-      "title": "Solomon Btesh v. Isaac Btesh",
-      "date": "2026-11-03",
-      "duration_sec": 2572,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/solomon_btesh_v._isaac_btesh_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107346/solomon-btesh-v-isaac-btesh/"
-    },
-    {
       "id": "cl-107353",
       "court": "ca11",
       "docket": "25-11666",
@@ -892,36 +902,6 @@
       "duration_sec": 1266,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/united_states_v._charles_williams_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107353/united-states-v-charles-williams/"
-    },
-    {
-      "id": "cl-107352",
-      "court": "ca2",
-      "docket": "26-1835 mtn; 26-2239 mtn; 26-2297mtn",
-      "title": "KalshiEX LLC v. Williams",
-      "date": "2026-11-03",
-      "duration_sec": 3143,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/kalshiex_llc_v._williams_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107352/kalshiex-llc-v-williams/"
-    },
-    {
-      "id": "cl-107351",
-      "court": "ca2",
-      "docket": "25-773, 25-786",
-      "title": "United States v. Udeokoro",
-      "date": "2026-11-03",
-      "duration_sec": 1167,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/united_states_v._udeokoro_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107351/united-states-v-udeokoro/"
-    },
-    {
-      "id": "cl-107350",
-      "court": "ca2",
-      "docket": "26-113",
-      "title": "Yes I Can Licensed Behavior Analyst PLLC v. Green Tree Capital, LLC",
-      "date": "2026-11-03",
-      "duration_sec": 1388,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/yes_i_can_licensed_behavior_analyst_pllc_v._green_tree_capital_llc_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107350/yes-i-can-licensed-behavior-analyst-pllc-v-green-tree-capital-llc/"
     },
     {
       "id": "cl-107383",
@@ -1144,26 +1124,6 @@
       "page": "https://www.courtlistener.com/audio/107375/united-states-v-robert-williams/"
     },
     {
-      "id": "cl-107348",
-      "court": "cadc",
-      "docket": "26-5072",
-      "title": "Joe Neguse v. U.S. Immigration and Customs Enforcement",
-      "date": "2026-11-03",
-      "duration_sec": 3152,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/joe_neguse_v._u.s._immigration_and_customs_enforcement_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107348/joe-neguse-v-us-immigration-and-customs-enforcement/"
-    },
-    {
-      "id": "cl-107347",
-      "court": "cadc",
-      "docket": "25-5354",
-      "title": "Rural Empowerment Association for Community Help v. EPA",
-      "date": "2026-11-03",
-      "duration_sec": 2449,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/rural_empowerment_association_for_community_help_v._epa_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107347/rural-empowerment-association-for-community-help-v-epa/"
-    },
-    {
       "id": "cl-107364",
       "court": "cafc",
       "docket": "25-1796",
@@ -1242,166 +1202,6 @@
       "duration_sec": 1973,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/03/walsh_turner_joint_venture_ii_v._secretary_of_the_army_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107357/walsh-turner-joint-venture-ii-v-secretary-of-the-army/"
-    },
-    {
-      "id": "cl-107339",
-      "court": "ca1",
-      "docket": "23-1973",
-      "title": "Celester v. Lynds",
-      "date": "2026-11-02",
-      "duration_sec": 1046,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/celester_v._lynds_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107339/celester-v-lynds/"
-    },
-    {
-      "id": "cl-107338",
-      "court": "ca1",
-      "docket": "25-1161",
-      "title": "Estancias de Cerro Mar, Inc. v. Puerto Rico Aqueduct and Sewer Authority",
-      "date": "2026-11-02",
-      "duration_sec": 2695,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/estancias_de_cerro_mar_inc._v._puerto_rico_aqueduct_and_sewer_authority_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107338/estancias-de-cerro-mar-inc-v-puerto-rico-aqueduct-and-sewer-authority/"
-    },
-    {
-      "id": "cl-107337",
-      "court": "ca1",
-      "docket": "25-2151",
-      "title": "Melendez v. Kennedy",
-      "date": "2026-11-02",
-      "duration_sec": 2334,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/melendez_v._kennedy_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107337/melendez-v-kennedy/"
-    },
-    {
-      "id": "cl-107336",
-      "court": "ca1",
-      "docket": "24-1803",
-      "title": "Roldan-Cruz v. Commonwealth of Puerto Rico",
-      "date": "2026-11-02",
-      "duration_sec": 1919,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/roldan-cruz_v._commonwealth_of_puerto_rico_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107336/roldan-cruz-v-commonwealth-of-puerto-rico/"
-    },
-    {
-      "id": "cl-107335",
-      "court": "ca1",
-      "docket": "25-1270",
-      "title": "Sandoval v. Mennonite General Hospital, Inc.",
-      "date": "2026-11-02",
-      "duration_sec": 2148,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/sandoval_v._mennonite_general_hospital_inc._cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107335/sandoval-v-mennonite-general-hospital-inc/"
-    },
-    {
-      "id": "cl-107334",
-      "court": "ca1",
-      "docket": "26-1272",
-      "title": "Soscia Holdings, LLC v. Town of Coventry",
-      "date": "2026-11-02",
-      "duration_sec": 2557,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/soscia_holdings_llc_v._town_of_coventry_cl_2.mp3",
-      "page": "https://www.courtlistener.com/audio/107334/soscia-holdings-llc-v-town-of-coventry/"
-    },
-    {
-      "id": "cl-107333",
-      "court": "ca1",
-      "docket": "24-2134",
-      "title": "United States v. Atterberry",
-      "date": "2026-11-02",
-      "duration_sec": 2801,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/united_states_v._atterberry_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107333/united-states-v-atterberry/"
-    },
-    {
-      "id": "cl-107332",
-      "court": "ca1",
-      "docket": "25-1610",
-      "title": "United States v. Joseph",
-      "date": "2026-11-02",
-      "duration_sec": 1352,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/united_states_v._joseph_cl_2.mp3",
-      "page": "https://www.courtlistener.com/audio/107332/united-states-v-joseph/"
-    },
-    {
-      "id": "cl-107331",
-      "court": "ca1",
-      "docket": "25-1562",
-      "title": "United States v. Nguyen",
-      "date": "2026-11-02",
-      "duration_sec": 1255,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/united_states_v._nguyen_cl_2.mp3",
-      "page": "https://www.courtlistener.com/audio/107331/united-states-v-nguyen/"
-    },
-    {
-      "id": "cl-107343",
-      "court": "cafc",
-      "docket": "25-1354",
-      "title": "American Honda Motor Co., Inc. v. Neo Wireless LLC",
-      "date": "2026-11-02",
-      "duration_sec": 1705,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/american_honda_motor_co._inc._v._neo_wireless_llc_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107343/american-honda-motor-co-inc-v-neo-wireless-llc/"
-    },
-    {
-      "id": "cl-107342",
-      "court": "cafc",
-      "docket": "25-1982",
-      "title": "Enovsys LLC v. Uber Technologies, Inc.",
-      "date": "2026-11-02",
-      "duration_sec": 1640,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/enovsys_llc_v._uber_technologies_inc._cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107342/enovsys-llc-v-uber-technologies-inc/"
-    },
-    {
-      "id": "cl-107341",
-      "court": "cafc",
-      "docket": "25-1821",
-      "title": "General Electric Company v. LPP Combustion, LLC",
-      "date": "2026-11-02",
-      "duration_sec": 1995,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/general_electric_company_v._lpp_combustion_llc_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107341/general-electric-company-v-lpp-combustion-llc/"
-    },
-    {
-      "id": "cl-107330",
-      "court": "cafc",
-      "docket": "25-1661",
-      "title": "In Re Jefferson Street Holdings LLC",
-      "date": "2026-11-02",
-      "duration_sec": 2144,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/in_re_jefferson_street_holdings_llc_cl_5.mp3",
-      "page": "https://www.courtlistener.com/audio/107330/in-re-jefferson-street-holdings-llc/"
-    },
-    {
-      "id": "cl-107329",
-      "court": "cafc",
-      "docket": "25-2037",
-      "title": "In Re Jefferson Street Holdings LLC",
-      "date": "2026-11-02",
-      "duration_sec": 2274,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/in_re_jefferson_street_holdings_llc_cl_3.mp3",
-      "page": "https://www.courtlistener.com/audio/107329/in-re-jefferson-street-holdings-llc/"
-    },
-    {
-      "id": "cl-107328",
-      "court": "cafc",
-      "docket": "26-1008",
-      "title": "In Re Jefferson Street Holdings LLC",
-      "date": "2026-11-02",
-      "duration_sec": 1708,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/in_re_jefferson_street_holdings_llc_cl_4.mp3",
-      "page": "https://www.courtlistener.com/audio/107328/in-re-jefferson-street-holdings-llc/"
-    },
-    {
-      "id": "cl-107340",
-      "court": "cafc",
-      "docket": "25-1674",
-      "title": "PT. Zinus Global Indonesia v. United States",
-      "date": "2026-11-02",
-      "duration_sec": 1767,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/02/pt._zinus_global_indonesia_v._united_states_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107340/pt-zinus-global-indonesia-v-united-states/"
     }
   ]
 }
