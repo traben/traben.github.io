@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:30:59+00:00",
+ "generated_at": "2026-11-07T01:01:40+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -37,10 +37,6 @@
     }
    ],
    "deadlines": [
-    {
-     "date": "2026-11-06",
-     "what": "The Government shall file any reply by November 6, 2026."
-    },
     {
      "date": "2026-11-09",
      "what": "Proposed preservation order"
@@ -278,7 +274,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-06"
+   "updated": "2026-11-07"
   }
  ]
 }
