@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T01:01:37+00:00",
+ "generated_at": "2026-11-07T17:49:43+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -351,27 +351,6 @@
    "location": "Pasadena",
    "room": "Courtroom 3",
    "origin": "Immigration · BIA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-26&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-24-1455-2026-10-26",
-   "court": "ca9",
-   "docket": "24-1455",
-   "title": "De Rooij, et al. v. Jaddou, et al.",
-   "date": "2026-10-26",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 1",
-   "origin": "Civil · C. CA",
    "issue": null,
    "notes": null,
    "panel": null,
@@ -3773,27 +3752,6 @@
    ],
    "panel": null,
    "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-30&loc=SE",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-3961-2026-10-30",
-   "court": "ca9",
-   "docket": "25-3961",
-   "title": "Cardenas Choque, et al. v. Blanche",
-   "date": "2026-10-30",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Seattle",
-   "room": "5th Floor Courtroom 3",
-   "origin": "Immigration · W. WA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-30&loc=SE",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -14669,11 +14627,9 @@
    "room": "Courtroom 1, 3rd Floor Rm 338",
    "origin": "Pr Non-HC · NV",
    "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-17&loc=SF",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -19274,11 +19230,9 @@
    "room": "Courtroom 3, 3rd Floor Rm 307",
    "origin": "Immigration · W. WA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-20&loc=SF",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -22855,6 +22809,156 @@
    "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
   {
+   "id": "ca7-25-2950-2026-12-07",
+   "court": "ca7",
+   "docket": "25-2950",
+   "title": "USA v. Louis Stergo",
+   "date": "2026-12-07",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Criminal · Northern District of Illinois, Eastern Division · No. 1:22-cr-00275-24",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 5 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-07&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-2950&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-25-2960-2026-12-07",
+   "court": "ca7",
+   "docket": "25-2960",
+   "title": "Association for Accessible Medicines v. Kwame Raoul",
+   "date": "2026-12-07",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Civil · Northern District of Illinois, Eastern Division · No. 1:24-cv-00544",
+   "issue": null,
+   "notes": [
+    "20 min per side",
+    "No. 1 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-07&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-2960&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1551-2026-12-07",
+   "court": "ca7",
+   "docket": "26-1551",
+   "title": "Rogelio Adan v. Todd W. Blanche",
+   "date": "2026-12-07",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Agency · Board of Immigration Appeals · No. A044-562-494",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 4 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-07&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1551&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1601-2026-12-07",
+   "court": "ca7",
+   "docket": "26-1601",
+   "title": "City of East St. Louis, Illinois v. Monsanto Company",
+   "date": "2026-12-07",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Civil · Southern District of Illinois · No. 3:21-cv-00232-DWD",
+   "issue": null,
+   "notes": [
+    "15 min per side",
+    "No. 2 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-07&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1601&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1879-2026-12-07",
+   "court": "ca7",
+   "docket": "26-1879",
+   "title": "Rich Apothecary, Inc. v. OptumRx, Inc.",
+   "date": "2026-12-07",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Civil · Northern District of Illinois, Eastern Division · No. 1:24-cv-13116",
+   "issue": null,
+   "notes": [
+    "15 min per side",
+    "No. 3 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-07&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1879&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1900-2026-12-07",
+   "court": "ca7",
+   "docket": "26-1900",
+   "title": "Michael Sommerkamp v. Horizon Bank",
+   "date": "2026-12-07",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Civil · Southern District of Indiana, Indianapolis Division · No. 1:24-cv-00993-SEB-CSW",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 6 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-07&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1900&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
    "id": "ca9-20-70296-2026-12-07",
    "court": "ca9",
    "docket": "20-70296",
@@ -23590,11 +23694,9 @@
    "room": "Courtroom 1, 3rd Floor Rm 338",
    "origin": "Criminal · NV",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-07&loc=SF",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -30777,11 +30879,9 @@
    "room": "Courtroom 1, 3rd Floor Rm 338",
    "origin": "Immigration · N. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-11&loc=SF",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
