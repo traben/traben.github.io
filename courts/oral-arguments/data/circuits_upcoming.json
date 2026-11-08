@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T17:49:43+00:00",
+ "generated_at": "2026-11-08T18:00:49+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -4948,126 +4948,6 @@
    "live_note": null
   },
   {
-   "id": "ca11-21-13104-2026-11-03",
-   "court": "ca11",
-   "docket": "21-13104",
-   "title": "National Wildlife Federation, Inc., et al., Appellants v. U.S. Army Corps of Engineers, et al.",
-   "date": "2026-11-03",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-23-11763-2026-11-03",
-   "court": "ca11",
-   "docket": "23-11763",
-   "title": "Andrew Corpus, Appellant v. Keri Fitzpatrick, et al.",
-   "date": "2026-11-03",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-11265-2026-11-03",
-   "court": "ca11",
-   "docket": "25-11265",
-   "title": "Solomon Btesh, Appellant v. Isaac Btesh",
-   "date": "2026-11-03",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-11296-2026-11-03",
-   "court": "ca11",
-   "docket": "25-11296",
-   "title": "Joy Laskar, Appellant v. Phillip Hurd, et al.",
-   "date": "2026-11-03",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-11524-2026-11-03",
-   "court": "ca11",
-   "docket": "25-11524, 25-13357, 25-11265",
-   "title": "Kevin Collazo v. Progressive Select Insurance Company, Appellant",
-   "date": "2026-11-03",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-11666-2026-11-03",
-   "court": "ca11",
-   "docket": "25-11666",
-   "title": "United States v. Charles Williams, Appellant",
-   "date": "2026-11-03",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x"
-   },
-   "live_note": null
-  },
-  {
    "id": "ca2-25-1556-2026-11-03",
    "court": "ca2",
    "docket": "25-1556",
@@ -6236,202 +6116,6 @@
    "live_note": null
   },
   {
-   "id": "ca11-22-12523-2026-11-04",
-   "court": "ca11",
-   "docket": "22-12523",
-   "title": "++ United States v. Jason Van Eman, Appellant",
-   "date": "2026-11-04",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-23-11455-2026-11-04",
-   "court": "ca11",
-   "docket": "23-11455",
-   "title": "Terrill Jenkins, Appellant v. State of Florida",
-   "date": "2026-11-04",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/terrill_jenkins_v._state_of_florida_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107406/terrill-jenkins-v-state-of-florida/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-24-13106-2026-11-04",
-   "court": "ca11",
-   "docket": "24-13106",
-   "title": "United States v. Jose Rivera, Appellant",
-   "date": "2026-11-04",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._jose_rivera_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107404/united-states-v-jose-rivera/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-10465-2026-11-04",
-   "court": "ca11",
-   "docket": "25-10465",
-   "title": "United States v. Erik Hadad, Appellant",
-   "date": "2026-11-04",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._erik_hadad_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107405/united-states-v-erik-hadad/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-11320-2026-11-04",
-   "court": "ca11",
-   "docket": "25-11320",
-   "title": "Donna Curling, et al., Appellants v. David J. Worley, et al.",
-   "date": "2026-11-04",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/donna_curling_v._david_j._worley_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107410/donna-curling-v-david-worley/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-11685-2026-11-04",
-   "court": "ca11",
-   "docket": "25-11685",
-   "title": "Michael Fitzgerald, et al. v. Ronda McNae, Appellant",
-   "date": "2026-11-04",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/michael_fitzgerald_v._ronda_mcnae_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107407/michael-fitzgerald-v-ronda-mcnae/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-12597-2026-11-04",
-   "court": "ca11",
-   "docket": "25-12597",
-   "title": "ADIDAS AG, et al. v. locality.com, et al., Appellants",
-   "date": "2026-11-04",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/adidas_ag_v._locality.com_cl_2.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107440/adidas-ag-v-localityicom/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-13166-2026-11-04",
-   "court": "ca11",
-   "docket": "25-13166",
-   "title": "Global Network Management, Inc., Appellant v. Cirion Technologies Solutions, LLC",
-   "date": "2026-11-04",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/global_network_management_inc._v._cirion_technologies_solutions_llc_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107409/global-network-management-inc-v-cirion-technologies-solutions-llc/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-13412-2026-11-04",
-   "court": "ca11",
-   "docket": "25-13412",
-   "title": "Kenny A., et al. v. Department of Human Resources of the State of Georgia, et al., Appellants",
-   "date": "2026-11-04",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/kenny_a._v._department_of_human_resources_of_the_state_of_georgia_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107408/kenny-a-v-governor-of-the-state-of-georgia/"
-   },
-   "live_note": null
-  },
-  {
    "id": "ca2-24-2477-2026-11-04",
    "court": "ca2",
    "docket": "24-2477",
@@ -7509,182 +7193,6 @@
    "live_note": null
   },
   {
-   "id": "ca11-24-12814-2026-11-05",
-   "court": "ca11",
-   "docket": "24-12814",
-   "title": "Kevin Harrell, Appellant v. City of West Palm Beach",
-   "date": "2026-11-05",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/05/kevin_harrell_v._city_of_west_palm_beach_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107445/kevin-harrell-v-city-of-west-palm-beach/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-24-14236-2026-11-05",
-   "court": "ca11",
-   "docket": "24-14236",
-   "title": "United States v. Justin Sigmon, Appellant",
-   "date": "2026-11-05",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/05/united_states_v._justin_sigmon_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107443/united-states-v-justin-sigmon/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-10110-2026-11-05",
-   "court": "ca11",
-   "docket": "25-10110",
-   "title": "Brendan Wagner, Appellant v. U.S. Attorney General",
-   "date": "2026-11-05",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/05/brendan_wagner_v._u.s._attorney_general_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107485/brendan-wagner-v-us-attorney-general/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-10896-2026-11-05",
-   "court": "ca11",
-   "docket": "25-10896",
-   "title": "United States v. Hernan Mojica-Renteria, Appellant",
-   "date": "2026-11-05",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/05/united_states_v._hernan_mojica-renteria_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107444/united-states-v-hernan-mojica-renteria/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-11562-2026-11-05",
-   "court": "ca11",
-   "docket": "25-11562",
-   "title": "Jose Elpidio Figueroa-Cruz, Petitioner v. U.S. Attorney General",
-   "date": "2026-11-05",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/05/jose_elpidio_figueroa-cruz_v._u.s._attorney_genera_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107446/jose-figueroa-cruz-v-us-attorney-general/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-13660-2026-11-05",
-   "court": "ca11",
-   "docket": "25-13660",
-   "title": "Terry Talley v. James G. Baker, Appellant",
-   "date": "2026-11-05",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/05/terry_talley_v._james_g._baker_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107483/terry-talley-v-james-g-baker-for-estate-of-roy-lee-olinger-jr/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-13795-2026-11-05",
-   "court": "ca11",
-   "docket": "25-13795",
-   "title": "Kevin Scollon, Appellant v. Pickens County, et al.",
-   "date": "2026-11-05",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/05/kevin_scollon_v._pickens_county_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107484/kevin-scollon-v-pickens-county/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-13867-2026-11-05",
-   "court": "ca11",
-   "docket": "25-13867",
-   "title": "United States v. Renardo Turner, Appellant",
-   "date": "2026-11-05",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/05/united_states_v._renardo_turner_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107475/united-states-v-renardo-turner/"
-   },
-   "live_note": null
-  },
-  {
    "id": "ca2-25-2472-2026-11-05",
    "court": "ca2",
    "docket": "25-2472",
@@ -8474,158 +7982,6 @@
     "live": "https://www.ca1.uscourts.gov/courtlivestream",
     "recording": "https://storage.courtlistener.com/mp3/2026/11/06/rivera-gonzalez_v._hospital_lafayette_cl.mp3",
     "recording_page": "https://www.courtlistener.com/audio/107504/rivera-gonzalez-v-hospital-lafayette/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-24-10022-2026-11-06",
-   "court": "ca11",
-   "docket": "24-10022",
-   "title": "Yudelka Mueses, Appellant v. Social Security Administration",
-   "date": "2026-11-06",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/06/yudelka_mueses_v._commissioner_social_security_administration_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107497/yudelka-mueses-v-commissioner-social-security-administration/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-24-10692-2026-11-06",
-   "court": "ca11",
-   "docket": "24-10692",
-   "title": "++ United States v. Willie Boone, Appellant",
-   "date": "2026-11-06",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-24-11001-2026-11-06",
-   "court": "ca11",
-   "docket": "24-11001",
-   "title": "Justin Tolston, Appellant/Cross Appellee v. City of Atlanta, Georgia, et al.",
-   "date": "2026-11-06",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/06/justin_tolston_appellantcross_v._city_of_atlanta_georgia_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107500/justin-tolston-v-city-of-atlanta-georgia/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-11203-2026-11-06",
-   "court": "ca11",
-   "docket": "25-11203",
-   "title": "United States, Appellant v. Caojo Detori Steward (Consolidated with 25 -11303, United States v. Caojo Detori Steward, Appellant)",
-   "date": "2026-11-06",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/06/united_states_v._caojo_detori_steward_consolidated_with_25-11303_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107499/united-states-v-caojo-detori-steward-consolidated-with-25-11303-united/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-11722-2026-11-06",
-   "court": "ca11",
-   "docket": "25-11722",
-   "title": "Southern Cross Seafoods, LLC, Appellant v. United States, et al.",
-   "date": "2026-11-06",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/06/southern_cross_seafoods_llc_v._united_states_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107482/southern-cross-seafoods-llc-v-usa/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-11990-2026-11-06",
-   "court": "ca11",
-   "docket": "25-11990",
-   "title": "Webb Anderson, et al. v. United States, Appellant",
-   "date": "2026-11-06",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Atlanta",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal1%28panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/ggNZ2kD8k2x",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/06/webb_anderson_v._united_states_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107498/webb-anderson-v-united-states/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca11-25-14091-2026-11-06",
-   "court": "ca11",
-   "docket": "25-14091",
-   "title": "Yolanda Palacios Reyes, et al., Petitioners v. U.S. Attorney General",
-   "date": "2026-11-06",
-   "time_local": "09:00",
-   "tz": "America/New_York",
-   "location": "Miami",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal2%28Rev.2panelrelease%29.pdf",
-    "live": "https://video.ibm.com/channel/UHRmcWYPYas",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/06/yolanda_palacios_reyes_v._u.s._attorney_general_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107481/yolanda-palacios-reyes-v-us-attorney-general/"
    },
    "live_note": null
   },
@@ -25005,6 +24361,156 @@
     "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
    },
    "live_note": null
+  },
+  {
+   "id": "ca7-24-3326-2026-12-08",
+   "court": "ca7",
+   "docket": "24-3326",
+   "title": "USA v. Kendrick Bates",
+   "date": "2026-12-08",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Criminal · Northern District of Indiana, Fort Wayne Division · No. 1:22-cr-00010-HAB-SLC-1",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 4 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-08&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=24-3326&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-25-2510-2026-12-08",
+   "court": "ca7",
+   "docket": "25-2510",
+   "title": "Stanley Ligas v. Dulce Quintero",
+   "date": "2026-12-08",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Civil · Northern District of Illinois, Eastern Division · No. 1:05-cv-04331",
+   "issue": null,
+   "notes": [
+    "15 min per side",
+    "No. 1 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-08&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-2510&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-25-2954-2026-12-08",
+   "court": "ca7",
+   "docket": "25-2954",
+   "title": "USA v. Benjamin Cortez-Gomez",
+   "date": "2026-12-08",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Criminal · Northern District of Illinois, Eastern Division · No. 1:20-cr-00422-1",
+   "issue": null,
+   "notes": [
+    "15 min per side",
+    "No. 3 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-08&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-2954&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1188-2026-12-08",
+   "court": "ca7",
+   "docket": "26-1188",
+   "title": "Nicholas Schwab v. Nicholas Pampinella",
+   "date": "2026-12-08",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Civil · Northern District of Illinois, Eastern Division · No. 1:23-cv-16607",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 5 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-08&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1188&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1673-2026-12-08",
+   "court": "ca7",
+   "docket": "26-1673",
+   "title": "Paul Chaim Shlomo Fischer v. Magyar Allamvasutak Zrt.",
+   "date": "2026-12-08",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Civil · Northern District of Illinois, Eastern Division · No. 1:10-cv-00868",
+   "issue": null,
+   "notes": [
+    "15 min per side",
+    "No. 2 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-08&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1673&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1849-2026-12-08",
+   "court": "ca7",
+   "docket": "26-1849",
+   "title": "Yeraldi Jacobo Martinez v. Todd W. Blanche",
+   "date": "2026-12-08",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Agency · Board of Immigration Appeals · No. A215-815-248",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 6 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-08&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1849&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
   },
   {
    "id": "ca9-20-72792-2026-12-08",
