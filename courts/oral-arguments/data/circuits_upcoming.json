@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T18:00:49+00:00",
+ "generated_at": "2026-11-09T22:28:43+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -4536,7 +4536,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel B · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -4556,7 +4556,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel A · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -4576,7 +4576,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel B · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -4596,7 +4596,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel A · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "CIT",
    "issue": null,
    "notes": null,
@@ -4616,7 +4616,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel A · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -4636,7 +4636,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel A · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -4656,7 +4656,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel B · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -4676,7 +4676,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel B · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -4688,19 +4688,39 @@
    "live_note": null
   },
   {
-   "id": "cafc-26-1198-2026-11-02",
+   "id": "cafc-26-1012-2026-11-02",
    "court": "cafc",
-   "docket": "26-1198",
-   "title": "MSPB",
+   "docket": "26-1012",
+   "title": "Green v. MSPB",
    "date": "2026-11-02",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel B · Courtroom 203",
-   "origin": null,
+   "room": "Courtroom 402",
+   "origin": "MSPB",
    "issue": null,
    "notes": null,
-   "no_argument": false,
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+   },
+   "live_note": null
+  },
+  {
+   "id": "cafc-26-1198-2026-11-02",
+   "court": "cafc",
+   "docket": "26-1198",
+   "title": "McFadden v. DHS",
+   "date": "2026-11-02",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "Courtroom 203",
+   "origin": "MSPB",
+   "issue": null,
+   "notes": null,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -4711,13 +4731,13 @@
    "id": "cafc-26-1495-2026-11-02",
    "court": "cafc",
    "docket": "26-1495",
-   "title": "MSPB McFadden v. DHS McFadden v. DHS",
+   "title": "McFadden v. DHS",
    "date": "2026-11-02",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel B · Courtroom 203",
-   "origin": null,
+   "room": "Courtroom 203",
+   "origin": "MSPB",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -4736,7 +4756,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel A · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "CFC",
    "issue": null,
    "notes": null,
@@ -5035,9 +5055,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://ca03portal.powerappsportals.us/Oral-Argument-Summary/?id=48dc88f0-b3cb-f111-a05a-001dd804a68a&hrngDt=2026-11-03",
-    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._robert_bowers_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107396/united-states-v-robert-bowers/"
+    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w"
    },
    "live_note": "The 3rd Circuit streams argument audio live on YouTube."
   },
@@ -5106,9 +5124,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-03",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/united_states_v._reis_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107384/united-states-v-reis/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -5131,9 +5147,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-03",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/greater_guide_v._saps_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107395/greater-guide-v-saps/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -5156,9 +5170,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-03",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/hall_v._lasalle_mgmt_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107394/hall-v-lasalle-mgmt/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -5181,9 +5193,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-03",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/united_states_v._donofrio_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107387/united-states-v-donofrio/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -5206,9 +5216,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-03",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/united_states_v._darden_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107388/united-states-v-darden/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -5231,9 +5239,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-03",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/ramos_v._taylor_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107390/ramos-v-taylor/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -5256,9 +5262,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-03",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/matterhorn_exp_pipeline_v._ferc_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107393/matterhorn-exp-pipeline-v-ferc/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -5281,9 +5285,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-03",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/petite_v._lowe_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107392/petite-v-lowe/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -5306,9 +5308,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-03",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/pollock_v._amer_endowment_fdn_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107391/pollock-v-amer-endowment-fdn/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -5377,9 +5377,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-03",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/smith_v._smith_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107389/smith-v-smith/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -5402,9 +5400,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-03",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/united_states_v._lopez-porras_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107385/united-states-v-lopez-porras/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -5427,9 +5423,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-03",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/03/united_states_v._haynes_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107386/united-states-v-haynes/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -5592,7 +5586,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel D · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -5612,7 +5606,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel C · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "CAVC",
    "issue": null,
    "notes": null,
@@ -5632,7 +5626,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel C · Courtroom 402",
+   "room": "Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -5652,7 +5646,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel C · Courtroom 402",
+   "room": "Courtroom 203",
    "origin": "ITC",
    "issue": null,
    "notes": null,
@@ -5672,7 +5666,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel C · Courtroom 402",
+   "room": "Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -5692,7 +5686,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel D · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -5712,7 +5706,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel D · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -5732,7 +5726,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel D · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "BCA",
    "issue": null,
    "notes": null,
@@ -5747,16 +5741,16 @@
    "id": "cafc-26-1222-2026-11-03",
    "court": "cafc",
    "docket": "26-1222",
-   "title": "CFC",
+   "title": "Brandenburg v. US",
    "date": "2026-11-03",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel C · Courtroom 402",
-   "origin": null,
+   "room": "Courtroom 203",
+   "origin": "CFC",
    "issue": null,
    "notes": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -5767,16 +5761,16 @@
    "id": "cafc-26-1373-2026-11-03",
    "court": "cafc",
    "docket": "26-1373",
-   "title": "CAVC",
+   "title": "Proceviat v. Collins",
    "date": "2026-11-03",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel D · Courtroom 203",
-   "origin": null,
+   "room": "Courtroom 203",
+   "origin": "CAVC",
    "issue": null,
    "notes": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -5787,13 +5781,13 @@
    "id": "cafc-26-1742-2026-11-03",
    "court": "cafc",
    "docket": "26-1742",
-   "title": "MSPB Brandenburg v. US May v. DOJ",
+   "title": "May v. DOJ",
    "date": "2026-11-03",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel C · Courtroom 402",
-   "origin": null,
+   "room": "Courtroom 203",
+   "origin": "MSPB",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -5807,13 +5801,13 @@
    "id": "cafc-26-1800-2026-11-03",
    "court": "cafc",
    "docket": "26-1800",
-   "title": "MSPB Proceviat v. Collins Simpson v. DVA",
+   "title": "Simpson v. DVA",
    "date": "2026-11-03",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel D · Courtroom 203",
-   "origin": null,
+   "room": "Courtroom 203",
+   "origin": "MSPB",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -6278,9 +6272,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-04",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._castro-mendez_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107401/united-states-v-castro-mendez/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -6303,9 +6295,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-04",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._anderson_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107402/united-states-v-anderson/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -6328,9 +6318,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-04",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/torres_v._byous_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107403/torres-v-byous/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -6353,9 +6341,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-04",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._rhode_island_hospital_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107400/united-states-v-rhode-island-hospital/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -6859,7 +6845,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel F · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "CAVC",
    "issue": null,
    "notes": null,
@@ -6881,16 +6867,14 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel E · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "CAVC",
    "issue": null,
    "notes": null,
    "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/frazier_v._collins_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107397/frazier-v-collins/"
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
    },
    "live_note": null
   },
@@ -6903,7 +6887,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel F · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "MSPB",
    "issue": null,
    "notes": null,
@@ -6925,16 +6909,14 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel E · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
    "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/digital_broadcasting_solutions_llc_v._dish_network_l.l.c._cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107398/digital-broadcasting-solutions-llc-v-dish-network-llc/"
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
    },
    "live_note": null
   },
@@ -6947,7 +6929,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel F · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -6961,78 +6943,16 @@
    "live_note": null
   },
   {
-   "id": "cafc-25-1715-2026-11-04",
-   "court": "cafc",
-   "docket": "25-1715",
-   "title": "Centripetal Networks, LLC v. Keysight Technologies, Inc.",
-   "date": "2026-11-04",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "Panel F · Courtroom 203",
-   "origin": "PTO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/centripetal_networks_llc_v._keysight_technologies_inc._cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107414/centripetal-networks-llc-v-keysight-technologies-inc/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "cafc-26-1541-2026-11-04",
-   "court": "cafc",
-   "docket": "26-1541",
-   "title": "CFC",
-   "date": "2026-11-04",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "Panel F · Courtroom 203",
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
-   },
-   "live_note": null
-  },
-  {
    "id": "cafc-26-1549-2026-11-04",
    "court": "cafc",
    "docket": "26-1549",
-   "title": "MSPB",
+   "title": "Khaghani v. Navy",
    "date": "2026-11-04",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel E · Courtroom 402",
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "cafc-26-1574-2026-11-04",
-   "court": "cafc",
-   "docket": "26-1574",
-   "title": "CAVC George v. US Holland v. Collins",
-   "date": "2026-11-04",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "Panel F · Courtroom 203",
-   "origin": null,
+   "room": "Courtroom 402",
+   "origin": "MSPB",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -7046,13 +6966,13 @@
    "id": "cafc-26-1633-2026-11-04",
    "court": "cafc",
    "docket": "26-1633",
-   "title": "CFC Khaghani v. Navy Cullerton v. US",
+   "title": "Cullerton v. US",
    "date": "2026-11-04",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel E · Courtroom 402",
-   "origin": null,
+   "room": "Courtroom 402",
+   "origin": "CFC",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -7623,13 +7543,13 @@
    "id": "cafc-25-1293-2026-11-05",
    "court": "cafc",
    "docket": "25-1293",
-   "title": "CAVC Powell v. Collins",
+   "title": "Powell v. Collins",
    "date": "2026-11-05",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel H · Courtroom 203",
-   "origin": null,
+   "room": "Courtroom 203",
+   "origin": "CAVC",
    "issue": null,
    "notes": null,
    "no_argument": false,
@@ -7650,7 +7570,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel H · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -7672,7 +7592,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel G · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -7686,6 +7606,28 @@
    "live_note": null
   },
   {
+   "id": "cafc-25-1715-2026-11-05",
+   "court": "cafc",
+   "docket": "25-1715",
+   "title": "Centripetal Networks, LLC v. Keysight Technologies, Inc.",
+   "date": "2026-11-05",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "Courtroom 402",
+   "origin": "PTO",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/centripetal_networks_llc_v._keysight_technologies_inc._cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107414/centripetal-networks-llc-v-keysight-technologies-inc/"
+   },
+   "live_note": null
+  },
+  {
    "id": "cafc-25-1780-2026-11-05",
    "court": "cafc",
    "docket": "25-1780",
@@ -7694,7 +7636,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel H · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -7716,7 +7658,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel G · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -7738,7 +7680,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel H · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -7760,7 +7702,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel G · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -7777,16 +7719,36 @@
    "id": "cafc-26-1288-2026-11-05",
    "court": "cafc",
    "docket": "26-1288",
-   "title": "MSPB",
+   "title": "Lentz v. Interior",
    "date": "2026-11-05",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel H · Courtroom 203",
-   "origin": null,
+   "room": "Courtroom 203",
+   "origin": "MSPB",
    "issue": null,
    "notes": null,
-   "no_argument": false,
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+   },
+   "live_note": null
+  },
+  {
+   "id": "cafc-26-1541-2026-11-05",
+   "court": "cafc",
+   "docket": "26-1541",
+   "title": "George v. US",
+   "date": "2026-11-05",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "Courtroom 402",
+   "origin": "CFC",
+   "issue": null,
+   "notes": null,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -7797,16 +7759,36 @@
    "id": "cafc-26-1564-2026-11-05",
    "court": "cafc",
    "docket": "26-1564",
-   "title": "MSPB",
+   "title": "Weber v. MSPB",
    "date": "2026-11-05",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel G · Courtroom 402",
-   "origin": null,
+   "room": "Courtroom 402",
+   "origin": "MSPB",
    "issue": null,
    "notes": null,
-   "no_argument": false,
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+   },
+   "live_note": null
+  },
+  {
+   "id": "cafc-26-1574-2026-11-05",
+   "court": "cafc",
+   "docket": "26-1574",
+   "title": "Holland v. Collins",
+   "date": "2026-11-05",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "Courtroom 402",
+   "origin": "CAVC",
+   "issue": null,
+   "notes": null,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -7822,7 +7804,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel G · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -7839,13 +7821,13 @@
    "id": "cafc-26-1774-2026-11-05",
    "court": "cafc",
    "docket": "26-1774",
-   "title": "CFC Weber v. MSPB Banks v. US",
+   "title": "Banks v. US",
    "date": "2026-11-05",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel G · Courtroom 402",
-   "origin": null,
+   "room": "Courtroom 402",
+   "origin": "CFC",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -7859,13 +7841,13 @@
    "id": "cafc-26-1912-2026-11-05",
    "court": "cafc",
    "docket": "26-1912",
-   "title": "CFC Lentz v. Interior Bass v. US",
+   "title": "Bass v. US",
    "date": "2026-11-05",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel H · Courtroom 203",
-   "origin": null,
+   "room": "Courtroom 203",
+   "origin": "CFC",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -8246,7 +8228,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel I · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "CAVC",
    "issue": null,
    "notes": null,
@@ -8268,7 +8250,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel I · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -8285,12 +8267,12 @@
    "id": "cafc-25-1640-2026-11-06",
    "court": "cafc",
    "docket": "25-1640",
-   "title": "UUSI, LLC v. Samsung Electronics Co., Ltd. CAVC25-2097",
+   "title": "UUSI, LLC v. Samsung Electronics Co., Ltd.",
    "date": "2026-11-06",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel I · Courtroom 402",
+   "room": "Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -8312,7 +8294,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel J · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -8334,7 +8316,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel J · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -8356,7 +8338,7 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel J · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "OCWR",
    "issue": null,
    "notes": null,
@@ -8370,19 +8352,39 @@
    "live_note": null
   },
   {
-   "id": "cafc-26-1481-2026-11-06",
+   "id": "cafc-25-2097-2026-11-06",
    "court": "cafc",
-   "docket": "26-1481",
-   "title": "CAVC",
+   "docket": "25-2097",
+   "title": "Dodson v. Collins",
    "date": "2026-11-06",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel J · Courtroom 203",
-   "origin": null,
+   "room": "Courtroom 203",
+   "origin": "CAVC",
    "issue": null,
    "notes": null,
-   "no_argument": false,
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+   },
+   "live_note": null
+  },
+  {
+   "id": "cafc-26-1481-2026-11-06",
+   "court": "cafc",
+   "docket": "26-1481",
+   "title": "Rezba v. Collins",
+   "date": "2026-11-06",
+   "time_local": "10:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "Courtroom 203",
+   "origin": "CAVC",
+   "issue": null,
+   "notes": null,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -8393,13 +8395,13 @@
    "id": "cafc-26-1580-2026-11-06",
    "court": "cafc",
    "docket": "26-1580",
-   "title": "MSPB Dodson v. Collins Valdez v. OPM",
+   "title": "Valdez v. OPM",
    "date": "2026-11-06",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel I · Courtroom 402",
-   "origin": null,
+   "room": "Courtroom 203",
+   "origin": "MSPB",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -8413,13 +8415,13 @@
    "id": "cafc-26-1704-2026-11-06",
    "court": "cafc",
    "docket": "26-1704",
-   "title": "MSPB Rezba v. Collins Bruzzese v. MSPB",
+   "title": "Bruzzese v. MSPB",
    "date": "2026-11-06",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel J · Courtroom 203",
-   "origin": null,
+   "room": "Courtroom 203",
+   "origin": "MSPB",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -8448,7 +8450,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=9&id=790791015",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
+    "live": "https://ww2.ca2.uscourts.gov/court.html",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/betts_v._sixty_lower_east_side_llc_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107507/betts-v-sixty-lower-east-side-llc/"
    },
    "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
@@ -8471,7 +8475,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=9&id=790791015",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
+    "live": "https://ww2.ca2.uscourts.gov/court.html",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/mejia_diaz_v._blanche_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107506/mejia-diaz-v-blanche/"
    },
    "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
   },
@@ -8618,7 +8624,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://ca03portal.powerappsportals.us/Oral-Argument-Summary/?id=fdcd7cec-b3cb-f111-a05a-001dd804aa3a&hrngDt=2026-11-09",
-    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w"
+    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/united_states_v._gentry_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107526/united-states-v-eliot-gentry/"
    },
    "live_note": "The 3rd Circuit streams argument audio live on YouTube."
   },
@@ -8639,7 +8647,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://ca03portal.powerappsportals.us/Oral-Argument-Summary/?id=fdcd7cec-b3cb-f111-a05a-001dd804aa3a&hrngDt=2026-11-09",
-    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w"
+    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/callery_v._hop_energy_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107527/brian-callery-v-hop-energy/"
    },
    "live_note": "The 3rd Circuit streams argument audio live on YouTube."
   },
@@ -8659,12 +8669,14 @@
     "15 min per side",
     "No. 1 on the day's list"
    ],
-   "panel": null,
+   "panel": "David F. Hamilton, Candace Jackson-Akiwumi, Rebecca Taibleson",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-09&CourtRoom=both",
     "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
-    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-2513&incOrigDkt=Y&incDktEntries=Y"
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-2513&incOrigDkt=Y&incDktEntries=Y",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/adam_henry_v._united_states_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107519/adam-henry-v-united-states/"
    },
    "live_note": "The 7th Circuit streams arguments live on YouTube."
   },
@@ -8684,12 +8696,14 @@
     "10 min per side",
     "No. 4 on the day's list"
    ],
-   "panel": null,
+   "panel": "David F. Hamilton, Candace Jackson-Akiwumi, Rebecca Taibleson",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-09&CourtRoom=both",
     "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
-    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-2701&incOrigDkt=Y&incDktEntries=Y"
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-2701&incOrigDkt=Y&incDktEntries=Y",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/united_states_v._jeramie_j._mason_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107515/united-states-v-jeramie-j-mason/"
    },
    "live_note": "The 7th Circuit streams arguments live on YouTube."
   },
@@ -8709,12 +8723,14 @@
     "10 min per side",
     "No. 3 on the day's list"
    ],
-   "panel": null,
+   "panel": "David F. Hamilton, Candace Jackson-Akiwumi, Rebecca Taibleson",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-09&CourtRoom=both",
     "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
-    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-3066&incOrigDkt=Y&incDktEntries=Y"
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-3066&incOrigDkt=Y&incDktEntries=Y",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/carmen_martinez_v._city_of_hammond_indiana_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107518/carmen-martinez-v-city-of-hammond-indiana/"
    },
    "live_note": "The 7th Circuit streams arguments live on YouTube."
   },
@@ -8734,12 +8750,14 @@
     "15 min per side",
     "No. 5 on the day's list"
    ],
-   "panel": null,
+   "panel": "Frank H. Easterbrook, David F. Hamilton, Candace Jackson-Akiwumi",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-09&CourtRoom=both",
     "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
-    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-3238&incOrigDkt=Y&incDktEntries=Y"
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-3238&incOrigDkt=Y&incDktEntries=Y",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/norguard_insurance_company_v._mb_real_estate_services_inc._cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107516/norguard-insurance-company-v-mb-real-estate-services-inc/"
    },
    "live_note": "The 7th Circuit streams arguments live on YouTube."
   },
@@ -8759,12 +8777,14 @@
     "15 min per side",
     "No. 2 on the day's list"
    ],
-   "panel": null,
+   "panel": "David F. Hamilton, Candace Jackson-Akiwumi, Rebecca Taibleson",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-09&CourtRoom=both",
     "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
-    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1233&incOrigDkt=Y&incDktEntries=Y"
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1233&incOrigDkt=Y&incDktEntries=Y",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/evan_beine_v._childrens_hospital_and_health_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107517/evan-beine-v-childrens-hospital-and-health-system-inc/"
    },
    "live_note": "The 7th Circuit streams arguments live on YouTube."
   },
@@ -8833,7 +8853,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
-    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/prescript_pharmaceuticals_inc._and_william_hartig_v._drug_enforcement_cl_1.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107521/prescript-pharmaceuticals-inc-v-dea/"
    },
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
@@ -8856,7 +8878,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
-    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/prescript_pharmaceuticals_inc._and_william_hartig_in_his_capacity_as_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107520/prescript-pharmaceuticals-inc-v-doj/"
    },
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
@@ -8879,7 +8903,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
-    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/andrea_conte_v._federal_bureau_of_investigation_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107522/andrea-conte-v-fbi/"
    },
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
@@ -8887,19 +8913,21 @@
    "id": "cafc-24-1894-2026-11-09",
    "court": "cafc",
    "docket": "24-1894",
-   "title": "DCT Natera, Inc. v. CareDx, Inc.",
+   "title": "Natera, Inc. v. CareDx, Inc.",
    "date": "2026-11-09",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel L · Courtroom 203",
-   "origin": null,
+   "room": "Courtroom 203",
+   "origin": "DCT",
    "issue": null,
    "notes": null,
    "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/natera_inc._v._caredx_inc._cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107509/natera-inc-v-caredx-inc/"
    },
    "live_note": null
   },
@@ -8912,14 +8940,16 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel K · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "ITC",
    "issue": null,
    "notes": null,
    "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/medytox_inc._v._itc_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107510/medytox-inc-v-itc/"
    },
    "live_note": null
   },
@@ -8932,14 +8962,16 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel L · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "CAVC",
    "issue": null,
    "notes": null,
    "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/gill_v._collins_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107513/gill-v-collins/"
    },
    "live_note": null
   },
@@ -8952,14 +8984,16 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel K · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
    "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/vl_collective_ip_llc_v._netflix_inc._cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107508/vl-collective-ip-llc-v-netflix-inc/"
    },
    "live_note": null
   },
@@ -8972,11 +9006,11 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel K · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "CAVC",
    "issue": null,
    "notes": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
@@ -8992,14 +9026,16 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel L · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "MSPB",
    "issue": null,
    "notes": null,
    "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/hendricks_v._dhs_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107512/hendricks-v-dhs/"
    },
    "live_note": null
   },
@@ -9012,14 +9048,16 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel L · Courtroom 203",
+   "room": "Courtroom 203",
    "origin": "DCT",
    "issue": null,
    "notes": null,
    "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/acadia_pharmaceuticals_inc._v._aurobindo_pharma_ltd._cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107514/acadia-pharmaceuticals-inc-v-aurobindo-pharma-ltd/"
    },
    "live_note": null
   },
@@ -9032,48 +9070,30 @@
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel K · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
    "no_argument": false,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/09/kaotica_ip_corp._v._iconic_mars_corporation_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107511/kaotica-ip-corp-v-iconic-mars-corporation/"
    },
    "live_note": null
   },
   {
-   "id": "cafc-26-1509-2026-11-09",
+   "id": "cafc-26-1643-2026-11-09",
    "court": "cafc",
-   "docket": "26-1509",
-   "title": "CFC",
+   "docket": "26-1643",
+   "title": "Brown v. Defense",
    "date": "2026-11-09",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel L · Courtroom 203",
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
-   },
-   "live_note": null
-  },
-  {
-   "id": "cafc-26-1515-2026-11-09",
-   "court": "cafc",
-   "docket": "26-1515",
-   "title": "DOJ McCaster v. US Weston v. DOJ",
-   "date": "2026-11-09",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "Panel L · Courtroom 203",
-   "origin": null,
+   "room": "Courtroom 402",
+   "origin": "MSPB",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -9084,36 +9104,16 @@
    "live_note": null
   },
   {
-   "id": "cafc-26-1643-2026-11-09",
-   "court": "cafc",
-   "docket": "26-1643",
-   "title": "MSPB",
-   "date": "2026-11-09",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "Panel K · Courtroom 402",
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
-    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
-   },
-   "live_note": null
-  },
-  {
    "id": "cafc-26-1948-2026-11-09",
    "court": "cafc",
    "docket": "26-1948",
-   "title": "CFC Brown v. Defense Zahler v. US",
+   "title": "Zahler v. US",
    "date": "2026-11-09",
    "time_local": "10:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel K · Courtroom 402",
-   "origin": null,
+   "room": "Courtroom 402",
+   "origin": "CFC",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -9132,7 +9132,7 @@
    "time_local": "14:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel M · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -9152,7 +9152,7 @@
    "time_local": "14:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel M · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "PTO",
    "issue": null,
    "notes": null,
@@ -9172,7 +9172,7 @@
    "time_local": "14:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel M · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -9192,7 +9192,7 @@
    "time_local": "14:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel M · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "DCT",
    "issue": null,
    "notes": null,
@@ -9212,8 +9212,48 @@
    "time_local": "14:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel M · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "CFC",
+   "issue": null,
+   "notes": null,
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+   },
+   "live_note": null
+  },
+  {
+   "id": "cafc-26-1509-2026-11-09",
+   "court": "cafc",
+   "docket": "26-1509",
+   "title": "McCaster v. US",
+   "date": "2026-11-09",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "Courtroom 402",
+   "origin": "CFC",
+   "issue": null,
+   "notes": null,
+   "no_argument": true,
+   "links": {
+    "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-November2026.pdf",
+    "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+   },
+   "live_note": null
+  },
+  {
+   "id": "cafc-26-1515-2026-11-09",
+   "court": "cafc",
+   "docket": "26-1515",
+   "title": "Weston v. DOJ",
+   "date": "2026-11-09",
+   "time_local": "14:00",
+   "tz": "America/New_York",
+   "location": "Washington, DC",
+   "room": "Courtroom 402",
+   "origin": "DOJ",
    "issue": null,
    "notes": null,
    "no_argument": true,
@@ -9232,7 +9272,7 @@
    "time_local": "14:00",
    "tz": "America/New_York",
    "location": "Washington, DC",
-   "room": "Panel M · Courtroom 402",
+   "room": "Courtroom 402",
    "origin": "MSPB",
    "issue": null,
    "notes": null,
@@ -10035,487 +10075,6 @@
     "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
    },
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
-  },
-  {
-   "id": "ca10-25-1347-2026-11-16",
-   "court": "ca10",
-   "docket": "25-1347",
-   "title": "Glenwood Springs, Appellant v. U.S. Department of the Interior, et al.",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-2055-2026-11-16",
-   "court": "ca10",
-   "docket": "25-2055",
-   "title": "Sotelo, Appellant v. Commissioner, SSA",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "NM",
-   "issue": null,
-   "notes": [
-    "(Submitted on the Briefs)"
-   ],
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-2129-2026-11-16",
-   "court": "ca10",
-   "docket": "25-2129",
-   "title": "United States v. Young, Appellant",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "NM",
-   "issue": null,
-   "notes": [
-    "(Submitted on the Briefs)"
-   ],
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-3227-2026-11-16",
-   "court": "ca10",
-   "docket": "25-3227",
-   "title": "Kendrick, Appellant v. AW Distributing, et al.",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "KS",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-4083-2026-11-16",
-   "court": "ca10",
-   "docket": "25-4083",
-   "title": "UT United States ex rel. Brooks, et al., Appellants v. Stevens- time with Appellants)",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "Anti-Fraud Coalition,et al., Amici Curiae",
-    "(Cross-Appeal)",
-    "(Amicus Curiae United States granted leave to participate in oral argument and will share allotted"
-   ],
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-6158-2026-11-16",
-   "court": "ca10",
-   "docket": "25-6158",
-   "title": "Thomas, Appellant v. Stitt, et al.",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "WOK",
-   "issue": null,
-   "notes": [
-    "Amici Curiae"
-   ],
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-7078-2026-11-16",
-   "court": "ca10",
-   "docket": "25-7078",
-   "title": "United States v. Martin, Appellant",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "EOK",
-   "issue": null,
-   "notes": [
-    "(Submitted on the Briefs)"
-   ],
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-9007-2026-11-16",
-   "court": "ca10",
-   "docket": "25-9007",
-   "title": "Brank Cove Capital, et al., Appellants v. CIR",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom I",
-   "origin": "CIR",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-1027-2026-11-16",
-   "court": "ca10",
-   "docket": "26-1027",
-   "title": "Ramirez Ovando, et al. v. Mullin, et al., Appellants",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "CO",
-   "issue": null,
-   "notes": [
-    "Alianza NORCO,et al., Amici Curiae"
-   ],
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-1085-2026-11-16",
-   "court": "ca10",
-   "docket": "26-1085",
-   "title": "redT Homes, et al., Appellants v. City and County of Denver",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "CO",
-   "issue": null,
-   "notes": [
-    "American Planning Association,et al., Amici Curiae"
-   ],
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-1104-2026-11-16",
-   "court": "ca10",
-   "docket": "26-1104",
-   "title": "CO Defending Education, et al., Appellants v. Sullivan, et al.",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom I",
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "Advancing American Freedom, Inc.,et al., Amici Curiae",
-    "30 Minutes Per Side"
-   ],
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-2027-2026-11-16",
-   "court": "ca10",
-   "docket": "26-2027",
-   "title": "United States, Appellant v. Lujan",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "NM",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-3017-2026-11-16",
-   "court": "ca10",
-   "docket": "26-3017",
-   "title": "O'Neill Automotive, Appellant v. Federated Mutual Insurance Company",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom I",
-   "origin": "KS",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-3023-2026-11-16",
-   "court": "ca10",
-   "docket": "26-3023",
-   "title": "Tartt, Appellant v. Unified School District No. 475",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom I",
-   "origin": "KS",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-3044-2026-11-16",
-   "court": "ca10",
-   "docket": "26-3044",
-   "title": "Western First Aid & Safety, Appellant v. Aramark Uniform & Career Apparel",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "KS",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-3058-2026-11-16",
-   "court": "ca10",
-   "docket": "26-3058",
-   "title": "Methods Research, Appellant v. Ottawa Bancshares, et al.",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "KS",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-6017-2026-11-16",
-   "court": "ca10",
-   "docket": "26-6017",
-   "title": "United States v. Harrison, Appellant",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "WOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-6046-2026-11-16",
-   "court": "ca10",
-   "docket": "26-6046",
-   "title": "United States v. Yang",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "WOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-6050-2026-11-16",
-   "court": "ca10",
-   "docket": "26-6050",
-   "title": "Schau v. Trisura Specialty Insurance Company, et al.",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom I",
-   "origin": "WOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-6074-2026-11-16",
-   "court": "ca10",
-   "docket": "26-6074",
-   "title": "Leddy, Appellant v. Oklahoma County Criminal Justice",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "WOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-7016-2026-11-16",
-   "court": "ca10",
-   "docket": "26-7016",
-   "title": "United States v. Toyne, Appellant",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "EOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-9002-2026-11-16",
-   "court": "ca10",
-   "docket": "26-9002",
-   "title": "Dugan, et al., Appellants v. CIR",
-   "date": "2026-11-16",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "CIR",
-   "issue": null,
-   "notes": [
-    "The Center for Taxpayer Rights, Amicus Curiae"
-   ],
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-4114-2026-11-16",
-   "court": "ca10",
-   "docket": "25-4114",
-   "title": "Wilson, et al. v. Insiders Financial Education, et al.",
-   "date": "2026-11-16",
-   "time_local": "15:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom I",
-   "origin": "UT",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
   },
   {
    "id": "ca11-25-12827-2026-11-16",
@@ -12024,482 +11583,6 @@
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
   {
-   "id": "ca10-24-4110-2026-11-17",
-   "court": "ca10",
-   "docket": "24-4110",
-   "title": "Vitamins Online v. HeartWise; Magleby Cataxinos & Greenwood, Appellant",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "UT",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-1261-2026-11-17",
-   "court": "ca10",
-   "docket": "25-1261",
-   "title": "Hoang, Appellant v. Collins",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-1359-2026-11-17",
-   "court": "ca10",
-   "docket": "25-1359",
-   "title": "Moses, Appellant v. City and County of Denver, Colorado, et al.",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-4061-2026-11-17",
-   "court": "ca10",
-   "docket": "25-4061",
-   "title": "Beesley v. Brinton, et al.; Brinton et al., Appellants",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom I",
-   "origin": "UT",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-4120-2026-11-17",
-   "court": "ca10",
-   "docket": "25-4120",
-   "title": "R., et al., Appellants v. Blue Cross Blue Shield of Illinois, et al.",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom I",
-   "origin": "UT",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-5044-2026-11-17",
-   "court": "ca10",
-   "docket": "25-5044",
-   "title": "Morris, Appellant v. Davis",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "NOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-8078-2026-11-17",
-   "court": "ca10",
-   "docket": "25-8078",
-   "title": "Devon Energy Production Company, Appellant v. Office of Natural Resources Revenue, et al.",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "WY",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-9575-2026-11-17",
-   "court": "ca10",
-   "docket": "25-9575",
-   "title": "Iwaseczko, et al., Petitioners v. U.S. Dep't of Labor, et al.",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "LABR",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-1080-2026-11-17",
-   "court": "ca10",
-   "docket": "26-1080",
-   "title": "Townley, et al. v. Mallory, et al., Appellants",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-2042-2026-11-17",
-   "court": "ca10",
-   "docket": "26-2042",
-   "title": "Hunt-Brown, Appellant v. New Mexico General Services",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom I",
-   "origin": "NM",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-3060-2026-11-17",
-   "court": "ca10",
-   "docket": "26-3060",
-   "title": "Alvarez v. Chellgren, et al., Appellants",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom I",
-   "origin": "KS",
-   "issue": null,
-   "notes": [
-    "Amicus Curiae"
-   ],
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-4002-2026-11-17",
-   "court": "ca10",
-   "docket": "26-4002",
-   "title": "Skinner v. Berry Petroleum Company, Appellant",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "UT",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-4014-2026-11-17",
-   "court": "ca10",
-   "docket": "26-4014",
-   "title": "Lyman, Appellant v. Henderson",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom I",
-   "origin": "UT",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-4035-2026-11-17",
-   "court": "ca10",
-   "docket": "26-4035",
-   "title": "State of Utah, et al. v. Express Scripts, et al., Appellants",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom I",
-   "origin": "UT",
-   "issue": null,
-   "notes": [
-    "Public Citizen, Inc., Amicus Curiae"
-   ],
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-5013-2026-11-17",
-   "court": "ca10",
-   "docket": "26-5013",
-   "title": "Muscogee (Creek) Nation, Appellant v. Kunzweiler, et al.",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "NOK",
-   "issue": null,
-   "notes": [
-    "Cherokee Nation of Oklahoma,et al., Amici Curiae"
-   ],
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-5038-2026-11-17",
-   "court": "ca10",
-   "docket": "26-5038",
-   "title": "Osage Nation, Appellant v. Taylor, et al.",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "NOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-6052-2026-11-17",
-   "court": "ca10",
-   "docket": "26-6052",
-   "title": "Hsieh v. Surratt, et al., Appellants",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "WOK",
-   "issue": null,
-   "notes": [
-    "Amicus Curiae"
-   ],
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-6065-2026-11-17",
-   "court": "ca10",
-   "docket": "26-6065",
-   "title": "Vanlandingham v. Lee, et al., Appellants",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "WOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-6068-2026-11-17",
-   "court": "ca10",
-   "docket": "26-6068",
-   "title": "Hartley v. Burgess, Appellant",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "WOK",
-   "issue": null,
-   "notes": [
-    "(Submitted on the Briefs)"
-   ],
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-7021-2026-11-17",
-   "court": "ca10",
-   "docket": "26-7021",
-   "title": "Goad, Appellant v. United States",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "EOK",
-   "issue": null,
-   "notes": [
-    "(Submitted on the Briefs)"
-   ],
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-8017-2026-11-17",
-   "court": "ca10",
-   "docket": "26-8017",
-   "title": "Ockinga, Appellant v. Muzquiz, et al.",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "WY",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-9500-2026-11-17",
-   "court": "ca10",
-   "docket": "26-9500",
-   "title": "Giraldo-Nieto, Petitioner v. Blanche",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "BIA",
-   "issue": null,
-   "notes": [
-    "Center for Gender & Refugee Studies,et al., Amici Curiae"
-   ],
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-9505-2026-11-17",
-   "court": "ca10",
-   "docket": "26-9505",
-   "title": "Orozco-Molina, Petitioner v. Blanche",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "BIA",
-   "issue": null,
-   "notes": [
-    "(Submitted on the Briefs)"
-   ],
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
    "id": "ca11-25-12349-2026-11-17",
    "court": "ca11",
    "docket": "25-12349",
@@ -13907,29 +12990,6 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
-   "id": "ca9-25-5042-2026-11-17",
-   "court": "ca9",
-   "docket": "25-5042",
-   "title": "Beam v. United States Office of Navajo and Hopi Indian Relocation",
-   "date": "2026-11-17",
-   "time_local": "09:30",
-   "tz": "America/Phoenix",
-   "location": "Phoenix",
-   "room": "Ceremonial Courtroom",
-   "origin": "Civil · AZ",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-17&loc=PHX",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
    "id": "ca9-25-5617-2026-11-17",
    "court": "ca9",
    "docket": "25-5617",
@@ -13988,29 +13048,6 @@
    "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-17&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-7352-2026-11-17",
-   "court": "ca9",
-   "docket": "25-7352",
-   "title": "Begay v. United States Office of Navajo and Hopi Indian Relocation",
-   "date": "2026-11-17",
-   "time_local": "09:30",
-   "tz": "America/Phoenix",
-   "location": "Phoenix",
-   "room": "Ceremonial Courtroom",
-   "origin": "Civil · AZ",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-17&loc=PHX",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
@@ -14169,372 +13206,6 @@
     "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
    },
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
-  },
-  {
-   "id": "ca10-25-1295-2026-11-18",
-   "court": "ca10",
-   "docket": "25-1295",
-   "title": "United States v. Mejia, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-1320-2026-11-18",
-   "court": "ca10",
-   "docket": "25-1320",
-   "title": "United States v. Mejia-Quiroz, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-1355-2026-11-18",
-   "court": "ca10",
-   "docket": "25-1355",
-   "title": "United States v. Riley, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "CO",
-   "issue": null,
-   "notes": [
-    "(Submitted on the Briefs)"
-   ],
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-1385-2026-11-18",
-   "court": "ca10",
-   "docket": "25-1385",
-   "title": "United States v. Pappas, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-1438-2026-11-18",
-   "court": "ca10",
-   "docket": "25-1438",
-   "title": "United States v. Ballage, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-1446-2026-11-18",
-   "court": "ca10",
-   "docket": "25-1446",
-   "title": "United States v. Wheaton, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-2147-2026-11-18",
-   "court": "ca10",
-   "docket": "25-2147",
-   "title": "United States v. Barraza-Ramirez, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "NM",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-3144-2026-11-18",
-   "court": "ca10",
-   "docket": "25-3144",
-   "title": "United States v. Hadley, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "KS",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-3145-2026-11-18",
-   "court": "ca10",
-   "docket": "25-3145",
-   "title": "United States v. Peach, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "KS",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-3206-2026-11-18",
-   "court": "ca10",
-   "docket": "25-3206",
-   "title": "KS United States v. Jenkins, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-5145-2026-11-18",
-   "court": "ca10",
-   "docket": "25-5145",
-   "title": "United States v. Luster, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "NOK",
-   "issue": null,
-   "notes": [
-    "(Submitted on the Briefs)"
-   ],
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-6191-2026-11-18",
-   "court": "ca10",
-   "docket": "25-6191",
-   "title": "United States v. Anglin, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "WOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-6210-2026-11-18",
-   "court": "ca10",
-   "docket": "25-6210",
-   "title": "United States v. Green, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "WOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-4001-2026-11-18",
-   "court": "ca10",
-   "docket": "26-4001",
-   "title": "United States v. Takai, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "UT",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-6009-2026-11-18",
-   "court": "ca10",
-   "docket": "26-6009",
-   "title": "United States v. Daniels, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "WOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-6032-2026-11-18",
-   "court": "ca10",
-   "docket": "26-6032",
-   "title": "United States v. Jones, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "WOK",
-   "issue": null,
-   "notes": [
-    "(Submitted on the Briefs)"
-   ],
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-7011-2026-11-18",
-   "court": "ca10",
-   "docket": "26-7011",
-   "title": "United States v. Crawford, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "EOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-8004-2026-11-18",
-   "court": "ca10",
-   "docket": "26-8004",
-   "title": "United States v. Harris, Appellant",
-   "date": "2026-11-18",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "WY",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
   },
   {
    "id": "ca11-25-10546-2026-11-18",
@@ -16098,348 +14769,6 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
-   "id": "ca10-24-4108-2026-11-19",
-   "court": "ca10",
-   "docket": "24-4108",
-   "title": "United States v. Isong, Appellant",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "UT",
-   "issue": null,
-   "notes": [
-    "(Submitted on the Briefs)"
-   ],
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-24-4116-2026-11-19",
-   "court": "ca10",
-   "docket": "24-4116",
-   "title": "United States v. Adegboruwa, Appellant",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "UT",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-1263-2026-11-19",
-   "court": "ca10",
-   "docket": "25-1263",
-   "title": "Munoz Ramirez v. Blanche, et al., Appellants",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-1298-2026-11-19",
-   "court": "ca10",
-   "docket": "25-1298",
-   "title": "United States v. Salazar, Appellant",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-1418-2026-11-19",
-   "court": "ca10",
-   "docket": "25-1418",
-   "title": "Equiti Capital UK Limited v. The Receivership Estate of Blue",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-1469-2026-11-19",
-   "court": "ca10",
-   "docket": "25-1469",
-   "title": "United States v. Wilcoxen, Appellant",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-3177-2026-11-19",
-   "court": "ca10",
-   "docket": "25-3177",
-   "title": "United States v. Shafe, Appellant",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "KS",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-3199-2026-11-19",
-   "court": "ca10",
-   "docket": "25-3199",
-   "title": "United States v. Milstead, Appellant",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "KS",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-4152-2026-11-19",
-   "court": "ca10",
-   "docket": "25-4152",
-   "title": "United States v. Johnson, Appellant",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "UT",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-5184-2026-11-19",
-   "court": "ca10",
-   "docket": "25-5184",
-   "title": "United States v. Harper, Appellant",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "NOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-6206-2026-11-19",
-   "court": "ca10",
-   "docket": "25-6206",
-   "title": "United States v. Butler, Appellant",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom IV",
-   "origin": "WOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-7077-2026-11-19",
-   "court": "ca10",
-   "docket": "25-7077",
-   "title": "United States v. Smith, Appellant",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "EOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-25-7091-2026-11-19",
-   "court": "ca10",
-   "docket": "25-7091",
-   "title": "United States v. Bray, Appellant",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "EOK",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-1010-2026-11-19",
-   "court": "ca10",
-   "docket": "26-1010",
-   "title": "Neal, Appellant v. Neal, et al.",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-1023-2026-11-19",
-   "court": "ca10",
-   "docket": "26-1023",
-   "title": "United States v. Vaughn, Appellant",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom III",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-1124-2026-11-19",
-   "court": "ca10",
-   "docket": "26-1124",
-   "title": "Hernandez, Appellant v. U.S. Center for Safesport",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-1127-2026-11-19",
-   "court": "ca10",
-   "docket": "26-1127",
-   "title": "Payment Brokers Group v. Agentra, et al., Appellants",
-   "date": "2026-11-19",
-   "time_local": "08:30",
-   "tz": "America/Denver",
-   "location": "Denver, CO",
-   "room": "Courtroom II",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/November_2026_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
    "id": "ca11-23-10624-2026-11-19",
    "court": "ca11",
    "docket": "23-10624",
@@ -17887,7 +16216,7 @@
    "origin": "DP HC · E. CA",
    "issue": null,
    "notes": [
-    "30 min per side"
+    "Submission deferred"
    ],
    "panel": null,
    "no_argument": false,
@@ -20356,7 +18685,7 @@
    "origin": "Civil · HI",
    "issue": null,
    "notes": [
-    "15 min per side"
+    "20 min per side"
    ],
    "panel": null,
    "no_argument": false,
@@ -23993,7 +22322,7 @@
    "location": "Montgomery",
    "room": "Panel 4 · Gold Courtroom (Room 348)",
    "origin": null,
-   "issue": "Sentencing: In prosecution for healthcare benefit fraud, whether people whose identities were used by defendant were properly considered vulnerable victims for purpose of sentencing enhancement. T uesday, December 8, 2026 LIVESTREAM",
+   "issue": "Sentencing: In prosecution for healthcare benefit fraud, whether people whose identities were used by defendant were properly considered vulnerable victims for purpose of sentencing enhancement. Tue sday, December 8, 2026 LIVESTREAM",
    "notes": null,
    "no_argument": false,
    "links": {
@@ -24313,7 +22642,7 @@
    "location": "Montgomery",
    "room": "Panel 3 · Blue Courtroom (Room 339)",
    "origin": null,
-   "issue": "Constitutional Law: Whether Maryland law prohibiting out-of-state beer manufacturers from transporting beer directly to consumers in Maryland violates dormant Commerce Clause. Tues day, December 8, 2026 LIVESTREAM",
+   "issue": "Constitutional Law: Whether Maryland law prohibiting out-of-state beer manufacturers from transporting beer directly to consumers in Maryland violates dormant Commerce Clause. Tuesd ay, December 8, 2026 LIVESTREAM",
    "notes": null,
    "no_argument": false,
    "links": {
@@ -26294,7 +24623,7 @@
    "location": "Montgomery",
    "room": "Panel 5 · Tweed Courtroom",
    "origin": null,
-   "issue": "Tax: Whether Tax Court erred in valuing property for purposes of charitable deduction donation to land conservation group.",
+   "issue": "Tax: Whether tax court erred in valuing conservation easement donation. Associations: 26-1366 We dnesday, December 9, 2026 LIVESTREAM",
    "notes": null,
    "no_argument": false,
    "links": {
@@ -26335,26 +24664,6 @@
    "room": "Panel 6 · Tan Courtroom (Room 223)",
    "origin": null,
    "issue": "Bankruptcy: Whether district court erred in affirming bankruptcy court's finding that appellant owed a",
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca4.uscourts.gov/cal/internetcalDec82026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca4-25-2415-2026-12-09",
-   "court": "ca4",
-   "docket": "25-2415",
-   "title": "Michael Crehan v. Metropolitan Washington Airports Authority",
-   "date": "2026-12-09",
-   "time_local": "09:30",
-   "tz": "America/Chicago",
-   "location": "Montgomery",
-   "room": "Panel 4 · Gold Courtroom (Room 348)",
-   "origin": null,
-   "issue": "Employment: Whether district court erred in granting summary judgment in favor of employer on",
    "notes": null,
    "no_argument": false,
    "links": {
@@ -26464,26 +24773,6 @@
    "live_note": null
   },
   {
-   "id": "ca4-26-1055-2026-12-09",
-   "court": "ca4",
-   "docket": "26-1055",
-   "title": "Grace Ocean Private Limited v. United Source One, Inc.",
-   "date": "2026-12-09",
-   "time_local": "09:30",
-   "tz": "America/Chicago",
-   "location": "Montgomery",
-   "room": "Panel 5 · Tweed Courtroom",
-   "origin": null,
-   "issue": "Civil: Whether district court erred in denying appellant's motion for leave to late-file and answer and",
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca4.uscourts.gov/cal/internetcalDec82026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
-   },
-   "live_note": null
-  },
-  {
    "id": "ca4-26-1071-2026-12-09",
    "court": "ca4",
    "docket": "26-1071",
@@ -26534,7 +24823,7 @@
    "location": "Montgomery",
    "room": "Panel 4 · Gold Courtroom (Room 348)",
    "origin": null,
-   "issue": "Erisa: Whether district court erred in granting summary judgment on claims alleging breach of fiduciary",
+   "issue": "Criminal Law: Whether district court erred in finding defendants protected by quasi-judicial and qualified immunity in suit challenging post-release supervision requirements.",
    "notes": null,
    "no_argument": false,
    "links": {
@@ -26594,7 +24883,7 @@
    "location": "Montgomery",
    "room": "Panel 5 · Tweed Courtroom",
    "origin": null,
-   "issue": "Tax: Whether tax court erred in valuing conservation easement donation.",
+   "issue": "Tax: Whether Tax Court erred in valuing property for purposes of charitable deduction donation to land conservation group.",
    "notes": null,
    "no_argument": false,
    "links": {
@@ -26654,7 +24943,7 @@
    "location": "Montgomery",
    "room": "Panel 4 · Gold Courtroom (Room 348)",
    "origin": null,
-   "issue": "Criminal Law: Whether district court erred in finding defendants protected by quasi-judicial and",
+   "issue": "Erisa: Whether district court erred in granting summary judgment on claims alleging breach of fiduciary duties. Wedne sday, December 9, 2026 LIVESTREAM",
    "notes": null,
    "no_argument": false,
    "links": {
@@ -26662,6 +24951,131 @@
     "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
    },
    "live_note": null
+  },
+  {
+   "id": "ca7-26-1045-2026-12-09",
+   "court": "ca7",
+   "docket": "26-1045",
+   "title": "Kelsi Wasson v. Frank Bisignano",
+   "date": "2026-12-09",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Civil · Northern District of Indiana, Fort Wayne Division · No. 1:24-cv-00450-ALT",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 6 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-09&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1045&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1397-2026-12-09",
+   "court": "ca7",
+   "docket": "26-1397",
+   "title": "Ian Cuypers v. Justin Taylor",
+   "date": "2026-12-09",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Civil · Western District of Wisconsin · No. 3:24-cv-00743-jdp",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 4 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-09&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1397&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1534-2026-12-09",
+   "court": "ca7",
+   "docket": "26-1534",
+   "title": "Michael Erwin Acuna v. Illinois Department of Revenue",
+   "date": "2026-12-09",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Bankruptcy Dc · Western District of Wisconsin · No. 3:22-cv-00645-wmc",
+   "issue": null,
+   "notes": [
+    "15 min per side",
+    "No. 3 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-09&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1534&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1742-2026-12-09",
+   "court": "ca7",
+   "docket": "26-1742",
+   "title": "Arnold Stein v. Edward-Elmhurst Health",
+   "date": "2026-12-09",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Civil · Northern District of Illinois, Eastern Division · No. 1:23-cv-14515",
+   "issue": null,
+   "notes": [
+    "20 min per side",
+    "No. 1 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-09&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1742&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1799-2026-12-09",
+   "court": "ca7",
+   "docket": "26-1799",
+   "title": "Haris Mujezinovic v. Trustees of Indiana University",
+   "date": "2026-12-09",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Civil · Southern District of Indiana, Indianapolis Division · No. 1:24-cv-01827-TWP-MG",
+   "issue": null,
+   "notes": [
+    "15 min per side",
+    "No. 2 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-09&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1799&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
   },
   {
    "id": "ca9-19-71972-2026-12-09",
@@ -28226,7 +26640,7 @@
    "id": "ca4-25-9526-2026-12-10",
    "court": "ca4",
    "docket": "25-9526",
-   "title": "In re: Louis Antonacci",
+   "title": "In re: Louis Antonacci T hursday, December 10, 2026",
    "date": "2026-12-10",
    "time_local": "09:30",
    "tz": "America/Chicago",
@@ -29783,14 +28197,14 @@
    "id": "ca4-25-1358-2026-12-11",
    "court": "ca4",
    "docket": "25-1358",
-   "title": "Cristian Lopez Torres v. Todd Blanche",
+   "title": "Cristian Lopez Torres v. Todd Blanche F LIVESTREAM",
    "date": "2026-12-11",
    "time_local": "08:30",
    "tz": "America/Chicago",
    "location": "Montgomery",
    "room": "Panel 1 · Red Courtroom (Room 412)",
    "origin": null,
-   "issue": "Immigration: Whether adverse credibility determination was error; whether, even in absence of credible testimony, record established claim for protection under Convention Against Torture.",
+   "issue": "Immigration: Whether adverse credibility determination was error; whether, even in absence of credible testimony, record established claim for protection under Convention Against Torture. riday, December 11, 2026",
    "notes": null,
    "no_argument": false,
    "links": {
@@ -32326,6 +30740,29 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
+   "id": "ca9-23-15480-2027-01-13",
+   "court": "ca9",
+   "docket": "23-15480",
+   "title": "Rochelle Scott v. Kyle Smith",
+   "date": "2027-01-13",
+   "time_local": "10:00",
+   "tz": "America/Phoenix",
+   "location": "Phoenix",
+   "room": "Ceremonial Courtroom",
+   "origin": "Civil · NV",
+   "issue": null,
+   "notes": [
+    "15 min per side"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2027-01-13&loc=PHX",
+    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
+   },
+   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
    "id": "ca9-20-70074-2027-01-14",
    "court": "ca9",
    "docket": "20-70074",
@@ -32871,6 +31308,52 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2027-01-15&loc=PAS",
+    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
+   },
+   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "ca9-21-99002-2027-01-20",
+   "court": "ca9",
+   "docket": "21-99002",
+   "title": "Chauncey Veasley v. Ron Broomfield",
+   "date": "2027-01-20",
+   "time_local": "11:00",
+   "tz": "America/Los_Angeles",
+   "location": "San Francisco",
+   "room": "Courtroom 2, 3rd Floor Rm 330",
+   "origin": "DP HC · C. CA",
+   "issue": null,
+   "notes": [
+    "30 min per side"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2027-01-20&loc=SF",
+    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
+   },
+   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "ca9-21-99004-2027-01-20",
+   "court": "ca9",
+   "docket": "21-99004",
+   "title": "Dellano Cleveland v. Ron Broomfield",
+   "date": "2027-01-20",
+   "time_local": "11:00",
+   "tz": "America/Los_Angeles",
+   "location": "San Francisco",
+   "room": "Courtroom 2, 3rd Floor Rm 330",
+   "origin": "DP HC · C. CA",
+   "issue": null,
+   "notes": [
+    "30 min per side"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2027-01-20&loc=SF",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."

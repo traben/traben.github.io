@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T18:01:00+00:00",
+ "generated_at": "2026-11-09T22:28:45+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -56,6 +56,18 @@
    ],
    "recent": [
     {
+     "date": "2026-11-09",
+     "entry": 142,
+     "text": "SEALED DOCUMENT. \"Let this be filed under seal,\" signed by Judge Ana C. Reyes on 11/9/2026. (This document is SEALED and only available to authorized persons.)(znmw) (Entered: 11/09/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-09",
+     "entry": null,
+     "text": "MINUTE ORDER granting 141 Motion for Leave to File Supplemental Amicus Brief. If a young lawyer argues, amici will be given 10 minutes of argument time at the TRO Hearing on Friday, November 13. Signed by Judge Ana C. Reyes on 11/9/2026. (lcacr3)",
+     "doc": null
+    },
+    {
      "date": "2026-11-07",
      "entry": null,
      "text": "MINUTE ORDER. For the reasons stated at the October 30, 2026, hearing, the Court intends to appoint a special master to investigate whether Department of Justice or Department of the Interior counsel have committed ethical violations in this matter through October 31, 2026. See Dkt. 123 at 70-74; see also Federal Rule of Civil Procedure 53. The Court gives Notice of its intent to appoint former United States Attorney Jessie K. Liu as the Special Master.Ms. Liu served as the United States Attorney for the District of Columbia from 2017 to 2020, the same office in which she previously served as …",
@@ -102,18 +114,6 @@
      "entry": 134,
      "text": "Unopposed MOTION for Leave to File Reply Brief by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Attachments: # 1 Text of Proposed Order)(Robertson, Michael) (Entered: 11/04/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.134.0.pdf"
-    },
-    {
-     "date": "2026-11-04",
-     "entry": 133,
-     "text": "NOTICE of Proposal by DC PRESERVATION LEAGUE, ALEX DICKSON, DAVE ROBERTS (Attachments: # 1 Exhibit A)(Lowell, Abbe) (Entered: 11/04/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.133.0.pdf"
-    },
-    {
-     "date": "2026-11-03",
-     "entry": null,
-     "text": "MINUTE ORDER. The Court previously ordered that any motion filed in connection with the NCPC Proposal be filed on November 5, 2026. See First Min. Order (Oct. 30, 2026). The Court adjusts several deadlines. Assuming that a motion is filed, the Court ORDERS that any response by the Government is due by the end of the day on Monday, November 9. Any reply by Plaintiffs is due by the end of the day on Tuesday, November 10. The Court SETS an in-person hearing on any motion filed for 10:00 a.m. on Friday, November 13. No fact witnesses will be called to the hearing. The Court ORDERS Associate AG Sta…",
-     "doc": null
     }
    ],
    "brief": {
@@ -274,7 +274,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-08"
+   "updated": "2026-11-09"
   }
  ]
 }
