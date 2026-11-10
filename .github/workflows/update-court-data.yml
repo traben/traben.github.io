@@ -65,8 +65,18 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Update oral argument data $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull --rebase
-            git push
+            for attempt in 1 2 3; do
+              git pull --rebase
+              if git push; then
+                break
+              fi
+              if [ "$attempt" -eq 3 ]; then
+                echo "::error::Failed to push oral argument data after 3 attempts."
+                exit 1
+              fi
+              echo "::warning::Push failed; retrying in 10 seconds (attempt $attempt/3)."
+              sleep 10
+            done
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
