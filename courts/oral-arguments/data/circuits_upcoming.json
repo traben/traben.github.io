@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T16:13:48+00:00",
+ "generated_at": "2026-11-10T19:50:41+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -28551,7 +28551,7 @@
    "origin": "MSPB",
    "issue": null,
    "notes": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-December2026.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"

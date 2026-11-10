@@ -3,7 +3,7 @@ SCHEDULED CASES
 December 2026
  
 (Revised 
-October 29, 2026
+November 10, 2026
 )
 Panel B: 
  
@@ -235,10 +235,6 @@ Panel J:
 Friday, December 11, 2026
 , 10:00 A.M.,  Courtroom 201
  
-25-1155
-MSPB
-Jones v. Government Publishing Office
-[argued]
 25-1754
 PTO
 In Re Ice Castles, LLC
@@ -247,6 +243,10 @@ In Re Ice Castles, LLC
 CAVC
 Bray v. Collins
 [argued]
+25-1155
+MSPB
+Jones v. Government Publishing Office
+[on the briefs]
 26-1369
 CFC
 Cai v. HHS
