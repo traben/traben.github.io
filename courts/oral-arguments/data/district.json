@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T03:40:11+00:00",
+ "generated_at": "2026-11-10T16:13:52+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -19,6 +19,7 @@
      "docket": "26-5374"
     }
    ],
+   "status_note": null,
    "listen": {
     "phone": "833-990-9400",
     "code": "787605272",
@@ -49,6 +50,12 @@
    "recent": [
     {
      "date": "2026-11-09",
+     "entry": 147,
+     "text": "Memorandum in opposition to re 139 MOTION for Temporary Restraining Order or, Alternatively, a 14-Day Stay Under 5 U.S.C. § 705 Against Closure of East Potomac Park MOTION to Stay and Motion for Stay Pending Appeal filed by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Attachments: # 1 Exhibit CFA Proposal)(Robertson, Michael) (Entered: 11/09/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.147.0.pdf"
+    },
+    {
+     "date": "2026-11-09",
      "entry": 146,
      "text": "NOTICE of Proposed Order by DC PRESERVATION LEAGUE, ALEX DICKSON, DAVE ROBERTS (Attachments: # 1 Text of Proposed Order Plaintiffs' Proposed Preservation Order)(Hayes-Deats, Caleb) (Entered: 11/09/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.146.0.pdf"
@@ -56,7 +63,7 @@
     {
      "date": "2026-11-09",
      "entry": 145,
-     "text": "NOTICE of Proposed Preservation Order by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Attachments: # 1 Text of Proposed Order)(Robertson, Michael) (Entered: 11/09/2026)",
+     "text": "NOTICE of Proposed Order Preservation Order by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Attachments: # 1 Text of Proposed Order)(Robertson, Michael) Modified event on 11/10/2026 (znmw). (Entered: 11/09/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.145.0.pdf"
     },
     {
@@ -100,12 +107,6 @@
      "entry": 141,
      "text": "MOTION for Leave to File Supplemental Brief by CHERRY BLOSSOM, INC., HAINS POINT RUNNERS. (Attachments: # 1 Supplemental Brief of Amicus Curiae, # 2 Declaration of Rob Wolfe, # 3 Declaration of Phil Stewart, # 4 Declaration of Matthew Sarge, # 5 Proposed Order)(Pemberton, Alan) (Entered: 11/06/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.141.0.pdf"
-    },
-    {
-     "date": "2026-11-05",
-     "entry": 140,
-     "text": "REPLY re Order,,,,,,,, filed by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Block, Andrew) (Entered: 11/05/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.140.0.pdf"
     }
    ],
    "brief": {
@@ -267,6 +268,531 @@
     "author": "Claude (AI)"
    },
    "updated": "2026-11-10"
+  },
+  {
+   "id": "ilnd-25-cr-693",
+   "court": "ilnd",
+   "court_name": "U.S. District Court for the Northern District of Illinois",
+   "title": "United States v. Abughazaleh et al. (the “Broadview Six”)",
+   "docket_number": "1:25-cr-00693",
+   "judge": "April M. Perry",
+   "tz": "America/Chicago",
+   "links": {
+    "docket": "https://www.courtlistener.com/docket/71795256/"
+   },
+   "related": [],
+   "status_note": null,
+   "listen": {
+    "how": "In person only",
+    "note": "Federal rules don't allow broadcasting criminal proceedings, so there is no public phone or video line. Hearings are open to the public at the Dirksen U.S. Courthouse, 219 S. Dearborn St., Chicago.",
+    "source": "https://www.ilnd.uscourts.gov/",
+    "source_label": "Court's site"
+   },
+   "hearings": [
+    {
+     "date": "2026-11-16",
+     "type": "Evidentiary Hearing",
+     "time": "09:00",
+     "room": "Courtroom 1725",
+     "status": "scheduled",
+     "public_line": false,
+     "noticed": "2026-11-02"
+    }
+   ],
+   "deadlines": [],
+   "recent": [
+    {
+     "date": "2026-11-09",
+     "entry": 302,
+     "text": "NOTICE of Submission by USA as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh (Re: ECF No. 276) (Attachments: # 1 Supplement, # 2 Supplement)(Carneiro, Henrique) (Entered: 11/09/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-06",
+     "entry": 301,
+     "text": "MINUTE entry before the Honorable April M. Perry: The Court grants AUSA Matthew Skiba's motion to intervene for purposes of the evidentiary hearing currently scheduled for 11/16/2026 and related proceedings 299 . Given the number of witnesses (and now attorneys) involved in the case, there will be no hearing date that is perfect for everyone. The Court will consider moving the hearing to any mutually-agreeable date when the courthouse is open on or before 11/24/2026 if the parties email the Courtroom Deputy with a proposal. If there is no mutually-agreed date in that timeframe, the hearing wil…",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.301.0.pdf"
+    },
+    {
+     "date": "2026-11-06",
+     "entry": 300,
+     "text": "NOTICE of Motion by Andrew C. Porter for presentment of before Honorable April M. Perry on 11/12/2026 at 10:30 AM. (Porter, Andrew) (Entered: 11/06/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-06",
+     "entry": 299,
+     "text": "MOTION by USA for leave as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh Matthew Skiba's Motion for leave to Intervene Presented before District Judge (Porter, Andrew) Modified on 11/6/2026 (jcc, ). (Entered: 11/06/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.299.0.pdf"
+    },
+    {
+     "date": "2026-11-06",
+     "entry": 298,
+     "text": "ATTORNEY Appearance for USA byAndrew C. Porter for non-party intervenor Matthew Skiba (Porter, Andrew) (Entered: 11/06/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-06",
+     "entry": 297,
+     "text": "MINUTE entry before the Honorable April M. Perry: AUSA William Hogan's request to intervene for the purposes of the evidentiary hearing currently scheduled for 11/16/2026 and related proceedings 296 is granted. The request to move the hearing date is denied at this time. AUSA Hogan's attorney's vacation the week before the scheduled hearing does not interfere with the hearing date itself and therefore does not necessitate moving the hearing. However, if Attorney Kulwin can secure an agreement from all of the four named witnesses (and/or their attorneys) that 11/19/2026 at 9:00 a.m. is an accep…",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.297.0.pdf"
+    },
+    {
+     "date": "2026-11-05",
+     "entry": 296,
+     "text": "MOTION by USA for leave as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh by Intervenor-Movant William R. Hogan, Jr. for Leave to Intervene and Other Relief Presented before District Judge (Attachments: # 1 EX 1 2026.10.01 Hearing transcript)(Kulwin, Shelly) (Entered: 11/05/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.296.1.pdf"
+    },
+    {
+     "date": "2026-11-05",
+     "entry": 295,
+     "text": "ATTORNEY Appearance for USA byShelly Byron Kulwin for Intervenor-Movant William R. Hogan, Jr. (Kulwin, Shelly) (Entered: 11/05/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-05",
+     "entry": 294,
+     "text": "MINUTE entry before the Honorable April M. Perry: The Government's motion for an extension of time 292 is granted. The Government's time to produce documents is extended to 11/9/2026 at 2:00 p.m. There is no need to appear at the motion presentment date 11/10/2026. Mailed notice. (jcc,) (Entered: 11/05/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.294.0.pdf"
+    },
+    {
+     "date": "2026-11-04",
+     "entry": 293,
+     "text": "NOTICE of Motion by Henrique N Carneiro for presentment of motion for extension of time, 292 before Honorable April M. Perry on 11/10/2026 at 10:30 AM. (Carneiro, Henrique) (Entered: 11/04/2026)",
+     "doc": null
+    }
+   ],
+   "brief": {
+    "overview": "Six people, including then-congressional candidate Kat Abughazaleh and Oak Park trustee Brian Straw, were charged with conspiring to impede a federal officer after a September 2025 protest outside the immigration processing center in Broadview, Illinois, where prosecutors said a crowd surrounded and damaged an agent's vehicle. A grand jury at first declined to indict; prosecutors went back and got an indictment on Oct. 23, 2025. The case fell apart in 2026: prosecutors dropped the conspiracy charge in April, and in May, after Judge April Perry read the unredacted grand jury transcripts and described apparent misconduct by the lead prosecutor, U.S. Attorney Andrew Boutros dropped what was left. The criminal case is over, but Judge Perry is now examining whether prosecutors willfully misled her, including about the transcript redactions and about whether anyone outside the U.S. Attorney's Office was involved in the case. She has ordered Boutros and three assistant U.S. attorneys to testify under oath. The defendants have asked her to appoint a special prosecutor; she has not ruled.",
+    "question_plain": "Did federal prosecutors in Chicago make false statements to the court about how they obtained and handled the indictment of six Broadview protesters, and should anyone be sanctioned or referred for contempt?",
+    "why_it_matters": [
+     {
+      "text": "A federal judge ordering a sitting U.S. attorney to testify about his own statements in court is rare. Possible outcomes range from findings of fact to sanctions or a referral for contempt.",
+      "source": {
+       "name": "Wednesday Journal of Oak Park, Nov. 3, 2026",
+       "url": "https://www.oakpark.com/2026/11/03/broadview-6-judge-orders-testify-under-oath/"
+      }
+     },
+     {
+      "text": "The Justice Department has pushed back: an associate attorney general told the court the government “has not agreed to provide any information” she asked for and questioned her authority to demand it.",
+      "source": {
+       "name": "WBEZ Chicago, Nov. 2, 2026",
+       "url": "https://www.wbez.org/crime/2026/11/02/fbi-boutros-depodesta-broadview-six"
+      }
+     },
+     {
+      "text": "A lawsuit by the former head of the FBI's Chicago office alleges Boutros met with FBI Director Kash Patel and Todd Blanche about the investigation before the indictment, which would conflict with a prosecution filing saying no one outside the office was involved.",
+      "source": {
+       "name": "WBEZ Chicago, Nov. 2, 2026",
+       "url": "https://www.wbez.org/crime/2026/11/02/fbi-boutros-depodesta-broadview-six"
+      }
+     },
+     {
+      "text": "The case is one of many from the “Operation Midway Blitz” immigration enforcement surge in Chicago; WBEZ counts two convictions among 33 people charged.",
+      "source": {
+       "name": "WBEZ Chicago, Nov. 2, 2026",
+       "url": "https://www.wbez.org/crime/2026/11/02/fbi-boutros-depodesta-broadview-six"
+      }
+     }
+    ],
+    "history": [
+     {
+      "date": "2025-09",
+      "text": "Protest outside the Broadview immigration facility; prosecutors later allege a crowd pushed and damaged a federal agent's SUV.",
+      "source": {
+       "name": "WBEZ Chicago, Nov. 2, 2026",
+       "url": "https://www.wbez.org/crime/2026/11/02/fbi-boutros-depodesta-broadview-six"
+      }
+     },
+     {
+      "date": "2025-10-23",
+      "text": "After a grand jury first declined to indict, prosecutors return to it and obtain a conspiracy indictment against six protesters.",
+      "source": {
+       "name": "WBEZ Chicago, Nov. 2, 2026",
+       "url": "https://www.wbez.org/crime/2026/11/02/fbi-boutros-depodesta-broadview-six"
+      }
+     },
+     {
+      "date": "2026-03-30",
+      "text": "A prosecution filing tells the court there were no communications about the case with anyone outside the U.S. Attorney's Office, including the White House.",
+      "source": {
+       "name": "WBEZ Chicago, Nov. 2, 2026",
+       "url": "https://www.wbez.org/crime/2026/11/02/fbi-boutros-depodesta-broadview-six"
+      }
+     },
+     {
+      "date": "2026-04-29",
+      "text": "Prosecutors drop the conspiracy indictment and pursue misdemeanor charges against four of the remaining defendants.",
+      "source": {
+       "name": "Chicago Sun-Times, Nov. 5, 2026",
+       "url": "https://chicago.suntimes.com/politics/2026/11/05/broadview-six-prosecutor-asks-judge-to-delay-high-stakes-hearing-where-feds-could-take-the-stand"
+      }
+     },
+     {
+      "date": "2026-05-21",
+      "text": "After reviewing the unredacted grand jury transcripts, Judge Perry describes apparent misconduct by the lead prosecutor; Boutros dismisses the remaining charges, telling the court no prosecutor intentionally misled it.",
+      "source": {
+       "name": "Chicago Sun-Times, Nov. 5, 2026",
+       "url": "https://chicago.suntimes.com/politics/2026/11/05/broadview-six-prosecutor-asks-judge-to-delay-high-stakes-hearing-where-feds-could-take-the-stand"
+      }
+     },
+     {
+      "date": "2026-10-01",
+      "text": "At a hearing, Judge Perry says more fact-finding under oath is needed.",
+      "source": {
+       "name": "Chicago Sun-Times, Nov. 5, 2026",
+       "url": "https://chicago.suntimes.com/politics/2026/11/05/broadview-six-prosecutor-asks-judge-to-delay-high-stakes-hearing-where-feds-could-take-the-stand"
+      }
+     },
+     {
+      "date": "2026-10-30",
+      "text": "Associate Attorney General Stanley Woodward enters the case and responds that the government has not agreed to provide the records the judge requested.",
+      "source": {
+       "name": "Wednesday Journal of Oak Park, Nov. 3, 2026",
+       "url": "https://www.oakpark.com/2026/11/03/broadview-6-judge-orders-testify-under-oath/"
+      }
+     },
+     {
+      "date": "2026-11-02",
+      "text": "Judge Perry finds Boutros' account “hard to credit” and orders him and AUSAs William Hogan, Matthew Skiba and Andres Almendarez to testify at an evidentiary hearing on Nov. 16. The same day, former Chicago FBI chief Douglas DePodesta sues Boutros, Patel and Blanche.",
+      "source": {
+       "name": "WBEZ Chicago, Nov. 2, 2026",
+       "url": "https://www.wbez.org/crime/2026/11/02/fbi-boutros-depodesta-broadview-six"
+      }
+     },
+     {
+      "date": "2026-11-06",
+      "text": "The judge lets Hogan and Skiba take part through their own lawyers, rules out cross-examination, and keeps Nov. 16 unless everyone agrees on another date by Nov. 24. The government's deadline to produce documents is extended to Nov. 9.",
+      "source": {
+       "name": "Docket, via CourtListener",
+       "url": "https://www.courtlistener.com/docket/71795256/"
+      }
+     },
+     {
+      "date": "2026-11-09",
+      "text": "The government files its submission in response to the judge's request for evidence (Dkt. 302).",
+      "source": {
+       "name": "Docket, via CourtListener",
+       "url": "https://www.courtlistener.com/docket/71795256/"
+      }
+     }
+    ],
+    "through": "2026-11-09",
+    "author": "Claude (AI)"
+   },
+   "updated": "2026-11-10"
+  },
+  {
+   "id": "dcd-26-cv-544",
+   "court": "dcd",
+   "court_name": "U.S. District Court for the District of Columbia",
+   "title": "Lemmon v. Trump (the Memorial Circle arch)",
+   "docket_number": "1:26-cv-00544-TSC",
+   "judge": "Tanya S. Chutkan",
+   "tz": "America/New_York",
+   "links": {
+    "docket": "https://www.courtlistener.com/docket/72301112/"
+   },
+   "related": [
+    {
+     "label": "Consolidated with",
+     "court": "D.D.C.",
+     "docket": "1:26-cv-03838 (District of Columbia and Virginia v. National Park Service)",
+     "url": "https://www.courtlistener.com/docket/75053865/"
+    }
+   ],
+   "status_note": null,
+   "listen": null,
+   "hearings": [],
+   "deadlines": [],
+   "recent": [],
+   "brief": {
+    "overview": "The administration plans a 250-foot arch, a 166-foot arch topped by gilded figures, with an observation deck, in the middle of Memorial Circle, between the Lincoln Memorial and Arlington National Cemetery. Three Vietnam veterans and an architectural historian sued in February 2026, arguing the project skips the Commemorative Works Act, which requires Congress to authorize new memorials on federal land in the capital area, along with historic-preservation and environmental reviews. In October, the District of Columbia and Virginia filed their own suit, which Judge Tanya Chutkan combined with the first. On Nov. 5, hours after the National Capital Planning Commission approved the final plans 8–4, she issued a temporary restraining order barring construction and site work. She found D.C. and Virginia likely to win their claim that the arch is a commemorative work Congress never authorized, and likely to have standing because of traffic and other costs. Briefing on a longer-lasting preliminary injunction ends Nov. 18.",
+    "question_plain": "Can the administration build a 250-foot triumphal arch at Memorial Circle without approval from Congress and the reviews federal law requires for new monuments in the capital?",
+    "why_it_matters": [
+     {
+      "text": "The court's reasoning rests on the Commemorative Works Act: it found the arch is likely a “commemorative work” that needs Congress's approval and the law's review steps, none of which happened.",
+      "source": {
+       "name": "Memorandum Opinion granting TRO (Nov. 5, 2026)",
+       "url": "https://san.com/wp-content/uploads/securepdfs/2026/11/TrumpArchRuling.pdf"
+      }
+     },
+     {
+      "text": "Standing is the government's main defense. The Justice Department points to the Supreme Court's White House ballroom decision, which found challengers there likely lacked standing; the court found D.C. and Virginia's traffic and economic harms enough.",
+      "source": {
+       "name": "CBS News, Nov. 6, 2026",
+       "url": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/"
+      }
+     },
+     {
+      "text": "It is one of several court fights over the administration's changes to Washington's landmarks, along with the White House ballroom and plans for the Kennedy Center and the Eisenhower Executive Office Building.",
+      "source": {
+       "name": "Bloomberg Law, Apr. 2, 2026",
+       "url": "https://news.bloomberglaw.com/litigation/judge-says-she-fears-waking-up-to-bulldozers-in-trump-arch-case"
+      }
+     },
+     {
+      "text": "The arch is meant to mark the nation's 250th anniversary, and the President has also described possible military uses for it; its cost and who will pay for it remain unclear.",
+      "source": {
+       "name": "CBS News, Nov. 6, 2026",
+       "url": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/"
+      }
+     }
+    ],
+    "history": [
+     {
+      "date": "2025-10",
+      "text": "President Trump announces plans for an arch at Memorial Circle.",
+      "source": {
+       "name": "Memorandum Opinion granting TRO (Nov. 5, 2026)",
+       "url": "https://san.com/wp-content/uploads/securepdfs/2026/11/TrumpArchRuling.pdf"
+      }
+     },
+     {
+      "date": "2026-02-19",
+      "text": "Three Vietnam veterans and an architectural historian sue, represented by Public Citizen.",
+      "source": {
+       "name": "Memorandum Opinion granting TRO (Nov. 5, 2026)",
+       "url": "https://san.com/wp-content/uploads/securepdfs/2026/11/TrumpArchRuling.pdf"
+      }
+     },
+     {
+      "date": "2026-04-02",
+      "text": "Preliminary injunction hearing. Judge Chutkan says she doesn't want ground broken while the case is pending; the government says the project is only conceptual.",
+      "source": {
+       "name": "Bloomberg Law, Apr. 2, 2026",
+       "url": "https://news.bloomberglaw.com/litigation/judge-says-she-fears-waking-up-to-bulldozers-in-trump-arch-case"
+      }
+     },
+     {
+      "date": "2026-04-08",
+      "text": "Consent order: the Park Service must give at least 14 days' public notice before construction or demolition.",
+      "source": {
+       "name": "Memorandum Opinion granting TRO (Nov. 5, 2026)",
+       "url": "https://san.com/wp-content/uploads/securepdfs/2026/11/TrumpArchRuling.pdf"
+      }
+     },
+     {
+      "date": "2026-05-27",
+      "text": "The veterans move for summary judgment; the government cross-moves.",
+      "source": {
+       "name": "Memorandum Opinion granting TRO (Nov. 5, 2026)",
+       "url": "https://san.com/wp-content/uploads/securepdfs/2026/11/TrumpArchRuling.pdf"
+      }
+     },
+     {
+      "date": "2026-07",
+      "text": "The National Capital Planning Commission gives preliminary approval.",
+      "source": {
+       "name": "Memorandum Opinion granting TRO (Nov. 5, 2026)",
+       "url": "https://san.com/wp-content/uploads/securepdfs/2026/11/TrumpArchRuling.pdf"
+      }
+     },
+     {
+      "date": "2026-09-04",
+      "text": "After a dispute over excavation at the site, the court requires 48 hours' notice of any work beyond surveying.",
+      "source": {
+       "name": "Memorandum Opinion granting TRO (Nov. 5, 2026)",
+       "url": "https://san.com/wp-content/uploads/securepdfs/2026/11/TrumpArchRuling.pdf"
+      }
+     },
+     {
+      "date": "2026-10-22",
+      "text": "The government says construction could begin as soon as Nov. 5; the veterans file a second motion for a preliminary injunction.",
+      "source": {
+       "name": "Memorandum Opinion granting TRO (Nov. 5, 2026)",
+       "url": "https://san.com/wp-content/uploads/securepdfs/2026/11/TrumpArchRuling.pdf"
+      }
+     },
+     {
+      "date": "2026-10-30",
+      "text": "Hearing. Judge Chutkan asks how the government would be harmed by waiting, “apart from the executive's desire to bedazzle the city.”",
+      "source": {
+       "name": "AP via WPXI, Nov. 2, 2026",
+       "url": "https://www.wpxi.com/news/politics/judge-complicates/Y4DYFQFBHAYBTPCINOK6CJRJ7Q/"
+      }
+     },
+     {
+      "date": "2026-10-31",
+      "text": "The District of Columbia and Virginia sue the National Park Service and Interior Department and ask for a restraining order; the cases are consolidated.",
+      "source": {
+       "name": "D.C. and Virginia docket, via CourtListener",
+       "url": "https://www.courtlistener.com/docket/75053865/"
+      }
+     },
+     {
+      "date": "2026-11-02",
+      "text": "The court requires notice within one hour of any Planning Commission vote and within 30 minutes of any construction activity.",
+      "source": {
+       "name": "AP via WPXI, Nov. 2, 2026",
+       "url": "https://www.wpxi.com/news/politics/judge-complicates/Y4DYFQFBHAYBTPCINOK6CJRJ7Q/"
+      }
+     },
+     {
+      "date": "2026-11-05",
+      "text": "The Planning Commission approves the final plans 8–4 and Interior issues its decision; hours later the court grants D.C. and Virginia a temporary restraining order barring construction and site work.",
+      "source": {
+       "name": "CBS News, Nov. 6, 2026",
+       "url": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/"
+      }
+     },
+     {
+      "date": "2026-11-09",
+      "text": "Schedule set for preliminary injunction briefing: motions Nov. 10, the government's response Nov. 16, replies by 2 p.m. Nov. 18.",
+      "source": {
+       "name": "Docket, via CourtListener",
+       "url": "https://www.courtlistener.com/docket/72301112/"
+      }
+     }
+    ],
+    "through": "2026-11-09",
+    "author": "Claude (AI)"
+   },
+   "updated": null
+  },
+  {
+   "id": "dcd-25-cv-766",
+   "court": "dcd",
+   "court_name": "U.S. District Court for the District of Columbia",
+   "title": "J.G.G. v. Trump (contempt inquiry over the El Salvador flights)",
+   "docket_number": "1:25-cv-00766-JEB",
+   "judge": "James E. Boasberg",
+   "tz": "America/New_York",
+   "links": {
+    "docket": "https://www.courtlistener.com/docket/69741724/"
+   },
+   "related": [
+    {
+     "label": "Government's mandamus petition, reheard by the full court",
+     "court": "D.C. Circuit",
+     "docket": "25-5452 (In re Trump)",
+     "url": "https://www.courtlistener.com/docket/72029089/"
+    }
+   ],
+   "status_note": "The district case is on hold. The full D.C. Circuit heard argument on Sept. 29, 2026, on whether the contempt inquiry may go on; its decision is pending.",
+   "listen": null,
+   "hearings": [],
+   "deadlines": [],
+   "recent": [],
+   "brief": {
+    "overview": "On March 15, 2025, the President invoked the Alien Enemies Act against alleged members of the Tren de Aragua gang. That day Chief Judge James Boasberg temporarily barred removals under the proclamation and told the government to return planes already in the air; two flights left during a break in the hearing and landed in El Salvador, where the men were held in the CECOT prison. In April 2025 he found probable cause that officials had committed criminal contempt. A divided D.C. Circuit panel set that aside in August 2025, but the inquiry resumed later that year. The government then named then–Homeland Security Secretary Kristi Noem as the official who decided not to turn the planes around, on legal advice from Justice Department leadership. In December 2025 Boasberg called her statement too thin and scheduled testimony from two Justice Department lawyers, and the government asked the D.C. Circuit to stop him. A panel ordered the inquiry ended in April 2026; the full court vacated that ruling, reheard the case on Sept. 29, 2026, and has not yet decided.",
+    "question_plain": "Can Chief Judge Boasberg keep investigating whether officials deliberately defied his March 2025 order to turn around deportation flights to El Salvador, and refer anyone for criminal contempt?",
+    "why_it_matters": [
+     {
+      "text": "It tests whether a federal court can use criminal contempt to find out who, inside the executive branch, decided to disregard its order, and to hold that person accountable.",
+      "source": {
+       "name": "Newsweek, Sept. 29, 2026",
+       "url": "https://www.newsweek.com/judges-signal-support-kristi-noem-contempt-probe-boasberg-deportation-flights-12501640"
+      }
+     },
+     {
+      "text": "The April 2026 panel majority called the inquiry an intrusion into executive deliberations on national security and foreign policy; the dissent said the contempt power exists to enforce the law, not the court's pride.",
+      "source": {
+       "name": "CBS News, Apr. 14, 2026",
+       "url": "https://www.cbsnews.com/news/alien-enemies-act-deportations-criminal-contempt-appeals-court/"
+      }
+     },
+     {
+      "text": "At the September argument, several judges asked whether stopping now would leave no one responsible, and whether lawyers who advised Noem could themselves be in contempt.",
+      "source": {
+       "name": "Newsweek, Sept. 29, 2026",
+       "url": "https://www.newsweek.com/judges-signal-support-kristi-noem-contempt-probe-boasberg-deportation-flights-12501640"
+      }
+     },
+     {
+      "text": "Reporting and commentary have focused on the roles of Todd Blanche and Emil Bove, then senior Justice Department officials; Bove is now a Third Circuit judge.",
+      "source": {
+       "name": "Just Security (Marty Lederman), June 2026",
+       "url": "https://www.justsecurity.org/142031/boasberg-contempt-blanche-bove/"
+      }
+     }
+    ],
+    "history": [
+     {
+      "date": "2025-03-15",
+      "text": "The President's Alien Enemies Act proclamation is announced. Boasberg blocks removals under it and orally orders planes in the air returned; two flights leave during a recess and land in El Salvador.",
+      "source": {
+       "name": "Just Security (Marty Lederman), June 2026",
+       "url": "https://www.justsecurity.org/142031/boasberg-contempt-blanche-bove/"
+      }
+     },
+     {
+      "date": "2025-04",
+      "text": "Boasberg finds probable cause that officials committed criminal contempt, offering the government a chance to cure it.",
+      "source": {
+       "name": "Just Security (Marty Lederman), June 2026",
+       "url": "https://www.justsecurity.org/142031/boasberg-contempt-blanche-bove/"
+      }
+     },
+     {
+      "date": "2025-08",
+      "text": "A divided D.C. Circuit panel vacates the probable cause order; the full court later declines to rehear it.",
+      "source": {
+       "name": "Just Security (Marty Lederman), June 2026",
+       "url": "https://www.justsecurity.org/142031/boasberg-contempt-blanche-bove/"
+      }
+     },
+     {
+      "date": "2025-11",
+      "text": "Boasberg resumes the inquiry to decide whether Noem or others should be referred for prosecution.",
+      "source": {
+       "name": "Just Security (Marty Lederman), June 2026",
+       "url": "https://www.justsecurity.org/142031/boasberg-contempt-blanche-bove/"
+      }
+     },
+     {
+      "date": "2025-12-05",
+      "text": "Noem files a declaration saying she decided not to return the planes after legal advice from DHS's acting general counsel and Justice Department leadership.",
+      "source": {
+       "name": "AP via News4Jax, Dec. 8, 2025",
+       "url": "https://www.news4jax.com/news/politics/2025/12/08/judge-wants-whistleblower-to-testify-in-contempt-probe-of-trump-official-over-planes-to-el-salvador/"
+      }
+     },
+     {
+      "date": "2025-12-08",
+      "text": "Boasberg calls the declaration “cursory” and orders testimony from whistleblower Erez Reuveni and DOJ lawyer Drew Ensign the following week.",
+      "source": {
+       "name": "AP via News4Jax, Dec. 8, 2025",
+       "url": "https://www.news4jax.com/news/politics/2025/12/08/judge-wants-whistleblower-to-testify-in-contempt-probe-of-trump-official-over-planes-to-el-salvador/"
+      }
+     },
+     {
+      "date": "2025-12-12",
+      "text": "On the government's petition for mandamus (No. 25-5452), the D.C. Circuit temporarily halts the inquiry.",
+      "source": {
+       "name": "D.C. Circuit docket No. 25-5452, via CourtListener",
+       "url": "https://www.courtlistener.com/docket/72029089/"
+      }
+     },
+     {
+      "date": "2026-04-14",
+      "text": "A 2–1 panel (Judges Rao and Walker; Judge Childs dissenting) orders the contempt proceedings ended.",
+      "source": {
+       "name": "CBS News, Apr. 14, 2026",
+       "url": "https://www.cbsnews.com/news/alien-enemies-act-deportations-criminal-contempt-appeals-court/"
+      }
+     },
+     {
+      "date": "2026-06-22",
+      "text": "The full D.C. Circuit vacates the panel ruling and agrees to rehear the case; the temporary halt stays in place.",
+      "source": {
+       "name": "D.C. Circuit docket No. 25-5452, via CourtListener",
+       "url": "https://www.courtlistener.com/docket/72029089/"
+      }
+     },
+     {
+      "date": "2026-09-29",
+      "text": "The full court hears argument (Brett Shumate for the government, Lee Gelernt of the ACLU for the plaintiffs). The decision is pending.",
+      "source": {
+       "name": "D.C. Circuit docket No. 25-5452, via CourtListener",
+       "url": "https://www.courtlistener.com/docket/72029089/"
+      }
+     }
+    ],
+    "through": "2026-11-09",
+    "author": "Claude (AI)"
+   },
+   "updated": null
   }
  ]
 }
