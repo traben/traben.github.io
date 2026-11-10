@@ -92,6 +92,7 @@ def parse(entries: list[dict], today: str) -> dict:
         for m in HEARING_RE.finditer(text):
             date, typ = mdY(m["date"]), m["type"].strip()
             typ = re.sub(r"^(?:NOTICE of Hearing:|Set/Reset (?:Deadlines/)?Hearings:)\s*", "", typ, flags=re.I).strip()
+            typ = re.sub(r"\s+(?:is|was|has been|will be|is hereby)$", "", typ, flags=re.I).strip()   # "Evidentiary Hearing is set for"
             h = hearings.setdefault((date, typ.lower()), {"date": date, "type": typ})
             h.update({"time": hhmm(m["time"]), "room": (m["room"] or "").strip() or None, "status": "scheduled",
                       "public_line": h.get("public_line", False) or bool(re.search(r"public access line", text, re.I)),
@@ -102,9 +103,15 @@ def parse(entries: list[dict], today: str) -> dict:
                 if h["date"] == date:
                     h["status"] = "held"
         if re.search(r"vacat|cancel", text, re.I):
-            for h in hearings.values():
-                if h["date"] in {mdY(d) for d in re.findall(r"\d{1,2}/\d{1,2}/\d{4}", text)} and h["status"] == "scheduled":
-                    h["status"] = "vacated"
+            # only dates in the sentence that does the vacating ("The motion presentment dates of
+            # 11/05/2026 and 11/10/2026 are hereby vacated" must not cancel a hearing set earlier in the entry)
+            for sent in re.split(r"(?<=[.;])\s+(?=[A-Z])", text):
+                if not re.search(r"vacat|cancel", sent, re.I) or HEARING_RE.search(sent):
+                    continue
+                gone = {mdY(d) for d in re.findall(r"\d{1,2}/\d{1,2}/\d{4}", sent)}
+                for h in hearings.values():
+                    if h["date"] in gone and h["status"] == "scheduled" and (h.get("noticed") or "") <= (e.get("date_filed") or ""):
+                        h["status"] = "vacated"
     # second pass: minute orders announcing the public line for a hearing
     # ("The hearing set for tomorrow, October 30, 2026, ... will be accessible to the public via ... dial-in line")
     for e in entries:
@@ -137,8 +144,9 @@ def parse(entries: list[dict], today: str) -> dict:
         text = e.get("description") or ""
         if not re.match(r"\s*(MINUTE )?ORDER", text, re.I):
             continue
-        for sent in re.split(r"(?<!Dkt\.)(?<!No\.)(?<!Nos\.)(?<!U\.S\.)(?<=[.;])\s+(?=[A-Z(\d])", text):
-            m = re.search(r"\b(?:[Bb]y|[Oo]n or before)\s+(?:tomorrow,\s+)?" + MONTH, sent)
+        for sent in re.split(r"(?<!Dkt\.)(?<!No\.)(?<!Nos\.)(?<!U\.S\.)(?<=[.;:])\s+(?=[A-Z(\d])", text):
+            m = re.search(r"\b(?:[Bb]y|[Oo]n or before)\s+(?:tomorrow,\s+)?"
+                          r"(?:\d{1,2}:\d{2}\s*[ap]\.?m\.?,?\s+on\s+)?" + MONTH, sent)
             if not m:
                 continue
             date = dt.datetime.strptime(f"{m.group(1)} {m.group(2)} {m.group(3)}", "%B %d %Y").date().isoformat()
@@ -232,6 +240,7 @@ def main() -> None:
             "docket_number": c["docket_number"], "judge": c.get("judge"), "tz": c.get("tz", "America/New_York"),
             "links": {"docket": f"{CL}/docket/{c['courtlistener_docket']}/"},
             "related": c.get("related", []),
+            "status_note": c.get("status_note"),      # e.g. "district case stayed; en banc decision pending"
             "listen": listen,
             **parsed,
             "brief": {

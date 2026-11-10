@@ -1,14 +1,110 @@
 {
-  "_comment": "Brief and case history for tracked district court cases. Written by Claude (AI) on Oct. 30, 2026 from the court record and linked coverage; labeled as AI on the site. 'through' is the last docket date the brief reflects.",
+  "_comment": "Briefs and case histories for tracked district court cases, written by Claude (AI) from the court record and linked coverage; labeled as AI on the site. 'through' is the last docket date each brief reflects. D.C. Preservation League written Oct. 30, 2026; the other three Nov. 9, 2026.",
   "sources": {
-    "op103": {"name": "Memorandum Opinion, Dkt. 103 (Oct. 26, 2026)", "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.103.0.pdf"},
-    "docket": {"name": "Docket, via CourtListener", "url": "https://www.courtlistener.com/docket/72278895/dc-preservation-league-v-department-of-interior/"},
-    "ap-feb": {"name": "AP via WTOP, Feb. 13, 2026", "url": "https://wtop.com/national/2026/02/a-lawsuit-seeks-to-stop-trumps-overhaul-of-a-100-year-old-public-golf-course-in-washington/"},
-    "wtop-jul": {"name": "WTOP (Mike Murillo), July 2026", "url": "https://wtop.com/dc/2026/07/judge-wont-stop-east-potomac-plans-but-"},
-    "npr-oct18": {"name": "NPR via WGCU (Andrew Limbong), Oct. 18, 2026", "url": "https://www.wgcu.org/2026-10-18/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle"},
-    "ap-oct27": {"name": "AP via Spectrum News, Oct. 27, 2026", "url": "https://spectrumnews1.com/ky/louisville/politics/2026/10/27/judge-extends-block-on-trump-renovation-public-golf-course-washington"},
-    "golf-oct27": {"name": "GOLF.com (Josh Schrock), Oct. 27, 2026", "url": "https://golf.com/news/donald-trump-east-potomac-renovation-halted/"},
-    "dcd-line": {"name": "D.D.C. public access teleconference page", "url": "https://www.dcd.uscourts.gov/public-access-teleconference-information"}
+    "op103": {
+      "name": "Memorandum Opinion, Dkt. 103 (Oct. 26, 2026)",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.103.0.pdf"
+    },
+    "docket": {
+      "name": "Docket, via CourtListener",
+      "url": "https://www.courtlistener.com/docket/72278895/dc-preservation-league-v-department-of-interior/"
+    },
+    "ap-feb": {
+      "name": "AP via WTOP, Feb. 13, 2026",
+      "url": "https://wtop.com/national/2026/02/a-lawsuit-seeks-to-stop-trumps-overhaul-of-a-100-year-old-public-golf-course-in-washington/"
+    },
+    "wtop-jul": {
+      "name": "WTOP (Mike Murillo), July 2026",
+      "url": "https://wtop.com/dc/2026/07/judge-wont-stop-east-potomac-plans-but-"
+    },
+    "npr-oct18": {
+      "name": "NPR via WGCU (Andrew Limbong), Oct. 18, 2026",
+      "url": "https://www.wgcu.org/2026-10-18/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle"
+    },
+    "ap-oct27": {
+      "name": "AP via Spectrum News, Oct. 27, 2026",
+      "url": "https://spectrumnews1.com/ky/louisville/politics/2026/10/27/judge-extends-block-on-trump-renovation-public-golf-course-washington"
+    },
+    "golf-oct27": {
+      "name": "GOLF.com (Josh Schrock), Oct. 27, 2026",
+      "url": "https://golf.com/news/donald-trump-east-potomac-renovation-halted/"
+    },
+    "dcd-line": {
+      "name": "D.D.C. public access teleconference page",
+      "url": "https://www.dcd.uscourts.gov/public-access-teleconference-information"
+    },
+    "bv-cbs": {
+      "name": "CBS Chicago, Nov. 2, 2026",
+      "url": "https://www.cbsnews.com/chicago/news/andrew-boutros-ordered-testify-broadview-six-judge-april-perry/"
+    },
+    "bv-wbez": {
+      "name": "WBEZ Chicago, Nov. 2, 2026",
+      "url": "https://www.wbez.org/crime/2026/11/02/fbi-boutros-depodesta-broadview-six"
+    },
+    "bv-st-nov5": {
+      "name": "Chicago Sun-Times, Nov. 5, 2026",
+      "url": "https://chicago.suntimes.com/politics/2026/11/05/broadview-six-prosecutor-asks-judge-to-delay-high-stakes-hearing-where-feds-could-take-the-stand"
+    },
+    "bv-op": {
+      "name": "Wednesday Journal of Oak Park, Nov. 3, 2026",
+      "url": "https://www.oakpark.com/2026/11/03/broadview-6-judge-orders-testify-under-oath/"
+    },
+    "bv-docket": {
+      "name": "Docket, via CourtListener",
+      "url": "https://www.courtlistener.com/docket/71795256/"
+    },
+    "arch-ruling": {
+      "name": "Memorandum Opinion granting TRO (Nov. 5, 2026)",
+      "url": "https://san.com/wp-content/uploads/securepdfs/2026/11/TrumpArchRuling.pdf"
+    },
+    "arch-cbs": {
+      "name": "CBS News, Nov. 6, 2026",
+      "url": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/"
+    },
+    "arch-wjla": {
+      "name": "WJLA, Nov. 6, 2026",
+      "url": "https://wjla.com/news/local/trump-triumphal-arch-blocked-judge-chutkan-federal-construction-temporary-restraining-order-national-capital-planning-commission-vote-approval-arlington-memorial-circle-dc-virginia-lawsuit"
+    },
+    "arch-bl-apr": {
+      "name": "Bloomberg Law, Apr. 2, 2026",
+      "url": "https://news.bloomberglaw.com/litigation/judge-says-she-fears-waking-up-to-bulldozers-in-trump-arch-case"
+    },
+    "arch-ap-nov2": {
+      "name": "AP via WPXI, Nov. 2, 2026",
+      "url": "https://www.wpxi.com/news/politics/judge-complicates/Y4DYFQFBHAYBTPCINOK6CJRJ7Q/"
+    },
+    "arch-docket": {
+      "name": "Docket, via CourtListener",
+      "url": "https://www.courtlistener.com/docket/72301112/"
+    },
+    "arch-dcva-docket": {
+      "name": "D.C. and Virginia docket, via CourtListener",
+      "url": "https://www.courtlistener.com/docket/75053865/"
+    },
+    "jgg-js": {
+      "name": "Just Security (Marty Lederman), June 2026",
+      "url": "https://www.justsecurity.org/142031/boasberg-contempt-blanche-bove/"
+    },
+    "jgg-nw": {
+      "name": "Newsweek, Sept. 29, 2026",
+      "url": "https://www.newsweek.com/judges-signal-support-kristi-noem-contempt-probe-boasberg-deportation-flights-12501640"
+    },
+    "jgg-cbs-apr": {
+      "name": "CBS News, Apr. 14, 2026",
+      "url": "https://www.cbsnews.com/news/alien-enemies-act-deportations-criminal-contempt-appeals-court/"
+    },
+    "jgg-ap-dec": {
+      "name": "AP via News4Jax, Dec. 8, 2025",
+      "url": "https://www.news4jax.com/news/politics/2025/12/08/judge-wants-whistleblower-to-testify-in-contempt-probe-of-trump-official-over-planes-to-el-salvador/"
+    },
+    "jgg-cadc": {
+      "name": "D.C. Circuit docket No. 25-5452, via CourtListener",
+      "url": "https://www.courtlistener.com/docket/72029089/"
+    },
+    "jgg-docket": {
+      "name": "District docket, via CourtListener",
+      "url": "https://www.courtlistener.com/docket/69741724/"
+    }
   },
   "cases": {
     "dcd-26-cv-477": {
@@ -16,27 +112,339 @@
       "question_plain": "Did the Interior Department have to study the environmental effects of its whole plan to rebuild East Potomac Golf Course before cutting trees and starting work, and can the court keep the project on hold while the case goes on?",
       "overview": "East Potomac Golf Links is a 106-year-old public course in East Potomac Park, on the National Register of Historic Places. The D.C. Preservation League and two regular golfers sued the Interior Department and the National Park Service in February 2026, after debris from the White House East Wing demolition was dumped on the course. They say the government is carrying out a plan to replace the course with a championship layout designed by Tom Fazio, in pieces, to avoid the full environmental review that the National Environmental Policy Act requires. For months the government told the court there was no final plan, and Judge Ana C. Reyes declined to step in. After about 430 trees were cut down over a weekend in October, she issued a restraining order and then a preliminary injunction. The government has appealed.",
       "why_it_matters": [
-        {"text": "It is one of several lawsuits over the administration's changes to Washington's public landscape, alongside challenges to the White House ballroom, a planned arch and a National Garden of American Heroes.", "src": "ap-oct27"},
-        {"text": "Opponents say the redesign would replace three courses with one 18-hole course, remove Ohio Drive and a century-old cherry grove, and raise the cost of a long-affordable public facility.", "src": "golf-oct27"},
-        {"text": "The President calls the current course \"old, broken, dilapidated\" and wants one able to host world-class tournaments. Interior argues the plaintiffs' preferences about how the park looks are not a legally protected interest, and it ended the prior operator's lease for unmet capital improvements.", "src": "npr-oct18"},
-        {"text": "The judge found the President's public statements at odds with sworn testimony and earlier assurances by Justice Department lawyers. The government accuses her of bias and has appealed to the D.C. Circuit.", "src": "ap-oct27"}
+        {
+          "text": "It is one of several lawsuits over the administration's changes to Washington's public landscape, alongside challenges to the White House ballroom, a planned arch and a National Garden of American Heroes.",
+          "src": "ap-oct27"
+        },
+        {
+          "text": "Opponents say the redesign would replace three courses with one 18-hole course, remove Ohio Drive and a century-old cherry grove, and raise the cost of a long-affordable public facility.",
+          "src": "golf-oct27"
+        },
+        {
+          "text": "The President calls the current course \"old, broken, dilapidated\" and wants one able to host world-class tournaments. Interior argues the plaintiffs' preferences about how the park looks are not a legally protected interest, and it ended the prior operator's lease for unmet capital improvements.",
+          "src": "npr-oct18"
+        },
+        {
+          "text": "The judge found the President's public statements at odds with sworn testimony and earlier assurances by Justice Department lawyers. The government accuses her of bias and has appealed to the D.C. Circuit.",
+          "src": "ap-oct27"
+        }
       ],
       "history": [
-        {"date": "2025-12", "text": "Interior ends the National Links Trust's lease for East Potomac and two other D.C. courses, saying required capital improvements weren't made; the Trust says it invested $8.5 million.", "src": "ap-feb"},
-        {"date": "2026-02-13", "text": "The D.C. Preservation League and golfers Dave Roberts and Alex Dickson sue (Dkt. 1), citing NEPA and the 1897 law creating the park for public recreation, and the dumping of East Wing demolition debris on the course.", "src": "docket"},
-        {"date": "2026-02-23", "text": "Plaintiffs move to stay the project or for a preliminary injunction (Dkt. 8).", "src": "docket"},
-        {"date": "2026-03-11", "text": "First hearing, a status conference open to the public by phone. Over the following months (hearings Apr. 9, May 4, July 2) the court declines about a dozen requests for relief while the government says no final plan exists.", "src": "op103"},
-        {"date": "2026-07-02", "text": "Judge Reyes again declines to block the work but asks for advance notice before major work, wanting comfort that \"we're not sending in bulldozers in the dark of night.\"", "src": "wtop-jul"},
-        {"date": "2026-09-03", "text": "After plaintiffs report accelerated construction, another hearing; the court again declines to intervene.", "src": "op103"},
-        {"date": "2026-10-09", "text": "The government notifies the court of a Tree Management Plan and moves for summary judgment (Dkt. 74, 75). The next day roughly 430 trees are removed.", "src": "op103"},
-        {"date": "2026-10-12", "text": "On plaintiffs' emergency motion (Dkt. 76), the court issues a temporary restraining order halting work (Dkt. 79).", "src": "op103"},
-        {"date": "2026-10-16", "text": "The government moves to disqualify Judge Reyes for bias (Dkt. 86); she denies the motion (Dkt. 95).", "src": "npr-oct18"},
-        {"date": "2026-10-18", "text": "The President announces the course will close Nov. 15 for a 15-month rebuild to a Fazio design.", "src": "npr-oct18"},
-        {"date": "2026-10-19", "text": "Evidentiary hearing on the preliminary injunction, with sworn testimony from four witnesses including the acting NPS director.", "src": "op103"},
-        {"date": "2026-10-26", "text": "Preliminary injunction granted (Dkt. 101, 103): no further tree removal, and 10 business days' written notice before any irreversible change to the park. The court finds the plan likely exists and is final, and calls the stated reason for the tree removal pretextual.", "src": "op103"},
-        {"date": "2026-10-27", "text": "The government appeals to the D.C. Circuit (No. 26-5374). The court orders it to explain how the President's post about closing the course Nov. 15 squares with counsel's statement that there was no plan to close it.", "src": "docket"},
-        {"date": "2026-10-29", "text": "The government asks Judge Reyes to stay her injunction pending appeal (Dkt. 112).", "src": "docket"},
-        {"date": "2026-10-30", "text": "In-person hearing on the government's show-cause response, open to the public by phone. The court orders disclosures and filings due Nov. 2–6, including whether a Fazio design contract exists, and a proposed evidence-preservation order.", "src": "docket"}
+        {
+          "date": "2025-12",
+          "text": "Interior ends the National Links Trust's lease for East Potomac and two other D.C. courses, saying required capital improvements weren't made; the Trust says it invested $8.5 million.",
+          "src": "ap-feb"
+        },
+        {
+          "date": "2026-02-13",
+          "text": "The D.C. Preservation League and golfers Dave Roberts and Alex Dickson sue (Dkt. 1), citing NEPA and the 1897 law creating the park for public recreation, and the dumping of East Wing demolition debris on the course.",
+          "src": "docket"
+        },
+        {
+          "date": "2026-02-23",
+          "text": "Plaintiffs move to stay the project or for a preliminary injunction (Dkt. 8).",
+          "src": "docket"
+        },
+        {
+          "date": "2026-03-11",
+          "text": "First hearing, a status conference open to the public by phone. Over the following months (hearings Apr. 9, May 4, July 2) the court declines about a dozen requests for relief while the government says no final plan exists.",
+          "src": "op103"
+        },
+        {
+          "date": "2026-07-02",
+          "text": "Judge Reyes again declines to block the work but asks for advance notice before major work, wanting comfort that \"we're not sending in bulldozers in the dark of night.\"",
+          "src": "wtop-jul"
+        },
+        {
+          "date": "2026-09-03",
+          "text": "After plaintiffs report accelerated construction, another hearing; the court again declines to intervene.",
+          "src": "op103"
+        },
+        {
+          "date": "2026-10-09",
+          "text": "The government notifies the court of a Tree Management Plan and moves for summary judgment (Dkt. 74, 75). The next day roughly 430 trees are removed.",
+          "src": "op103"
+        },
+        {
+          "date": "2026-10-12",
+          "text": "On plaintiffs' emergency motion (Dkt. 76), the court issues a temporary restraining order halting work (Dkt. 79).",
+          "src": "op103"
+        },
+        {
+          "date": "2026-10-16",
+          "text": "The government moves to disqualify Judge Reyes for bias (Dkt. 86); she denies the motion (Dkt. 95).",
+          "src": "npr-oct18"
+        },
+        {
+          "date": "2026-10-18",
+          "text": "The President announces the course will close Nov. 15 for a 15-month rebuild to a Fazio design.",
+          "src": "npr-oct18"
+        },
+        {
+          "date": "2026-10-19",
+          "text": "Evidentiary hearing on the preliminary injunction, with sworn testimony from four witnesses including the acting NPS director.",
+          "src": "op103"
+        },
+        {
+          "date": "2026-10-26",
+          "text": "Preliminary injunction granted (Dkt. 101, 103): no further tree removal, and 10 business days' written notice before any irreversible change to the park. The court finds the plan likely exists and is final, and calls the stated reason for the tree removal pretextual.",
+          "src": "op103"
+        },
+        {
+          "date": "2026-10-27",
+          "text": "The government appeals to the D.C. Circuit (No. 26-5374). The court orders it to explain how the President's post about closing the course Nov. 15 squares with counsel's statement that there was no plan to close it.",
+          "src": "docket"
+        },
+        {
+          "date": "2026-10-29",
+          "text": "The government asks Judge Reyes to stay her injunction pending appeal (Dkt. 112).",
+          "src": "docket"
+        },
+        {
+          "date": "2026-10-30",
+          "text": "In-person hearing on the government's show-cause response, open to the public by phone. The court orders disclosures and filings due Nov. 2–6, including whether a Fazio design contract exists, and a proposed evidence-preservation order.",
+          "src": "docket"
+        }
+      ]
+    },
+    "ilnd-25-cr-693": {
+      "through": "2026-11-09",
+      "question_plain": "Did federal prosecutors in Chicago make false statements to the court about how they obtained and handled the indictment of six Broadview protesters, and should anyone be sanctioned or referred for contempt?",
+      "overview": "Six people, including then-congressional candidate Kat Abughazaleh and Oak Park trustee Brian Straw, were charged with conspiring to impede a federal officer after a September 2025 protest outside the immigration processing center in Broadview, Illinois, where prosecutors said a crowd surrounded and damaged an agent's vehicle. A grand jury at first declined to indict; prosecutors went back and got an indictment on Oct. 23, 2025. The case fell apart in 2026: prosecutors dropped the conspiracy charge in April, and in May, after Judge April Perry read the unredacted grand jury transcripts and described apparent misconduct by the lead prosecutor, U.S. Attorney Andrew Boutros dropped what was left. The criminal case is over, but Judge Perry is now examining whether prosecutors willfully misled her, including about the transcript redactions and about whether anyone outside the U.S. Attorney's Office was involved in the case. She has ordered Boutros and three assistant U.S. attorneys to testify under oath. The defendants have asked her to appoint a special prosecutor; she has not ruled.",
+      "why_it_matters": [
+        {
+          "text": "A federal judge ordering a sitting U.S. attorney to testify about his own statements in court is rare. Possible outcomes range from findings of fact to sanctions or a referral for contempt.",
+          "src": "bv-op"
+        },
+        {
+          "text": "The Justice Department has pushed back: an associate attorney general told the court the government “has not agreed to provide any information” she asked for and questioned her authority to demand it.",
+          "src": "bv-wbez"
+        },
+        {
+          "text": "A lawsuit by the former head of the FBI's Chicago office alleges Boutros met with FBI Director Kash Patel and Todd Blanche about the investigation before the indictment, which would conflict with a prosecution filing saying no one outside the office was involved.",
+          "src": "bv-wbez"
+        },
+        {
+          "text": "The case is one of many from the “Operation Midway Blitz” immigration enforcement surge in Chicago; WBEZ counts two convictions among 33 people charged.",
+          "src": "bv-wbez"
+        }
+      ],
+      "history": [
+        {
+          "date": "2025-09",
+          "text": "Protest outside the Broadview immigration facility; prosecutors later allege a crowd pushed and damaged a federal agent's SUV.",
+          "src": "bv-wbez"
+        },
+        {
+          "date": "2025-10-23",
+          "text": "After a grand jury first declined to indict, prosecutors return to it and obtain a conspiracy indictment against six protesters.",
+          "src": "bv-wbez"
+        },
+        {
+          "date": "2026-03-30",
+          "text": "A prosecution filing tells the court there were no communications about the case with anyone outside the U.S. Attorney's Office, including the White House.",
+          "src": "bv-wbez"
+        },
+        {
+          "date": "2026-04-29",
+          "text": "Prosecutors drop the conspiracy indictment and pursue misdemeanor charges against four of the remaining defendants.",
+          "src": "bv-st-nov5"
+        },
+        {
+          "date": "2026-05-21",
+          "text": "After reviewing the unredacted grand jury transcripts, Judge Perry describes apparent misconduct by the lead prosecutor; Boutros dismisses the remaining charges, telling the court no prosecutor intentionally misled it.",
+          "src": "bv-st-nov5"
+        },
+        {
+          "date": "2026-10-01",
+          "text": "At a hearing, Judge Perry says more fact-finding under oath is needed.",
+          "src": "bv-st-nov5"
+        },
+        {
+          "date": "2026-10-30",
+          "text": "Associate Attorney General Stanley Woodward enters the case and responds that the government has not agreed to provide the records the judge requested.",
+          "src": "bv-op"
+        },
+        {
+          "date": "2026-11-02",
+          "text": "Judge Perry finds Boutros' account “hard to credit” and orders him and AUSAs William Hogan, Matthew Skiba and Andres Almendarez to testify at an evidentiary hearing on Nov. 16. The same day, former Chicago FBI chief Douglas DePodesta sues Boutros, Patel and Blanche.",
+          "src": "bv-wbez"
+        },
+        {
+          "date": "2026-11-06",
+          "text": "The judge lets Hogan and Skiba take part through their own lawyers, rules out cross-examination, and keeps Nov. 16 unless everyone agrees on another date by Nov. 24. The government's deadline to produce documents is extended to Nov. 9.",
+          "src": "bv-docket"
+        },
+        {
+          "date": "2026-11-09",
+          "text": "The government files its submission in response to the judge's request for evidence (Dkt. 302).",
+          "src": "bv-docket"
+        }
+      ]
+    },
+    "dcd-26-cv-544": {
+      "through": "2026-11-09",
+      "question_plain": "Can the administration build a 250-foot triumphal arch at Memorial Circle without approval from Congress and the reviews federal law requires for new monuments in the capital?",
+      "overview": "The administration plans a 250-foot arch, a 166-foot arch topped by gilded figures, with an observation deck, in the middle of Memorial Circle, between the Lincoln Memorial and Arlington National Cemetery. Three Vietnam veterans and an architectural historian sued in February 2026, arguing the project skips the Commemorative Works Act, which requires Congress to authorize new memorials on federal land in the capital area, along with historic-preservation and environmental reviews. In October, the District of Columbia and Virginia filed their own suit, which Judge Tanya Chutkan combined with the first. On Nov. 5, hours after the National Capital Planning Commission approved the final plans 8–4, she issued a temporary restraining order barring construction and site work. She found D.C. and Virginia likely to win their claim that the arch is a commemorative work Congress never authorized, and likely to have standing because of traffic and other costs. Briefing on a longer-lasting preliminary injunction ends Nov. 18.",
+      "why_it_matters": [
+        {
+          "text": "The court's reasoning rests on the Commemorative Works Act: it found the arch is likely a “commemorative work” that needs Congress's approval and the law's review steps, none of which happened.",
+          "src": "arch-ruling"
+        },
+        {
+          "text": "Standing is the government's main defense. The Justice Department points to the Supreme Court's White House ballroom decision, which found challengers there likely lacked standing; the court found D.C. and Virginia's traffic and economic harms enough.",
+          "src": "arch-cbs"
+        },
+        {
+          "text": "It is one of several court fights over the administration's changes to Washington's landmarks, along with the White House ballroom and plans for the Kennedy Center and the Eisenhower Executive Office Building.",
+          "src": "arch-bl-apr"
+        },
+        {
+          "text": "The arch is meant to mark the nation's 250th anniversary, and the President has also described possible military uses for it; its cost and who will pay for it remain unclear.",
+          "src": "arch-cbs"
+        }
+      ],
+      "history": [
+        {
+          "date": "2025-10",
+          "text": "President Trump announces plans for an arch at Memorial Circle.",
+          "src": "arch-ruling"
+        },
+        {
+          "date": "2026-02-19",
+          "text": "Three Vietnam veterans and an architectural historian sue, represented by Public Citizen.",
+          "src": "arch-ruling"
+        },
+        {
+          "date": "2026-04-02",
+          "text": "Preliminary injunction hearing. Judge Chutkan says she doesn't want ground broken while the case is pending; the government says the project is only conceptual.",
+          "src": "arch-bl-apr"
+        },
+        {
+          "date": "2026-04-08",
+          "text": "Consent order: the Park Service must give at least 14 days' public notice before construction or demolition.",
+          "src": "arch-ruling"
+        },
+        {
+          "date": "2026-05-27",
+          "text": "The veterans move for summary judgment; the government cross-moves.",
+          "src": "arch-ruling"
+        },
+        {
+          "date": "2026-07",
+          "text": "The National Capital Planning Commission gives preliminary approval.",
+          "src": "arch-ruling"
+        },
+        {
+          "date": "2026-09-04",
+          "text": "After a dispute over excavation at the site, the court requires 48 hours' notice of any work beyond surveying.",
+          "src": "arch-ruling"
+        },
+        {
+          "date": "2026-10-22",
+          "text": "The government says construction could begin as soon as Nov. 5; the veterans file a second motion for a preliminary injunction.",
+          "src": "arch-ruling"
+        },
+        {
+          "date": "2026-10-30",
+          "text": "Hearing. Judge Chutkan asks how the government would be harmed by waiting, “apart from the executive's desire to bedazzle the city.”",
+          "src": "arch-ap-nov2"
+        },
+        {
+          "date": "2026-10-31",
+          "text": "The District of Columbia and Virginia sue the National Park Service and Interior Department and ask for a restraining order; the cases are consolidated.",
+          "src": "arch-dcva-docket"
+        },
+        {
+          "date": "2026-11-02",
+          "text": "The court requires notice within one hour of any Planning Commission vote and within 30 minutes of any construction activity.",
+          "src": "arch-ap-nov2"
+        },
+        {
+          "date": "2026-11-05",
+          "text": "The Planning Commission approves the final plans 8–4 and Interior issues its decision; hours later the court grants D.C. and Virginia a temporary restraining order barring construction and site work.",
+          "src": "arch-cbs"
+        },
+        {
+          "date": "2026-11-09",
+          "text": "Schedule set for preliminary injunction briefing: motions Nov. 10, the government's response Nov. 16, replies by 2 p.m. Nov. 18.",
+          "src": "arch-docket"
+        }
+      ]
+    },
+    "dcd-25-cv-766": {
+      "through": "2026-11-09",
+      "question_plain": "Can Chief Judge Boasberg keep investigating whether officials deliberately defied his March 2025 order to turn around deportation flights to El Salvador, and refer anyone for criminal contempt?",
+      "overview": "On March 15, 2025, the President invoked the Alien Enemies Act against alleged members of the Tren de Aragua gang. That day Chief Judge James Boasberg temporarily barred removals under the proclamation and told the government to return planes already in the air; two flights left during a break in the hearing and landed in El Salvador, where the men were held in the CECOT prison. In April 2025 he found probable cause that officials had committed criminal contempt. A divided D.C. Circuit panel set that aside in August 2025, but the inquiry resumed later that year. The government then named then–Homeland Security Secretary Kristi Noem as the official who decided not to turn the planes around, on legal advice from Justice Department leadership. In December 2025 Boasberg called her statement too thin and scheduled testimony from two Justice Department lawyers, and the government asked the D.C. Circuit to stop him. A panel ordered the inquiry ended in April 2026; the full court vacated that ruling, reheard the case on Sept. 29, 2026, and has not yet decided.",
+      "why_it_matters": [
+        {
+          "text": "It tests whether a federal court can use criminal contempt to find out who, inside the executive branch, decided to disregard its order, and to hold that person accountable.",
+          "src": "jgg-nw"
+        },
+        {
+          "text": "The April 2026 panel majority called the inquiry an intrusion into executive deliberations on national security and foreign policy; the dissent said the contempt power exists to enforce the law, not the court's pride.",
+          "src": "jgg-cbs-apr"
+        },
+        {
+          "text": "At the September argument, several judges asked whether stopping now would leave no one responsible, and whether lawyers who advised Noem could themselves be in contempt.",
+          "src": "jgg-nw"
+        },
+        {
+          "text": "Reporting and commentary have focused on the roles of Todd Blanche and Emil Bove, then senior Justice Department officials; Bove is now a Third Circuit judge.",
+          "src": "jgg-js"
+        }
+      ],
+      "history": [
+        {
+          "date": "2025-03-15",
+          "text": "The President's Alien Enemies Act proclamation is announced. Boasberg blocks removals under it and orally orders planes in the air returned; two flights leave during a recess and land in El Salvador.",
+          "src": "jgg-js"
+        },
+        {
+          "date": "2025-04",
+          "text": "Boasberg finds probable cause that officials committed criminal contempt, offering the government a chance to cure it.",
+          "src": "jgg-js"
+        },
+        {
+          "date": "2025-08",
+          "text": "A divided D.C. Circuit panel vacates the probable cause order; the full court later declines to rehear it.",
+          "src": "jgg-js"
+        },
+        {
+          "date": "2025-11",
+          "text": "Boasberg resumes the inquiry to decide whether Noem or others should be referred for prosecution.",
+          "src": "jgg-js"
+        },
+        {
+          "date": "2025-12-05",
+          "text": "Noem files a declaration saying she decided not to return the planes after legal advice from DHS's acting general counsel and Justice Department leadership.",
+          "src": "jgg-ap-dec"
+        },
+        {
+          "date": "2025-12-08",
+          "text": "Boasberg calls the declaration “cursory” and orders testimony from whistleblower Erez Reuveni and DOJ lawyer Drew Ensign the following week.",
+          "src": "jgg-ap-dec"
+        },
+        {
+          "date": "2025-12-12",
+          "text": "On the government's petition for mandamus (No. 25-5452), the D.C. Circuit temporarily halts the inquiry.",
+          "src": "jgg-cadc"
+        },
+        {
+          "date": "2026-04-14",
+          "text": "A 2–1 panel (Judges Rao and Walker; Judge Childs dissenting) orders the contempt proceedings ended.",
+          "src": "jgg-cbs-apr"
+        },
+        {
+          "date": "2026-06-22",
+          "text": "The full D.C. Circuit vacates the panel ruling and agrees to rehear the case; the temporary halt stays in place.",
+          "src": "jgg-cadc"
+        },
+        {
+          "date": "2026-09-29",
+          "text": "The full court hears argument (Brett Shumate for the government, Lee Gelernt of the ACLU for the plaintiffs). The decision is pending.",
+          "src": "jgg-cadc"
+        }
       ]
     }
   }

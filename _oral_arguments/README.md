@@ -73,6 +73,13 @@ The case brief (overview, plain question, why it matters, case history) starts f
 
 **Adding a case:** add an entry to `district_cases.json` and ask Claude to write the starting brief into `editorial/district.json` (or leave it out; the first major docket event will start one).
 
+Optional fields per case:
+- `listen`: how to follow hearings. For D.D.C. the judge's public phone line is looked up automatically. For other courts give `{"how": "In person only", "note": "...", "source": "<url>"}` (no phone line), or `{"phone": ..., "code": ..., "note": ...}`.
+- `status_note`: shown when no hearing is scheduled, e.g. "The district case is on hold; the D.C. Circuit's decision is pending." It's hand-written, so update or remove it when things change.
+- `related`: `[{"label", "court", "docket", "url"}]` for appeals or consolidated cases; `url` makes it a link.
+
+Cases currently tracked: D.C. Preservation League (East Potomac golf course), the "Broadview Six" inquiry (N.D. Ill.), the Memorial Circle arch (Lemmon v. Trump, consolidated with D.C. and Virginia's suit), and the J.G.G. contempt inquiry (with D.C. Cir. No. 25-5452).
+
 ## D.C. and 2nd Circuits: refresh on request
 
 Both courts' calendar pages are closed to automated readers by robots.txt (`media.cadc.uscourts.gov` disallows `/calendar/`; HuntCal disallows `/cal/`). So the daily job never reads them. Instead:

@@ -13,6 +13,6 @@ Curriculum Vitae
 ======
 CV can be downloaded [here](https://traben.github.io/files/no-personal-CV.pdf)
 
-<embed  data="https://traben.github.io/files/no-personal-CV.pdf" width="1000" height="1000" type="application/pdf">
-
-<object  data="https://traben.github.io/files/no-personal-CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="/files/no-personal-CV.pdf" type="application/pdf" style="width:100%;height:85vh;max-height:1100px">
+  <p>Your browser can't show the PDF here. <a href="/files/no-personal-CV.pdf">Download the CV</a>.</p>
+</object>

@@ -1,0 +1,202 @@
+# Publication list for /publications/ (rendered by _pages/publications.html).
+# Add new papers at the top of their section. Fields: authors, title, venue, year,
+# doi (optional), arxiv (optional), preprint (optional URL), note (optional).
+# "T. G. Raben" is shown in bold automatically.
+
+- section: Genetics
+  items:
+    - authors: H.-H. Chen, C.-H. Chen, M.-C. Hou, … T. G. Raben, … C. S. J. Fann (129 authors)
+      title: Population-specific polygenic risk scores for people of Han Chinese ancestry
+      venue: Nature 648, 128–137
+      year: 2025
+      doi: 10.1038/s41586-025-09350-y
+    - authors: T. G. Raben, L. Lello, E. Widen, S. D. H. Hsu
+      title: Efficient blockLASSO for polygenic scores with applications to All of Us and UK Biobank
+      venue: BMC Genomics 26, 302
+      year: 2025
+      doi: 10.1186/s12864-025-11505-0
+      preprint: https://doi.org/10.1101/2024.06.25.24309482
+    - authors: C.-H. Chang, C.-Y. Chou, T. G. Raben, … E. Widen, … S. D. H. Hsu, P.-Y. Kwok (23 authors)
+      title: Polygenic height prediction for the Han Chinese in Taiwan
+      venue: npj Genomic Medicine 10, 7
+      year: 2025
+      doi: 10.1038/s41525-025-00468-6
+    - authors: T. G. Raben, L. Lello, E. Widen, S. D. H. Hsu
+      title: Biobank-scale methods and projections for sparse polygenic prediction from machine learning
+      venue: Scientific Reports 13, 11662
+      year: 2023
+      doi: 10.1038/s41598-023-37580-5
+    - authors: L. Lello, M. Hsu, E. Widen, T. G. Raben
+      title: Sibling variation in polygenic traits and DNA recombination mapping with UK Biobank and IVF family data
+      venue: Scientific Reports 13, 376
+      year: 2023
+      doi: 10.1038/s41598-023-27561-z
+    - authors: E. Widen, L. Lello, T. G. Raben, L. C. A. M. Tellier, S. D. H. Hsu
+      title: "Polygenic health index, general health, and pleiotropy: sibling analysis and disease risk reduction"
+      venue: Scientific Reports 12, 18173
+      year: 2022
+      doi: 10.1038/s41598-022-22637-8
+    - authors: T. G. Raben, L. Lello, E. Widen, S. D. H. Hsu
+      title: "From genotype to phenotype: polygenic prediction of complex human traits"
+      venue: "In: Genomic Prediction of Complex Traits, Methods in Molecular Biology 2467, pp. 421–446 (Humana)"
+      year: 2022
+      doi: 10.1007/978-1-0716-2205-6_15
+    - authors: E. Widen, T. G. Raben, L. Lello, S. D. H. Hsu
+      title: Machine learning prediction of biomarkers from SNPs and of disease risk from biomarkers in the UK Biobank
+      venue: Genes 12, 991
+      year: 2021
+      doi: 10.3390/genes12070991
+    - authors: L. Lello, T. G. Raben, S. D. H. Hsu
+      title: Sibling validation of polygenic risk scores and complex trait prediction
+      venue: Scientific Reports 10, 13190
+      year: 2020
+      doi: 10.1038/s41598-020-69927-7
+    - authors: S. Y. Yong, T. G. Raben, L. Lello, S. D. H. Hsu
+      title: Genetic architecture of complex traits and disease risk predictors
+      venue: Scientific Reports 10, 12055
+      year: 2020
+      doi: 10.1038/s41598-020-68881-8
+    - authors: L. Lello, T. G. Raben, S. Y. Yong, L. C. A. M. Tellier, S. D. H. Hsu
+      title: Genomic prediction of 16 complex disease risks including heart attack, diabetes, breast and prostate cancer
+      venue: Scientific Reports 9, 15286
+      year: 2019
+      doi: 10.1038/s41598-019-51258-x
+
+- section: Physics
+  note: Author lists in physics are mostly alphabetical.
+  items:
+    - authors: P. Agarwal, R. C. Brower, T. G. Raben, C.-I Tan
+      title: "Lorentzian OPE inversion formula: a geometric perspective"
+      venue: Physical Review D 111, 106012
+      year: 2025
+      doi: 10.1103/PhysRevD.111.106012
+      arxiv: "2501.04621"
+    - authors: P. Agarwal, R. C. Brower, T. G. Raben, C.-I Tan
+      title: Embedding space approach to Lorentzian CFT amplitudes and causal spherical functions
+      venue: Physical Review D 110, 086019
+      year: 2024
+      doi: 10.1103/PhysRevD.110.086019
+      arxiv: "2302.06469"
+    - authors: V. Ayyar, R. C. Brower, G. T. Fleming, A.-M. E. Glück, E. K. Owen, T. G. Raben, C.-I Tan
+      title: Operator product expansion for radial lattice quantization of 3D φ⁴ theory
+      venue: Physical Review D 109, 114518
+      year: 2024
+      doi: 10.1103/PhysRevD.109.114518
+      arxiv: "2311.01100"
+    - authors: D. Colferai, F. Deganutti, T. G. Raben, C. Royon
+      title: First computation of Mueller Tang processes using a full NLL BFKL approach
+      venue: Journal of High Energy Physics 06 (2023) 091
+      year: 2023
+      doi: 10.1007/JHEP06(2023)091
+      arxiv: "2304.09073"
+    - authors: D0 and TOTEM Collaborations (V. M. Abazov et al.)
+      title: Odderon exchange from elastic scattering differences between pp and pp̄ data at 1.96 TeV and from pp forward scattering measurements
+      venue: Physical Review Letters 127, 062003
+      year: 2021
+      doi: 10.1103/PhysRevLett.127.062003
+      arxiv: "2012.03981"
+    - authors: R. C. Brower, G. T. Fleming, A. D. Gasbarro, D. Howarth, T. G. Raben, C.-I Tan, E. S. Weinberg
+      title: Radial lattice quantization of 3D φ⁴ field theory
+      venue: Physical Review D 104, 094502
+      year: 2021
+      doi: 10.1103/PhysRevD.104.094502
+      arxiv: "2006.15636"
+    - authors: T. G. Raben, C.-I Tan
+      title: Minkowski conformal blocks and the Regge limit for Sachdev-Ye-Kitaev-like models
+      venue: Physical Review D 98, 086009
+      year: 2018
+      doi: 10.1103/PhysRevD.98.086009
+      arxiv: "1801.04208"
+    - authors: R. C. Brower, M. Cheng, G. T. Fleming, A. D. Gasbarro, T. G. Raben, C.-I Tan, E. S. Weinberg
+      title: "Lattice φ⁴ field theory on Riemann manifolds: numerical tests for the 2-d Ising CFT on S²"
+      venue: Physical Review D 98, 014502
+      year: 2018
+      doi: 10.1103/PhysRevD.98.014502
+      arxiv: "1803.08512"
+    - authors: R. Nally, T. G. Raben, C.-I Tan
+      title: Inclusive production through AdS/CFT
+      venue: Journal of High Energy Physics 11 (2017) 075
+      year: 2017
+      doi: 10.1007/JHEP11(2017)075
+      arxiv: "1702.05502"
+    - authors: R. C. Brower, E. S. Weinberg, G. T. Fleming, A. D. Gasbarro, T. G. Raben, C.-I Tan
+      title: Lattice Dirac fermions on a simplicial Riemannian manifold
+      venue: Physical Review D 95, 114510
+      year: 2017
+      doi: 10.1103/PhysRevD.95.114510
+      arxiv: "1610.08587"
+    - authors: R. C. Brower, M. S. Costa, M. Djurić, T. G. Raben, C.-I Tan
+      title: Strong coupling expansion for the conformal Pomeron/Odderon trajectories
+      venue: Journal of High Energy Physics 02 (2015) 104
+      year: 2015
+      doi: 10.1007/JHEP02(2015)104
+      arxiv: "1409.2730"
+
+- section: Conference proceedings
+  items:
+    - authors: A.-M. E. Glück, G. T. Fleming, R. C. Brower, V. Ayyar, E. K. Owen, T. G. Raben, C.-I Tan
+      title: Computing the central charge of the 3D Ising CFT using quantum finite elements
+      venue: PoS LATTICE2022, 370
+      year: 2023
+      doi: 10.22323/1.430.0370
+    - authors: P. Agarwal, R. C. Brower, T. G. Raben, C.-I Tan
+      title: Application of Lorentzian CFT principal series representation to near forward scattering
+      venue: SciPost Physics Proceedings 10, 026
+      year: 2022
+      doi: 10.21468/SciPostPhysProc.10.026
+      arxiv: "2110.15256"
+    - authors: R. C. Brower, C. E. Berger, G. T. Fleming, A. D. Gasbarro, E. K. Owen, T. G. Raben, C.-I Tan, E. S. Weinberg
+      title: Prospects for lattice QFTs on curved Riemann manifolds
+      venue: PoS LATTICE2021, 486
+      year: 2022
+      doi: 10.22323/1.396.0486
+    - authors: E. K. Owen, C. E. Berger, R. C. Brower, G. T. Fleming, A. D. Gasbarro, T. G. Raben
+      title: Quantum counter-terms for lattice field theory on curved manifolds
+      venue: PoS LATTICE2021, 215
+      year: 2022
+      doi: 10.22323/1.396.0215
+    - authors: F. Deganutti, D. Gordo Gomez, T. G. Raben, C. Royon
+      title: Pomeron physics at the LHC
+      venue: EPJ Web of Conferences 172, 06006
+      year: 2018
+      doi: 10.1051/epjconf/201817206006
+      arxiv: "1711.07514"
+    - authors: R. Nally, T. G. Raben, C.-I Tan
+      title: Holographic inclusive central particle production at the LHC
+      venue: 17th Conference on Elastic and Diffractive Scattering (EDS Blois 2017)
+      year: 2017
+      arxiv: "1711.02727"
+    - authors: R. C. Brower, G. T. Fleming, A. D. Gasbarro, T. G. Raben, C.-I Tan, E. S. Weinberg
+      title: Quantum finite elements for lattice field theory
+      venue: PoS LATTICE2015, 296
+      year: 2016
+      doi: 10.22323/1.251.0296
+      arxiv: "1601.01367"
+    - authors: R. C. Brower, M. Djurić, T. G. Raben, C.-I Tan
+      title: Holographic approach to deep inelastic scattering at small-x at high energy
+      venue: PoS DIS2015, 089
+      year: 2015
+      doi: 10.22323/1.247.0089
+      arxiv: "1508.05063"
+    - authors: R. C. Brower, M. Djurić, T. G. Raben, C.-I Tan
+      title: "Towards holographic QCD: AdS/CFT, confinement deformation, and DIS at small-x"
+      venue: 49th Rencontres de Moriond on QCD and High Energy Interactions
+      year: 2014
+      arxiv: "1412.3443"
+    - authors: M. Djurić, R. C. Brower, M. S. Costa, T. G. Raben, C.-I Tan
+      title: "Gauge/string duality, etc.: Pomeron and Odderon at strong coupling"
+      venue: 49th Rencontres de Moriond on QCD and High Energy Interactions, pp. 205–210
+      year: 2014
+    - authors: R. C. Brower, M. S. Costa, M. Djurić, T. G. Raben, C.-I Tan
+      title: Conformal Pomeron and Odderon in strong coupling
+      venue: International Workshop on Low X Physics (Israel 2013)
+      year: 2013
+      arxiv: "1312.1419"
+
+- section: Thesis
+  items:
+    - authors: T. G. Raben
+      title: Holographic techniques for strongly coupled scattering
+      venue: PhD thesis, Brown University
+      year: 2016
+      doi: 10.7301/Z0ZP44HJ

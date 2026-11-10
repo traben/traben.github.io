@@ -386,10 +386,13 @@
     const upcoming = (c.hearings || []).filter((h) => h.date >= today && h.status === "scheduled");
     const past = (c.hearings || []).filter((h) => !(h.date >= today && h.status === "scheduled")).reverse();
     const L = c.listen;
-    const listenHTML = L ? `<div class="listen">
+    const hasLine = !!(L && L.phone);
+    const listenHTML = !L ? "" : hasLine ? `<div class="listen">
         <div><span class="lbl">Public listen line</span> <a href="tel:+1${esc(L.phone.replace(/\D/g, ""))}">${esc(L.phone)}</a>, access code <code class="sel">${esc(L.code)}</code>
           <button class="oac-btn quiet copy" data-copy="${esc(L.phone)}, ${esc(L.code)}">Copy</button></div>
-        <div class="d">${esc(L.note || "")} <a href="${esc(L.source)}" target="_blank" rel="noopener">Court's page</a></div></div>` : "";
+        <div class="d">${esc(L.note || "")}${L.source ? ` <a href="${esc(L.source)}" target="_blank" rel="noopener">Court's page</a>` : ""}</div></div>`
+      : `<div class="listen"><div><span class="lbl">How to follow</span> ${esc(L.how || "In person only")}</div>
+        <div class="d">${esc(L.note || "")}${L.source ? ` <a href="${esc(L.source)}" target="_blank" rel="noopener">${esc(L.source_label || "Court's page")}</a>` : ""}</div></div>`;
     const next = upcoming[0];
     let nextHTML;
     if (next) {
@@ -399,11 +402,11 @@
         <div class="when"><span class="lbl">Next hearing · ${esc(rel)}</span>
           <strong>${fmtDay(next.date)}, ${next.time ? fmtTime(inst, c.tz) + " " + tzAbbr(inst, c.tz) : "time TBA"}</strong>
           <span class="d">${esc(next.type)}${next.room ? " · " + esc(next.room) : ""}${next.time && tzAbbr(inst, c.tz) !== tzAbbr(inst, localTZ) ? " · " + fmtTime(inst, localTZ) + " " + tzAbbr(inst, localTZ) + " your time" : ""}</span></div>
-        <div class="pl ${next.public_line ? "yes" : ""}">${next.public_line ? "✓ Public phone line announced for this hearing" : "Public line not announced yet; the judge usually says so on the docket the day before"}</div>
+        ${hasLine ? `<div class="pl ${next.public_line ? "yes" : ""}">${next.public_line ? "✓ Public phone line announced for this hearing" : "Public line not announced yet; the judge usually says so on the docket the day before"}</div>` : ""}
         ${listenHTML}</div>`;
     } else {
       nextHTML = `<div class="next"><div class="when"><span class="lbl">Next hearing</span><strong>None scheduled yet</strong>
-        <span class="d">Hearings are usually set a few days ahead. Upcoming court deadlines are listed below.</span></div>${listenHTML}</div>`;
+        <span class="d">${c.status_note ? esc(c.status_note) : "Hearings are usually set a few days ahead. Upcoming court deadlines are listed below."}</span></div>${listenHTML}</div>`;
     }
     const b = c.brief || {};
     const why = (b.why_it_matters || []).map((w) =>
@@ -414,7 +417,7 @@
       `<li><span class="hd">${fmtDate(d.date)}</span><span>${esc(d.what)}</span></li>`).join("");
     const rec = (c.recent || []).map((r) => `<li><span class="hd">${fmtDate(r.date)}</span><span>${r.entry ? `<b>Dkt. ${esc(r.entry)}</b> ` : ""}${esc(r.text)}${r.doc ? ` <a href="${esc(r.doc)}" target="_blank" rel="noopener">PDF</a>` : ""}</span></li>`).join("");
     const pastH = past.map((h) => `<li><span class="hd">${fmtDate(h.date)}</span><span>${esc(h.type)} · ${esc(h.status)}${h.public_line ? " · public line" : ""}</span></li>`).join("");
-    const rel = (c.related || []).map((r) => `${esc(r.label)}: ${esc(r.court)} No. ${esc(r.docket)}`).join(" · ");
+    const rel = (c.related || []).map((r) => `${esc(r.label)}: ${r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.court)} No. ${esc(r.docket)}</a>` : `${esc(r.court)} No. ${esc(r.docket)}`}`).join(" · ");
 
     el.innerHTML = `
       <h3 class="title">${esc(c.title)}</h3>
@@ -424,7 +427,7 @@
       ${b.question_plain ? `<p class="ask">${esc(b.question_plain)}</p>` : ""}
       ${b.overview ? `<p class="summary">${esc(b.overview)}<span class="tag">· Summary written by Claude (AI)${b.through ? ", reflects the docket through " + fmtDate(b.through) : ""}</span></p>` : ""}
       ${why ? `<div class="why"><h4>Why it matters</h4><ul>${why}</ul></div>` : ""}
-      ${hist ? `<details class="block" open><summary>Case history <span class="d">(written by Claude, AI; newest first)</span></summary><ul class="tl">${hist}</ul></details>` : ""}
+      ${hist ? `<details class="block"><summary>Case history <span class="d">(written by Claude, AI; newest first)</span></summary><ul class="tl">${hist}</ul></details>` : ""}
       ${dl ? `<details class="block" open><summary>Upcoming deadlines <span class="d">(from the docket)</span></summary><ul class="tl">${dl}</ul></details>` : ""}
       ${rec ? `<details class="block"><summary>Recent docket activity <span class="d">(court's text)</span></summary><ul class="tl small">${rec}</ul></details>` : ""}
       ${pastH ? `<details class="block"><summary>Past hearings</summary><ul class="tl">${pastH}</ul></details>` : ""}
@@ -436,7 +439,10 @@
     const today = todayET();
     const box = $("#district-list");
     box.innerHTML = district.cases.length ? "" : '<p class="empty">No district cases are being tracked right now.</p>';
-    for (const c of district.cases) box.appendChild(districtCard(c, today));
+    // soonest scheduled hearing first; cases with none keep their listed order after those
+    const nextOf = (c) => ((c.hearings || []).filter((h) => h.date >= today && h.status === "scheduled")[0] || {}).date || "9999";
+    const order = district.cases.map((c, i) => [nextOf(c), i, c]).sort((a, b) => a[0].localeCompare(b[0]) || a[1] - b[1]);
+    for (const [, , c] of order) box.appendChild(districtCard(c, today));
   }
   document.addEventListener("click", (e) => {
     const b = e.target.closest(".copy"); if (!b) return;

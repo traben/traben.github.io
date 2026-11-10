@@ -11,7 +11,64 @@
       "judge": "Ana C. Reyes",
       "tz": "America/New_York",
       "related": [
-        {"label": "Government's appeal of the preliminary injunction", "court": "D.C. Circuit", "docket": "26-5374"}
+        {
+          "label": "Government's appeal of the preliminary injunction",
+          "court": "D.C. Circuit",
+          "docket": "26-5374"
+        }
+      ]
+    },
+    {
+      "id": "ilnd-25-cr-693",
+      "court": "ilnd",
+      "court_name": "U.S. District Court for the Northern District of Illinois",
+      "courtlistener_docket": 71795256,
+      "docket_number": "1:25-cr-00693",
+      "title": "United States v. Abughazaleh et al. (the “Broadview Six”)",
+      "judge": "April M. Perry",
+      "tz": "America/Chicago",
+      "listen": {
+        "how": "In person only",
+        "note": "Federal rules don't allow broadcasting criminal proceedings, so there is no public phone or video line. Hearings are open to the public at the Dirksen U.S. Courthouse, 219 S. Dearborn St., Chicago.",
+        "source": "https://www.ilnd.uscourts.gov/",
+        "source_label": "Court's site"
+      }
+    },
+    {
+      "id": "dcd-26-cv-544",
+      "court": "dcd",
+      "court_name": "U.S. District Court for the District of Columbia",
+      "courtlistener_docket": 72301112,
+      "docket_number": "1:26-cv-00544-TSC",
+      "title": "Lemmon v. Trump (the Memorial Circle arch)",
+      "judge": "Tanya S. Chutkan",
+      "tz": "America/New_York",
+      "related": [
+        {
+          "label": "Consolidated with",
+          "court": "D.D.C.",
+          "docket": "1:26-cv-03838 (District of Columbia and Virginia v. National Park Service)",
+          "url": "https://www.courtlistener.com/docket/75053865/"
+        }
+      ]
+    },
+    {
+      "id": "dcd-25-cv-766",
+      "court": "dcd",
+      "court_name": "U.S. District Court for the District of Columbia",
+      "courtlistener_docket": 69741724,
+      "docket_number": "1:25-cv-00766-JEB",
+      "title": "J.G.G. v. Trump (contempt inquiry over the El Salvador flights)",
+      "judge": "James E. Boasberg",
+      "tz": "America/New_York",
+      "status_note": "The district case is on hold. The full D.C. Circuit heard argument on Sept. 29, 2026, on whether the contempt inquiry may go on; its decision is pending.",
+      "related": [
+        {
+          "label": "Government's mandamus petition, reheard by the full court",
+          "court": "D.C. Circuit",
+          "docket": "25-5452 (In re Trump)",
+          "url": "https://www.courtlistener.com/docket/72029089/"
+        }
       ]
     }
   ]

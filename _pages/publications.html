@@ -5,32 +5,37 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
+<p>Full, always-current lists are on
+  {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}">Google Scholar</a>{% endif %}
+  {% if site.author.inspirehep %} and, for physics, <a href="{{ site.author.inspirehep }}">INSPIRE-HEP</a>{% endif %}.
+  My name is in bold.</p>
+
+<style>
+  .pubs { list-style: none; margin: 0 0 2em; padding: 0; }
+  .pubs li { margin: 0 0 1em; line-height: 1.45; }
+  .pubs .pub-title { font-weight: 600; }
+  .pubs .pub-meta { color: #7a8288; font-size: 0.9em; }
+  .pubs .pub-links a { font-size: 0.85em; margin-right: 0.6em; }
+  .pub-note { color: #7a8288; font-size: 0.9em; margin-top: -0.5em; }
+</style>
+
+{% for group in site.data.publications %}
+<h2>{{ group.section }}</h2>
+{% if group.note %}<p class="pub-note">{{ group.note }}</p>{% endif %}
+<ul class="pubs">
+  {% for p in group.items %}
+  <li>
+    <span class="pub-authors">{{ p.authors | replace: "T. G. Raben", "<b>T. G. Raben</b>" }}.</span>
+    <span class="pub-title">{% if p.doi %}<a href="https://doi.org/{{ p.doi }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}.</span>
+    <span class="pub-meta"><i>{{ p.venue }}</i> ({{ p.year }}).</span>
+    <span class="pub-links">
+      {% if p.arxiv %}<a href="https://arxiv.org/abs/{{ p.arxiv }}">arXiv:{{ p.arxiv }}</a>{% endif %}
+      {% if p.preprint %}<a href="{{ p.preprint }}">preprint</a>{% endif %}
+      {% if p.note %}<span class="pub-meta">{{ p.note }}</span>{% endif %}
+    </span>
+  </li>
   {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+</ul>
+{% endfor %}

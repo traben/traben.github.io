@@ -8,7 +8,18 @@ redirect_from:
 ---
 
 
-I dance tango! I also teach, DJ, and take photos at events. Since I've been in DC I have been occasionally teaching with [Fabrica Tango](https://www.fabricatango.com/our-team). 
-If you are in the DC area and are interested in tango I suggest you check out the [Capital Tangueros Calendar](https://sites.google.com/site/dctangocalendar/) which has most of the local regular activity.
+I dance tango! I also teach, DJ, and take photos at events.
+
+## DJing
+
+- [Monterey Tango Marathon](https://www.montereytangomarathon.com), 2026
+
+## Private lessons
+
+I'm available for private lessons in Monterey, California. Get in touch using the Email link in the sidebar.
+
+## Upcoming dates
+
+Nothing scheduled right now. Check back here for upcoming DJ sets and classes.
 
 ![dancing](../images/cinco-dancing-tim.jpg)
