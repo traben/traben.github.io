@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T01:20:09+00:00",
+ "generated_at": "2026-11-11T19:42:33+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -33,7 +33,7 @@
      "time": "10:00",
      "room": "Courtroom 12",
      "status": "scheduled",
-     "public_line": false,
+     "public_line": true,
      "noticed": "2026-11-04"
     }
    ],
@@ -44,6 +44,18 @@
     }
    ],
    "recent": [
+    {
+     "date": "2026-11-11",
+     "entry": null,
+     "text": "MINUTE ORDER. The hearing set for Friday, November 13, 2026, at 10:00 a.m., will be accessible to the public via the Court's public access dial-in line. The public access telephone number is 833-990-9400, and the access code is 787605272.It is ORDERED that the attendees using the public access telephone line shall adhere to the following: Persons remotely accessing court proceedings are reminded of the general prohibition against photographing, recording, and rebroadcasting any court proceedings (including those held by telephone or videoconference). Violation of these prohibitions may result …",
+     "doc": null
+    },
+    {
+     "date": "2026-11-10",
+     "entry": 149,
+     "text": "REPLY to opposition to motion re 139 Motion for TRO,,, Motion to Stay,, filed by DC PRESERVATION LEAGUE, ALEX DICKSON, DAVE ROBERTS. (Bardwell, Will) (Entered: 11/10/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.149.0.pdf"
+    },
     {
      "date": "2026-11-10",
      "entry": 148,
@@ -90,18 +102,6 @@
      "date": "2026-11-09",
      "entry": 142,
      "text": "SEALED DOCUMENT. \"Let this be filed under seal,\" signed by Judge Ana C. Reyes on 11/9/2026. (This document is SEALED and only available to authorized persons.)(znmw) (Entered: 11/09/2026)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-09",
-     "entry": null,
-     "text": "MINUTE ORDER granting 141 Motion for Leave to File Supplemental Amicus Brief. If a young lawyer argues, amici will be given 10 minutes of argument time at the TRO Hearing on Friday, November 13. Signed by Judge Ana C. Reyes on 11/9/2026. (lcacr3)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-07",
-     "entry": null,
-     "text": "MINUTE ORDER. For the reasons stated at the October 30, 2026, hearing, the Court intends to appoint a special master to investigate whether Department of Justice or Department of the Interior counsel have committed ethical violations in this matter through October 31, 2026. See Dkt. 123 at 70-74; see also Federal Rule of Civil Procedure 53. The Court gives Notice of its intent to appoint former United States Attorney Jessie K. Liu as the Special Master.Ms. Liu served as the United States Attorney for the District of Columbia from 2017 to 2020, the same office in which she previously served as …",
      "doc": null
     }
    ],
@@ -298,9 +298,27 @@
    "deadlines": [],
    "recent": [
     {
+     "date": "2026-11-11",
+     "entry": 311,
+     "text": "MINUTE entry before the Honorable April M. Perry: The Government's \"motion for clarification,\" 305 is denied. The Court explained the reasons for the upcoming hearing in open court on 5/21/2026 and 10/5/2026. Docs. 187, 271. Moreover, the Court laid out its reasoning in writing in its Order of 11/2/2026. See Doc. 287. Finally, the Government's attorney agreed on 10/5/2026 that \"[t]his Court certainly has the authority to ask witnesses to come testify about factual matters.\" Doc. 271 at 26. Ultimately, the Government's professed lack of clarity about the Court's inherent authority to ask lawyer…",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.311.0_1.pdf"
+    },
+    {
+     "date": "2026-11-10",
+     "entry": 310,
+     "text": "MINUTE entry before the Honorable April M. Perry: The Court grants AUSA Andres Almendarez's motion to intervene for the purposes of the evidentiary hearing currently scheduled for 11/16/2026 and related proceedings 308 . In response to the questions posed by counsel: witnesses will be provided the opportunity to make an uninterrupted oral statement before the Court asks any follow-up questions. To the extent a witness would prefer to submit a written statement in lieu of an oral statement, they may file one by 3:00 p.m. the day prior to the hearing. Any written statement must be signed under o…",
+     "doc": null
+    },
+    {
      "date": "2026-11-10",
      "entry": 309,
      "text": "NOTICE of Motion by Megan Cunniff Church for presentment of motion for leave to 308 before Honorable April M. Perry on 11/17/2026 at 10:30 AM. (Church, Megan) (Entered: 11/10/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.309.0.pdf"
+    },
+    {
+     "date": "2026-11-10",
+     "entry": 308,
+     "text": "MOTION by USA for leave as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh to Intervene by Non-Party Andres Almendarez Presented before District Judge (Church, Megan) (Entered: 11/10/2026)",
      "doc": null
     },
     {
@@ -329,12 +347,6 @@
     },
     {
      "date": "2026-11-10",
-     "entry": 308,
-     "text": "MOTION by USA for leave as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh to Intervene by Non-Party Andres Almendarez Presented before District Judge (Church, Megan) (Entered: 11/10/2026)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-10",
      "entry": 303,
      "text": "MINUTE entry before the Honorable Heather K. McShain: Telephonic status hearing held on 11/10/2026. In-person settlement conference set for 12/07/2026 at 12:30 p.m. in Courtroom 1025 on Hyde Amendment fees. Settlement position submissions as outlined during today's status hearing are due by 12/01/2026, and should be emailed to the Court at Settlement_Correspondence_McShain@ilnd.uscourts.gov. Please note that settlement submissions are not to be filed on the CM-ECF system. While not completely applicable to the settlement conference in this criminal matter, parties are directed to review Judge …",
      "doc": null
@@ -343,18 +355,6 @@
      "date": "2026-11-09",
      "entry": 302,
      "text": "NOTICE of Submission by USA as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh (Re: ECF No. 276) (Attachments: # 1 Supplement, # 2 Supplement)(Carneiro, Henrique) (Entered: 11/09/2026)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-06",
-     "entry": 301,
-     "text": "MINUTE entry before the Honorable April M. Perry: The Court grants AUSA Matthew Skiba's motion to intervene for purposes of the evidentiary hearing currently scheduled for 11/16/2026 and related proceedings 299 . Given the number of witnesses (and now attorneys) involved in the case, there will be no hearing date that is perfect for everyone. The Court will consider moving the hearing to any mutually-agreeable date when the courthouse is open on or before 11/24/2026 if the parties email the Courtroom Deputy with a proposal. If there is no mutually-agreed date in that timeframe, the hearing wil…",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.301.0.pdf"
-    },
-    {
-     "date": "2026-11-06",
-     "entry": 300,
-     "text": "NOTICE of Motion by Andrew C. Porter for presentment of before Honorable April M. Perry on 11/12/2026 at 10:30 AM. (Porter, Andrew) (Entered: 11/06/2026)",
      "doc": null
     }
    ],
