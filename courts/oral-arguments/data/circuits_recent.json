@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-11-10T16:11:15+00:00",
+  "generated_at": "2026-11-11T01:17:28+00:00",
   "window_days": 10,
   "source": "CourtListener oral argument search (Free Law Project)",
   "cases": [
+    {
+      "id": "cl-107545",
+      "court": "ca2",
+      "docket": "25-2821",
+      "title": "Arata v. Standard Lithium Ltd.",
+      "date": "2026-11-10",
+      "duration_sec": 1999,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/10/arata_v._standard_lithium_ltd._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107545/arata-v-standard-lithium-ltd/"
+    },
+    {
+      "id": "cl-107544",
+      "court": "ca2",
+      "docket": "25-121, 25-227",
+      "title": "United States v. Ji Hu (Yong Zhu)",
+      "date": "2026-11-10",
+      "duration_sec": 5766,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/10/united_states_v._ji_hu_yong_zhu_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107544/united-states-v-ji-hu-yong-zhu/"
+    },
+    {
+      "id": "cl-107543",
+      "court": "ca2",
+      "docket": "25-1239",
+      "title": "White v. Wolcott",
+      "date": "2026-11-10",
+      "duration_sec": 2539,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/10/white_v._wolcott_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107543/white-v-wolcott/"
+    },
+    {
+      "id": "cl-107538",
+      "court": "ca7",
+      "docket": "25-3134",
+      "title": "Tracy Schutte v. SuperValu, Inc.",
+      "date": "2026-11-10",
+      "duration_sec": 3379,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/10/tracy_schutte_v._supervalu_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107538/tracy-schutte-v-supervalu-inc/"
+    },
+    {
+      "id": "cl-107541",
+      "court": "cadc",
+      "docket": "25-5190",
+      "title": "Gottlieb Memorial Hospital v. Robert F. Kennedy, Jr., In his official capacity as Secretary, US Department of Health and Human Service",
+      "date": "2026-11-10",
+      "duration_sec": 4671,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/10/gottlieb_memorial_hospital_v._robert_f._kennedy_jr._in_his_official_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107541/gottlieb-memorial-hospital-v-robert-kennedy-jr/"
+    },
+    {
+      "id": "cl-107540",
+      "court": "cadc",
+      "docket": "25-7173",
+      "title": "Jason McManus Holtzman, as Trustee of The Elizabeth McManus Holtzman Irrevocable Trust v. Kunstmuseen Krefeld",
+      "date": "2026-11-10",
+      "duration_sec": 2701,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/10/jason_mcmanus_holtzman_as_trustee_of_the_elizabeth_mcmanus_holtzman_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107540/jason-mcmanus-holtzman-v-kunstmuseen-krefeld/"
+    },
+    {
+      "id": "cl-107539",
+      "court": "cadc",
+      "docket": "26-1029",
+      "title": "Mark Huff, M.D. v. Drug Enforcement Administration",
+      "date": "2026-11-10",
+      "duration_sec": 4881,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/10/mark_huff_m.d._v._drug_enforcement_administration_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107539/mark-huff-v-dea/"
+    },
     {
       "id": "cl-107525",
       "court": "ca2",
@@ -954,16 +1024,6 @@
       "page": "https://www.courtlistener.com/audio/107416/united-states-v-perez-gonzalez/"
     },
     {
-      "id": "cl-107415",
-      "court": "ca1",
-      "docket": "25-1783",
-      "title": "Vazquez-Ramos v. Triple-S Salud, Inc.",
-      "date": "2026-11-04",
-      "duration_sec": 2604,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/vazquez-ramos_v._triple-s_salud_inc._cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107415/vazquez-ramos-v-triple-s-salud-inc/"
-    },
-    {
       "id": "cl-107440",
       "court": "ca11",
       "docket": "25-12597",
@@ -972,26 +1032,6 @@
       "duration_sec": 1859,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/adidas_ag_v._locality.com_cl_2.mp3",
       "page": "https://www.courtlistener.com/audio/107440/adidas-ag-v-localityicom/"
-    },
-    {
-      "id": "cl-107410",
-      "court": "ca11",
-      "docket": "25-11320",
-      "title": "Donna Curling v. David J. Worley",
-      "date": "2026-11-04",
-      "duration_sec": 1884,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/donna_curling_v._david_j._worley_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107410/donna-curling-v-david-worley/"
-    },
-    {
-      "id": "cl-107409",
-      "court": "ca11",
-      "docket": "25-13166",
-      "title": "Global Network Management, Inc. v. Cirion Technologies Solutions, LLC",
-      "date": "2026-11-04",
-      "duration_sec": 1869,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/global_network_management_inc._v._cirion_technologies_solutions_llc_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107409/global-network-management-inc-v-cirion-technologies-solutions-llc/"
     },
     {
       "id": "cl-107439",
@@ -1162,46 +1202,6 @@
       "duration_sec": 2376,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/xu_lun_v._milwaukee_electric_tool_corpor_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107420/xu-lun-v-milwaukee-electric-tool-corporation/"
-    },
-    {
-      "id": "cl-107414",
-      "court": "cafc",
-      "docket": "25-1715",
-      "title": "Centripetal Networks, LLC v. Keysight Technologies, Inc.",
-      "date": "2026-11-04",
-      "duration_sec": 1728,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/centripetal_networks_llc_v._keysight_technologies_inc._cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107414/centripetal-networks-llc-v-keysight-technologies-inc/"
-    },
-    {
-      "id": "cl-107413",
-      "court": "cafc",
-      "docket": "25-1702",
-      "title": "Finjan LLC v. Palo Alto Networks, Inc.",
-      "date": "2026-11-04",
-      "duration_sec": 2333,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/finjan_llc_v._palo_alto_networks_inc._cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107413/finjan-llc-v-palo-alto-networks-inc/"
-    },
-    {
-      "id": "cl-107412",
-      "court": "cafc",
-      "docket": "25-1363",
-      "title": "Kroenung v. Defense",
-      "date": "2026-11-04",
-      "duration_sec": 1215,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/kroenung_v._defense_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107412/kroenung-v-defense/"
-    },
-    {
-      "id": "cl-107411",
-      "court": "cafc",
-      "docket": "24-1780",
-      "title": "Robinson v. Collins",
-      "date": "2026-11-04",
-      "duration_sec": 1137,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/robinson_v._collins_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107411/robinson-v-collins/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T19:50:57+00:00",
+ "generated_at": "2026-11-11T01:20:09+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -38,10 +38,6 @@
     }
    ],
    "deadlines": [
-    {
-     "date": "2026-11-10",
-     "what": "Replies"
-    },
     {
      "date": "2026-11-30",
      "what": "Response to Motion for Summary Judgment"
@@ -267,7 +263,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-10"
+   "updated": "2026-11-11"
   },
   {
    "id": "ilnd-25-cr-693",
@@ -302,6 +298,48 @@
    "deadlines": [],
    "recent": [
     {
+     "date": "2026-11-10",
+     "entry": 309,
+     "text": "NOTICE of Motion by Megan Cunniff Church for presentment of motion for leave to 308 before Honorable April M. Perry on 11/17/2026 at 10:30 AM. (Church, Megan) (Entered: 11/10/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-10",
+     "entry": 307,
+     "text": "ATTORNEY Appearance for USA byMegan Cunniff Church for non-party intervenor Andres Almendarez (Church, Megan) (Entered: 11/10/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-10",
+     "entry": 306,
+     "text": "NOTICE of Motion by Henrique N Carneiro for presentment of motion for miscellaneous relief, 305 before Honorable April M. Perry on 11/17/2026 at 10:30 AM. (Carneiro, Henrique) (Entered: 11/10/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-10",
+     "entry": 305,
+     "text": "MOTION by USA for Clarification of Order Addressing Government's Response to October 9 Request for Evidence as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh Presented before District Judge (Carneiro, Henrique) (Entered: 11/10/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.305.0.pdf"
+    },
+    {
+     "date": "2026-11-10",
+     "entry": 304,
+     "text": "MINUTE entry before the Honorable April M. Perry: The Court acknowledges receipt of the Government's submissions on 11/9/2026. The Court notes that while production was optional under the Court's order, the form of production was not. For example, the Court ordered that electronic records \"must be produced with all associated metadata (for both emails and attachments) including read receipts, delivery status, and message tracking logs.\" See Doc. 276. The two 1-page emails that the Government produced were in pdf format, which does not provide any metadata about the email or attachment, includi…",
+     "doc": null
+    },
+    {
+     "date": "2026-11-10",
+     "entry": 308,
+     "text": "MOTION by USA for leave as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh to Intervene by Non-Party Andres Almendarez Presented before District Judge (Church, Megan) (Entered: 11/10/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-10",
+     "entry": 303,
+     "text": "MINUTE entry before the Honorable Heather K. McShain: Telephonic status hearing held on 11/10/2026. In-person settlement conference set for 12/07/2026 at 12:30 p.m. in Courtroom 1025 on Hyde Amendment fees. Settlement position submissions as outlined during today's status hearing are due by 12/01/2026, and should be emailed to the Court at Settlement_Correspondence_McShain@ilnd.uscourts.gov. Please note that settlement submissions are not to be filed on the CM-ECF system. While not completely applicable to the settlement conference in this criminal matter, parties are directed to review Judge …",
+     "doc": null
+    },
+    {
      "date": "2026-11-09",
      "entry": 302,
      "text": "NOTICE of Submission by USA as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh (Re: ECF No. 276) (Attachments: # 1 Supplement, # 2 Supplement)(Carneiro, Henrique) (Entered: 11/09/2026)",
@@ -317,48 +355,6 @@
      "date": "2026-11-06",
      "entry": 300,
      "text": "NOTICE of Motion by Andrew C. Porter for presentment of before Honorable April M. Perry on 11/12/2026 at 10:30 AM. (Porter, Andrew) (Entered: 11/06/2026)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-06",
-     "entry": 299,
-     "text": "MOTION by USA for leave as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh Matthew Skiba's Motion for leave to Intervene Presented before District Judge (Porter, Andrew) Modified on 11/6/2026 (jcc, ). (Entered: 11/06/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.299.0.pdf"
-    },
-    {
-     "date": "2026-11-06",
-     "entry": 298,
-     "text": "ATTORNEY Appearance for USA byAndrew C. Porter for non-party intervenor Matthew Skiba (Porter, Andrew) (Entered: 11/06/2026)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-06",
-     "entry": 297,
-     "text": "MINUTE entry before the Honorable April M. Perry: AUSA William Hogan's request to intervene for the purposes of the evidentiary hearing currently scheduled for 11/16/2026 and related proceedings 296 is granted. The request to move the hearing date is denied at this time. AUSA Hogan's attorney's vacation the week before the scheduled hearing does not interfere with the hearing date itself and therefore does not necessitate moving the hearing. However, if Attorney Kulwin can secure an agreement from all of the four named witnesses (and/or their attorneys) that 11/19/2026 at 9:00 a.m. is an accep…",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.297.0.pdf"
-    },
-    {
-     "date": "2026-11-05",
-     "entry": 296,
-     "text": "MOTION by USA for leave as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh by Intervenor-Movant William R. Hogan, Jr. for Leave to Intervene and Other Relief Presented before District Judge (Attachments: # 1 EX 1 2026.10.01 Hearing transcript)(Kulwin, Shelly) (Entered: 11/05/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.296.1.pdf"
-    },
-    {
-     "date": "2026-11-05",
-     "entry": 295,
-     "text": "ATTORNEY Appearance for USA byShelly Byron Kulwin for Intervenor-Movant William R. Hogan, Jr. (Kulwin, Shelly) (Entered: 11/05/2026)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-05",
-     "entry": 294,
-     "text": "MINUTE entry before the Honorable April M. Perry: The Government's motion for an extension of time 292 is granted. The Government's time to produce documents is extended to 11/9/2026 at 2:00 p.m. There is no need to appear at the motion presentment date 11/10/2026. Mailed notice. (jcc,) (Entered: 11/05/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.294.0.pdf"
-    },
-    {
-     "date": "2026-11-04",
-     "entry": 293,
-     "text": "NOTICE of Motion by Henrique N Carneiro for presentment of motion for extension of time, 292 before Honorable April M. Perry on 11/10/2026 at 10:30 AM. (Carneiro, Henrique) (Entered: 11/04/2026)",
      "doc": null
     }
    ],
@@ -480,7 +476,7 @@
     "through": "2026-11-09",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-10"
+   "updated": "2026-11-11"
   },
   {
    "id": "dcd-26-cv-544",
