@@ -1,16 +1,66 @@
 {
-  "generated_at": "2026-11-12T19:59:24+00:00",
+  "generated_at": "2026-11-13T19:47:08+00:00",
   "window_days": 10,
   "source": "CourtListener oral argument search (Free Law Project)",
   "cases": [
+    {
+      "id": "cl-107566",
+      "court": "ca2",
+      "docket": "25-2605",
+      "title": "In Re: New York City Board of Education",
+      "date": "2026-11-13",
+      "duration_sec": 2083,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/13/in_re_new_york_city_board_of_education_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107566/in-re-new-york-city-board-of-education/"
+    },
+    {
+      "id": "cl-107565",
+      "court": "ca2",
+      "docket": "26-12",
+      "title": "West v. City of Hartford",
+      "date": "2026-11-13",
+      "duration_sec": 1802,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/13/west_v._city_of_hartford_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107565/west-v-city-of-hartford/"
+    },
+    {
+      "id": "cl-107569",
+      "court": "cadc",
+      "docket": "24-1361",
+      "title": "American Electric Power Service Corporation v. FERC",
+      "date": "2026-11-13",
+      "duration_sec": 2542,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/13/american_electric_power_service_corporation_v._ferc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107569/american-electric-power-service-corporation-v-ferc/"
+    },
+    {
+      "id": "cl-107568",
+      "court": "cadc",
+      "docket": "26-7004",
+      "title": "Michael Leach v. DC",
+      "date": "2026-11-13",
+      "duration_sec": 2001,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/13/michael_leach_v._dc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107568/michael-leach-v-dc/"
+    },
+    {
+      "id": "cl-107567",
+      "court": "cadc",
+      "docket": "25-5196",
+      "title": "Michelle Murray v. Debbie Shaw",
+      "date": "2026-11-13",
+      "duration_sec": 2594,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/13/michelle_murray_v._debbie_shaw_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107567/michelle-murray-v-debbie-shaw/"
+    },
     {
       "id": "cl-107552",
       "court": "ca2",
       "docket": "25-603",
       "title": "Securities and Exchange Commission of the United States v. Laura",
       "date": "2026-11-12",
-      "duration_sec": 1260,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/securities_and_exchange_commission_of_the_united_states_v._laura_cl.mp3",
+      "duration_sec": 1467,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/securities_and_exchange_commission_of_the_united_states_v._laura_cl_1.mp3",
       "page": "https://www.courtlistener.com/audio/107552/securities-and-exchange-commission-of-the-united-states-v-laura/"
     },
     {
@@ -19,8 +69,8 @@
       "docket": "25-2813 & 25-2814",
       "title": "The Central Orthopedic Group, LLP v. Aetna Life Insurance Company",
       "date": "2026-11-12",
-      "duration_sec": 1481,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/the_central_orthopedic_group_llp_v._aetna_life_insurance_company_cl.mp3",
+      "duration_sec": 1724,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/the_central_orthopedic_group_llp_v._aetna_life_insurance_company_cl_1.mp3",
       "page": "https://www.courtlistener.com/audio/107551/the-central-orthopedic-group-llp-v-aetna-life-insurance-company/"
     },
     {
@@ -29,9 +79,69 @@
       "docket": "24-2949",
       "title": "United States v. Luna",
       "date": "2026-11-12",
-      "duration_sec": 1713,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/united_states_v._luna_cl.mp3",
+      "duration_sec": 1995,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/united_states_v._luna_cl_1.mp3",
       "page": "https://www.courtlistener.com/audio/107550/united-states-of-america-v-luna/"
+    },
+    {
+      "id": "cl-107561",
+      "court": "ca7",
+      "docket": "26-2473",
+      "title": "ACT Now Coalition v. EDUC",
+      "date": "2026-11-12",
+      "duration_sec": 2037,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/act_now_coalition_v._educ_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107561/act-now-coalition-v-educ/"
+    },
+    {
+      "id": "cl-107560",
+      "court": "ca7",
+      "docket": "26-1368",
+      "title": "Matthew Haynam v. City of Chicago",
+      "date": "2026-11-12",
+      "duration_sec": 1164,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/matthew_haynam_v._city_of_chicago_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107560/matthew-haynam-v-city-of-chicago/"
+    },
+    {
+      "id": "cl-107559",
+      "court": "ca7",
+      "docket": "26-1877",
+      "title": "Norfolk Southern Railway Compa v. Soo Line Railroad Company",
+      "date": "2026-11-12",
+      "duration_sec": 1874,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/norfolk_southern_railway_compa_v._soo_line_railroad_company_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107559/norfolk-southern-railway-compa-v-soo-line-railroad-company/"
+    },
+    {
+      "id": "cl-107558",
+      "court": "ca7",
+      "docket": "26-1289",
+      "title": "Roshani Sheth v. National Association of Realto",
+      "date": "2026-11-12",
+      "duration_sec": 1919,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/roshani_sheth_v._national_association_of_realto_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107558/roshani-sheth-v-national-association-of-realto/"
+    },
+    {
+      "id": "cl-107557",
+      "court": "ca7",
+      "docket": "26-1407",
+      "title": "Timothy Mims v. Lisa Hastetter",
+      "date": "2026-11-12",
+      "duration_sec": 930,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/timothy_mims_v._lisa_hastetter_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107557/timothy-mims-v-lisa-hastetter/"
+    },
+    {
+      "id": "cl-107556",
+      "court": "ca7",
+      "docket": "25-2955",
+      "title": "United States v. Richard L. Winfield",
+      "date": "2026-11-12",
+      "duration_sec": 571,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/united_states_v._richard_l._winfield_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107556/united-states-v-richard-l-winfield/"
     },
     {
       "id": "cl-107555",
@@ -39,8 +149,8 @@
       "docket": "25-7162",
       "title": "Central American Bank for Economic Integration v. Dante Mossi",
       "date": "2026-11-12",
-      "duration_sec": 2236,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/central_american_bank_for_economic_integration_v._dante_mossi_cl.mp3",
+      "duration_sec": 2604,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/central_american_bank_for_economic_integration_v._dante_mossi_cl_1.mp3",
       "page": "https://www.courtlistener.com/audio/107555/central-american-bank-for-economic-integration-v-dante-mossi/"
     },
     {
@@ -49,7 +159,7 @@
       "docket": "25-1182",
       "title": "Sierra Club v. EPA",
       "date": "2026-11-12",
-      "duration_sec": 2893,
+      "duration_sec": 3369,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/sierra_club_v._epa_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107554/sierra-club-v-epa/"
     },
@@ -59,7 +169,7 @@
       "docket": "25-3118",
       "title": "United States v. Daniel Kingery",
       "date": "2026-11-12",
-      "duration_sec": 2380,
+      "duration_sec": 2772,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/united_states_v._daniel_kingery_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107553/united-states-v-daniel-kingery/"
     },
@@ -1054,26 +1164,6 @@
       "page": "https://www.courtlistener.com/audio/107433/slim-v-life-insurance-company-of-north-america/"
     },
     {
-      "id": "cl-107432",
-      "court": "ca1",
-      "docket": "24-1169",
-      "title": "United States v. Cruz-Osorio",
-      "date": "2026-11-04",
-      "duration_sec": 2448,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._cruz-osorio_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107432/united-states-v-cruz-osorio/"
-    },
-    {
-      "id": "cl-107431",
-      "court": "ca1",
-      "docket": "25-1741",
-      "title": "United States v. Och",
-      "date": "2026-11-04",
-      "duration_sec": 1287,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._och_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107431/united-states-v-och/"
-    },
-    {
       "id": "cl-107440",
       "court": "ca11",
       "docket": "25-12597",
@@ -1112,96 +1202,6 @@
       "duration_sec": 2117,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/wild_type_v._shuford_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107441/wild-type-v-garcia/"
-    },
-    {
-      "id": "cl-107430",
-      "court": "ca7",
-      "docket": "26-1974",
-      "title": "Elizabeth Coffey v. Kerrisdale Capital Management",
-      "date": "2026-11-04",
-      "duration_sec": 1787,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/elizabeth_coffey_v._kerrisdale_capital_management_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107430/elizabeth-coffey-v-kerrisdale-capital-management/"
-    },
-    {
-      "id": "cl-107429",
-      "court": "ca7",
-      "docket": "26-1659",
-      "title": "Garrett Mixon v. City of Galesburg",
-      "date": "2026-11-04",
-      "duration_sec": 1366,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/garrett_mixon_v._city_of_galesburg_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107429/garrett-mixon-v-city-of-galesburg/"
-    },
-    {
-      "id": "cl-107428",
-      "court": "ca7",
-      "docket": "26-1432",
-      "title": "McKenzie Jones v. Unum Life Insurance Company of",
-      "date": "2026-11-04",
-      "duration_sec": 1842,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/mckenzie_jones_v._unum_life_insurance_company_of_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107428/mckenzie-jones-v-unum-life-insurance-company-of/"
-    },
-    {
-      "id": "cl-107427",
-      "court": "ca7",
-      "docket": "25-3275",
-      "title": "Michael Melgaard v. Wisconsin Department of Natura",
-      "date": "2026-11-04",
-      "duration_sec": 2181,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/michael_melgaard_v._wisconsin_department_of_natura_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107427/michael-melgaard-v-wisconsin-department-of-natural-resources/"
-    },
-    {
-      "id": "cl-107426",
-      "court": "ca7",
-      "docket": "25-3141",
-      "title": "Mohammed Mahran v. Cook County, Illinois",
-      "date": "2026-11-04",
-      "duration_sec": 1173,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/mohammed_mahran_v._cook_county_illinois_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107426/mohammed-mahran-v-cook-county-illinois/"
-    },
-    {
-      "id": "cl-107425",
-      "court": "ca7",
-      "docket": "25-3089",
-      "title": "Quintez Cephus v. Rebecca Blank",
-      "date": "2026-11-04",
-      "duration_sec": 1878,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/quintez_cephus_v._rebecca_blank_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107425/quintez-cephus-v-rebecca-blank/"
-    },
-    {
-      "id": "cl-107424",
-      "court": "ca7",
-      "docket": "25-2467",
-      "title": "Safari Childcare, Inc. v. Shirley Penny",
-      "date": "2026-11-04",
-      "duration_sec": 1482,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/safari_childcare_inc._v._shirley_penny_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107424/safari-childcare-inc-v-shirley-penny/"
-    },
-    {
-      "id": "cl-107423",
-      "court": "ca7",
-      "docket": "26-1299",
-      "title": "TK Elevator Corporation v. Church Mutual Insurance Compan",
-      "date": "2026-11-04",
-      "duration_sec": 1361,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/tk_elevator_corporation_v._church_mutual_insurance_compan_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107423/tk-elevator-corporation-v-church-mutual-insurance-compan/"
-    },
-    {
-      "id": "cl-107422",
-      "court": "ca7",
-      "docket": "23-3111",
-      "title": "United States v. Curtis Coleman",
-      "date": "2026-11-04",
-      "duration_sec": 865,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/united_states_v._curtis_coleman_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107422/united-states-v-curtis-coleman/"
     }
   ]
 }
