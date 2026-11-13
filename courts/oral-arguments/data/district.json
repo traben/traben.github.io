@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T20:01:58+00:00",
+ "generated_at": "2026-11-13T01:56:08+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -46,6 +46,12 @@
    "recent": [
     {
      "date": "2026-11-12",
+     "entry": 154,
+     "text": "NOTICE by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE re Order,,,, Order,,,, (Attachments: # 1 Supplement)(Block, Andrew) (Entered: 11/12/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.154.0.pdf"
+    },
+    {
+     "date": "2026-11-12",
      "entry": null,
      "text": "MINUTE ORDER denying 153 Motion for Leave to Appear Pro Hac Vice. No answer was provided to Question 7 of the Declaration for Pro Hac Vice Admission. Counsel may correct and refile the Motion. Signed by Judge Ana C. Reyes on 11/12/2026. (lcacr3)",
      "doc": null
@@ -65,7 +71,7 @@
     {
      "date": "2026-11-12",
      "entry": 151,
-     "text": "MEMORANDUM re Order,,,, Order,,,,,,,, by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Piropato, Marissa) (Entered: 11/12/2026)",
+     "text": "RESPONSE TO ORDER OF THE COURT re Order,,,, Order,,,,,,,, by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Piropato, Marissa) Modified event on 11/12/2026 (znmw). (Entered: 11/12/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.151.0.pdf"
     },
     {
@@ -73,6 +79,12 @@
      "entry": 150,
      "text": "RESPONSE TO ORDER OF THE COURT re Order,,,, filed by DC PRESERVATION LEAGUE, ALEX DICKSON, DAVE ROBERTS. (Lowell, Abbe) (Entered: 11/12/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.150.0.pdf"
+    },
+    {
+     "date": "2026-11-12",
+     "entry": 155,
+     "text": "NOTICE of Record of Determination by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Robertson, Michael) (Entered: 11/12/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.155.0.pdf"
     },
     {
      "date": "2026-11-11",
@@ -91,18 +103,6 @@
      "entry": 148,
      "text": "ORDER. The Court ORDERS the Government to preserve relevant information. See document for details. Signed by Judge Ana C. Reyes on 11/10/2026. (lcacr3) (Entered: 11/10/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.148.0_2.pdf"
-    },
-    {
-     "date": "2026-11-09",
-     "entry": 147,
-     "text": "Memorandum in opposition to re 139 MOTION for Temporary Restraining Order or, Alternatively, a 14-Day Stay Under 5 U.S.C. § 705 Against Closure of East Potomac Park MOTION to Stay and Motion for Stay Pending Appeal filed by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Attachments: # 1 Exhibit CFA Proposal)(Robertson, Michael) (Entered: 11/09/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.147.0.pdf"
-    },
-    {
-     "date": "2026-11-09",
-     "entry": 146,
-     "text": "NOTICE of Proposed Order by DC PRESERVATION LEAGUE, ALEX DICKSON, DAVE ROBERTS (Attachments: # 1 Text of Proposed Order Plaintiffs' Proposed Preservation Order)(Hayes-Deats, Caleb) (Entered: 11/09/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.146.0.pdf"
     }
    ],
    "brief": {
@@ -263,7 +263,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-12"
+   "updated": "2026-11-13"
   },
   {
    "id": "ilnd-25-cr-693",
@@ -476,7 +476,7 @@
     "through": "2026-11-09",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-12"
+   "updated": "2026-11-13"
   },
   {
    "id": "dcd-26-cv-544",

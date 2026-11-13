@@ -2127,6 +2127,128 @@
    {
     "courtrooms": [
      {
+      "courtroom": "Courtroom 3, 3rd Floor Rm 307",
+      "times": [
+       {
+        "cases": [
+         {
+          "argument_time": "10 min",
+          "case_num": "24-2999",
+          "case_title": "Vaquiz-Rodriguez, et al. v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "W. WA"
+         },
+         {
+          "argument_time": "Subm.",
+          "case_num": "25-5275",
+          "case_title": "USA v. Pasley",
+          "case_type": "Criminal",
+          "originating_district": "E. CA"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "26-910",
+          "case_title": "Zavala Garcia v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "NV"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "25-6522",
+          "case_title": "Vaquiz-Rodriguez, et al. v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "W. WA"
+         },
+         {
+          "argument_time": "20 min",
+          "case_num": "25-7657",
+          "case_title": "DZ Reserve, et al. v. Meta Platforms, Inc.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "23-239",
+          "case_title": "Marquez Aguayo v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "25-3721",
+          "case_title": "USA v. Lund",
+          "case_type": "Criminal",
+          "originating_district": "E. CA"
+         }
+        ],
+        "time": "9:00 am"
+       }
+      ]
+     },
+     {
+      "courtroom": "Courtroom 1, 3rd Floor Rm 338",
+      "times": [
+       {
+        "cases": [
+         {
+          "argument_time": "Subm.",
+          "case_num": "24-7344",
+          "case_title": "T. v. California Physicians' Service, et al.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "26-12",
+          "case_title": "Russell, et al. v. Dave Inc., et al.",
+          "case_type": "Civil",
+          "originating_district": "C. CA"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "25-7035",
+          "case_title": "Revell v. Grant Money, LLC, et al.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "25-5856",
+          "case_title": "Moss v. Cleo AI, Inc.",
+          "case_type": "Civil",
+          "originating_district": "W. WA"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "25-6377",
+          "case_title": "Vickery, et al. v. Empower Finance, Inc., et al.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
+         }
+        ],
+        "time": "9:30 am"
+       },
+       {
+        "cases": [
+         {
+          "argument_time": "Subm.",
+          "case_num": "24-520",
+          "case_title": "Avila-Medina v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "AZ"
+         }
+        ],
+        "time": "11:00 am"
+       }
+      ]
+     }
+    ],
+    "hl_code": "SF",
+    "location_display_name": "San Francisco"
+   },
+   {
+    "courtrooms": [
+     {
       "courtroom": "Ceremonial Courtroom",
       "times": [
        {
@@ -2232,128 +2354,6 @@
     ],
     "hl_code": "SE",
     "location_display_name": "Seattle"
-   },
-   {
-    "courtrooms": [
-     {
-      "courtroom": "Courtroom 3, 3rd Floor Rm 307",
-      "times": [
-       {
-        "cases": [
-         {
-          "argument_time": "10 min",
-          "case_num": "25-3721",
-          "case_title": "USA v. Lund",
-          "case_type": "Criminal",
-          "originating_district": "E. CA"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "23-239",
-          "case_title": "Marquez Aguayo v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "25-6522",
-          "case_title": "Vaquiz-Rodriguez, et al. v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "W. WA"
-         },
-         {
-          "argument_time": "15 min",
-          "case_num": "26-910",
-          "case_title": "Zavala Garcia v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "NV"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "24-2999",
-          "case_title": "Vaquiz-Rodriguez, et al. v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "W. WA"
-         },
-         {
-          "argument_time": "20 min",
-          "case_num": "25-7657",
-          "case_title": "DZ Reserve, et al. v. Meta Platforms, Inc.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "25-5275",
-          "case_title": "USA v. Pasley",
-          "case_type": "Criminal",
-          "originating_district": "E. CA"
-         }
-        ],
-        "time": "9:00 am"
-       }
-      ]
-     },
-     {
-      "courtroom": "Courtroom 1, 3rd Floor Rm 338",
-      "times": [
-       {
-        "cases": [
-         {
-          "argument_time": "Subm.",
-          "case_num": "24-7344",
-          "case_title": "T. v. California Physicians' Service, et al.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "15 min",
-          "case_num": "25-6377",
-          "case_title": "Vickery, et al. v. Empower Finance, Inc., et al.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "15 min",
-          "case_num": "26-12",
-          "case_title": "Russell, et al. v. Dave Inc., et al.",
-          "case_type": "Civil",
-          "originating_district": "C. CA"
-         },
-         {
-          "argument_time": "15 min",
-          "case_num": "25-7035",
-          "case_title": "Revell v. Grant Money, LLC, et al.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "15 min",
-          "case_num": "25-5856",
-          "case_title": "Moss v. Cleo AI, Inc.",
-          "case_type": "Civil",
-          "originating_district": "W. WA"
-         }
-        ],
-        "time": "9:30 am"
-       },
-       {
-        "cases": [
-         {
-          "argument_time": "Subm.",
-          "case_num": "24-520",
-          "case_title": "Avila-Medina v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "AZ"
-         }
-        ],
-        "time": "11:00 am"
-       }
-      ]
-     }
-    ],
-    "hl_code": "SF",
-    "location_display_name": "San Francisco"
    },
    {
     "courtrooms": [
@@ -2534,6 +2534,95 @@
     ],
     "hl_code": "PHX",
     "location_display_name": "Phoenix"
+   },
+   {
+    "courtrooms": [
+     {
+      "courtroom": "Courtroom 1, 3rd Floor Rm 338",
+      "times": [
+       {
+        "cases": [
+         {
+          "argument_time": "30 min",
+          "case_num": "25-7916",
+          "case_title": "Wilkinson, et al. v. Meta Platforms, Inc., et al.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "25-2876",
+          "case_title": "Garcia v. Bradshaw, et al.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "Subm.",
+          "case_num": "25-6843",
+          "case_title": "Scott v. Michell, et al.",
+          "case_type": "Pr Non-HC",
+          "originating_district": "NV"
+         },
+         {
+          "argument_time": "30 min",
+          "case_num": "25-7917",
+          "case_title": "Wilkinson, et al. v. Meta Platforms, Inc., et al.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "Subm.",
+          "case_num": "25-2769",
+          "case_title": "Deagueros-Mota v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "S. CA"
+         }
+        ],
+        "time": "9:30 am"
+       }
+      ]
+     },
+     {
+      "courtroom": "Courtroom 3, 3rd Floor Rm 307",
+      "times": [
+       {
+        "cases": [
+         {
+          "argument_time": "Subm.",
+          "case_num": "24-1006",
+          "case_title": "Alvarado-De Leon, et al. v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "25-3309",
+          "case_title": "Reyes v. Apple Inc.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "25-3589",
+          "case_title": "Stone v. Pfeiffer, et al.",
+          "case_type": "Pr Non-HC",
+          "originating_district": "E. CA"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "24-4840",
+          "case_title": "De Moura Neto, et al. v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "N. CA"
+         }
+        ],
+        "time": "9:00 am"
+       }
+      ]
+     }
+    ],
+    "hl_code": "SF",
+    "location_display_name": "San Francisco"
    },
    {
     "courtrooms": [
@@ -2723,102 +2812,6 @@
     ],
     "hl_code": "SE",
     "location_display_name": "Seattle"
-   },
-   {
-    "courtrooms": [
-     {
-      "courtroom": "Courtroom 1, 3rd Floor Rm 338",
-      "times": [
-       {
-        "cases": [
-         {
-          "argument_time": "30 min",
-          "case_num": "25-7917",
-          "case_title": "Wilkinson, et al. v. Meta Platforms, Inc., et al.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "25-6843",
-          "case_title": "Scott v. Michell, et al.",
-          "case_type": "Pr Non-HC",
-          "originating_district": "NV"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "25-2876",
-          "case_title": "Garcia v. Bradshaw, et al.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "30 min",
-          "case_num": "25-7916",
-          "case_title": "Wilkinson, et al. v. Meta Platforms, Inc., et al.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "25-2769",
-          "case_title": "Deagueros-Mota v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "S. CA"
-         }
-        ],
-        "time": "9:30 am"
-       }
-      ]
-     },
-     {
-      "courtroom": "Courtroom 3, 3rd Floor Rm 307",
-      "times": [
-       {
-        "cases": [
-         {
-          "argument_time": "10 min",
-          "case_num": "24-4840",
-          "case_title": "De Moura Neto, et al. v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "Def.",
-          "case_num": "25-4453",
-          "case_title": "Bolanos v. Breitenbach, et al.",
-          "case_type": "Habeas",
-          "originating_district": "NV"
-         },
-         {
-          "argument_time": "15 min",
-          "case_num": "25-3309",
-          "case_title": "Reyes v. Apple Inc.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "15 min",
-          "case_num": "25-3589",
-          "case_title": "Stone v. Pfeiffer, et al.",
-          "case_type": "Pr Non-HC",
-          "originating_district": "E. CA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "24-1006",
-          "case_title": "Alvarado-De Leon, et al. v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "N. CA"
-         }
-        ],
-        "time": "9:00 am"
-       }
-      ]
-     }
-    ],
-    "hl_code": "SF",
-    "location_display_name": "San Francisco"
    }
   ]
  },
@@ -2833,43 +2826,8 @@
        {
         "cases": [
          {
-          "argument_time": "Subm.",
-          "case_num": "20-73138",
-          "case_title": "Milton Perez Y Perez v. Todd Blanche",
-          "case_type": "Immigration",
-          "originating_district": "BIA"
-         },
-         {
           "argument_time": "10 min",
           "case_num": "25-6232",
-          "case_title": "USA v. Dyer-Hogan",
-          "case_type": "Criminal",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "25-5701",
-          "case_title": "Samuels v. AH Capital Management, LLC, et al.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "25-4350",
-          "case_title": "Keene, et al. v. City and County of San Francisco, et al.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "25-847",
-          "case_title": "Navarrete-Leiva v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "C. CA"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "25-6236",
           "case_title": "USA v. Dyer-Hogan",
           "case_type": "Criminal",
           "originating_district": "N. CA"
@@ -2883,10 +2841,24 @@
          },
          {
           "argument_time": "10 min",
-          "case_num": "20-72608",
-          "case_title": "Riccy Aguilar Enamorado v. Todd Blanche",
+          "case_num": "25-6236",
+          "case_title": "USA v. Dyer-Hogan",
+          "case_type": "Criminal",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "25-847",
+          "case_title": "Navarrete-Leiva v. Blanche",
           "case_type": "Immigration",
-          "originating_district": "BIA"
+          "originating_district": "C. CA"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "25-4350",
+          "case_title": "Keene, et al. v. City and County of San Francisco, et al.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
          },
          {
           "argument_time": "10 min",
@@ -2894,6 +2866,27 @@
           "case_title": "Marino Clavijo v. Blanche",
           "case_type": "Immigration",
           "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "25-5701",
+          "case_title": "Samuels v. AH Capital Management, LLC, et al.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "20-72608",
+          "case_title": "Riccy Aguilar Enamorado v. Todd Blanche",
+          "case_type": "Immigration",
+          "originating_district": "BIA"
+         },
+         {
+          "argument_time": "Subm.",
+          "case_num": "20-73138",
+          "case_title": "Milton Perez Y Perez v. Todd Blanche",
+          "case_type": "Immigration",
+          "originating_district": "BIA"
          }
         ],
         "time": "9:00 am"
@@ -2907,10 +2900,31 @@
         "cases": [
          {
           "argument_time": "Subm.",
+          "case_num": "24-3704",
+          "case_title": "Hernandez-Rodriguez, et al. v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "Subm.",
           "case_num": "24-4213",
           "case_title": "Rosas-Arenas, et al. v. Blanche",
           "case_type": "Immigration",
           "originating_district": "W. WA"
+         },
+         {
+          "argument_time": "Subm.",
+          "case_num": "25-3500",
+          "case_title": "Castaneda v. Hopper",
+          "case_type": "Bankruptcy",
+          "originating_district": "E. CA"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "25-3386",
+          "case_title": "Quinonez, et al. v. USA, et al.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
          },
          {
           "argument_time": "10 min",
@@ -2924,27 +2938,6 @@
           "case_num": "25-3168",
           "case_title": "Ashli Healthcare, Inc. v. Kennedy",
           "case_type": "Civil",
-          "originating_district": "E. CA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "24-3704",
-          "case_title": "Hernandez-Rodriguez, et al. v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "15 min",
-          "case_num": "25-3386",
-          "case_title": "Quinonez, et al. v. USA, et al.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "25-3500",
-          "case_title": "Castaneda v. Hopper",
-          "case_type": "Bankruptcy",
           "originating_district": "E. CA"
          }
         ],
@@ -3190,121 +3183,6 @@
    {
     "courtrooms": [
      {
-      "courtroom": "Courtroom 3, 3rd Floor Rm 307",
-      "times": [
-       {
-        "cases": [
-         {
-          "argument_time": "15 min",
-          "case_num": "24-7616",
-          "case_title": "Maksimov, et al. v. Shriners Hospitals for Children, Inc.",
-          "case_type": "Civil",
-          "originating_district": "E. CA"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "24-6803",
-          "case_title": "Singh v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "15 min",
-          "case_num": "25-3056",
-          "case_title": "Fujishige v. Amazon.com Services, LLC",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "15 min",
-          "case_num": "25-3127",
-          "case_title": "Sundaram, et al. v. Freshworks, Inc., et al.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "25-767",
-          "case_title": "Valencia Project, LLC v. Commissioner of Internal Revenue",
-          "case_type": "Tax Court",
-          "originating_district": "IRS"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "25-4833",
-          "case_title": "Myers, et al. v. Sazerac Company, Inc.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         }
-        ],
-        "time": "9:00 am"
-       }
-      ]
-     },
-     {
-      "courtroom": "Courtroom 1, 3rd Floor Rm 338",
-      "times": [
-       {
-        "cases": [
-         {
-          "argument_time": "15 min",
-          "case_num": "23-4090",
-          "case_title": "Alfaro-Ramirez v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "C. CA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "25-8084",
-          "case_title": "Kim v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "C. CA"
-         },
-         {
-          "argument_time": "15 min",
-          "case_num": "26-2227",
-          "case_title": "Rodriguez-Meza v. Blanche, et al.",
-          "case_type": "Habeas",
-          "originating_district": "C. CA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "25-5551",
-          "case_title": "Rivas-Alvarado, et al. v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "24-2947",
-          "case_title": "Rivas-Alvarado, et al. v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "N. CA"
-         }
-        ],
-        "time": "9:30 am"
-       },
-       {
-        "cases": [
-         {
-          "argument_time": "Def.",
-          "case_num": "21-99010",
-          "case_title": "Ward Weaver, Jr. v. Chance Andes",
-          "case_type": "DP HC",
-          "originating_district": "E. CA"
-         }
-        ],
-        "time": "3:00 pm"
-       }
-      ]
-     }
-    ],
-    "hl_code": "SF",
-    "location_display_name": "San Francisco"
-   },
-   {
-    "courtrooms": [
-     {
       "courtroom": "Courtroom 3",
       "times": [
        {
@@ -3462,6 +3340,121 @@
     ],
     "hl_code": "SE",
     "location_display_name": "Seattle"
+   },
+   {
+    "courtrooms": [
+     {
+      "courtroom": "Courtroom 3, 3rd Floor Rm 307",
+      "times": [
+       {
+        "cases": [
+         {
+          "argument_time": "10 min",
+          "case_num": "25-767",
+          "case_title": "Valencia Project, LLC v. Commissioner of Internal Revenue",
+          "case_type": "Tax Court",
+          "originating_district": "IRS"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "24-7616",
+          "case_title": "Maksimov, et al. v. Shriners Hospitals for Children, Inc.",
+          "case_type": "Civil",
+          "originating_district": "E. CA"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "25-4833",
+          "case_title": "Myers, et al. v. Sazerac Company, Inc.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "25-3127",
+          "case_title": "Sundaram, et al. v. Freshworks, Inc., et al.",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "24-6803",
+          "case_title": "Singh v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "25-3056",
+          "case_title": "Fujishige v. Amazon.com Services, LLC",
+          "case_type": "Civil",
+          "originating_district": "N. CA"
+         }
+        ],
+        "time": "9:00 am"
+       }
+      ]
+     },
+     {
+      "courtroom": "Courtroom 1, 3rd Floor Rm 338",
+      "times": [
+       {
+        "cases": [
+         {
+          "argument_time": "15 min",
+          "case_num": "26-2227",
+          "case_title": "Rodriguez-Meza v. Blanche, et al.",
+          "case_type": "Habeas",
+          "originating_district": "C. CA"
+         },
+         {
+          "argument_time": "Subm.",
+          "case_num": "25-8084",
+          "case_title": "Kim v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "C. CA"
+         },
+         {
+          "argument_time": "Subm.",
+          "case_num": "25-5551",
+          "case_title": "Rivas-Alvarado, et al. v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "23-4090",
+          "case_title": "Alfaro-Ramirez v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "C. CA"
+         },
+         {
+          "argument_time": "Subm.",
+          "case_num": "24-2947",
+          "case_title": "Rivas-Alvarado, et al. v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "N. CA"
+         }
+        ],
+        "time": "9:30 am"
+       },
+       {
+        "cases": [
+         {
+          "argument_time": "Def.",
+          "case_num": "21-99010",
+          "case_title": "Ward Weaver, Jr. v. Chance Andes",
+          "case_type": "DP HC",
+          "originating_district": "E. CA"
+         }
+        ],
+        "time": "3:00 pm"
+       }
+      ]
+     }
+    ],
+    "hl_code": "SF",
+    "location_display_name": "San Francisco"
    },
    {
     "courtrooms": [
@@ -3667,83 +3660,10 @@
    {
     "courtrooms": [
      {
-      "courtroom": "Courtroom 3, 3rd Floor Rm 307",
-      "times": [
-       {
-        "cases": [
-         {
-          "argument_time": "10 min",
-          "case_num": "25-4635",
-          "case_title": "Hanible v. County of Solano, et al.",
-          "case_type": "Civil",
-          "originating_district": "E. CA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "24-5498",
-          "case_title": "Choudhary v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "OR"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "25-4701",
-          "case_title": "Man v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "24-973",
-          "case_title": "Martinez-Flores, et al. v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "N. CA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "25-2704",
-          "case_title": "Lopez Guerrero, et al. v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "W. WA"
-         },
-         {
-          "argument_time": "15 min",
-          "case_num": "25-5090",
-          "case_title": "Cespedes-Rincon v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "W. WA"
-         },
-         {
-          "argument_time": "10 min",
-          "case_num": "24-5067",
-          "case_title": "Ramirez-Herrera v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "W. WA"
-         },
-         {
-          "argument_time": "Subm.",
-          "case_num": "24-4685",
-          "case_title": "Kaur, et al. v. Blanche",
-          "case_type": "Immigration",
-          "originating_district": "N. CA"
-         }
-        ],
-        "time": "9:00 am"
-       }
-      ]
-     },
-     {
       "courtroom": "Courtroom 1, 3rd Floor Rm 338",
       "times": [
        {
         "cases": [
-         {
-          "argument_time": "15 min",
-          "case_num": "25-3339",
-          "case_title": "EcoHub, LLC v. Recology, Inc., et al.",
-          "case_type": "Civil",
-          "originating_district": "N. CA"
-         },
          {
           "argument_time": "15 min",
           "case_num": "25-7906",
@@ -3759,6 +3679,13 @@
           "originating_district": "N. CA"
          },
          {
+          "argument_time": "Subm.",
+          "case_num": "26-1460",
+          "case_title": "Rojas Guzman, et al. v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "N. CA"
+         },
+         {
           "argument_time": "15 min",
           "case_num": "25-6768",
           "case_title": "Huerta Sanchez, I, et al. v. Blanche",
@@ -3766,14 +3693,80 @@
           "originating_district": "W. WA"
          },
          {
-          "argument_time": "Subm.",
-          "case_num": "26-1460",
-          "case_title": "Rojas Guzman, et al. v. Blanche",
-          "case_type": "Immigration",
+          "argument_time": "15 min",
+          "case_num": "25-3339",
+          "case_title": "EcoHub, LLC v. Recology, Inc., et al.",
+          "case_type": "Civil",
           "originating_district": "N. CA"
          }
         ],
         "time": "9:30 am"
+       }
+      ]
+     },
+     {
+      "courtroom": "Courtroom 3, 3rd Floor Rm 307",
+      "times": [
+       {
+        "cases": [
+         {
+          "argument_time": "Subm.",
+          "case_num": "24-4685",
+          "case_title": "Kaur, et al. v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "Subm.",
+          "case_num": "24-973",
+          "case_title": "Martinez-Flores, et al. v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "N. CA"
+         },
+         {
+          "argument_time": "Subm.",
+          "case_num": "24-5498",
+          "case_title": "Choudhary v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "OR"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "24-5067",
+          "case_title": "Ramirez-Herrera v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "W. WA"
+         },
+         {
+          "argument_time": "15 min",
+          "case_num": "25-5090",
+          "case_title": "Cespedes-Rincon v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "W. WA"
+         },
+         {
+          "argument_time": "Subm.",
+          "case_num": "25-2704",
+          "case_title": "Lopez Guerrero, et al. v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "W. WA"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "25-4635",
+          "case_title": "Hanible v. County of Solano, et al.",
+          "case_type": "Civil",
+          "originating_district": "E. CA"
+         },
+         {
+          "argument_time": "10 min",
+          "case_num": "25-4701",
+          "case_title": "Man v. Blanche",
+          "case_type": "Immigration",
+          "originating_district": "N. CA"
+         }
+        ],
+        "time": "9:00 am"
        }
       ]
      }
@@ -3860,14 +3853,14 @@
         "cases": [
          {
           "argument_time": "20 min",
-          "case_num": "26-4450",
+          "case_num": "26-4454",
           "case_title": "Washington Department of Health v. The GEO Group, Inc.",
           "case_type": "Civil",
           "originating_district": "W. WA"
          },
          {
           "argument_time": "20 min",
-          "case_num": "26-4454",
+          "case_num": "26-4450",
           "case_title": "Washington Department of Health v. The GEO Group, Inc.",
           "case_type": "Civil",
           "originating_district": "W. WA"
