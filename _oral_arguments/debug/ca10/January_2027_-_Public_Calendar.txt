@@ -23,7 +23,7 @@ Courtroom II
 26-1136 CO Coomer, Appellant v. Lindell, et al., Appellants
 26-1160 CO Perez v. Sunbeam Products, et al., Appellants
 26-1210 CO Can IV Packard Square v. Harbor Real Estate
-Company, et al., Appellants
+Company,  et al., Appellants
 26-6097 WOK Universitas Education, et al. v. Avon Capital, Appellant
 26-7033 EOK White, Appellant v. United States Department of Agriculture
 
@@ -63,7 +63,7 @@ Courtroom II
 American Civil Liberties Union Foundation of Colorado,et al.,
 Amici Curiae
 25-8075 WY Sutherland Brothers Ranch, Appellant v. Granite Canyon
-Quarry, et al.
+Quarry,  et al.
 26-1048 CO Sundlof, et al., Appellants v. National Visa Center
 26-1142 CO Mohamed v. Society for Human Resource Management,
 Appellant;
@@ -82,6 +82,7 @@ Courtroom III
 26-1126 CO Thompson, Appellant v. Ford Motor Company;
 Lawyers for Civil Justice, Amicus Curiae
 26-2064 NM Davis v. Lovato, et al., Appellants
+9:00 A.M.
 
 January 2027 Term of Court
 Wednesday, January 20, 2027
@@ -128,6 +129,7 @@ Courtroom IV
 25-6202 WOK United States v. Freeman, Appellant
 26-1050 CO United States v. Valadez, Appellant
 25-1427 CO United States v. Chambers, Appellant
+26-3011 KS United States v. Lee, Appellant
 25-1362 CO United States v. Vergato, Appellant
 (Submitted on the Briefs)
 

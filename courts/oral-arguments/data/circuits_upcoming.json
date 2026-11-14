@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T19:49:47+00:00",
+ "generated_at": "2026-11-14T01:31:51+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -16,532 +16,6 @@
   "ca2"
  ],
  "cases": [
-  {
-   "id": "ca2-25-1763-2026-10-30",
-   "court": "ca2",
-   "docket": "25-1763",
-   "title": "Erron Lennon Alexander v. Todd Blanche, Acting US Atty General",
-   "date": "2026-10-30",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "Carney, Park, Lee",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=30&id=788548250",
-    "live": "https://ww2.ca2.uscourts.gov/court.html",
-    "recording": "https://storage.courtlistener.com/mp3/2026/10/30/alexander_v._blanche_cl_4.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107293/alexander-v-blanche/"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-2467-2026-10-30",
-   "court": "ca2",
-   "docket": "25-2467",
-   "title": "United States of America v. Maurice Yarborough",
-   "date": "2026-10-30",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "Carney, Park, Lee",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=30&id=788548250",
-    "live": "https://ww2.ca2.uscourts.gov/court.html",
-    "recording": "https://storage.courtlistener.com/mp3/2026/10/30/united_states_v._yarborough_cl_5.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107290/united-states-v-yarborough/"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-2644-2026-10-30",
-   "court": "ca2",
-   "docket": "25-2644",
-   "title": "Malvia M. Freckleton v. Ambulnz, NYLLC",
-   "date": "2026-10-30",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "5 min per side"
-   ],
-   "panel": "Carney, Park, Lee",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=30&id=788548250",
-    "live": "https://ww2.ca2.uscourts.gov/court.html",
-    "recording": "https://storage.courtlistener.com/mp3/2026/10/30/freckleton_v._ambulnz_ny_llc_cl_5.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107292/freckleton-v-ambulnz-ny-llc/"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-26-638-2026-10-30",
-   "court": "ca2",
-   "docket": "26-638",
-   "title": "Yeshiva Ohr Shraga Veretzky v. Town of Highland Zoning Board et al",
-   "date": "2026-10-30",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "Carney, Park, Lee",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=10&d=30&id=788548250",
-    "live": "https://ww2.ca2.uscourts.gov/court.html",
-    "recording": "https://storage.courtlistener.com/mp3/2026/10/30/shraga_veretzky_v._town_of_highland_zoning_board_of_appeals_cl_5.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107291/shraga-veretzky-v-town-of-highland-zoning-board-of-appeals/"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca4-24-6528-2026-10-30",
-   "court": "ca4",
-   "docket": "24-6528",
-   "title": "US v. Covia Smith",
-   "date": "2026-10-30",
-   "time_local": "08:30",
-   "tz": "America/New_York",
-   "location": "Richmond, VA",
-   "room": "Panel 2 · Butzner Courtroom (Room 201)",
-   "origin": null,
-   "issue": "Postconviction: Whether trial and appellate counsel rendered ineffective assistance by failing to challenge defendant's career offender enhancement.",
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca4-25-1198-2026-10-30",
-   "court": "ca4",
-   "docket": "25-1198",
-   "title": "John Burgess v. Nationwide Property & Casualty Ins. Co.",
-   "date": "2026-10-30",
-   "time_local": "08:30",
-   "tz": "America/New_York",
-   "location": "Richmond, VA",
-   "room": "Panel 4 · Gold Courtroom (Room 348)",
-   "origin": null,
-   "issue": "Insurance: Whether West Virginia statute of limitations commenced running on date of loss or date",
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca4-25-1843-2026-10-30",
-   "court": "ca4",
-   "docket": "25-1843",
-   "title": "Frederick Stuhr v. United States Army Corps",
-   "date": "2026-10-30",
-   "time_local": "08:30",
-   "tz": "America/New_York",
-   "location": "Richmond, VA",
-   "room": "Panel 4 · Gold Courtroom (Room 348)",
-   "origin": null,
-   "issue": "Environmental: Whether plaintiffs have standingto challenge approvalofmitigation bank when of Engineers Charleston",
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca4-25-2004-2026-10-30",
-   "court": "ca4",
-   "docket": "25-2004",
-   "title": "US v. George Russell, III",
-   "date": "2026-10-30",
-   "time_local": "08:30",
-   "tz": "America/New_York",
-   "location": "Richmond, VA",
-   "room": "Panel 1 · Red Courtroom (Room 412)",
-   "origin": null,
-   "issue": "Civil: Whether government lacked authority to bring challenge to district court's standing order related",
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca4-26-1823-2026-10-30",
-   "court": "ca4",
-   "docket": "26-1823",
-   "title": "John Mullins v. National Cooperative Association",
-   "date": "2026-10-30",
-   "time_local": "08:30",
-   "tz": "America/New_York",
-   "location": "Richmond, VA",
-   "room": "Panel 2 · Butzner Courtroom (Room 201)",
-   "origin": null,
-   "issue": "Civil: Whetherdistrict court erredincertifying class incase allegingbreach of fiduciary duty under Rural Electric",
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca4.uscourts.gov/cal/internetcalOct272026.pdf",
-    "live": "https://www.ca4.uscourts.gov/oral-argument/livestream-oral-arguments"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca7-24-3271-2026-10-30",
-   "court": "ca7",
-   "docket": "24-3271",
-   "title": "USA v. Leontae McGee",
-   "date": "2026-10-30",
-   "time_local": "09:30",
-   "tz": "America/Chicago",
-   "location": "Chicago, IL",
-   "room": "Main Courtroom",
-   "origin": "Criminal · Eastern District of Wisconsin · No. 2:23-cr-00171-LA-1",
-   "issue": null,
-   "notes": [
-    "10 min per side",
-    "No. 6 on the day's list"
-   ],
-   "panel": "Michael B. Brennan, Joshua P. Kolar, Nancy L. Maldonado",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-10-30&CourtRoom=both",
-    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
-    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=24-3271&incOrigDkt=Y&incDktEntries=Y"
-   },
-   "live_note": "The 7th Circuit streams arguments live on YouTube."
-  },
-  {
-   "id": "ca7-25-2864-2026-10-30",
-   "court": "ca7",
-   "docket": "25-2864",
-   "title": "Dylan Jones v. Chad Jennings",
-   "date": "2026-10-30",
-   "time_local": "09:30",
-   "tz": "America/Chicago",
-   "location": "Chicago, IL",
-   "room": "Main Courtroom",
-   "origin": "Prisoner · Southern District of Illinois · No. 3:24-cv-02753-DWD",
-   "issue": null,
-   "notes": [
-    "10 min per side",
-    "No. 5 on the day's list"
-   ],
-   "panel": "Michael B. Brennan, Joshua P. Kolar, Nancy L. Maldonado",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-10-30&CourtRoom=both",
-    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
-    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-2864&incOrigDkt=Y&incDktEntries=Y"
-   },
-   "live_note": "The 7th Circuit streams arguments live on YouTube."
-  },
-  {
-   "id": "ca7-26-1507-2026-10-30",
-   "court": "ca7",
-   "docket": "26-1507",
-   "title": "Olga Diaz v. James C. Schmidt",
-   "date": "2026-10-30",
-   "time_local": "09:30",
-   "tz": "America/Chicago",
-   "location": "Chicago, IL",
-   "room": "Main Courtroom",
-   "origin": "Civil · Western District of Wisconsin · No. 3:24-cv-00161-jdp",
-   "issue": null,
-   "notes": [
-    "15 min per side",
-    "No. 2 on the day's list"
-   ],
-   "panel": "Michael B. Brennan, Joshua P. Kolar, Nancy L. Maldonado",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-10-30&CourtRoom=both",
-    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
-    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1507&incOrigDkt=Y&incDktEntries=Y"
-   },
-   "live_note": "The 7th Circuit streams arguments live on YouTube."
-  },
-  {
-   "id": "ca7-26-1525-2026-10-30",
-   "court": "ca7",
-   "docket": "26-1525",
-   "title": "Justin Bartz v. Columbia County, Wisconsin",
-   "date": "2026-10-30",
-   "time_local": "09:30",
-   "tz": "America/Chicago",
-   "location": "Chicago, IL",
-   "room": "Main Courtroom",
-   "origin": "Civil · Western District of Wisconsin · No. 3:24-cv-00671-jdp",
-   "issue": null,
-   "notes": [
-    "15 min per side",
-    "No. 3 on the day's list"
-   ],
-   "panel": "Michael B. Brennan, Joshua P. Kolar, Nancy L. Maldonado",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-10-30&CourtRoom=both",
-    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
-    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1525&incOrigDkt=Y&incDktEntries=Y"
-   },
-   "live_note": "The 7th Circuit streams arguments live on YouTube."
-  },
-  {
-   "id": "ca9-25-2798-2026-10-30",
-   "court": "ca9",
-   "docket": "25-2798",
-   "title": "Martell v. Houck, et al.",
-   "date": "2026-10-30",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 1",
-   "origin": "Pr Non-HC · NV",
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-30&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-3819-2026-10-30",
-   "court": "ca9",
-   "docket": "25-3819",
-   "title": "USA v. Benner",
-   "date": "2026-10-30",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Seattle",
-   "room": "5th Floor Courtroom 3",
-   "origin": "Criminal · OR",
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-30&loc=SE",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-7451-2026-10-30",
-   "court": "ca9",
-   "docket": "25-7451",
-   "title": "Monroy Camacho, et al. v. Blanche",
-   "date": "2026-10-30",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Seattle",
-   "room": "5th Floor Courtroom 3",
-   "origin": "Immigration · W. WA",
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-30&loc=SE",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-7728-2026-10-30",
-   "court": "ca9",
-   "docket": "25-7728",
-   "title": "Villalobos Sanchez, et al. v. Blanche",
-   "date": "2026-10-30",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Seattle",
-   "room": "5th Floor Courtroom 3",
-   "origin": "Immigration · W. WA",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-30&loc=SE",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-8156-2026-10-30",
-   "court": "ca9",
-   "docket": "25-8156",
-   "title": "USA v. Parias",
-   "date": "2026-10-30",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 1",
-   "origin": "Criminal · C. CA",
-   "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-30&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-19-72694-2026-10-30",
-   "court": "ca9",
-   "docket": "19-72694",
-   "title": "Cesar Cardenas Guzman v. Todd Blanche",
-   "date": "2026-10-30",
-   "time_local": "09:30",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Immigration · BIA",
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-30&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-20-71617-2026-10-30",
-   "court": "ca9",
-   "docket": "20-71617",
-   "title": "Miguel Carballo-Delcid v. Todd Blanche",
-   "date": "2026-10-30",
-   "time_local": "09:30",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Immigration · BIA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-30&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-21-70784-2026-10-30",
-   "court": "ca9",
-   "docket": "21-70784",
-   "title": "Franklin Ortega Cazun v. Todd Blanche",
-   "date": "2026-10-30",
-   "time_local": "09:30",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Immigration · BIA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-30&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-24-6240-2026-10-30",
-   "court": "ca9",
-   "docket": "24-6240",
-   "title": "Simms v. Edwards, et al.",
-   "date": "2026-10-30",
-   "time_local": "09:30",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Pr Non-HC · E. CA",
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-30&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-26-139-2026-10-30",
-   "court": "ca9",
-   "docket": "26-139",
-   "title": "Kuznetsova v. Blanche",
-   "date": "2026-10-30",
-   "time_local": "09:30",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Immigration · AZ",
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-10-30&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
   {
    "id": "ca1-23-1973-2026-11-02",
    "court": "ca1",
@@ -14665,7 +14139,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/December_1_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/December_1_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -14685,7 +14159,27 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/December_1_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/December_1_2026_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
+   "id": "ca10-26-2049-2026-12-01",
+   "court": "ca10",
+   "docket": "26-2049",
+   "title": "United States v. Solomon, Appellant",
+   "date": "2026-12-01",
+   "time_local": "09:00",
+   "tz": "America/Chicago",
+   "location": "Wichita",
+   "room": null,
+   "origin": "NM",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/December_1_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -14707,7 +14201,7 @@
    ],
    "no_argument": true,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/December_1_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/December_1_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -14727,7 +14221,7 @@
    "notes": null,
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/December_1_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/December_1_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -14749,7 +14243,7 @@
    ],
    "no_argument": false,
    "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/December_1_2026_-_Public_Calendar_0.pdf",
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/December_1_2026_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
@@ -15876,6 +15370,29 @@
    "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-02&loc=HODC",
+    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
+   },
+   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
+  },
+  {
+   "id": "ca9-25-4453-2026-12-02",
+   "court": "ca9",
+   "docket": "25-4453",
+   "title": "Bolanos v. Breitenbach, et al.",
+   "date": "2026-12-02",
+   "time_local": "09:30",
+   "tz": "America/Los_Angeles",
+   "location": "Pasadena",
+   "room": "Courtroom 1",
+   "origin": "Habeas · NV",
+   "issue": null,
+   "notes": [
+    "15 min per side"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-02&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
@@ -27895,11 +27412,9 @@
    "room": "Courtroom 1",
    "origin": "Immigration · C. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2027-01-11&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -30207,6 +29722,26 @@
    "location": "Albuquerque",
    "room": "Courtroom III",
    "origin": "NM",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
+   "id": "ca10-26-3011-2027-01-21",
+   "court": "ca10",
+   "docket": "26-3011",
+   "title": "United States v. Lee, Appellant",
+   "date": "2027-01-21",
+   "time_local": "09:00",
+   "tz": "America/Denver",
+   "location": "Albuquerque",
+   "room": "Courtroom IV",
+   "origin": "KS",
    "issue": null,
    "notes": null,
    "no_argument": false,
