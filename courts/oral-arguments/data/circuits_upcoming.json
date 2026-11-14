@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T01:31:51+00:00",
+ "generated_at": "2026-11-14T18:12:32+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -8695,29 +8695,6 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
-   "id": "ca9-26-1010-2026-11-17",
-   "court": "ca9",
-   "docket": "26-1010",
-   "title": "McMillan v. Westgate Resorts, Ltd.",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 3",
-   "origin": "Civil · C. CA",
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-17&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
    "id": "ca9-26-498-2026-11-17",
    "court": "ca9",
    "docket": "26-498",
@@ -8884,11 +8861,9 @@
    "room": "Courtroom 1",
    "origin": "Immigration · C. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-17&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -17269,11 +17244,9 @@
    "room": "Courtroom 1, 5th Floor, Room 5080",
    "origin": "Social Security · N. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-07&loc=SJDC",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -24998,11 +24971,9 @@
    "room": "Courtroom 1, 5th Floor, Room 5080",
    "origin": "Immigration · W. WA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-11&loc=SJDC",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
