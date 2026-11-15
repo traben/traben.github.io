@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:09:42+00:00",
+  "generated_at": "2026-11-15T18:55:08+00:00",
   "window_days": 10,
   "source": "CourtListener oral argument search (Free Law Project)",
   "cases": [
@@ -1142,66 +1142,6 @@
       "duration_sec": 1899,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/05/the_green_pet_shop_enterprises_llc_v._comfort_revolution_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107465/the-green-pet-shop-enterprises-llc-v-comfort-revolution/"
-    },
-    {
-      "id": "cl-107434",
-      "court": "ca1",
-      "docket": "25-2227",
-      "title": "Silva-Prentice v. Kennedy",
-      "date": "2026-11-04",
-      "duration_sec": 1302,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/silva-prentice_v._kennedy_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107434/silva-prentice-v-kennedy/"
-    },
-    {
-      "id": "cl-107433",
-      "court": "ca1",
-      "docket": "25-1570",
-      "title": "Slim v. Life Insurance Company of North America",
-      "date": "2026-11-04",
-      "duration_sec": 1613,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/slim_v._life_insurance_company_of_north_america_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107433/slim-v-life-insurance-company-of-north-america/"
-    },
-    {
-      "id": "cl-107440",
-      "court": "ca11",
-      "docket": "25-12597",
-      "title": "ADIDAS AG v. locality.com",
-      "date": "2026-11-04",
-      "duration_sec": 1859,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/adidas_ag_v._locality.com_cl_2.mp3",
-      "page": "https://www.courtlistener.com/audio/107440/adidas-ag-v-localityicom/"
-    },
-    {
-      "id": "cl-107439",
-      "court": "ca11",
-      "docket": "25-10137",
-      "title": "Melvin Gene Hodges v. Commissioner, Alabama Department of Corrections",
-      "date": "2026-11-04",
-      "duration_sec": 3843,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/melvin_gene_hodges_v._commissioner_alabama_department_of_corrections_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107439/melvin-gene-hodges-v-commissioner-alabama-department-of-corrections/"
-    },
-    {
-      "id": "cl-107442",
-      "court": "ca5",
-      "docket": "25-60055",
-      "title": "Vistra v. FERC",
-      "date": "2026-11-04",
-      "duration_sec": 3740,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/vistra_v._ferc_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107442/vistra-v-ferc/"
-    },
-    {
-      "id": "cl-107441",
-      "court": "ca5",
-      "docket": "26-50181",
-      "title": "Wild Type v. Shuford",
-      "date": "2026-11-04",
-      "duration_sec": 2117,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/04/wild_type_v._shuford_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107441/wild-type-v-garcia/"
     }
   ]
 }

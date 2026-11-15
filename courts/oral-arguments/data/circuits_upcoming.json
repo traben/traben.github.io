@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T18:12:32+00:00",
+ "generated_at": "2026-11-15T18:57:43+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -1950,9 +1950,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca1.uscourts.gov/sites/ca1/files/calendar.pdf",
-    "live": "https://www.ca1.uscourts.gov/courtlivestream",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/slim_v._life_insurance_company_of_north_america_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107433/slim-v-life-insurance-company-of-north-america/"
+    "live": "https://www.ca1.uscourts.gov/courtlivestream"
    },
    "live_note": null
   },
@@ -2052,9 +2050,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca1.uscourts.gov/sites/ca1/files/calendar.pdf",
-    "live": "https://www.ca1.uscourts.gov/courtlivestream",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/silva-prentice_v._kennedy_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107434/silva-prentice-v-kennedy/"
+    "live": "https://www.ca1.uscourts.gov/courtlivestream"
    },
    "live_note": null
   },
@@ -2505,9 +2501,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-04",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/vistra_v._ferc_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107442/vistra-v-ferc/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -2576,9 +2570,7 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-11-04",
-    "live": "https://www.ca5.uscourts.gov/live-streams",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/04/wild_type_v._shuford_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107441/wild-type-v-garcia/"
+    "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
   },
@@ -26084,6 +26076,206 @@
    "live_note": null
   },
   {
+   "id": "ca7-25-1704-2026-12-15",
+   "court": "ca7",
+   "docket": "25-1704",
+   "title": "USA v. Joseph Garza",
+   "date": "2026-12-15",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Criminal · Northern District of Illinois, Western Division · No. 3:22-cr-50037-1",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 1 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-15&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-1704&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-25-2588-2026-12-15",
+   "court": "ca7",
+   "docket": "25-2588",
+   "title": "USA v. Samuel Jackson",
+   "date": "2026-12-15",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Criminal · Northern District of Illinois, Eastern Division · No. 1:22-cr-00381-1",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 4 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-15&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-2588&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-25-2682-2026-12-15",
+   "court": "ca7",
+   "docket": "25-2682",
+   "title": "Aaron Fillmore v. Melissa Wise",
+   "date": "2026-12-15",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Prisoner · Southern District of Illinois · No. 3:22-cv-02705-GCS",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 5 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-15&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-2682&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-25-2830-2026-12-15",
+   "court": "ca7",
+   "docket": "25-2830",
+   "title": "Jaclyn Kelly v. USA",
+   "date": "2026-12-15",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Civil · Northern District of Illinois, Eastern Division · No. 1:23-cv-01867",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 3 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-15&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-2830&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-25-3182-2026-12-15",
+   "court": "ca7",
+   "docket": "25-3182",
+   "title": "USA v. James Ching",
+   "date": "2026-12-15",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Criminal · Eastern District of Wisconsin · No. 1:25-cr-00098-WCG-1",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 6 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-15&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=25-3182&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1089-2026-12-15",
+   "court": "ca7",
+   "docket": "26-1089",
+   "title": "USA v. Rodrigo Castro-Molina",
+   "date": "2026-12-15",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Criminal · Northern District of Illinois, Eastern Division · No. 1:24-cr-00170-1",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 7 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-15&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1089&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1712-2026-12-15",
+   "court": "ca7",
+   "docket": "26-1712",
+   "title": "Marlene Hernandez-De Rosales v. Todd Blanche",
+   "date": "2026-12-15",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Agency · Board of Immigration Appeals · No. A206-728-670",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 8 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-15&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1712&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
+   "id": "ca7-26-1739-2026-12-15",
+   "court": "ca7",
+   "docket": "26-1739",
+   "title": "USA v. Robert Trammell",
+   "date": "2026-12-15",
+   "time_local": "09:30",
+   "tz": "America/Chicago",
+   "location": "Chicago, IL",
+   "room": "Main Courtroom",
+   "origin": "Criminal · Eastern District of Wisconsin · No. 2:25-cr-00058-BHL-1",
+   "issue": null,
+   "notes": [
+    "10 min per side",
+    "No. 2 on the day's list"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-12-15&CourtRoom=both",
+    "live": "https://www.youtube.com/channel/UCWvXsHlWdsIJHy3R_znCUsA/streams",
+    "docket": "https://ecf.ca7.uscourts.gov/n/beam/servlet/TransportRoom?servlet=CaseSummary.jsp&caseNum=26-1739&incOrigDkt=Y&incDktEntries=Y"
+   },
+   "live_note": "The 7th Circuit streams arguments live on YouTube."
+  },
+  {
    "id": "ca8-25-1555-2026-12-15",
    "court": "ca8",
    "docket": "25-1555",
@@ -30007,6 +30199,29 @@
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
+  },
+  {
+   "id": "ca9-26-1100-2027-01-29",
+   "court": "ca9",
+   "docket": "26-1100",
+   "title": "Singh v. Blanche",
+   "date": "2027-01-29",
+   "time_local": "09:30",
+   "tz": "America/Los_Angeles",
+   "location": "Remote Hearing",
+   "room": "No Courtroom",
+   "origin": "Immigration · N. CA",
+   "issue": null,
+   "notes": [
+    "10 min per side"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2027-01-29&loc=REMOT",
+    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
+   },
+   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   }
  ],
  "sessions": [
