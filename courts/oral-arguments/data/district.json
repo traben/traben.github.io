@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T18:57:59+00:00",
+ "generated_at": "2026-11-16T22:12:35+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -32,7 +32,7 @@
      "type": "Motion Hearing",
      "time": "10:00",
      "room": "Courtroom 12",
-     "status": "scheduled",
+     "status": "held",
      "public_line": true,
      "noticed": "2026-11-04"
     }
@@ -45,9 +45,21 @@
    ],
    "recent": [
     {
+     "date": "2026-11-16",
+     "entry": 160,
+     "text": "TRANSCRIPT OF PROCEEDINGS before Judge Ana C. Reyes held on 11/13/2026; Page Numbers: 1-128. Date of Issuance:11/16/2026. Court Reporter Christine T. Asif, Telephone number 202-354-3247, Transcripts may be ordered by submitting the Transcript Order FormFor the first 90 days after this filing date, the transcript may be viewed at the courthouse at a public terminal or purchased from the court reporter referenced above. After 90 days, the transcript may be accessed via PACER. Other transcript formats, (multi-page, condensed, CD or ASCII) may be purchased from the court reporter.NOTICE RE REDACTI…",
+     "doc": null
+    },
+    {
+     "date": "2026-11-16",
+     "entry": null,
+     "text": "MINUTE ORDER. The Court ORDERS the parties to submit a Joint Status Report by 12:00 p.m. on Tuesday, November 17, 2026, that sets out a joint proposed briefing schedule for any preliminary injunction motion.The Court further ORDERS the parties in any preliminary injunction briefing to discuss the scope of any requested injunctive relief, including whether the Court may require the Government to operate East Potomac Golf Course in order to maintain the status quo. Signed by Judge Ana C. Reyes on 11/16/2026. (lcacr3)",
+     "doc": null
+    },
+    {
      "date": "2026-11-14",
      "entry": 159,
-     "text": "MEMORANDUM OPINION AND ORDER granting Plaintiffs'  139  Motion for Temporary Retraining Order. See document for details. Signed by Judge Ana C. Reyes on 11/14/2026. (lcacr1)",
+     "text": "MEMORANDUM OPINION AND ORDER granting Plaintiffs' 139 Motion for Temporary Retraining Order. See document for details. Signed by Judge Ana C. Reyes on 11/14/2026. (lcacr1) (Entered: 11/14/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.159.0_1.pdf"
     },
     {
@@ -55,6 +67,12 @@
      "entry": 158,
      "text": "NOTICE by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Attachments: # 1 Exhibit Categorical Exclusion Documentation Form, # 2 Exhibit Assessment of Actions Having an Effect on Historic Properties)(Robertson, Michael) (Entered: 11/14/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.158.0_2.pdf"
+    },
+    {
+     "date": "2026-11-13",
+     "entry": null,
+     "text": "Minute Entry for proceedings held before Judge Ana C. Reyes: Motion Hearing held on 11/13/2026 re 139 Motion for Temporary Restraining Order or, Alternatively, a 14-Day Stay Under 5 U.S.C. § 705 Against Closure of East Potomac Park. (Court Reporters: Christine Asif (AM) and William Zaremba (PM) (zcdw)",
+     "doc": null
     },
     {
      "date": "2026-11-13",
@@ -85,24 +103,6 @@
      "entry": null,
      "text": "MINUTE ORDER denying 153 Motion for Leave to Appear Pro Hac Vice. No answer was provided to Question 7 of the Declaration for Pro Hac Vice Admission. Counsel may correct and refile the Motion. Signed by Judge Ana C. Reyes on 11/12/2026. (lcacr3)",
      "doc": null
-    },
-    {
-     "date": "2026-11-12",
-     "entry": null,
-     "text": "MINUTE ORDER. Upon consideration of Dkt. 150, Dkt. 151, and the Hubbard factors, see United States v. Hubbard, 650 F.2d 293 (D.C. Cir. 1980), the Court ORDERS the Government to refile Dkt. 130 on the public docket without redaction by 5:00 p.m. today, November 12, 2026. There is a strong presumption of public access in litigation. Two of the three redacted names have already been discussed in open court, significantly reducing any asserted privacy interests because their identities are substantially associated with this matter in the public domain. There is little possibility of prejudice from…",
-     "doc": null
-    },
-    {
-     "date": "2026-11-12",
-     "entry": 152,
-     "text": "RESPONSE TO ORDER OF THE COURT re Order,,,,,, filed by DC PRESERVATION LEAGUE, ALEX DICKSON, DAVE ROBERTS. (Lowell, Abbe) (Entered: 11/12/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.152.0.pdf"
-    },
-    {
-     "date": "2026-11-12",
-     "entry": 151,
-     "text": "RESPONSE TO ORDER OF THE COURT re Order,,,, Order,,,,,,,, by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Piropato, Marissa) Modified event on 11/12/2026 (znmw). (Entered: 11/12/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.151.0.pdf"
     }
    ],
    "brief": {
@@ -263,7 +263,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-15"
+   "updated": "2026-11-16"
   },
   {
    "id": "ilnd-25-cr-693",
@@ -298,6 +298,36 @@
    "deadlines": [],
    "recent": [
     {
+     "date": "2026-11-15",
+     "entry": 316,
+     "text": "NOTICE of Motion by Henrique N Carneiro for presentment of motion for protective order 315 before Honorable April M. Perry on 12/2/2026 at 09:00 AM. (Carneiro, Henrique) (Entered: 11/15/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-15",
+     "entry": 315,
+     "text": "MOTION by USA for protective order as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh Presented before District Judge (Carneiro, Henrique) (Entered: 11/15/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.315.0.pdf"
+    },
+    {
+     "date": "2026-11-13",
+     "entry": 314,
+     "text": "NOTICE of of Certification by USA as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh regarding order on motion to withdraw as attorney,,,,,, terminate hearings,, set/reset hearings, 287 (Woodward, Stanley) (Entered: 11/13/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-12",
+     "entry": 313,
+     "text": "NOTICE of Amended Submission by USA as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh (Carneiro, Henrique) (Entered: 11/12/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-12",
+     "entry": 312,
+     "text": "MINUTE entry before the Honorable April M. Perry: At the request of counsel for intervenors and with the consent of DOJ, the hearing set for 11/16/2026 is moved to 12/2/2026 at 9:00 a.m. in person in Courtroom 1725. The 11/16/2026 date is converted to a status hearing. Mailed notice. (jcc,) (Entered: 11/12/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.312.0.pdf"
+    },
+    {
      "date": "2026-11-11",
      "entry": 311,
      "text": "MINUTE entry before the Honorable April M. Perry: The Government's \"motion for clarification,\" 305 is denied. The Court explained the reasons for the upcoming hearing in open court on 5/21/2026 and 10/5/2026. Docs. 187, 271. Moreover, the Court laid out its reasoning in writing in its Order of 11/2/2026. See Doc. 287. Finally, the Government's attorney agreed on 10/5/2026 that \"[t]his Court certainly has the authority to ask witnesses to come testify about factual matters.\" Doc. 271 at 26. Ultimately, the Government's professed lack of clarity about the Court's inherent authority to ask lawyer…",
@@ -325,36 +355,6 @@
      "date": "2026-11-10",
      "entry": 307,
      "text": "ATTORNEY Appearance for USA byMegan Cunniff Church for non-party intervenor Andres Almendarez (Church, Megan) (Entered: 11/10/2026)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-10",
-     "entry": 306,
-     "text": "NOTICE of Motion by Henrique N Carneiro for presentment of motion for miscellaneous relief, 305 before Honorable April M. Perry on 11/17/2026 at 10:30 AM. (Carneiro, Henrique) (Entered: 11/10/2026)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-10",
-     "entry": 305,
-     "text": "MOTION by USA for Clarification of Order Addressing Government's Response to October 9 Request for Evidence as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh Presented before District Judge (Carneiro, Henrique) (Entered: 11/10/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.305.0.pdf"
-    },
-    {
-     "date": "2026-11-10",
-     "entry": 304,
-     "text": "MINUTE entry before the Honorable April M. Perry: The Court acknowledges receipt of the Government's submissions on 11/9/2026. The Court notes that while production was optional under the Court's order, the form of production was not. For example, the Court ordered that electronic records \"must be produced with all associated metadata (for both emails and attachments) including read receipts, delivery status, and message tracking logs.\" See Doc. 276. The two 1-page emails that the Government produced were in pdf format, which does not provide any metadata about the email or attachment, includi…",
-     "doc": null
-    },
-    {
-     "date": "2026-11-10",
-     "entry": 303,
-     "text": "MINUTE entry before the Honorable Heather K. McShain: Telephonic status hearing held on 11/10/2026. In-person settlement conference set for 12/07/2026 at 12:30 p.m. in Courtroom 1025 on Hyde Amendment fees. Settlement position submissions as outlined during today's status hearing are due by 12/01/2026, and should be emailed to the Court at Settlement_Correspondence_McShain@ilnd.uscourts.gov. Please note that settlement submissions are not to be filed on the CM-ECF system. While not completely applicable to the settlement conference in this criminal matter, parties are directed to review Judge …",
-     "doc": null
-    },
-    {
-     "date": "2026-11-09",
-     "entry": 302,
-     "text": "NOTICE of Submission by USA as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh (Re: ECF No. 276) (Attachments: # 1 Supplement, # 2 Supplement)(Carneiro, Henrique) (Entered: 11/09/2026)",
      "doc": null
     }
    ],
@@ -476,7 +476,7 @@
     "through": "2026-11-09",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-15"
+   "updated": "2026-11-16"
   },
   {
    "id": "dcd-26-cv-544",
