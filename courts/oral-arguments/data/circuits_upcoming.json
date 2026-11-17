@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T03:59:06+00:00",
+ "generated_at": "2026-11-17T21:02:35+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -5811,7 +5811,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-16&loc=SE",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
+    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/16/moonshadow_mobile_inc._v._labels_and_lists_inc._cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107616/moonshadow-mobile-inc-v-labels-and-lists-inc/"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
@@ -5976,7 +5978,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-16&loc=SE",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
+    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/16/kuhk_v._playstudios_inc._cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107615/kuhk-v-playstudios-inc/"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
@@ -6049,7 +6053,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-16&loc=SE",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
+    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/16/franks_landing_indian_community_v._enlow_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107614/franks-landing-indian-community-et-al-v-enlow/"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
@@ -6598,7 +6604,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal3%28Rev.2%29_2.pdf",
-    "live": "https://video.ibm.com/channel/62DDAa3dN7z"
+    "live": "https://video.ibm.com/channel/62DDAa3dN7z",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/17/6064_noa_llc_v._the_city_of_orlando_cl_1.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107619/6064-noa-llc-v-the-city-of-orlando/"
    },
    "live_note": null
   },
@@ -6618,7 +6626,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal3%28Rev.2%29_2.pdf",
-    "live": "https://video.ibm.com/channel/62DDAa3dN7z"
+    "live": "https://video.ibm.com/channel/62DDAa3dN7z",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/17/jeffrey_johnson_v._gillis_construction_llc_cl_1.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107618/jeffrey-johnson-v-gillis-construction-llc/"
    },
    "live_note": null
   },
@@ -6638,7 +6648,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca11.uscourts.gov/sites/default/files/oral_arguments/cal3%28Rev.2%29_2.pdf",
-    "live": "https://video.ibm.com/channel/62DDAa3dN7z"
+    "live": "https://video.ibm.com/channel/62DDAa3dN7z",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/17/royal_potcake_rescue_v._centers_for_disease_and_control_and_prevention_cl_1.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107617/royal-potcake-rescue-v-centers-for-disease-and-control-and-prevention/"
    },
    "live_note": null
   },
@@ -6916,7 +6928,7 @@
     "10 min per side",
     "No. 4 on the day's list"
    ],
-   "panel": null,
+   "panel": "Diane S. Sykes, Amy J. St. Eve, Doris L. Pryor",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-17&CourtRoom=both",
@@ -6941,7 +6953,7 @@
     "10 min per side",
     "No. 7 on the day's list"
    ],
-   "panel": null,
+   "panel": "Diane S. Sykes, Amy J. St. Eve, Doris L. Pryor",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-17&CourtRoom=both",
@@ -6966,7 +6978,7 @@
     "10 min per side",
     "No. 8 on the day's list"
    ],
-   "panel": null,
+   "panel": "Diane S. Sykes, Amy J. St. Eve, Doris L. Pryor",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-17&CourtRoom=both",
@@ -6991,7 +7003,7 @@
     "10 min per side",
     "No. 2 on the day's list"
    ],
-   "panel": null,
+   "panel": "Diane S. Sykes, Amy J. St. Eve, Doris L. Pryor",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-17&CourtRoom=both",
@@ -7016,7 +7028,7 @@
     "10 min per side",
     "No. 3 on the day's list"
    ],
-   "panel": null,
+   "panel": "Diane S. Sykes, Amy J. St. Eve, Doris L. Pryor",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-17&CourtRoom=both",
@@ -7041,7 +7053,7 @@
     "10 min per side",
     "No. 1 on the day's list"
    ],
-   "panel": null,
+   "panel": "Diane S. Sykes, Amy J. St. Eve, Doris L. Pryor",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-17&CourtRoom=both",
@@ -7066,7 +7078,7 @@
     "10 min per side",
     "No. 6 on the day's list"
    ],
-   "panel": null,
+   "panel": "Diane S. Sykes, Amy J. St. Eve, Doris L. Pryor",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-17&CourtRoom=both",
@@ -7091,7 +7103,7 @@
     "10 min per side",
     "No. 9 on the day's list"
    ],
-   "panel": null,
+   "panel": "Diane S. Sykes, Amy J. St. Eve, Doris L. Pryor",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-17&CourtRoom=both",
@@ -7116,7 +7128,7 @@
     "15 min per side",
     "No. 10 on the day's list"
    ],
-   "panel": null,
+   "panel": "Michael Y. Scudder, Amy J. St. Eve, Candace Jackson-Akiwumi",
    "no_argument": false,
    "links": {
     "calendar": "https://media.ca7.uscourts.gov/cgi-bin/oralArgCal/getOralArgCalendar.pl?DateKey=2026-11-17&CourtRoom=both",
@@ -8139,7 +8151,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
-    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/17/united_states_institute_of_peace_v._kenneth_jackson_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107620/united-states-institute-of-peace-v-kenneth-jackson/"
    },
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
@@ -8160,7 +8174,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
-    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/17/travis_leblanc_v._united_states_privacy_and_civil_liberties_cl_1.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107621/travis-leblanc-v-united-states-privacy-and-civil-liberties/"
    },
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
@@ -8181,7 +8197,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
-    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting"
+    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/17/todd_harper_v._scott_bessent_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107622/todd-harper-v-scott-bessent/"
    },
    "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
   },
@@ -13505,29 +13523,6 @@
    "live_note": null
   },
   {
-   "id": "ca5-26-60316-2026-12-01",
-   "court": "ca5",
-   "docket": "26-60316",
-   "title": "Gore, Kilpatrick & Dambrino, Appellant v. Spinnaker Insurance Company, Et Al.",
-   "date": "2026-12-01",
-   "time_local": "09:00",
-   "tz": "America/Chicago",
-   "location": "New Orleans, LA",
-   "room": "En Banc Courtroom",
-   "origin": "Civil · Northern District of Mississippi, Greenville",
-   "issue": null,
-   "notes": [
-    "20 min per side"
-   ],
-   "panel": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca5.uscourts.gov/court-calendars/sitting?d=2026-12-01",
-    "live": "https://www.ca5.uscourts.gov/live-streams"
-   },
-   "live_note": null
-  },
-  {
    "id": "ca5-26-20568-2026-12-01",
    "court": "ca5",
    "docket": "26-20568",
@@ -15665,11 +15660,9 @@
    "room": "Courtroom 3",
    "origin": "Immigration · BIA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-07&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -17813,11 +17806,9 @@
    "room": "Courtroom 3",
    "origin": "Immigration · BIA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-08&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -26749,11 +26740,9 @@
    "room": "Courtroom 3",
    "origin": "Immigration · BIA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2027-01-12&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"

@@ -1,5 +1,5 @@
 {
- "today": "2026-11-16",
+ "today": "2026-11-17",
  "days": [
   {
    "date": "2026-11-02",
@@ -935,17 +935,6 @@
        "nature": "Bankruptcy",
        "natureClass": "bkr",
        "origin": "Southern District of Texas, Houston",
-       "perSide": 20,
-       "submitted": false,
-       "specialNote": null
-      },
-      {
-       "time": "09:00",
-       "docket": "26-60316",
-       "caption": "Gore, Kilpatrick & Dambrino, Appellant v. Spinnaker Insurance Company, Et Al.",
-       "nature": "Civil",
-       "natureClass": "civ",
-       "origin": "Northern District of Mississippi, Greenville",
        "perSide": 20,
        "submitted": false,
        "specialNote": null

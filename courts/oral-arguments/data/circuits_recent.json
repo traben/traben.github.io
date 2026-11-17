@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-11-17T03:56:37+00:00",
+  "generated_at": "2026-11-17T21:00:00+00:00",
   "window_days": 10,
   "source": "CourtListener oral argument search (Free Law Project)",
   "cases": [
+    {
+      "id": "cl-107619",
+      "court": "ca11",
+      "docket": "25-13271",
+      "title": "6064 NOA, LLC v. The City of Orlando",
+      "date": "2026-11-17",
+      "duration_sec": 2282,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/6064_noa_llc_v._the_city_of_orlando_cl_1.mp3",
+      "page": "https://www.courtlistener.com/audio/107619/6064-noa-llc-v-the-city-of-orlando/"
+    },
+    {
+      "id": "cl-107618",
+      "court": "ca11",
+      "docket": "25-13691",
+      "title": "Jeffrey Johnson v. Gillis Construction, LLC",
+      "date": "2026-11-17",
+      "duration_sec": 1824,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/jeffrey_johnson_v._gillis_construction_llc_cl_1.mp3",
+      "page": "https://www.courtlistener.com/audio/107618/jeffrey-johnson-v-gillis-construction-llc/"
+    },
+    {
+      "id": "cl-107617",
+      "court": "ca11",
+      "docket": "25-14172",
+      "title": "Royal Potcake Rescue v. Centers for Disease and Control and Prevention",
+      "date": "2026-11-17",
+      "duration_sec": 1672,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/royal_potcake_rescue_v._centers_for_disease_and_control_and_prevention_cl_1.mp3",
+      "page": "https://www.courtlistener.com/audio/107617/royal-potcake-rescue-v-centers-for-disease-and-control-and-prevention/"
+    },
+    {
+      "id": "cl-107622",
+      "court": "cadc",
+      "docket": "25-5268",
+      "title": "Todd Harper v. Scott Bessent",
+      "date": "2026-11-17",
+      "duration_sec": 1648,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/todd_harper_v._scott_bessent_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107622/todd-harper-v-scott-bessent/"
+    },
+    {
+      "id": "cl-107621",
+      "court": "cadc",
+      "docket": "25-5197",
+      "title": "Travis LeBlanc v. United States Privacy and Civil Liberties",
+      "date": "2026-11-17",
+      "duration_sec": 2005,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/travis_leblanc_v._united_states_privacy_and_civil_liberties_cl_1.mp3",
+      "page": "https://www.courtlistener.com/audio/107621/travis-leblanc-v-united-states-privacy-and-civil-liberties/"
+    },
+    {
+      "id": "cl-107620",
+      "court": "cadc",
+      "docket": "25-5185",
+      "title": "United States Institute of Peace v. Kenneth Jackson",
+      "date": "2026-11-17",
+      "duration_sec": 3768,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/united_states_institute_of_peace_v._kenneth_jackson_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107620/united-states-institute-of-peace-v-kenneth-jackson/"
+    },
     {
       "id": "cl-107613",
       "court": "ca10",
@@ -304,6 +364,16 @@
       "page": "https://www.courtlistener.com/audio/107583/dz-reserve-et-al-v-meta-platforms-inc/"
     },
     {
+      "id": "cl-107614",
+      "court": "ca9",
+      "docket": "26-2495",
+      "title": "Frank's Landing Indian Community v. Enlow",
+      "date": "2026-11-16",
+      "duration_sec": 1928,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/franks_landing_indian_community_v._enlow_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107614/franks-landing-indian-community-et-al-v-enlow/"
+    },
+    {
       "id": "cl-107579",
       "court": "ca9",
       "docket": "26-1020",
@@ -312,6 +382,16 @@
       "duration_sec": 2168,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/guevara_v._larose_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107579/guevara-v-larose-et-al/"
+    },
+    {
+      "id": "cl-107615",
+      "court": "ca9",
+      "docket": "26-1356",
+      "title": "Kuhk v. Playstudios, Inc.",
+      "date": "2026-11-16",
+      "duration_sec": 1368,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/kuhk_v._playstudios_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107615/kuhk-v-playstudios-inc/"
     },
     {
       "id": "cl-107589",
@@ -332,6 +412,16 @@
       "duration_sec": 1797,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/medina_escobar_v._blanche_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107578/medina-escobar-v-blanche-et-al/"
+    },
+    {
+      "id": "cl-107616",
+      "court": "ca9",
+      "docket": "25-540",
+      "title": "Moonshadow Mobile, Inc. v. Labels and Lists, Inc.",
+      "date": "2026-11-16",
+      "duration_sec": 2893,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/moonshadow_mobile_inc._v._labels_and_lists_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107616/moonshadow-mobile-inc-v-labels-and-lists-inc/"
     },
     {
       "id": "cl-107586",
