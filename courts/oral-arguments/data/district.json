@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:12:35+00:00",
+ "generated_at": "2026-11-17T03:59:11+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -46,6 +46,24 @@
    "recent": [
     {
      "date": "2026-11-16",
+     "entry": 162,
+     "text": "NOTICE OF FILING REDACTED DOCUMENT by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Attachments: # 1 Exhibit)(Robertson, Michael) (Entered: 11/16/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.162.0.pdf"
+    },
+    {
+     "date": "2026-11-16",
+     "entry": 161,
+     "text": "SEALED DOCUMENT filed by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE(This document is SEALED and only available to authorized persons.) (Attachments: # 1 Exhibit, # 2 Exhibit, # 3 Exhibit)(Robertson, Michael) (Entered: 11/16/2026)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-16",
+     "entry": null,
+     "text": "Minute Entry for proceedings held before Judge Ana C. Reyes: Motion Hearing held on 11/13/2026 re 139 Motion for Temporary Restraining Order or, Alternatively, a 14-Day Stay Under 5 U.S.C. § 705 Against Closure of East Potomac Park. (Court Reporters: Christine Asif (AM) and William Zaremba (PM) (zcdw)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-16",
      "entry": 160,
      "text": "TRANSCRIPT OF PROCEEDINGS before Judge Ana C. Reyes held on 11/13/2026; Page Numbers: 1-128. Date of Issuance:11/16/2026. Court Reporter Christine T. Asif, Telephone number 202-354-3247, Transcripts may be ordered by submitting the Transcript Order FormFor the first 90 days after this filing date, the transcript may be viewed at the courthouse at a public terminal or purchased from the court reporter referenced above. After 90 days, the transcript may be accessed via PACER. Other transcript formats, (multi-page, condensed, CD or ASCII) may be purchased from the court reporter.NOTICE RE REDACTI…",
      "doc": null
@@ -85,24 +103,6 @@
      "entry": 156,
      "text": "RESPONSE TO ORDER OF THE COURT Defendants' Response to the Court's November 7, 2026, Minute Order by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Attachments: # 1 Exhibit)(Robertson, Michael) Modified event on 11/13/2026 (znmw). (Entered: 11/13/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.156.0.pdf"
-    },
-    {
-     "date": "2026-11-12",
-     "entry": 155,
-     "text": "NOTICE of Record of Determination by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Robertson, Michael) (Entered: 11/12/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.155.0.pdf"
-    },
-    {
-     "date": "2026-11-12",
-     "entry": 154,
-     "text": "NOTICE by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE re Order,,,, Order,,,, (Attachments: # 1 Supplement)(Block, Andrew) (Entered: 11/12/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.154.0.pdf"
-    },
-    {
-     "date": "2026-11-12",
-     "entry": null,
-     "text": "MINUTE ORDER denying 153 Motion for Leave to Appear Pro Hac Vice. No answer was provided to Question 7 of the Declaration for Pro Hac Vice Admission. Counsel may correct and refile the Motion. Signed by Judge Ana C. Reyes on 11/12/2026. (lcacr3)",
-     "doc": null
     }
    ],
    "brief": {
@@ -263,7 +263,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-16"
+   "updated": "2026-11-17"
   },
   {
    "id": "ilnd-25-cr-693",
@@ -476,7 +476,7 @@
     "through": "2026-11-09",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-16"
+   "updated": "2026-11-17"
   },
   {
    "id": "dcd-26-cv-544",
