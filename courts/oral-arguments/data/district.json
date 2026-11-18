@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T21:02:42+00:00",
+ "generated_at": "2026-11-18T02:59:25+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -46,9 +46,39 @@
    "recent": [
     {
      "date": "2026-11-17",
+     "entry": 165,
+     "text": "NOTICE by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Attachments: # 1 Exhibit Declaration of Dr. Kevin Griess)(Robertson, Michael) (Entered: 11/17/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.165.0.pdf"
+    },
+    {
+     "date": "2026-11-17",
+     "entry": null,
+     "text": "MINUTE ORDER. In the 163 Joint Status Report, Plaintiffs indicated that they intended to file a motion to seek expedited discovery. Any such motion must be filed on or before Wednesday, November 18, at 4 p.m. Any opposition is due on or before Friday, November 20, at 4 p.m. Signed by Judge Ana C. Reyes on 11/17/2026. (lcacr3)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-17",
+     "entry": 164,
+     "text": "NOTICE OF WITHDRAWAL OF APPEARANCE as to JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. Attorney Robert N. Stander terminated. (Stander, Robert) (Entered: 11/17/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.164.0.pdf"
+    },
+    {
+     "date": "2026-11-17",
+     "entry": null,
+     "text": "DEPOSIT of Bond re 159 in the amount of $ 1.00, Receipt Number 212917. (zjm)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-17",
      "entry": 163,
      "text": "Joint STATUS REPORT Regarding Briefing Schedule for Plaintiffs' Forthcoming Preliminary Injunction Motion by DC PRESERVATION LEAGUE, ALEX DICKSON, DAVE ROBERTS. (Bardwell, Will) (Entered: 11/17/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.163.0_2.pdf"
+    },
+    {
+     "date": "2026-11-16",
+     "entry": null,
+     "text": "DEPOSIT of Bond re 159 in the amount of $ 1.00, Receipt Number 212917. (zjm)",
+     "doc": null
     },
     {
      "date": "2026-11-16",
@@ -72,36 +102,6 @@
      "date": "2026-11-16",
      "entry": 160,
      "text": "TRANSCRIPT OF PROCEEDINGS before Judge Ana C. Reyes held on 11/13/2026; Page Numbers: 1-128. Date of Issuance:11/16/2026. Court Reporter Christine T. Asif, Telephone number 202-354-3247, Transcripts may be ordered by submitting the Transcript Order FormFor the first 90 days after this filing date, the transcript may be viewed at the courthouse at a public terminal or purchased from the court reporter referenced above. After 90 days, the transcript may be accessed via PACER. Other transcript formats, (multi-page, condensed, CD or ASCII) may be purchased from the court reporter.NOTICE RE REDACTI…",
-     "doc": null
-    },
-    {
-     "date": "2026-11-16",
-     "entry": null,
-     "text": "MINUTE ORDER. The Court ORDERS the parties to submit a Joint Status Report by 12:00 p.m. on Tuesday, November 17, 2026, that sets out a joint proposed briefing schedule for any preliminary injunction motion.The Court further ORDERS the parties in any preliminary injunction briefing to discuss the scope of any requested injunctive relief, including whether the Court may require the Government to operate East Potomac Golf Course in order to maintain the status quo. Signed by Judge Ana C. Reyes on 11/16/2026. (lcacr3)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-14",
-     "entry": 159,
-     "text": "MEMORANDUM OPINION AND ORDER granting Plaintiffs' 139 Motion for Temporary Retraining Order. See document for details. Signed by Judge Ana C. Reyes on 11/14/2026. (lcacr1) (Entered: 11/14/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.159.0_2.pdf"
-    },
-    {
-     "date": "2026-11-14",
-     "entry": 158,
-     "text": "NOTICE by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Attachments: # 1 Exhibit Categorical Exclusion Documentation Form, # 2 Exhibit Assessment of Actions Having an Effect on Historic Properties)(Robertson, Michael) (Entered: 11/14/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.158.0_2.pdf"
-    },
-    {
-     "date": "2026-11-13",
-     "entry": null,
-     "text": "Minute Entry for proceedings held before Judge Ana C. Reyes: Motion Hearing held on 11/13/2026 re 139 Motion for Temporary Restraining Order or, Alternatively, a 14-Day Stay Under 5 U.S.C. § 705 Against Closure of East Potomac Park. (Court Reporters: Christine Asif (AM) and William Zaremba (PM) (zcdw)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-13",
-     "entry": null,
-     "text": "MINUTE ORDER granting 157 Motion for Leave to Appear Pro Hac Vice. Attorney Monisha Cherayil is admitted pro hac vice. Counsel should register for e-filing via PACER and file a notice of appearance pursuant to LCvR 83.6(a) Click for instructions. Signed by Judge Ana C. Reyes on 11/13/2026. (lcacr3)",
      "doc": null
     }
    ],
@@ -263,7 +263,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-17"
+   "updated": "2026-11-18"
   },
   {
    "id": "ilnd-25-cr-693",
@@ -476,7 +476,7 @@
     "through": "2026-11-09",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-17"
+   "updated": "2026-11-18"
   },
   {
    "id": "dcd-26-cv-544",
