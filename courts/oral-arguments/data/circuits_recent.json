@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-11-18T02:56:54+00:00",
+  "generated_at": "2026-11-18T20:37:30+00:00",
   "window_days": 10,
   "source": "CourtListener oral argument search (Free Law Project)",
   "cases": [
+    {
+      "id": "cl-107672",
+      "court": "ca11",
+      "docket": "25-13447",
+      "title": "Janet Morris v. Lincare, Inc.",
+      "date": "2026-11-18",
+      "duration_sec": 2110,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/janet_morris_v._lincare_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107672/janet-morris-v-lincare-inc/"
+    },
+    {
+      "id": "cl-107671",
+      "court": "ca11",
+      "docket": "25-14117",
+      "title": "Lissa Hostomsky v. David Burgess",
+      "date": "2026-11-18",
+      "duration_sec": 2419,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/lissa_hostomsky_v._david_burgess_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107671/lissa-hostomsky-v-david-burgess/"
+    },
+    {
+      "id": "cl-107670",
+      "court": "ca11",
+      "docket": "25-10546",
+      "title": "Pablo Arthur-Rodger v. The Northern Trust Company",
+      "date": "2026-11-18",
+      "duration_sec": 2411,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/pablo_arthur-rodger_v._the_northern_trust_company_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107670/pablo-arthur-rodger-v-the-northern-trust-company/"
+    },
+    {
+      "id": "cl-107669",
+      "court": "ca6",
+      "docket": "25-3921",
+      "title": "Kareem Jackson v. Tim Shoop",
+      "date": "2026-11-18",
+      "duration_sec": 3944,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/kareem_jackson_v._tim_shoop_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107669/kareem-jackson-v-tim-shoop/"
+    },
+    {
+      "id": "cl-107677",
+      "court": "ca6",
+      "docket": "26-1092",
+      "title": "Scott Jones v. St Clair County MI",
+      "date": "2026-11-18",
+      "duration_sec": 1938,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/scott_jones_v._st_clair_county_mi_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107677/scott-jones-v-st-clair-county-mi/"
+    },
     {
       "id": "cl-107619",
       "court": "ca11",
@@ -52,6 +102,36 @@
       "duration_sec": 1787,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/united_states_v._falzarano_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107634/united-states-v-falzarano/"
+    },
+    {
+      "id": "cl-107668",
+      "court": "ca3",
+      "docket": "26-1014",
+      "title": "Go v. Josh Shapiro v. US Dept Agriculture",
+      "date": "2026-11-17",
+      "duration_sec": 3050,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/go_v._josh_shapiro_v._us_dept_agriculture_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107668/josh-shapiro-v-us-department-of-agriculture/"
+    },
+    {
+      "id": "cl-107667",
+      "court": "ca3",
+      "docket": "25-3269",
+      "title": "Kravitz v. Samson Energy Co",
+      "date": "2026-11-17",
+      "duration_sec": 3260,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/kravitz_v._samson_energy_co_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107667/peter-kravitz-v-samson-energy-co-llc/"
+    },
+    {
+      "id": "cl-107666",
+      "court": "ca3",
+      "docket": "25-2888",
+      "title": "Wax v. Trustees Uni v. Penn",
+      "date": "2026-11-17",
+      "duration_sec": 3559,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/wax_v._trustees_uni_v._penn_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107666/amy-wax-v-trustees-of-the-university-of-pennsylvania/"
     },
     {
       "id": "cl-107627",
@@ -1084,6 +1164,26 @@
       "page": "https://www.courtlistener.com/audio/107525/ali-v-blanche/"
     },
     {
+      "id": "cl-107507",
+      "court": "ca2",
+      "docket": "25-2108",
+      "title": "Betts v. Sixty Lower East Side, LLC",
+      "date": "2026-11-09",
+      "duration_sec": 2687,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/betts_v._sixty_lower_east_side_llc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107507/betts-v-sixty-lower-east-side-llc/"
+    },
+    {
+      "id": "cl-107506",
+      "court": "ca2",
+      "docket": "25-2547",
+      "title": "Mejia Diaz v. Blanche",
+      "date": "2026-11-09",
+      "duration_sec": 1367,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/mejia_diaz_v._blanche_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107506/mejia-diaz-v-blanche/"
+    },
+    {
       "id": "cl-107527",
       "court": "ca3",
       "docket": "25-3582",
@@ -1134,6 +1234,26 @@
       "page": "https://www.courtlistener.com/audio/107517/evan-beine-v-childrens-hospital-and-health-system-inc/"
     },
     {
+      "id": "cl-107516",
+      "court": "ca7",
+      "docket": "25-3238",
+      "title": "Norguard Insurance Company v. MB Real Estate Services, Inc.",
+      "date": "2026-11-09",
+      "duration_sec": 1923,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/norguard_insurance_company_v._mb_real_estate_services_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107516/norguard-insurance-company-v-mb-real-estate-services-inc/"
+    },
+    {
+      "id": "cl-107515",
+      "court": "ca7",
+      "docket": "25-2701",
+      "title": "United States v. Jeramie J. Mason",
+      "date": "2026-11-09",
+      "duration_sec": 1297,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/united_states_v._jeramie_j._mason_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107515/united-states-v-jeramie-j-mason/"
+    },
+    {
       "id": "cl-107528",
       "court": "ca9",
       "docket": "21-70966",
@@ -1174,6 +1294,26 @@
       "page": "https://www.courtlistener.com/audio/107520/prescript-pharmaceuticals-inc-v-doj/"
     },
     {
+      "id": "cl-107514",
+      "court": "cafc",
+      "docket": "25-1875",
+      "title": "Acadia Pharmaceuticals Inc. v. Aurobindo Pharma Ltd.",
+      "date": "2026-11-09",
+      "duration_sec": 1968,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/acadia_pharmaceuticals_inc._v._aurobindo_pharma_ltd._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107514/acadia-pharmaceuticals-inc-v-aurobindo-pharma-ltd/"
+    },
+    {
+      "id": "cl-107513",
+      "court": "cafc",
+      "docket": "25-1413",
+      "title": "Gill v. Collins",
+      "date": "2026-11-09",
+      "duration_sec": 1431,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/gill_v._collins_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107513/gill-v-collins/"
+    },
+    {
       "id": "cl-107531",
       "court": "cafc",
       "docket": "25-1509",
@@ -1182,6 +1322,16 @@
       "duration_sec": 2458,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/guntert__zimmerman_const._div._inc._v._gomaco_corporation_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107531/guntert-zimmerman-const-div-inc-v-gomaco-corporation/"
+    },
+    {
+      "id": "cl-107512",
+      "court": "cafc",
+      "docket": "25-1777",
+      "title": "Hendricks v. DHS",
+      "date": "2026-11-09",
+      "duration_sec": 1471,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/hendricks_v._dhs_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107512/hendricks-v-dhs/"
     },
     {
       "id": "cl-107530",
@@ -1194,6 +1344,36 @@
       "page": "https://www.courtlistener.com/audio/107530/in-re-blaze-mobile-inc/"
     },
     {
+      "id": "cl-107511",
+      "court": "cafc",
+      "docket": "25-1883",
+      "title": "Kaotica IP Corp. v. Iconic Mars Corporation",
+      "date": "2026-11-09",
+      "duration_sec": 1949,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/kaotica_ip_corp._v._iconic_mars_corporation_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107511/kaotica-ip-corp-v-iconic-mars-corporation/"
+    },
+    {
+      "id": "cl-107510",
+      "court": "cafc",
+      "docket": "25-1262",
+      "title": "Medytox, Inc. v. ITC",
+      "date": "2026-11-09",
+      "duration_sec": 1850,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/medytox_inc._v._itc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107510/medytox-inc-v-itc/"
+    },
+    {
+      "id": "cl-107509",
+      "court": "cafc",
+      "docket": "24-1894",
+      "title": "Natera, Inc. v. CareDx, Inc.",
+      "date": "2026-11-09",
+      "duration_sec": 2205,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/natera_inc._v._caredx_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107509/natera-inc-v-caredx-inc/"
+    },
+    {
       "id": "cl-107529",
       "court": "cafc",
       "docket": "25-1585",
@@ -1202,6 +1382,16 @@
       "duration_sec": 1507,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/never-search_inc._v._google_llc_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107529/never-search-inc-v-google-llc/"
+    },
+    {
+      "id": "cl-107508",
+      "court": "cafc",
+      "docket": "25-1525",
+      "title": "VL Collective IP, LLC v. Netflix, Inc.",
+      "date": "2026-11-09",
+      "duration_sec": 2260,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/09/vl_collective_ip_llc_v._netflix_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107508/vl-collective-ip-llc-v-netflix-inc/"
     }
   ]
 }
