@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-11-19T02:38:27+00:00",
+  "generated_at": "2026-11-19T20:43:33+00:00",
   "window_days": 10,
   "source": "CourtListener oral argument search (Free Law Project)",
   "cases": [
+    {
+      "id": "cl-107735",
+      "court": "ca11",
+      "docket": "23-10624",
+      "title": "United States v. Isaac Enrique Oyando",
+      "date": "2026-11-19",
+      "duration_sec": 1854,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/19/united_states_v._isaac_enrique_oyando_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107735/united-states-v-isaac-enrique-oyando/"
+    },
+    {
+      "id": "cl-107734",
+      "court": "ca11",
+      "docket": "24-11681",
+      "title": "United States v. Javier Vazquez",
+      "date": "2026-11-19",
+      "duration_sec": 1500,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/19/united_states_v._javier_vazquez_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107734/united-states-v-javier-vazquez/"
+    },
+    {
+      "id": "cl-107733",
+      "court": "ca11",
+      "docket": "25-10889",
+      "title": "United States v. Kenneth Ridgard",
+      "date": "2026-11-19",
+      "duration_sec": 1718,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/19/united_states_v._kenneth_ridgard_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107733/united-states-v-kenneth-ridgard/"
+    },
+    {
+      "id": "cl-107732",
+      "court": "ca11",
+      "docket": "25-10826",
+      "title": "United States v. Lewis Scott",
+      "date": "2026-11-19",
+      "duration_sec": 1845,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/19/united_states_v._lewis_scott_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107732/united-states-v-lewis-scott/"
+    },
+    {
+      "id": "cl-107740",
+      "court": "ca2",
+      "docket": "25-1848",
+      "title": "Richards v. Mount Sinai South Nassau",
+      "date": "2026-11-19",
+      "duration_sec": 1475,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/19/richards_v._mount_sinai_south_nassau_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107740/richards-v-mount-sinai-south-nassau/"
+    },
+    {
+      "id": "cl-107738",
+      "court": "ca2",
+      "docket": "25-2159",
+      "title": "United States v. Nagi",
+      "date": "2026-11-19",
+      "duration_sec": 2213,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/19/united_states_v._nagi_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107738/united-states-v-nagi/"
+    },
+    {
+      "id": "cl-107737",
+      "court": "cadc",
+      "docket": "26-7003",
+      "title": "Reade Whitney v. DC Soccer, LLC",
+      "date": "2026-11-19",
+      "duration_sec": 2528,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/19/reade_whitney_v._dc_soccer_llc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107737/reade-whitney-v-dc-soccer-llc/"
+    },
+    {
+      "id": "cl-107736",
+      "court": "cadc",
+      "docket": "25-1289",
+      "title": "United States Postal Service v. Postal Regulatory Commission",
+      "date": "2026-11-19",
+      "duration_sec": 1844,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/19/united_states_postal_service_v._postal_regulatory_commission_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107736/usps-v-prc/"
+    },
     {
       "id": "cl-107672",
       "court": "ca11",
@@ -72,6 +152,16 @@
       "duration_sec": 1103,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/united_states_v._roman_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107680/united-states-v-roman/"
+    },
+    {
+      "id": "cl-107731",
+      "court": "ca3",
+      "docket": "26-1015",
+      "title": "Heckman v. North Penn Comprehensive Health Services",
+      "date": "2026-11-18",
+      "duration_sec": 2688,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/heckman_v._north_penn_comprehensive_health_services_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107731/matthew-heckman-v-north-penn-comprehensive-health-services/"
     },
     {
       "id": "cl-107678",
@@ -169,8 +259,8 @@
       "docket": "26-1478",
       "title": "United States v. Timothy Starks",
       "date": "2026-11-18",
-      "duration_sec": 1057,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/united_states_v._timothy_starks_cl.mp3",
+      "duration_sec": 908,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/united_states_v._timothy_starks_cl_1.mp3",
       "page": "https://www.courtlistener.com/audio/107686/united-states-v-timothy-starks/"
     },
     {
@@ -532,6 +622,66 @@
       "duration_sec": 1831,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/christopher_scruggs_v._jason_smiley_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107627/christopher-scruggs-v-jason-smiley/"
+    },
+    {
+      "id": "cl-107729",
+      "court": "ca7",
+      "docket": "25-3109",
+      "title": "Erika Cox v. Frank Bisignano",
+      "date": "2026-11-17",
+      "duration_sec": 1353,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/erika_cox_v._frank_bisignano_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107729/erika-cox-v-frank-bisignano/"
+    },
+    {
+      "id": "cl-107728",
+      "court": "ca7",
+      "docket": "25-1725",
+      "title": "Michael Arquero v. City of Chicago",
+      "date": "2026-11-17",
+      "duration_sec": 1150,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/michael_arquero_v._city_of_chicago_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107728/michael-arquero-v-city-of-chicago/"
+    },
+    {
+      "id": "cl-107727",
+      "court": "ca7",
+      "docket": "26-1674",
+      "title": "Oyundulam Enkhtaivan v. Todd Blanche",
+      "date": "2026-11-17",
+      "duration_sec": 1010,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/oyundulam_enkhtaivan_v._todd_blanche_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107727/oyundulam-enkhtaivan-v-todd-blanche/"
+    },
+    {
+      "id": "cl-107726",
+      "court": "ca7",
+      "docket": "26-1902",
+      "title": "United States v. Andy Seda-Colon",
+      "date": "2026-11-17",
+      "duration_sec": 920,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/united_states_v._andy_seda-colon_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107726/united-states-v-andy-seda-colon/"
+    },
+    {
+      "id": "cl-107730",
+      "court": "ca7",
+      "docket": "25-3343",
+      "title": "United States v. Houston Clyde",
+      "date": "2026-11-17",
+      "duration_sec": 2450,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/united_states_v._houston_clyde_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107730/united-states-v-houston-clyde/"
+    },
+    {
+      "id": "cl-107725",
+      "court": "ca7",
+      "docket": "25-3151",
+      "title": "United States v. Shane Morgan",
+      "date": "2026-11-17",
+      "duration_sec": 860,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/united_states_v._shane_morgan_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107725/united-states-v-shane-morgan/"
     },
     {
       "id": "cl-107644",
@@ -1034,46 +1184,6 @@
       "page": "https://www.courtlistener.com/audio/107594/redt-homes-v-city-and-county-of-denver/"
     },
     {
-      "id": "cl-107573",
-      "court": "ca11",
-      "docket": "25-13565",
-      "title": "Alyssa Russo v. Progressive Select Insurance Company",
-      "date": "2026-11-16",
-      "duration_sec": 1874,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/alyssa_russo_v._progressive_select_insurance_company_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107573/alyssa-russo-v-progressive-select-insurance-company/"
-    },
-    {
-      "id": "cl-107572",
-      "court": "ca11",
-      "docket": "25-13729",
-      "title": "Heather Swann v. Sheriff, Clay County",
-      "date": "2026-11-16",
-      "duration_sec": 2780,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/heather_swann_v._sheriff_clay_county_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107572/heather-swann-v-sheriff-clay-county/"
-    },
-    {
-      "id": "cl-107571",
-      "court": "ca11",
-      "docket": "25-14171",
-      "title": "Preston Damsky v. Chris Summerlin",
-      "date": "2026-11-16",
-      "duration_sec": 2828,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/preston_damsky_v._chris_summerlin_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107571/preston-damsky-v-chris-summerlin/"
-    },
-    {
-      "id": "cl-107570",
-      "court": "ca11",
-      "docket": "25-12827",
-      "title": "United States v. Lagarius Johnson",
-      "date": "2026-11-16",
-      "duration_sec": 1828,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/united_states_v._lagarius_johnson_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107570/united-states-v-lagarius-johnson/"
-    },
-    {
       "id": "cl-107593",
       "court": "ca2",
       "docket": "26-49",
@@ -1292,116 +1402,6 @@
       "duration_sec": 3671,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/new_york_times_company_v._dod_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107575/new-york-times-company-v-dod/"
-    },
-    {
-      "id": "cl-107574",
-      "court": "cadc",
-      "docket": "25-1119",
-      "title": "Service Employees International Union v. NLRB",
-      "date": "2026-11-16",
-      "duration_sec": 2898,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/service_employees_international_union_v._nlrb_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107574/service-employees-international-union-v-nlrb/"
-    },
-    {
-      "id": "cl-107566",
-      "court": "ca2",
-      "docket": "25-2605",
-      "title": "In Re: New York City Board of Education",
-      "date": "2026-11-13",
-      "duration_sec": 2083,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/13/in_re_new_york_city_board_of_education_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107566/in-re-new-york-city-board-of-education/"
-    },
-    {
-      "id": "cl-107565",
-      "court": "ca2",
-      "docket": "26-12",
-      "title": "West v. City of Hartford",
-      "date": "2026-11-13",
-      "duration_sec": 1802,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/13/west_v._city_of_hartford_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107565/west-v-city-of-hartford/"
-    },
-    {
-      "id": "cl-107569",
-      "court": "cadc",
-      "docket": "24-1361",
-      "title": "American Electric Power Service Corporation v. FERC",
-      "date": "2026-11-13",
-      "duration_sec": 2542,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/13/american_electric_power_service_corporation_v._ferc_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107569/american-electric-power-service-corporation-v-ferc/"
-    },
-    {
-      "id": "cl-107568",
-      "court": "cadc",
-      "docket": "26-7004",
-      "title": "Michael Leach v. DC",
-      "date": "2026-11-13",
-      "duration_sec": 2001,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/13/michael_leach_v._dc_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107568/michael-leach-v-dc/"
-    },
-    {
-      "id": "cl-107567",
-      "court": "cadc",
-      "docket": "25-5196",
-      "title": "Michelle Murray v. Debbie Shaw",
-      "date": "2026-11-13",
-      "duration_sec": 2594,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/13/michelle_murray_v._debbie_shaw_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107567/michelle-murray-v-debbie-shaw/"
-    },
-    {
-      "id": "cl-107561",
-      "court": "ca7",
-      "docket": "26-2473",
-      "title": "ACT Now Coalition v. EDUC",
-      "date": "2026-11-12",
-      "duration_sec": 2037,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/act_now_coalition_v._educ_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107561/act-now-coalition-v-educ/"
-    },
-    {
-      "id": "cl-107560",
-      "court": "ca7",
-      "docket": "26-1368",
-      "title": "Matthew Haynam v. City of Chicago",
-      "date": "2026-11-12",
-      "duration_sec": 1164,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/matthew_haynam_v._city_of_chicago_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107560/matthew-haynam-v-city-of-chicago/"
-    },
-    {
-      "id": "cl-107559",
-      "court": "ca7",
-      "docket": "26-1877",
-      "title": "Norfolk Southern Railway Compa v. Soo Line Railroad Company",
-      "date": "2026-11-12",
-      "duration_sec": 1874,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/norfolk_southern_railway_compa_v._soo_line_railroad_company_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107559/norfolk-southern-railway-compa-v-soo-line-railroad-company/"
-    },
-    {
-      "id": "cl-107558",
-      "court": "ca7",
-      "docket": "26-1289",
-      "title": "Roshani Sheth v. National Association of Realto",
-      "date": "2026-11-12",
-      "duration_sec": 1919,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/roshani_sheth_v._national_association_of_realto_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107558/roshani-sheth-v-national-association-of-realto/"
-    },
-    {
-      "id": "cl-107557",
-      "court": "ca7",
-      "docket": "26-1407",
-      "title": "Timothy Mims v. Lisa Hastetter",
-      "date": "2026-11-12",
-      "duration_sec": 930,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/12/timothy_mims_v._lisa_hastetter_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107557/timothy-mims-v-lisa-hastetter/"
     }
   ]
 }

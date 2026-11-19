@@ -1,0 +1,29 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+  "ca3dev_locationtime": "St. Thomas, VI - Courtroom No. 3 / 9:00am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "4d35f9df-3ee4-f111-84e8-001dd8309117",
+  "ca3dev_casenumber": "25-2936",
+  "ca3dev_caption": "Gandee & Associates Inc v. Virgin Islands Housing Finance Au"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+  "ca3dev_locationtime": "St. Thomas, VI - Courtroom No. 3 / 9:00am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "4df144f2-3ee4-f111-84e8-001dd830923d",
+  "ca3dev_casenumber": "26-1285",
+  "ca3dev_caption": "USA v. Benjamin Hendricks"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+  "ca3dev_locationtime": "St. Thomas, VI - Courtroom No. 3 / 9:00am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "88632dec-3ee4-f111-84e8-001dd830923d",
+  "ca3dev_casenumber": "26-1387",
+  "ca3dev_caption": "Christine Thompson v. Over the Line VI LLC et al"
+ }
+]
