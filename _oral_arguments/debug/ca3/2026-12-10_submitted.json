@@ -1,0 +1,42 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "208eb622-dee4-f111-84e8-001dd8309117",
+  "ca3dev_casenumber": "25-2286",
+  "ca3dev_caption": "USA v. Tahreik Watford"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "6793b828-dee4-f111-84e8-001dd8309117",
+  "ca3dev_casenumber": "25-2537",
+  "ca3dev_caption": "USA v. Tahreik Watford"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "70511930-dee4-f111-84e8-001dd830923d",
+  "ca3dev_casenumber": "25-3523",
+  "ca3dev_caption": "Centimark Corporation v. Brycen Ribordy et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "38674d3c-dee4-f111-84e8-001dd830923d",
+  "ca3dev_casenumber": "26-1137",
+  "ca3dev_caption": "Bezalel Grossberger v. Clerk U.S. Supreme Court et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "2afe5d42-dee4-f111-84e8-001dd830923d",
+  "ca3dev_casenumber": "26-1143",
+  "ca3dev_caption": "Borough of Montvale et al  v. Attorney General New Jersey et"
+ }
+]

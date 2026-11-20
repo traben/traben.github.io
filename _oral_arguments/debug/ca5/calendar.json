@@ -1,5 +1,5 @@
 {
- "today": "2026-11-19",
+ "today": "2026-11-20",
  "days": [
   {
    "date": "2026-11-02",
@@ -1501,6 +1501,466 @@
        "nature": "Civil",
        "natureClass": "civ",
        "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2027-01-05",
+   "notes": [],
+   "panelVisible": false,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-20544",
+       "caption": "USA v. Homero Cabrera-Mora, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-10207",
+       "caption": "Perla Fraire, Et Al., Appellants v. Caterpillar, Incorporated.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Northern District of Texas, Dallas",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-20163",
+       "caption": "Pennsylvania Insurance Company, Et Al., Appellants v. W&T Offfshore, Et Al.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-10703",
+       "caption": "American Airlines, Appellant-Appellee v. Skiplagged.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-60184",
+       "caption": "Lauren Stokes, Appellant v. Glenn Boyce.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Northern District of Mississippi, Oxford",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2027-01-06",
+   "notes": [],
+   "panelVisible": false,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-11258",
+       "caption": "USA v. Seth Austin Laduke, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Northern District of Texas, Wichita Falls",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-60127",
+       "caption": "USA v. Larry Donnell Smith, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Southern District of Mississippi, Gulfport",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-20112",
+       "caption": "Lauren Moody, Appellant v. Oscar Insurance Company.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-50814",
+       "caption": "Brandon Sims, Appellant v. Warden FNU Rosalez.",
+       "nature": "Habeas",
+       "natureClass": "hab",
+       "origin": "Western District of Texas, Austin",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-30128",
+       "caption": "William Huddleston, Appellant v. Shannon Constantine, Et Al.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Louisiana, Alexandria",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "26-60240",
+       "caption": "American Energy Association, Petitioner v. Doug Burgum, Et Al.",
+       "nature": "Agency",
+       "natureClass": "agc",
+       "origin": "Department of Interior",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-50729",
+       "caption": "Annunciation House, Et Al. v. Freeman Martin, Appellant.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, El Paso",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-50168",
+       "caption": "Plant Based Food Association, Et Al. v. Imelda Garcia, Et Al., Appellants.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, Austin",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-50179",
+       "caption": "Arwyn Heilrayne, Et Al. v. James Davis, Et Al., Appellants.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, Austin",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-60356",
+       "caption": "Robert Harris, Et Al. v. Charles Henderson, Et Al., Appellants.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Southern District of Mississippi, Jackson",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2027-01-07",
+   "notes": [],
+   "panelVisible": false,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-40818",
+       "caption": "USA v. Santana Deangelo Powell, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Eastern District of Texas, Beaumont",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-10312",
+       "caption": "Michael Lewellen, Appellant v. Todd Blanche.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Northern District of Texas, Fort Worth",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-10051",
+       "caption": "Karen Erwin, Et Al. v. Metalcraft of Mayville, Appellant.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Northern District of Texas, Dallas",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-50783",
+       "caption": "HK Baugh Ranch, Appellant v. Crystal Clear Special Utility District, Et Al.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Western District of Texas, Austin",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-60143",
+       "caption": "Carmelle Jamison, Et Al., Appellants v. Greenville Public School District.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Northern District of Mississippi, Greenville",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "p",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "15:00",
+       "docket": "25-51022",
+       "caption": "USA v. Trinity Duke Smith, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Western District of Texas, Austin",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "15:00",
+       "docket": "26-50216",
+       "caption": "USA v. Jesse Walehwa, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Western District of Texas, Midland Odessa",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    },
+    {
+     "city": "New Orleans, LA",
+     "room": "West Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/west",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "26-20008",
+       "caption": "USA v. Ronald Donell Brown, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "25-30195",
+       "caption": "USA v. Robert Cuff, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Western District of Louisiana, Shreveport",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-20060",
+       "caption": "Houston Pilots v. Galveston-Texas City Pilots, Et Al., Appellants.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Southern District of Texas, Houston",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-40076",
+       "caption": "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial, and Service Workers International Union, Local 288 v. Lion Elastomers, Appellant.",
+       "nature": "Employment",
+       "natureClass": "emp",
+       "origin": "Eastern District of Texas, Beaumont",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2027-01-08",
+   "notes": [],
+   "panelVisible": false,
+   "panels": [
+    {
+     "city": "New Orleans, LA",
+     "room": "En Banc Courtroom",
+     "building": "John Minor Wisdom United States Court of Appeals Building",
+     "amPm": "a",
+     "judges": [],
+     "chief": null,
+     "notes": [],
+     "now": null,
+     "streamUrl": "https://5thcircuit.streamguys1.com/enbanc",
+     "cases": [
+      {
+       "time": "09:00",
+       "docket": "25-11227",
+       "caption": "USA v. Kyle Lamar West, Appellant.",
+       "nature": "Criminal",
+       "natureClass": "crim",
+       "origin": "Northern District of Texas, Lubbock",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-40106",
+       "caption": "Exxon Mobil Corporation v. Robert Bonta, Appellant.",
+       "nature": "Civil",
+       "natureClass": "civ",
+       "origin": "Eastern District of Texas, Beaumont",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-30316",
+       "caption": "Joshua Folks, Appellant v. Louisiana Department of Public Safety and Corrections, Et Al.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Middle District of Louisiana, Baton Rouge",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-50295",
+       "caption": "Bobbie Warren, Appellant v. Reynaldo Contreras.",
+       "nature": "Civil Rights",
+       "natureClass": "cr",
+       "origin": "Western District of Texas, Waco",
+       "perSide": 20,
+       "submitted": false,
+       "specialNote": null
+      },
+      {
+       "time": "09:00",
+       "docket": "26-60126",
+       "caption": "Dmitrii Bespiatykh, Petitioner v. Todd Blanche.",
+       "nature": "Immigration",
+       "natureClass": "imm",
+       "origin": "Board of Immigration Appeals",
        "perSide": 20,
        "submitted": false,
        "specialNote": null

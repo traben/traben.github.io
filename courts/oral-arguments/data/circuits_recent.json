@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-11-20T02:23:15+00:00",
+  "generated_at": "2026-11-20T20:27:45+00:00",
   "window_days": 10,
   "source": "CourtListener oral argument search (Free Law Project)",
   "cases": [
+    {
+      "id": "cl-107790",
+      "court": "ca2",
+      "docket": "25-3083",
+      "title": "Canandaigua National Corporation v. Board of Governors of the Federal Reserve System",
+      "date": "2026-11-20",
+      "duration_sec": 2415,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/20/canandaigua_national_corporation_v._board_of_governors_of_the_federal_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107790/canandaigua-national-corporation-v-board-of-governors-of-the-federal/"
+    },
+    {
+      "id": "cl-107789",
+      "court": "ca2",
+      "docket": "26-233",
+      "title": "In Re: Rock 51 LLC",
+      "date": "2026-11-20",
+      "duration_sec": 1125,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/20/in_re_rock_51_llc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107789/in-re-rock-51-llc/"
+    },
+    {
+      "id": "cl-107791",
+      "court": "ca9",
+      "docket": "25-7929",
+      "title": "Cottonwood Environmental Law Center v. Big Sky Water and Sewer District",
+      "date": "2026-11-20",
+      "duration_sec": 1910,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/20/cottonwood_environmental_law_center_v._big_sky_water_and_sewer_district_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107791/cottonwood-environmental-law-center-v-big-sky-water-and-sewer-district/"
+    },
+    {
+      "id": "cl-107793",
+      "court": "ca9",
+      "docket": "26-779",
+      "title": "Cottonwood Environmental Law Center v. Yellowstone Mountain Club, LLC",
+      "date": "2026-11-20",
+      "duration_sec": 945,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/20/cottonwood_environmental_law_center_v._yellowstone_mountain_club_llc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107793/cottonwood-environmental-law-center-v-yellowstone-mountain-club-llc/"
+    },
+    {
+      "id": "cl-107792",
+      "court": "ca9",
+      "docket": "24-6926",
+      "title": "Siren Retail Corporation dba Starbucks v. National Labor Relations Board",
+      "date": "2026-11-20",
+      "duration_sec": 2190,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/20/siren_retail_corporation_dba_starbucks_v._national_labor_relations_board_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107792/siren-retail-corporation-dba-starbucks-v-national-labor-relations-board/"
+    },
+    {
+      "id": "cl-107796",
+      "court": "cadc",
+      "docket": "26-5238",
+      "title": "Jane Doe v. Todd Blanche",
+      "date": "2026-11-20",
+      "duration_sec": 4894,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/20/jane_doe_v._todd_blanche_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107796/jane-doe-v-todd-blanche/"
+    },
+    {
+      "id": "cl-107795",
+      "court": "cadc",
+      "docket": "25-5397",
+      "title": "Phillip Simon v. SSA",
+      "date": "2026-11-20",
+      "duration_sec": 1725,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/20/phillip_simon_v._ssa_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107795/phillip-simon-v-ssa/"
+    },
+    {
+      "id": "cl-107794",
+      "court": "cadc",
+      "docket": "25-1144",
+      "title": "Salsa Solar Energy, LLC v. FERC",
+      "date": "2026-11-20",
+      "duration_sec": 3526,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/20/salsa_solar_energy_llc_v._ferc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107794/salsa-solar-energy-llc-v-ferc/"
+    },
     {
       "id": "cl-107735",
       "court": "ca11",
@@ -944,6 +1024,16 @@
       "page": "https://www.courtlistener.com/audio/107618/jeffrey-johnson-v-gillis-construction-llc/"
     },
     {
+      "id": "cl-107617",
+      "court": "ca11",
+      "docket": "25-14172",
+      "title": "Royal Potcake Rescue v. Centers for Disease and Control and Prevention",
+      "date": "2026-11-17",
+      "duration_sec": 1672,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/royal_potcake_rescue_v._centers_for_disease_and_control_and_prevention_cl_1.mp3",
+      "page": "https://www.courtlistener.com/audio/107617/royal-potcake-rescue-v-centers-for-disease-and-control-and-prevention/"
+    },
+    {
       "id": "cl-107635",
       "court": "ca2",
       "docket": "26-846",
@@ -1382,6 +1472,116 @@
       "duration_sec": 3768,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/17/united_states_institute_of_peace_v._kenneth_jackson_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107620/united-states-institute-of-peace-v-kenneth-jackson/"
+    },
+    {
+      "id": "cl-107613",
+      "court": "ca10",
+      "docket": "25-9007",
+      "title": "Brank Cove Capital v. CIR",
+      "date": "2026-11-16",
+      "duration_sec": 1853,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/brank_cove_capital_v._cir_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107613/brank-cove-capital-llc-v-cir/"
+    },
+    {
+      "id": "cl-107612",
+      "court": "ca10",
+      "docket": "26-1101",
+      "title": "Defending Education v. Sullivan",
+      "date": "2026-11-16",
+      "duration_sec": 3227,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/defending_education_v._sullivan_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107612/defending-education-v-sullivan/"
+    },
+    {
+      "id": "cl-107611",
+      "court": "ca10",
+      "docket": "26-9002",
+      "title": "Dugan v. CIR",
+      "date": "2026-11-16",
+      "duration_sec": 2143,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/dugan_v._cir_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107611/dugan-v-cir/"
+    },
+    {
+      "id": "cl-107610",
+      "court": "ca10",
+      "docket": "25-1347",
+      "title": "Glenwood Springs v. U.S. Department of the Interior",
+      "date": "2026-11-16",
+      "duration_sec": 2184,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/glenwood_springs_v._u.s._department_of_the_interior_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107610/glenwood-springs-v-us-department-of-the-interior/"
+    },
+    {
+      "id": "cl-107609",
+      "court": "ca10",
+      "docket": "25-3227",
+      "title": "Kendrick v. AW Distributing",
+      "date": "2026-11-16",
+      "duration_sec": 1871,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/kendrick_v._aw_distributing_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107609/kendrick-v-aw-distributing/"
+    },
+    {
+      "id": "cl-107608",
+      "court": "ca10",
+      "docket": "26-6074",
+      "title": "Leddy v. Oklahoma County Criminal Justice Authority",
+      "date": "2026-11-16",
+      "duration_sec": 1844,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/leddy_v._oklahoma_county_criminal_justice_authority_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107608/leddy-v-oklahoma-county-criminal-justice-authority/"
+    },
+    {
+      "id": "cl-107607",
+      "court": "ca10",
+      "docket": "26-3058",
+      "title": "Methods Research v. Ottawa Bancshares",
+      "date": "2026-11-16",
+      "duration_sec": 1939,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/methods_research_v._ottawa_bancshares_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107607/methods-research-v-ottawa-bancshares/"
+    },
+    {
+      "id": "cl-107606",
+      "court": "ca10",
+      "docket": "26-3017",
+      "title": "O'Neill Automotive v. Federated Mutual Insurance Company",
+      "date": "2026-11-16",
+      "duration_sec": 1576,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/oneill_automotive_v._federated_mutual_insurance_company_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107606/oneill-automotive-inc-v-federated-mutual-insurance-company/"
+    },
+    {
+      "id": "cl-107614",
+      "court": "ca9",
+      "docket": "26-2495",
+      "title": "Frank's Landing Indian Community v. Enlow",
+      "date": "2026-11-16",
+      "duration_sec": 1928,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/franks_landing_indian_community_v._enlow_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107614/franks-landing-indian-community-et-al-v-enlow/"
+    },
+    {
+      "id": "cl-107615",
+      "court": "ca9",
+      "docket": "26-1356",
+      "title": "Kuhk v. Playstudios, Inc.",
+      "date": "2026-11-16",
+      "duration_sec": 1368,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/kuhk_v._playstudios_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107615/kuhk-v-playstudios-inc/"
+    },
+    {
+      "id": "cl-107616",
+      "court": "ca9",
+      "docket": "25-540",
+      "title": "Moonshadow Mobile, Inc. v. Labels and Lists, Inc.",
+      "date": "2026-11-16",
+      "duration_sec": 2893,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/16/moonshadow_mobile_inc._v._labels_and_lists_inc._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107616/moonshadow-mobile-inc-v-labels-and-lists-inc/"
     }
   ]
 }

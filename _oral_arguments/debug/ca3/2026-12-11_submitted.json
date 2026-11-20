@@ -1,0 +1,42 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "e7d2012a-dee4-f111-84e8-001dd830923d",
+  "ca3dev_casenumber": "25-3104",
+  "ca3dev_caption": "USA v. James Casher"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "5d601436-dee4-f111-84e8-001dd830923d",
+  "ca3dev_casenumber": "25-3284",
+  "ca3dev_caption": "Robert Pidich et al  v. WalMart Stores Inc"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "1f0bc13a-dee4-f111-84e8-001dd8309117",
+  "ca3dev_casenumber": "25-3560",
+  "ca3dev_caption": "Jose  Hernandez-Palacios v. Attorney General United States o"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "44674d3c-dee4-f111-84e8-001dd830923d",
+  "ca3dev_casenumber": "26-1192",
+  "ca3dev_caption": "Pennsylvania Investment Properties II LP v. Truist Bank"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "17fe5d42-dee4-f111-84e8-001dd830923d",
+  "ca3dev_casenumber": "26-1250",
+  "ca3dev_caption": "Teamsters Local Union No. 776 v. United Parcel Service"
+ }
+]

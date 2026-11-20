@@ -1,0 +1,50 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "4091ef23-dee4-f111-84e8-001dd830923d",
+  "ca3dev_casenumber": "24-2769",
+  "ca3dev_caption": "USA v. Nafis Woods"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "31b74424-dee4-f111-84e8-001dd8309890",
+  "ca3dev_casenumber": "24-2820",
+  "ca3dev_caption": "Keith Brown v. Evans et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "6493b828-dee4-f111-84e8-001dd8309117",
+  "ca3dev_casenumber": "25-2997",
+  "ca3dev_caption": "Capelogic Inc v. Markit Group Limited"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "66601436-dee4-f111-84e8-001dd830923d",
+  "ca3dev_casenumber": "25-3362",
+  "ca3dev_caption": "Judith Van Etten v. Wells Fargo Bank NA"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "3fd9bc2e-dee4-f111-84e8-001dd8309117",
+  "ca3dev_casenumber": "25-3442",
+  "ca3dev_caption": "David Vakili v. MTD Products Inc et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "08b45f48-dee4-f111-84e8-001dd830923d",
+  "ca3dev_casenumber": "26-1993",
+  "ca3dev_caption": "Plessen Eye LLC v. Certain Underwriters at Lloyds of London"
+ }
+]

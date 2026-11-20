@@ -1,1 +1,34 @@
-[]
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "228eb622-dee4-f111-84e8-001dd8309117",
+  "ca3dev_casenumber": "24-1817",
+  "ca3dev_caption": "Landbridge Port Services (Hong Kong) Ltd v. Notarc Port Inve"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "47d9bc2e-dee4-f111-84e8-001dd8309117",
+  "ca3dev_casenumber": "25-3097",
+  "ca3dev_caption": "Josiah Cayenne v. TobyhannaTownship, PA et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "4cd9bc2e-dee4-f111-84e8-001dd8309117",
+  "ca3dev_casenumber": "25-3430",
+  "ca3dev_caption": "Tam Le v. Attorney General United States of America"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "7760f040-dee4-f111-84e8-001dd8309117",
+  "ca3dev_casenumber": "26-1110",
+  "ca3dev_caption": "USA v. John Singleton"
+ }
+]
