@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:46:06+00:00",
+ "generated_at": "2026-11-20T02:25:48+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -36,15 +36,21 @@
    "recent": [
     {
      "date": "2026-11-19",
-     "entry": 171,
-     "text": "Joint STATUS REPORT by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Robertson, Michael) (Entered: 11/19/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.171.0.pdf"
+     "entry": null,
+     "text": "USCA Case Number 26-5390 for 168 Notice of Appeal to DC Circuit Court, filed by DEPARTMENT OF INTERIOR, DOUG BURGUM, NATIONAL PARK SERVICE, JESSICA BOWRON. (znmw)",
+     "doc": null
     },
     {
      "date": "2026-11-19",
      "entry": 172,
      "text": "Second MOTION for Extension of Time to File Response/Reply as to 75 First MOTION for Summary Judgment and RESPONSE IN OPPOSITION TO PLAINTIFFS RULE 15 MOTION by DC PRESERVATION LEAGUE, ALEX DICKSON, DAVE ROBERTS. (Attachments: # 1 Text of Proposed Order)(Bardwell, Will) (Entered: 11/19/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.172.0.pdf"
+    },
+    {
+     "date": "2026-11-19",
+     "entry": 171,
+     "text": "Joint STATUS REPORT by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Robertson, Michael) (Entered: 11/19/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.171.0.pdf"
     },
     {
      "date": "2026-11-19",
@@ -87,12 +93,6 @@
      "entry": null,
      "text": "MINUTE ORDER. At the November 13, 2026 hearing, the Government informed the Court it wishes to brief whether a special master is necessary in this case. The Court ORDERS the Government to file a status report with a proposed briefing schedule by Thusday, November 19, 2026, at 5:00 p.m. Before filing, the Government shall confer with Plaintiffs about whether they will participate in the briefing. Plaintiffs may participate but are not required to. If they participate, the parties shall file a joint status report. Signed by Judge Ana C. Reyes on 11/18/2026. (lcacr3)",
      "doc": null
-    },
-    {
-     "date": "2026-11-17",
-     "entry": 165,
-     "text": "NOTICE by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Attachments: # 1 Exhibit Declaration of Dr. Kevin Griess)(Robertson, Michael) (Entered: 11/17/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.165.0_1.pdf"
     }
    ],
    "brief": {
@@ -253,7 +253,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-19"
+   "updated": "2026-11-20"
   },
   {
    "id": "ilnd-25-cr-693",
@@ -466,7 +466,7 @@
     "through": "2026-11-09",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-19"
+   "updated": "2026-11-20"
   },
   {
    "id": "dcd-26-cv-544",
