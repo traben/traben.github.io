@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:30:29+00:00",
+ "generated_at": "2026-11-21T02:23:37+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -29,11 +29,43 @@
    "hearings": [],
    "deadlines": [
     {
-     "date": "2026-11-20",
-     "what": "Response"
+     "date": "2026-12-10",
+     "what": "Upon consideration of the 171 Joint Status Report, the Court ORDERS Defendants to submit a brief on whether an ethics investigation, including one conducted by a Special Master, is…"
+    },
+    {
+     "date": "2026-12-21",
+     "what": "Plaintiffs shall respond to Defendants' 175 Motion for Summary Judgment on or before December 21, 2026."
+    },
+    {
+     "date": "2026-12-23",
+     "what": "Should Plaintiffs wish to file a response, that response is due by 5:00 p.m. on December 23, 2026."
     }
    ],
    "recent": [
+    {
+     "date": "2026-11-20",
+     "entry": null,
+     "text": "MINUTE ORDER. Upon consideration of the 171 Joint Status Report, the Court ORDERS Defendants to submit a brief on whether an ethics investigation, including one conducted by a Special Master, is necessary in this case on or before 5:00 p.m. on December 10, 2026. Plaintiffs must inform the Court in a status report whether they intend to file a response to Defendants' brief by no later than 5:00 p.m. on December 12, 2026. Should Plaintiffs wish to file a response, that response is due by 5:00 p.m. on December 23, 2026. Signed by Judge Ana C. Reyes on 11/20/2026. (lcacr3)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-20",
+     "entry": null,
+     "text": "MINUTE ORDER granting 172 Second Motion for Extension of Time. Good cause exists to grant the requested extension. The Court ORDERS that Plaintiffs shall respond to Defendants' 175 Motion for Summary Judgment on or before December 21, 2026. Signed by Judge Ana C. Reyes on 11/20/2026. (lcacr3)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-20",
+     "entry": 174,
+     "text": "NOTICE by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Attachments: # 1 Declaration of Dr. Kevin Griess)(Robertson, Michael) (Entered: 11/20/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.174.0.pdf"
+    },
+    {
+     "date": "2026-11-20",
+     "entry": 173,
+     "text": "Memorandum in opposition to re 166 MOTION for Discovery filed by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Robertson, Michael) (Entered: 11/20/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.173.0.pdf"
+    },
     {
      "date": "2026-11-19",
      "entry": null,
@@ -68,30 +100,6 @@
      "date": "2026-11-18",
      "entry": 167,
      "text": "TRANSCRIPT OF MOTION HEARING PROCEEDINGS before Judge Ana C. Reyes held on November 13, 2026; Page Numbers: 1-141. Court Reporter/Transcriber: William Zaremba; Email: William_Zaremba@dcd.uscourts.gov. Transcripts may be ordered by submitting the Transcript Order FormFor the first 90 days after this filing date, the transcript may be viewed at the courthouse at a public terminal or purchased from the court reporter referenced above. After 90 days, the transcript may be accessed via PACER. Other transcript formats, (multi-page, condensed, PDF or ASCII) may be purchased from the court reporter.NO…",
-     "doc": null
-    },
-    {
-     "date": "2026-11-18",
-     "entry": null,
-     "text": "Set/Reset Deadlines/Hearings: Defendant's Status Report due by 5:00 PM on 11/19/2026. (zcdw)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-18",
-     "entry": 166,
-     "text": "MOTION for Discovery by DC PRESERVATION LEAGUE, ALEX DICKSON, DAVE ROBERTS. (Attachments: # 1 Memorandum in Support, # 2 Exhibit Exhibit 1, # 3 Exhibit Exhibit 2, # 4 Text of Proposed Order)(Deffebach, Anna) (Entered: 11/18/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.166.0.pdf"
-    },
-    {
-     "date": "2026-11-18",
-     "entry": null,
-     "text": "Set/Reset Deadlines/Hearings: Motion for expedited discovery due by 11/18/2026. Response due by 11/20/2026. (zcdw)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-18",
-     "entry": null,
-     "text": "MINUTE ORDER. At the November 13, 2026 hearing, the Government informed the Court it wishes to brief whether a special master is necessary in this case. The Court ORDERS the Government to file a status report with a proposed briefing schedule by Thusday, November 19, 2026, at 5:00 p.m. Before filing, the Government shall confer with Plaintiffs about whether they will participate in the briefing. Plaintiffs may participate but are not required to. If they participate, the parties shall file a joint status report. Signed by Judge Ana C. Reyes on 11/18/2026. (lcacr3)",
      "doc": null
     }
    ],
@@ -253,7 +261,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-20"
+   "updated": "2026-11-21"
   },
   {
    "id": "ilnd-25-cr-693",
@@ -466,7 +474,7 @@
     "through": "2026-11-09",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-20"
+   "updated": "2026-11-21"
   },
   {
    "id": "dcd-26-cv-544",
