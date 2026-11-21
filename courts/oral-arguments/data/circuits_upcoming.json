@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:23:07+00:00",
+ "generated_at": "2026-11-21T19:23:29+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -2265,27 +2265,6 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
-   "id": "ca9-24-6227-2026-11-16",
-   "court": "ca9",
-   "docket": "24-6227",
-   "title": "Acosta-Valenzuela v. Blanche",
-   "date": "2026-11-16",
-   "time_local": "09:30",
-   "tz": "America/Phoenix",
-   "location": "Phoenix",
-   "room": "Ceremonial Courtroom",
-   "origin": "Immigration · AZ",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-16&loc=PHX",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
    "id": "ca9-24-7607-2026-11-16",
    "court": "ca9",
    "docket": "24-7607",
@@ -2302,27 +2281,6 @@
    "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-16&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-3-2026-11-16",
-   "court": "ca9",
-   "docket": "25-3",
-   "title": "Valdiviezo Saenz v. Blanche",
-   "date": "2026-11-16",
-   "time_local": "09:30",
-   "tz": "America/Phoenix",
-   "location": "Phoenix",
-   "room": "Ceremonial Courtroom",
-   "origin": "Immigration · AZ",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-16&loc=PHX",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
@@ -2367,27 +2325,6 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-16&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-5924-2026-11-16",
-   "court": "ca9",
-   "docket": "25-5924",
-   "title": "Escalante v. Benaderet",
-   "date": "2026-11-16",
-   "time_local": "09:30",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 1",
-   "origin": "Civil · C. CA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-16&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
@@ -2520,27 +2457,6 @@
    "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-16&loc=PHX",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-26-51-2026-11-16",
-   "court": "ca9",
-   "docket": "26-51",
-   "title": "Salazar-De Arias, et al. v. Blanche",
-   "date": "2026-11-16",
-   "time_local": "09:30",
-   "tz": "America/Los_Angeles",
-   "location": "Pasadena",
-   "room": "Courtroom 1",
-   "origin": "Immigration · C. CA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-16&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
@@ -3634,27 +3550,6 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
-   "id": "ca9-26-498-2026-11-17",
-   "court": "ca9",
-   "docket": "26-498",
-   "title": "St. Paul Fire and Marine Insurance Company v. Franz Construction, Inc., et al.",
-   "date": "2026-11-17",
-   "time_local": "09:00",
-   "tz": "America/Los_Angeles",
-   "location": "Seattle",
-   "room": "5th Floor Courtroom 3",
-   "origin": "Civil · MT",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-17&loc=SE",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
    "id": "ca9-21-70023-2026-11-17",
    "court": "ca9",
    "docket": "21-70023",
@@ -3786,27 +3681,6 @@
    "no_argument": false,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-17&loc=PAS",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-2769-2026-11-17",
-   "court": "ca9",
-   "docket": "25-2769",
-   "title": "Degueros-Mota v. Blanche",
-   "date": "2026-11-17",
-   "time_local": "09:30",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Immigration · S. CA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-17&loc=SF",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
@@ -4736,27 +4610,6 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
-   "id": "ca9-25-7027-2026-11-18",
-   "court": "ca9",
-   "docket": "25-7027",
-   "title": "Dos Santos, et al. v. Blanche",
-   "date": "2026-11-18",
-   "time_local": "08:00",
-   "tz": "America/Los_Angeles",
-   "location": "Seattle",
-   "room": "5th Floor Courtroom 3",
-   "origin": "Immigration · W. WA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-18&loc=SE",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
    "id": "ca9-25-7653-2026-11-18",
    "court": "ca9",
    "docket": "25-7653",
@@ -5197,90 +5050,6 @@
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
-   "id": "ca9-24-3704-2026-11-18",
-   "court": "ca9",
-   "docket": "24-3704",
-   "title": "Hernandez-Rodriguez, et al. v. Blanche",
-   "date": "2026-11-18",
-   "time_local": "09:30",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Immigration · N. CA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-18&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-24-4213-2026-11-18",
-   "court": "ca9",
-   "docket": "24-4213",
-   "title": "Rosas-Arenas, et al. v. Blanche",
-   "date": "2026-11-18",
-   "time_local": "09:30",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Immigration · W. WA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-18&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-24-5352-2026-11-18",
-   "court": "ca9",
-   "docket": "24-5352",
-   "title": "Calmo-Pablo v. Blanche",
-   "date": "2026-11-18",
-   "time_local": "09:30",
-   "tz": "America/Phoenix",
-   "location": "Phoenix",
-   "room": "Ceremonial Courtroom",
-   "origin": "Immigration · AZ",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-18&loc=PHX",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-2853-2026-11-18",
-   "court": "ca9",
-   "docket": "25-2853",
-   "title": "Ogle v. Thornell, et al.",
-   "date": "2026-11-18",
-   "time_local": "09:30",
-   "tz": "America/Phoenix",
-   "location": "Phoenix",
-   "room": "Ceremonial Courtroom",
-   "origin": "Habeas · AZ",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-18&loc=PHX",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
    "id": "ca9-25-2932-2026-11-18",
    "court": "ca9",
    "docket": "25-2932",
@@ -5377,27 +5146,6 @@
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments",
     "recording": "https://storage.courtlistener.com/mp3/2026/11/18/united_states_v._hamalowa_cl.mp3",
     "recording_page": "https://www.courtlistener.com/audio/107724/united-states-v-hamalowa/"
-   },
-   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
-  },
-  {
-   "id": "ca9-25-3500-2026-11-18",
-   "court": "ca9",
-   "docket": "25-3500",
-   "title": "Castaneda v. Hopper",
-   "date": "2026-11-18",
-   "time_local": "09:30",
-   "tz": "America/Los_Angeles",
-   "location": "San Francisco",
-   "room": "Courtroom 1, 3rd Floor Rm 338",
-   "origin": "Bankruptcy · E. CA",
-   "issue": null,
-   "notes": null,
-   "panel": null,
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-11-18&loc=SF",
-    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
    },
    "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
@@ -11882,11 +11630,9 @@
    "room": "Courtroom 1, 5th Floor, Room 5080",
    "origin": "Civil · N. CA",
    "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-07&loc=SJDC",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -12037,11 +11783,9 @@
    "room": "Courtroom 1, 5th Floor, Room 5080",
    "origin": "Social Security · N. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-07&loc=SJDC",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -12173,11 +11917,9 @@
    "room": "Courtroom 3",
    "origin": "Immigration · S. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-07&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -13788,11 +13530,9 @@
    "room": "Courtroom 3, 3rd Floor Rm 307",
    "origin": "Immigration · N. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-08&loc=SF",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -14037,11 +13777,9 @@
    "room": "Courtroom 1, 5th Floor, Room 5080",
    "origin": "Immigration · N. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-08&loc=SJDC",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -14232,11 +13970,9 @@
    "room": "Courtroom 3",
    "origin": "Immigration · C. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-08&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -14550,11 +14286,9 @@
    "room": "Courtroom 1, 5th Floor, Room 5080",
    "origin": "Civil · N. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-08&loc=SJDC",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -16334,11 +16068,9 @@
    "room": "Courtroom 1",
    "origin": "Immigration · C. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-09&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -18146,11 +17878,9 @@
    "room": "Ceremonial Courtroom",
    "origin": "Immigration · AZ",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-10&loc=PHX",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -18682,11 +18412,9 @@
    "room": "Courtroom 1, 5th Floor, Room 5080",
    "origin": "Habeas · E. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-10&loc=SJDC",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -20029,11 +19757,9 @@
    "room": "Courtroom 3",
    "origin": "Immigration · C. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-11&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -22981,6 +22707,29 @@
     "live": "https://www.ca5.uscourts.gov/live-streams"
    },
    "live_note": null
+  },
+  {
+   "id": "ca9-25-2039-2027-01-05",
+   "court": "ca9",
+   "docket": "25-2039",
+   "title": "Shilling, et al. v. Trump, et al.",
+   "date": "2027-01-05",
+   "time_local": "11:00",
+   "tz": "America/Los_Angeles",
+   "location": "Remote Hearing",
+   "room": "No Courtroom",
+   "origin": "Civil · W. WA",
+   "issue": null,
+   "notes": [
+    "20 min per side"
+   ],
+   "panel": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2027-01-05&loc=REMOT",
+    "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
+   },
+   "live_note": "Every 9th Circuit argument is streamed live on YouTube."
   },
   {
    "id": "cafc-24-2275-2027-01-05",
