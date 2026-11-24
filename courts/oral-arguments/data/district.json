@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T05:24:35+00:00",
+ "generated_at": "2026-11-24T22:33:31+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -26,8 +26,22 @@
     "source": "https://www.dcd.uscourts.gov/public-access-teleconference-information",
     "note": "The judge decides hearing by hearing whether to open the public line; the docket says so when it's available. Recording or rebroadcasting is prohibited."
    },
-   "hearings": [],
+   "hearings": [
+    {
+     "date": "2026-12-08",
+     "type": "Preliminary Injunction Hearing",
+     "time": "10:00",
+     "room": "Courtroom 12",
+     "status": "scheduled",
+     "public_line": false,
+     "noticed": "2026-11-24"
+    }
+   ],
    "deadlines": [
+    {
+     "date": "2026-12-01",
+     "what": "Motion for Preliminary Injunction"
+    },
     {
      "date": "2026-12-01",
      "what": "Plaintiffs' motion for preliminary injunction must be filed on or before 5:00 p.m. on December 1, 2026."
@@ -38,7 +52,15 @@
     },
     {
      "date": "2026-12-06",
+     "what": "Response"
+    },
+    {
+     "date": "2026-12-06",
      "what": "Defendants' opposition is due by 5:00 p.m. on December 6, 2026."
+    },
+    {
+     "date": "2026-12-07",
+     "what": "Reply"
     },
     {
      "date": "2026-12-10",
@@ -70,6 +92,12 @@
     }
    ],
    "recent": [
+    {
+     "date": "2026-11-24",
+     "entry": null,
+     "text": "Set/Reset Deadlines/Hearings: Jointly prepared key cases binders due to chambers by 12/4/2026. Motion for Preliminary Injunction due by 12/1/2026. Response due by 12/6/2026. Reply due by 12/7/2026. Preliminary Injunction Hearing set for 12/8/2026 at 10:00 AM in Courtroom 12 before Judge Ana C. Reyes. (zcdw)",
+     "doc": null
+    },
     {
      "date": "2026-11-23",
      "entry": null,
@@ -122,13 +150,7 @@
      "date": "2026-11-19",
      "entry": 171,
      "text": "Joint STATUS REPORT by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Robertson, Michael) (Entered: 11/19/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.171.0.pdf"
-    },
-    {
-     "date": "2026-11-19",
-     "entry": 169,
-     "text": "Transmission of the Notice of Appeal, Order Appealed (Memorandum Opinion), and Docket Sheet to US Court of Appeals. The Court of Appeals docketing fee was not paid because the appeal was filed by the government re 168 Notice of Appeal to DC Circuit Court,. (znmw) (Entered: 11/19/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.169.0.pdf"
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.171.0_1.pdf"
     }
    ],
    "brief": {

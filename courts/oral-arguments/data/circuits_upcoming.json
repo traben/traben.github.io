@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T05:24:32+00:00",
+ "generated_at": "2026-11-24T22:33:26+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -9355,7 +9355,7 @@
    "origin": "Criminal · HI",
    "issue": null,
    "notes": [
-    "20 min per side"
+    "10 min per side"
    ],
    "panel": null,
    "no_argument": false,
@@ -10751,11 +10751,9 @@
    "room": "Ceremonial Courtroom",
    "origin": "Social Security · AZ",
    "issue": null,
-   "notes": [
-    "15 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-07&loc=PHX",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -13470,11 +13468,9 @@
    "room": "Ceremonial Courtroom",
    "origin": "Immigration · AZ",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-08&loc=PHX",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -15537,11 +15533,9 @@
    "room": "Courtroom 1, 3rd Floor Rm 338",
    "origin": "Civil · N. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-09&loc=SF",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -16730,11 +16724,9 @@
    "room": "Courtroom 1",
    "origin": "Immigration · BIA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-10&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -16969,11 +16961,9 @@
    "room": "Courtroom 1, 3rd Floor Rm 338",
    "origin": "Immigration · C. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-10&loc=SF",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -18555,11 +18545,9 @@
    "room": "Courtroom 1",
    "origin": "Immigration · C. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-11&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -18832,11 +18820,9 @@
    "room": "Courtroom 1, 5th Floor, Room 5080",
    "origin": "Immigration · N. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2026-12-11&loc=SJDC",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -23866,6 +23852,46 @@
    "live_note": null
   },
   {
+   "id": "ca10-25-2161-2027-01-11",
+   "court": "ca10",
+   "docket": "25-2161",
+   "title": "United States v. Zamarripa, Appellant",
+   "date": "2027-01-11",
+   "time_local": "12:30",
+   "tz": "America/Denver",
+   "location": "Denver, CO",
+   "room": null,
+   "origin": "NM",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_11_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
+   "id": "ca10-26-2007-2027-01-11",
+   "court": "ca10",
+   "docket": "26-2007",
+   "title": "United States v. Gonzales, Appellant",
+   "date": "2027-01-11",
+   "time_local": "12:30",
+   "tz": "America/Denver",
+   "location": "Denver, CO",
+   "room": null,
+   "origin": "NM",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_11_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
    "id": "ca9-20-70844-2027-01-11",
    "court": "ca9",
    "docket": "20-70844",
@@ -24415,11 +24441,9 @@
    "room": "Courtroom 1",
    "origin": "Immigration · C. CA",
    "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
+   "notes": null,
    "panel": null,
-   "no_argument": false,
+   "no_argument": true,
    "links": {
     "calendar": "https://www.ca9.uscourts.gov/cases/calendar/calendar-week/?date=2027-01-12&loc=PAS",
     "live": "https://www.ca9.uscourts.gov/media/live-oral-arguments"
@@ -25773,6 +25797,26 @@
    "live_note": null
   },
   {
+   "id": "ca10-26-8026-2027-01-19",
+   "court": "ca10",
+   "docket": "26-8026",
+   "title": "Arevalo Llumiguano, Appellant v. Mullin, et al.",
+   "date": "2027-01-19",
+   "time_local": "09:00",
+   "tz": "America/Denver",
+   "location": "Albuquerque",
+   "room": "Courtroom II",
+   "origin": "WY",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
    "id": "ca10-26-9507-2027-01-19",
    "court": "ca10",
    "docket": "26-9507",
@@ -25783,86 +25827,6 @@
    "location": "Albuquerque",
    "room": "Courtroom I",
    "origin": "BIA",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-1117-2027-01-20",
-   "court": "ca10",
-   "docket": "26-1117",
-   "title": "Elias v. Haferman, et al., Appellants",
-   "date": "2027-01-20",
-   "time_local": null,
-   "tz": "America/Denver",
-   "location": "Albuquerque",
-   "room": "Courtroom III",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-1126-2027-01-20",
-   "court": "ca10",
-   "docket": "26-1126",
-   "title": "Thompson, Appellant v. Ford Motor Company",
-   "date": "2027-01-20",
-   "time_local": null,
-   "tz": "America/Denver",
-   "location": "Albuquerque",
-   "room": "Courtroom III",
-   "origin": "CO",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-2064-2027-01-20",
-   "court": "ca10",
-   "docket": "26-2064",
-   "title": "Davis v. Lovato, et al., Appellants",
-   "date": "2027-01-20",
-   "time_local": null,
-   "tz": "America/Denver",
-   "location": "Albuquerque",
-   "room": "Courtroom III",
-   "origin": "NM",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
-   "id": "ca10-26-6106-2027-01-20",
-   "court": "ca10",
-   "docket": "26-6106",
-   "title": "Estate of Rose Boehs, et al., Appellants v. Oklahoma",
-   "date": "2027-01-20",
-   "time_local": null,
-   "tz": "America/Denver",
-   "location": "Albuquerque",
-   "room": "Courtroom III",
-   "origin": "WOK",
    "issue": null,
    "notes": null,
    "no_argument": false,
@@ -25953,6 +25917,46 @@
    "live_note": null
   },
   {
+   "id": "ca10-26-1117-2027-01-20",
+   "court": "ca10",
+   "docket": "26-1117",
+   "title": "Elias v. Haferman, et al., Appellants",
+   "date": "2027-01-20",
+   "time_local": "09:00",
+   "tz": "America/Denver",
+   "location": "Albuquerque",
+   "room": "Courtroom III",
+   "origin": "CO",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
+   "id": "ca10-26-1126-2027-01-20",
+   "court": "ca10",
+   "docket": "26-1126",
+   "title": "Thompson, Appellant v. Ford Motor Company",
+   "date": "2027-01-20",
+   "time_local": "09:00",
+   "tz": "America/Denver",
+   "location": "Albuquerque",
+   "room": "Courtroom III",
+   "origin": "CO",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
    "id": "ca10-26-1142-2027-01-20",
    "court": "ca10",
    "docket": "26-1142",
@@ -26015,6 +26019,26 @@
    "live_note": null
   },
   {
+   "id": "ca10-26-2064-2027-01-20",
+   "court": "ca10",
+   "docket": "26-2064",
+   "title": "Davis v. Lovato, et al., Appellants",
+   "date": "2027-01-20",
+   "time_local": "09:00",
+   "tz": "America/Denver",
+   "location": "Albuquerque",
+   "room": "Courtroom III",
+   "origin": "NM",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
    "id": "ca10-26-3034-2027-01-20",
    "court": "ca10",
    "docket": "26-3034",
@@ -26030,6 +26054,26 @@
     "(Submitted on the Briefs)"
    ],
    "no_argument": true,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
+   "id": "ca10-26-4024-2027-01-20",
+   "court": "ca10",
+   "docket": "26-4024",
+   "title": "Russell, Appellant v. Massachusetts Mutual Life Insurance Company",
+   "date": "2027-01-20",
+   "time_local": "09:00",
+   "tz": "America/Denver",
+   "location": "Albuquerque",
+   "room": "Courtroom III",
+   "origin": "UT",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
    "links": {
     "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
     "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
@@ -26067,6 +26111,46 @@
    "location": "Albuquerque",
    "room": "Courtroom IV",
    "origin": "NOK",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
+   "id": "ca10-26-6106-2027-01-20",
+   "court": "ca10",
+   "docket": "26-6106",
+   "title": "Estate of Rose Boehs, et al., Appellants v. Oklahoma",
+   "date": "2027-01-20",
+   "time_local": "09:00",
+   "tz": "America/Denver",
+   "location": "Albuquerque",
+   "room": "Courtroom III",
+   "origin": "WOK",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
+   "id": "ca10-26-6114-2027-01-20",
+   "court": "ca10",
+   "docket": "26-6114",
+   "title": "Akinsanya, Appellant v. Blanche, et al.",
+   "date": "2027-01-20",
+   "time_local": "09:00",
+   "tz": "America/Denver",
+   "location": "Albuquerque",
+   "room": "Courtroom III",
+   "origin": "WOK",
    "issue": null,
    "notes": null,
    "no_argument": false,
@@ -26225,26 +26309,6 @@
    "live_note": null
   },
   {
-   "id": "ca10-25-2161-2027-01-21",
-   "court": "ca10",
-   "docket": "25-2161",
-   "title": "United States v. Zamarripa, Appellant",
-   "date": "2027-01-21",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Albuquerque",
-   "room": "Courtroom III",
-   "origin": "NM",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
    "id": "ca10-25-6202-2027-01-21",
    "court": "ca10",
    "docket": "25-6202",
@@ -26307,26 +26371,6 @@
    "live_note": null
   },
   {
-   "id": "ca10-26-2007-2027-01-21",
-   "court": "ca10",
-   "docket": "26-2007",
-   "title": "United States v. Gonzales, Appellant",
-   "date": "2027-01-21",
-   "time_local": "09:00",
-   "tz": "America/Denver",
-   "location": "Albuquerque",
-   "room": "Courtroom III",
-   "origin": "NM",
-   "issue": null,
-   "notes": null,
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
-    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
-   },
-   "live_note": null
-  },
-  {
    "id": "ca10-26-2017-2027-01-21",
    "court": "ca10",
    "docket": "26-2017",
@@ -26356,6 +26400,26 @@
    "tz": "America/Denver",
    "location": "Albuquerque",
    "room": "Courtroom III",
+   "origin": "NM",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
+   "id": "ca10-26-2036-2027-01-21",
+   "court": "ca10",
+   "docket": "26-2036",
+   "title": "United States v. Boyce, Appellant",
+   "date": "2027-01-21",
+   "time_local": "09:00",
+   "tz": "America/Denver",
+   "location": "Albuquerque",
+   "room": "Courtroom II",
    "origin": "NM",
    "issue": null,
    "notes": null,
@@ -26437,6 +26501,46 @@
    "location": "Albuquerque",
    "room": "Courtroom II",
    "origin": "UT",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
+   "id": "ca10-26-5036-2027-01-21",
+   "court": "ca10",
+   "docket": "26-5036",
+   "title": "United States v. Brixey, Appellant",
+   "date": "2027-01-21",
+   "time_local": "09:00",
+   "tz": "America/Denver",
+   "location": "Albuquerque",
+   "room": "Courtroom II",
+   "origin": "NOK",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
+   "id": "ca10-26-5046-2027-01-21",
+   "court": "ca10",
+   "docket": "26-5046",
+   "title": "United States v. Warren, Appellant",
+   "date": "2027-01-21",
+   "time_local": "09:00",
+   "tz": "America/Denver",
+   "location": "Albuquerque",
+   "room": "Courtroom II",
+   "origin": "NOK",
    "issue": null,
    "notes": null,
    "no_argument": false,
