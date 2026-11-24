@@ -1,5 +1,5 @@
 {
- "today": "2026-11-22",
+ "today": "2026-11-23",
  "days": [
   {
    "date": "2026-11-02",
@@ -805,14 +805,18 @@
   {
    "date": "2026-11-30",
    "notes": [],
-   "panelVisible": false,
+   "panelVisible": true,
    "panels": [
     {
      "city": "New Orleans, LA",
      "room": "East Courtroom",
      "building": "John Minor Wisdom United States Court of Appeals Building",
      "amPm": "p",
-     "judges": [],
+     "judges": [
+      "Ho",
+      "Engelhardt",
+      "Wilson"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -847,30 +851,23 @@
   {
    "date": "2026-12-01",
    "notes": [],
-   "panelVisible": false,
+   "panelVisible": true,
    "panels": [
     {
      "city": "New Orleans, LA",
      "room": "East Courtroom",
      "building": "John Minor Wisdom United States Court of Appeals Building",
      "amPm": "a",
-     "judges": [],
+     "judges": [
+      "Ho",
+      "Engelhardt",
+      "Wilson"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
      "streamUrl": "https://5thcircuit.streamguys1.com/east",
      "cases": [
-      {
-       "time": "09:00",
-       "docket": "26-60077",
-       "caption": "Satellite Healthcare, Petitioner-Respondent v. National Labor Relations Board.",
-       "nature": "Agency",
-       "natureClass": "agc",
-       "origin": "National Labor Relations Board",
-       "perSide": 20,
-       "submitted": false,
-       "specialNote": null
-      },
       {
        "time": "09:00",
        "docket": "26-20159",
@@ -900,7 +897,11 @@
      "room": "En Banc Courtroom",
      "building": "John Minor Wisdom United States Court of Appeals Building",
      "amPm": "a",
-     "judges": [],
+     "judges": [
+      "Jones",
+      "Graves",
+      "Higginson"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -946,7 +947,11 @@
      "room": "West Courtroom",
      "building": "John Minor Wisdom United States Court of Appeals Building",
      "amPm": "a",
-     "judges": [],
+     "judges": [
+      "Stewart",
+      "Richman",
+      "Southwick"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -992,7 +997,11 @@
      "room": "West Courtroom",
      "building": "265",
      "amPm": "p",
-     "judges": [],
+     "judges": [
+      "Smith",
+      "Southwick",
+      "Douglas"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -1016,14 +1025,18 @@
   {
    "date": "2026-12-02",
    "notes": [],
-   "panelVisible": false,
+   "panelVisible": true,
    "panels": [
     {
      "city": "New Orleans, LA",
      "room": "East Courtroom",
      "building": "John Minor Wisdom United States Court of Appeals Building",
      "amPm": "a",
-     "judges": [],
+     "judges": [
+      "Clement",
+      "Haynes",
+      "Willett"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -1069,7 +1082,11 @@
      "room": "East Courtroom",
      "building": "John Minor Wisdom United States Court of Appeals Building",
      "amPm": "p",
-     "judges": [],
+     "judges": [
+      "Ho",
+      "Engelhardt",
+      "Wilson"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -1115,7 +1132,11 @@
      "room": "En Banc Courtroom",
      "building": "John Minor Wisdom United States Court of Appeals Building",
      "amPm": "a",
-     "judges": [],
+     "judges": [
+      "Jones",
+      "Graves",
+      "Higginson"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -1172,7 +1193,11 @@
      "room": "En Banc Courtroom",
      "building": "John Minor Wisdom United States Court of Appeals Building",
      "amPm": "p",
-     "judges": [],
+     "judges": [
+      "Ho",
+      "Engelhardt",
+      "Wilson"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -1218,7 +1243,11 @@
      "room": "West Courtroom",
      "building": "John Minor Wisdom United States Court of Appeals Building",
      "amPm": "a",
-     "judges": [],
+     "judges": [
+      "Stewart",
+      "Richman",
+      "Southwick"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -1275,7 +1304,11 @@
      "room": "West Courtroom",
      "building": "265",
      "amPm": "p",
-     "judges": [],
+     "judges": [
+      "Smith",
+      "Graves",
+      "Ho"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -1299,14 +1332,18 @@
   {
    "date": "2026-12-03",
    "notes": [],
-   "panelVisible": false,
+   "panelVisible": true,
    "panels": [
     {
      "city": "New Orleans, LA",
      "room": "East Courtroom",
      "building": "John Minor Wisdom United States Court of Appeals Building",
      "amPm": "a",
-     "judges": [],
+     "judges": [
+      "Clement",
+      "Haynes",
+      "Willett"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -1352,7 +1389,11 @@
      "room": "East Courtroom",
      "building": "223",
      "amPm": "p",
-     "judges": [],
+     "judges": [
+      "Haynes",
+      "Willett",
+      "Duncan"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -1376,7 +1417,11 @@
      "room": "East Courtroom",
      "building": "223",
      "amPm": "p",
-     "judges": [],
+     "judges": [
+      "Willett",
+      "Oldham",
+      "Wilson"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -1400,7 +1445,11 @@
      "room": "En Banc Courtroom",
      "building": "John Minor Wisdom United States Court of Appeals Building",
      "amPm": "a",
-     "judges": [],
+     "judges": [
+      "Jones",
+      "Graves",
+      "Higginson"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -1435,7 +1484,11 @@
      "room": "West Courtroom",
      "building": "John Minor Wisdom United States Court of Appeals Building",
      "amPm": "a",
-     "judges": [],
+     "judges": [
+      "Stewart",
+      "Richman",
+      "Southwick"
+     ],
      "chief": null,
      "notes": [],
      "now": null,
@@ -1481,14 +1534,18 @@
   {
    "date": "2026-12-04",
    "notes": [],
-   "panelVisible": false,
+   "panelVisible": true,
    "panels": [
     {
      "city": "New Orleans, LA",
      "room": "West Courtroom",
      "building": "265",
      "amPm": "a",
-     "judges": [],
+     "judges": [
+      "Stewart",
+      "Graves",
+      "Wilson"
+     ],
      "chief": null,
      "notes": [],
      "now": null,

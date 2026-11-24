@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:48:19+00:00",
+ "generated_at": "2026-11-24T00:01:42+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -29,8 +29,32 @@
    "hearings": [],
    "deadlines": [
     {
+     "date": "2026-12-01",
+     "what": "Plaintiffs' motion for preliminary injunction must be filed on or before 5:00 p.m. on December 1, 2026."
+    },
+    {
+     "date": "2026-12-04",
+     "what": "The Court further ORDERS that Plaintiffs deliver jointly prepared key cases binders, which include only cases not included in previous key cases binders, to Chambers by 2:00 p.m. o…"
+    },
+    {
+     "date": "2026-12-06",
+     "what": "Defendants' opposition is due by 5:00 p.m. on December 6, 2026."
+    },
+    {
+     "date": "2026-12-10",
+     "what": "Defendants' Brief"
+    },
+    {
      "date": "2026-12-10",
      "what": "Upon consideration of the 171 Joint Status Report, the Court ORDERS Defendants to submit a brief on whether an ethics investigation, including one conducted by a Special Master, is…"
+    },
+    {
+     "date": "2026-12-12",
+     "what": "Plaintiffs' Status Report"
+    },
+    {
+     "date": "2026-12-21",
+     "what": "Response to 175"
     },
     {
      "date": "2026-12-21",
@@ -38,10 +62,26 @@
     },
     {
      "date": "2026-12-23",
+     "what": "Plaintiffs' Response to Brief"
+    },
+    {
+     "date": "2026-12-23",
      "what": "Should Plaintiffs wish to file a response, that response is due by 5:00 p.m. on December 23, 2026."
     }
    ],
    "recent": [
+    {
+     "date": "2026-11-23",
+     "entry": null,
+     "text": "Set/Reset Deadlines/Hearings: Defendants' Brief due by 12/10/2026. Plaintiffs' Status Report due by 12/12/2026. Plaintiffs' Response to Brief due by 12/23/2026. Response to 175 due by 12/21/2026. (zcdw)",
+     "doc": null
+    },
+    {
+     "date": "2026-11-23",
+     "entry": null,
+     "text": "MINUTE ORDER granting in part and denying in part 166 Motion for Expedited Discovery and setting briefing schedule. The Court concludes that expedited discovery pertaining to NLT is unwarranted at this time. As such, it DENIES Plaintiff's request to serve the subpoenas attached as Exhibits to Plaintiffs' Motion. Plaintiffs may renew any requests for such discovery in advance of their response to the 75 Motion for Summary Judgment. The Court GRANTS Plaintiffs' request for Jessica Bowron, the Government's primary declarant, to attend the upcoming preliminary injunction hearing and present testim…",
+     "doc": null
+    },
     {
      "date": "2026-11-20",
      "entry": null,
@@ -89,18 +129,6 @@
      "entry": 169,
      "text": "Transmission of the Notice of Appeal, Order Appealed (Memorandum Opinion), and Docket Sheet to US Court of Appeals. The Court of Appeals docketing fee was not paid because the appeal was filed by the government re 168 Notice of Appeal to DC Circuit Court,. (znmw) (Entered: 11/19/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.169.0.pdf"
-    },
-    {
-     "date": "2026-11-18",
-     "entry": 168,
-     "text": "NOTICE OF INTERLOCUTORY APPEAL TO DC CIRCUIT COURT as to 159 Order on Motion for TRO, Order on Motion to Stay by NATIONAL PARK SERVICE, JESSICA BOWRON, DEPARTMENT OF INTERIOR, DOUG BURGUM. Fee Status: No Fee Paid. (Robertson, Michael) Modified event on 11/19/2026 (znmw). (Entered: 11/18/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.168.0.pdf"
-    },
-    {
-     "date": "2026-11-18",
-     "entry": 167,
-     "text": "TRANSCRIPT OF MOTION HEARING PROCEEDINGS before Judge Ana C. Reyes held on November 13, 2026; Page Numbers: 1-141. Court Reporter/Transcriber: William Zaremba; Email: William_Zaremba@dcd.uscourts.gov. Transcripts may be ordered by submitting the Transcript Order FormFor the first 90 days after this filing date, the transcript may be viewed at the courthouse at a public terminal or purchased from the court reporter referenced above. After 90 days, the transcript may be accessed via PACER. Other transcript formats, (multi-page, condensed, PDF or ASCII) may be purchased from the court reporter.NO…",
-     "doc": null
     }
    ],
    "brief": {
@@ -261,7 +289,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-22"
+   "updated": "2026-11-24"
   },
   {
    "id": "ilnd-25-cr-693",
@@ -296,6 +324,54 @@
    "deadlines": [],
    "recent": [
     {
+     "date": "2026-11-23",
+     "entry": 324,
+     "text": "MINUTE entry before the Honorable Heather K. McShain: The parties' request (communicated via joint email to chambers on 11/23/2026) to reset the deadline for settlement proposals and the in-person settlement conference on Hyde Amendment fees is granted. The prior schedule 303 is stricken and reset as follows. In-person settlement conference is reset to 12/14/2026 at 12:30 p.m. in Courtroom 1025. Settlement position submissions are due by 12/08/2026, and should be emailed to the Court at Settlement_Correspondence_McShain@ilnd.uscourts.gov. (pk, ) (Entered: 11/23/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.324.0.pdf"
+    },
+    {
+     "date": "2026-11-20",
+     "entry": 323,
+     "text": "MINUTE entry before the Honorable April M. Perry: The Government's motion for appointment of a special master 322 is denied. The Government has known for more than five months that the Court planned to hold a hearing regarding the conduct of the federal prosecutors in this matter, and for more than three months that potentially privileged communications would be at issue during that hearing. See Docs. 187; 247 at 25. Despite this, the Government waited until 6:50 p.m. the night before potentially privileged materials would be tendered to the Court to file its motion. The request is therefore u…",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.323.0.pdf"
+    },
+    {
+     "date": "2026-11-19",
+     "entry": 322,
+     "text": "MOTION by USA for Referral to Special Master as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh Presented before District Judge (Carneiro, Henrique) (Entered: 11/19/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.322.0_1.pdf"
+    },
+    {
+     "date": "2026-11-17",
+     "entry": 321,
+     "text": "TRANSCRIPT OF PROCEEDINGS as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh held on November 16, 2026, before the Honorable April M. Perry. Order Number: 58508. Court Reporter Contact Information: Noreen Resendez, noreen_resendez@ilnd.uscourts.gov,312.582.5267.IMPORTANT: The transcript may be viewed at the court's public terminal or purchased through the Court Reporter/Transcriber before the deadline for Release of Transcript Restriction. After that date it may be obtained through the Court Reporter/Transcriber or PACER. For further i…",
+     "doc": null
+    },
+    {
+     "date": "2026-11-16",
+     "entry": 320,
+     "text": "PROTECTIVE Order Governing Materials Produced Under ECF No. 276. Signed by the Honorable April M. Perry on 11/16/2026. Mailed notice. (jcc,) (Entered: 11/16/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.320.0.pdf"
+    },
+    {
+     "date": "2026-11-16",
+     "entry": 319,
+     "text": "MINUTE entry before the Honorable April M. Perry: The Government's agreed motion for entry of a protective order 318 is granted, consistent with the order to follow. Mailed notice. (jcc,) (Entered: 11/16/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.319.0.pdf"
+    },
+    {
+     "date": "2026-11-16",
+     "entry": 318,
+     "text": "MOTION by USA for protective order as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh Presented before District Judge (Attachments: # 1 Exhibit Proposed Protective Order)(Carneiro, Henrique) (Entered: 11/16/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.318.0.pdf"
+    },
+    {
+     "date": "2026-11-16",
+     "entry": 317,
+     "text": "MINUTE entry before the Honorable April M. Perry: Status hearing held 11/16/2026. For the reasons stated on the record in open court, the Government's motion \"for protective order\" 315 is denied, and the Court strikes the motion presentment date. If after meeting and conferring regarding the Intervenors' proposed testimony the parties are at an impasse regarding the scope of applicable privileges as applied to any Intervenor's testimony, the Intervenor should email the Courtroom Deputy by 11/20/2026 an in camera submission regarding the relevant portion of the proffered testimony and why any p…",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.317.0.pdf"
+    },
+    {
      "date": "2026-11-15",
      "entry": 316,
      "text": "NOTICE of Motion by Henrique N Carneiro for presentment of motion for protective order 315 before Honorable April M. Perry on 12/2/2026 at 09:00 AM. (Carneiro, Henrique) (Entered: 11/15/2026)",
@@ -306,54 +382,6 @@
      "entry": 315,
      "text": "MOTION by USA for protective order as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh Presented before District Judge (Carneiro, Henrique) (Entered: 11/15/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.315.0.pdf"
-    },
-    {
-     "date": "2026-11-13",
-     "entry": 314,
-     "text": "NOTICE of of Certification by USA as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh regarding order on motion to withdraw as attorney,,,,,, terminate hearings,, set/reset hearings, 287 (Woodward, Stanley) (Entered: 11/13/2026)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-12",
-     "entry": 313,
-     "text": "NOTICE of Amended Submission by USA as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh (Carneiro, Henrique) (Entered: 11/12/2026)",
-     "doc": null
-    },
-    {
-     "date": "2026-11-12",
-     "entry": 312,
-     "text": "MINUTE entry before the Honorable April M. Perry: At the request of counsel for intervenors and with the consent of DOJ, the hearing set for 11/16/2026 is moved to 12/2/2026 at 9:00 a.m. in person in Courtroom 1725. The 11/16/2026 date is converted to a status hearing. Mailed notice. (jcc,) (Entered: 11/12/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.312.0.pdf"
-    },
-    {
-     "date": "2026-11-11",
-     "entry": 311,
-     "text": "MINUTE entry before the Honorable April M. Perry: The Government's \"motion for clarification,\" 305 is denied. The Court explained the reasons for the upcoming hearing in open court on 5/21/2026 and 10/5/2026. Docs. 187, 271. Moreover, the Court laid out its reasoning in writing in its Order of 11/2/2026. See Doc. 287. Finally, the Government's attorney agreed on 10/5/2026 that \"[t]his Court certainly has the authority to ask witnesses to come testify about factual matters.\" Doc. 271 at 26. Ultimately, the Government's professed lack of clarity about the Court's inherent authority to ask lawyer…",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.311.0_1.pdf"
-    },
-    {
-     "date": "2026-11-10",
-     "entry": 310,
-     "text": "MINUTE entry before the Honorable April M. Perry: The Court grants AUSA Andres Almendarez's motion to intervene for the purposes of the evidentiary hearing currently scheduled for 11/16/2026 and related proceedings 308 . In response to the questions posed by counsel: witnesses will be provided the opportunity to make an uninterrupted oral statement before the Court asks any follow-up questions. To the extent a witness would prefer to submit a written statement in lieu of an oral statement, they may file one by 3:00 p.m. the day prior to the hearing. Any written statement must be signed under o…",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.310.0.pdf"
-    },
-    {
-     "date": "2026-11-10",
-     "entry": 309,
-     "text": "NOTICE of Motion by Megan Cunniff Church for presentment of motion for leave to 308 before Honorable April M. Perry on 11/17/2026 at 10:30 AM. (Church, Megan) (Entered: 11/10/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.309.0.pdf"
-    },
-    {
-     "date": "2026-11-10",
-     "entry": 308,
-     "text": "MOTION by USA for leave as to Michael Rabbitt, Katherine Marie Abughazaleh, Andre Martin, Catherine Sharp, Brian Straw, Joselyn Walsh to Intervene by Non-Party Andres Almendarez Presented before District Judge (Church, Megan) (Entered: 11/10/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488593/gov.uscourts.ilnd.488593.308.0.pdf"
-    },
-    {
-     "date": "2026-11-10",
-     "entry": 307,
-     "text": "ATTORNEY Appearance for USA byMegan Cunniff Church for non-party intervenor Andres Almendarez (Church, Megan) (Entered: 11/10/2026)",
-     "doc": null
     }
    ],
    "brief": {
@@ -474,7 +502,7 @@
     "through": "2026-11-09",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-22"
+   "updated": "2026-11-24"
   },
   {
    "id": "dcd-26-cv-544",

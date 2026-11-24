@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-11-22T19:45:57+00:00",
+  "generated_at": "2026-11-23T23:58:49+00:00",
   "window_days": 10,
   "source": "CourtListener oral argument search (Free Law Project)",
   "cases": [
+    {
+      "id": "cl-107823",
+      "court": "ca2",
+      "docket": "25-2750",
+      "title": "Feuer v. Murphy",
+      "date": "2026-11-23",
+      "duration_sec": 1195,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/23/feuer_v._murphy_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107823/feuer-v-murphy/"
+    },
+    {
+      "id": "cl-107822",
+      "court": "ca2",
+      "docket": "25-2339",
+      "title": "United States v. Pukke",
+      "date": "2026-11-23",
+      "duration_sec": 1519,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/23/united_states_v._pukke_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107822/united-states-v-pukke/"
+    },
+    {
+      "id": "cl-107821",
+      "court": "ca2",
+      "docket": "25-2694",
+      "title": "Xu v. Teneo",
+      "date": "2026-11-23",
+      "duration_sec": 455,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/23/xu_v._teneo_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107821/xu-v-teneo/"
+    },
+    {
+      "id": "cl-107824",
+      "court": "ca6",
+      "docket": "25-5931",
+      "title": "Kentucky Heartwood Inc v. Randy Moore",
+      "date": "2026-11-23",
+      "duration_sec": 2117,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/23/kentucky_heartwood_inc_v._randy_moore_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107824/kentucky-heartwood-inc-v-randy-moore/"
+    },
     {
       "id": "cl-107790",
       "court": "ca2",
@@ -814,36 +854,6 @@
       "page": "https://www.courtlistener.com/audio/107736/usps-v-prc/"
     },
     {
-      "id": "cl-107683",
-      "court": "ca2",
-      "docket": "25-1711",
-      "title": "Corley v. United States",
-      "date": "2026-11-18",
-      "duration_sec": 1503,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/corley_v._united_states_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107683/corley-v-united-states/"
-    },
-    {
-      "id": "cl-107682",
-      "court": "ca2",
-      "docket": "26-703",
-      "title": "Doe v. the Bank of New York Mellon Corporation",
-      "date": "2026-11-18",
-      "duration_sec": 1514,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/doe_v._the_bank_of_new_york_mellon_corporation_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107682/doe-v-the-bank-of-new-york-mellon-corporation/"
-    },
-    {
-      "id": "cl-107681",
-      "court": "ca2",
-      "docket": "25-1451, 26-340",
-      "title": "Thomas v. Banks",
-      "date": "2026-11-18",
-      "duration_sec": 1369,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/thomas_v._banks_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107681/thomas-v-banks/"
-    },
-    {
       "id": "cl-107692",
       "court": "ca8",
       "docket": "25-1758",
@@ -922,16 +932,6 @@
       "duration_sec": 1896,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/wipro_llc_v._first_data_government_solutions_lp_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107685/wipro-llc-v-first-data-government-solutions-lp/"
-    },
-    {
-      "id": "cl-107684",
-      "court": "ca8",
-      "docket": "25-2905",
-      "title": "Womens Life Care Center v. Keith Ellison",
-      "date": "2026-11-18",
-      "duration_sec": 1881,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/womens_life_care_center_v._keith_ellison_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107684/womens-life-care-center-v-keith-ellison/"
     },
     {
       "id": "cl-107700",

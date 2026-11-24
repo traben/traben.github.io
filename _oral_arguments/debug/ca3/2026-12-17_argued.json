@@ -1,0 +1,38 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:00am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "5665e69a-39e7-f111-84e7-001dd804bb46",
+  "ca3dev_casenumber": "25-2034",
+  "ca3dev_caption": "USA v. Barry Walker"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:00am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "3efc97aa-39e7-f111-84e7-001dd804b29b",
+  "ca3dev_casenumber": "25-3327",
+  "ca3dev_caption": "Antonio Castro v. Attorney General United States of America"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:00am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "303140c3-39e7-f111-84e7-001dd804b29b",
+  "ca3dev_casenumber": "26-1158",
+  "ca3dev_caption": "Barry Seward et al  v. Constance Ludden et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "KRAUSE, PHIPPS, CHUNG",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:00am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "02290bbf-39e7-f111-84e7-001dd804bb46",
+  "ca3dev_casenumber": "26-1448",
+  "ca3dev_caption": "Rebecca Love et al  v. Red River Talc LLC et al"
+ }
+]

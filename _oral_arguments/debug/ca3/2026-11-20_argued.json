@@ -1,1 +1,11 @@
-[]
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "MATEY, FREEMAN, ROTH",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:30am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "2c45c69b-39e7-f111-84e7-001dd804b5a1",
+  "ca3dev_casenumber": "24-3171",
+  "ca3dev_caption": "In re: Application of financialright claims GmbH"
+ }
+]
