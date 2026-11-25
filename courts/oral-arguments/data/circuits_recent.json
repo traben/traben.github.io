@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-11-24T05:22:04+00:00",
+  "generated_at": "2026-11-25T04:16:15+00:00",
   "window_days": 10,
   "source": "CourtListener oral argument search (Free Law Project)",
   "cases": [
+    {
+      "id": "cl-107827",
+      "court": "ca2",
+      "docket": "26-2516 mtn",
+      "title": "Cumulus Media New Holdings Inc. v. the Nielsen Company (US), LLC",
+      "date": "2026-11-24",
+      "duration_sec": 2288,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/24/cumulus_media_new_holdings_inc._v._the_nielsen_company_us_llc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107827/cumulus-media-new-holdings-inc-v-the-nielsen-company-us-llc/"
+    },
+    {
+      "id": "cl-107826",
+      "court": "ca2",
+      "docket": "26-264",
+      "title": "Goldstein v. Gabbit, LLC",
+      "date": "2026-11-24",
+      "duration_sec": 1376,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/24/goldstein_v._gabbit_llc_cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107826/goldstein-v-gabbit-llc/"
+    },
+    {
+      "id": "cl-107825",
+      "court": "ca2",
+      "docket": "25-1718",
+      "title": "United States v. Sterritt, Jr.",
+      "date": "2026-11-24",
+      "duration_sec": 1496,
+      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/24/united_states_v._sterritt_jr._cl.mp3",
+      "page": "https://www.courtlistener.com/audio/107825/united-states-v-sterritt-jr/"
+    },
     {
       "id": "cl-107823",
       "court": "ca2",
@@ -892,46 +922,6 @@
       "duration_sec": 1374,
       "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/united_states_v._angelo_gladney_cl.mp3",
       "page": "https://www.courtlistener.com/audio/107689/united-states-v-angelo-gladney/"
-    },
-    {
-      "id": "cl-107688",
-      "court": "ca8",
-      "docket": "26-1757",
-      "title": "United States v. Dasan Cavanaugh",
-      "date": "2026-11-18",
-      "duration_sec": 1022,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/united_states_v._dasan_cavanaugh_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107688/united-states-v-dasan-cavanaugh/"
-    },
-    {
-      "id": "cl-107687",
-      "court": "ca8",
-      "docket": "25-3222",
-      "title": "United States v. Gary Feather, Jr.",
-      "date": "2026-11-18",
-      "duration_sec": 1563,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/united_states_v._gary_feather_jr._cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107687/united-states-v-gary-feather-jr/"
-    },
-    {
-      "id": "cl-107686",
-      "court": "ca8",
-      "docket": "26-1478",
-      "title": "United States v. Timothy Starks",
-      "date": "2026-11-18",
-      "duration_sec": 908,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/united_states_v._timothy_starks_cl_1.mp3",
-      "page": "https://www.courtlistener.com/audio/107686/united-states-v-timothy-starks/"
-    },
-    {
-      "id": "cl-107685",
-      "court": "ca8",
-      "docket": "25-3206",
-      "title": "Wipro, LLC v. First Data Government Solutions, LP",
-      "date": "2026-11-18",
-      "duration_sec": 1896,
-      "audio_mp3": "https://storage.courtlistener.com/mp3/2026/11/18/wipro_llc_v._first_data_government_solutions_lp_cl.mp3",
-      "page": "https://www.courtlistener.com/audio/107685/wipro-llc-v-first-data-government-solutions-lp/"
     },
     {
       "id": "cl-107700",
