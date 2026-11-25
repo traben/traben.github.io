@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "BIBAS, FREEMAN, BOVE",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "a86e7e07-cce8-f111-84e7-001dd804b29b",
+  "ca3dev_casenumber": "26-1458",
+  "ca3dev_caption": "USA v. Samuel Bender, II"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "BIBAS, FREEMAN, BOVE",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "287dd007-cce8-f111-84e7-001dd804b5a1",
+  "ca3dev_casenumber": "26-1548",
+  "ca3dev_caption": "E.W. v. Wilson School District"
+ }
+]

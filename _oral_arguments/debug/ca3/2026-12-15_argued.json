@@ -1,0 +1,56 @@
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "BIBAS, FREEMAN, BOVE",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:00 am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "c0747aef-cbe8-f111-84e7-001dd804b29b",
+  "ca3dev_casenumber": "24-1784",
+  "ca3dev_caption": "USA v. Ross Roggio"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "BIBAS, FREEMAN, BOVE",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:00 am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "2801a6f5-cbe8-f111-84e7-001dd804b5a1",
+  "ca3dev_casenumber": "25-2820",
+  "ca3dev_caption": "USA, ex rel. et al  v. CVS Caremark Corp et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "BIBAS, FREEMAN, BOVE",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 1:00 pm",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "13407af5-cbe8-f111-84e7-001dd804b29b",
+  "ca3dev_casenumber": "25-3095",
+  "ca3dev_caption": "Jeremy Blain v. Rausch Creek Generation LLC"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "BIBAS, FREEMAN, BOVE",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 1:00 pm",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "3707c90d-cce8-f111-84e7-001dd804b5a1",
+  "ca3dev_casenumber": "26-1073, 26-1287",
+  "ca3dev_caption": "Admiral Insurance Co v. Comly Road Holdings LLC et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "BIBAS, FREEMAN, BOVE",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 1:00 pm",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "4e837007-cce8-f111-84e7-001dd804bb46",
+  "ca3dev_casenumber": "26-1107",
+  "ca3dev_caption": "Ann Lewandowski et al  v. Johnson & Johnson et al"
+ },
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "BIBAS, FREEMAN, BOVE",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 9:00 am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "02c5680d-cce8-f111-84e7-001dd804bb46",
+  "ca3dev_casenumber": "26-1277, 26-1328, 26-1328",
+  "ca3dev_caption": "Joseph Amato et al  v. Subaru of America Inc et al"
+ }
+]
