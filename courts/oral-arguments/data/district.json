@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:49:41+00:00",
+ "generated_at": "2026-11-26T03:39:21+00:00",
  "cases": [
   {
    "id": "dcd-26-cv-477",
@@ -93,6 +93,12 @@
    ],
    "recent": [
     {
+     "date": "2026-11-25",
+     "entry": 175,
+     "text": "NOTICE by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE (Attachments: # 1 Declaration of Michael Commisso)(Robertson, Michael) (Entered: 11/25/2026)",
+     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.175.0.pdf"
+    },
+    {
      "date": "2026-11-24",
      "entry": null,
      "text": "Set/Reset Deadlines/Hearings: Jointly prepared key cases binders due to chambers by 12/4/2026. Motion for Preliminary Injunction due by 12/1/2026. Response due by 12/6/2026. Reply due by 12/7/2026. Preliminary Injunction Hearing set for 12/8/2026 at 10:00 AM in Courtroom 12 before Judge Ana C. Reyes. (zcdw)",
@@ -145,12 +151,6 @@
      "entry": 172,
      "text": "Second MOTION for Extension of Time to File Response/Reply as to 75 First MOTION for Summary Judgment and RESPONSE IN OPPOSITION TO PLAINTIFFS RULE 15 MOTION by DC PRESERVATION LEAGUE, ALEX DICKSON, DAVE ROBERTS. (Attachments: # 1 Text of Proposed Order)(Bardwell, Will) (Entered: 11/19/2026)",
      "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.172.0.pdf"
-    },
-    {
-     "date": "2026-11-19",
-     "entry": 171,
-     "text": "Joint STATUS REPORT by JESSICA BOWRON, DOUG BURGUM, DEPARTMENT OF INTERIOR, NATIONAL PARK SERVICE. (Robertson, Michael) (Entered: 11/19/2026)",
-     "doc": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.289401/gov.uscourts.dcd.289401.171.0_1.pdf"
     }
    ],
    "brief": {
@@ -311,7 +311,7 @@
     "through": "2026-10-30",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-25"
+   "updated": "2026-11-26"
   },
   {
    "id": "ilnd-25-cr-693",
@@ -524,7 +524,7 @@
     "through": "2026-11-09",
     "author": "Claude (AI)"
    },
-   "updated": "2026-11-25"
+   "updated": "2026-11-26"
   },
   {
    "id": "dcd-26-cv-544",
