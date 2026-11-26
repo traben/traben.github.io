@@ -1,1 +1,11 @@
-[]
+[
+ {
+  "statecode": "Active",
+  "ca3dev_panel": "BIBAS, FREEMAN, BOVE",
+  "ca3dev_locationtime": "Philadelphia, PA - Maris Courtroom / 10:00 am",
+  "statuscode": "Active",
+  "ca3dev_casedetailid": "f3f49025-95e9-f111-84e7-001dd804b5a1",
+  "ca3dev_casenumber": "25-3329, 25-3413",
+  "ca3dev_caption": "Stephen Snowdy et al  v. Mercedes Benz USA LLC et al"
+ }
+]

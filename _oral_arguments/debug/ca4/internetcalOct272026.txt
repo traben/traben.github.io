@@ -569,7 +569,7 @@ Page 16 of 19
 US v. George Russell, III 
 (Cullen) 
 to automatic temporary stays of removal in habeas cases brought by alien detainees; related issues. 
-CIV IL: Whether district court erred inprohibiting HHS to make certain modifications to existing policies 26-1938 Briefs  
+CIVIL: Whether district court erred inprohibiting HHS to make certain modifications to existing policies 26-1938 Briefs 
 City of  Columbus v. Robert Kennedy, Jr. 
 (Hurson) 
 related to healthinsurance exchanges underAffordable Care Act. 
@@ -591,7 +591,7 @@ US v. Covia Smith
 (Dever) 
 Briefs POSTCONVICTION: Whether trial and appellate counsel rendered ineffective assistance by failing to 
 challenge defendant's career offender enhancement. 
-CIVIL : Whether district court erred in granting qualified immunity to defendant Brig officials on RFRA 25-2076 Briefs
+CIVIL: Whether district court erred in granting qualified immunity to defendant Brig officials on RFRA 25-2076 Briefs
 Nathaniel Jackson v. Michael Gilday 
 (Lydon) 
 And RLUIPA claimsrelatedto mandatory grooming policy. 
@@ -613,11 +613,11 @@ UNITEDSTATES COURT of APPEALS for the FOURTH CIRCUIT
 Richmond, VA (10/27/2026 - 10/30/2026 Session) 
 Friday, October 30, 2026 
 Page 18 of 19 
-IMMIG RATION: Whether district court erred in granting summary judgment for USCIS in dispute related 25-2084 Briefs  
+IMMIGRATION: Whether district court erred in granting summary judgment for USCIS in dispute related 25-2084 Briefs 
 Hector Bonilla Bustillo v. John Roessler 
 (Nachmanoff) 
 to denialof application to replace GreenCard. 
-CONSTITUTIONAL LAW: Whether district court erred in dismissing claims, grantingsummary judgment 25-6781 Briefs  
+CONSTITUTIONAL LAW: Whether district court erred in dismissing claims, grantingsummary judgment 25-6781 Briefs 
 Jonathan Green v. Mark Keel 
 (Norton) 
 for defendantsonclaims relatedto plaintiff's wrongful placement on sex offender registry. 
@@ -638,7 +638,7 @@ UNITEDSTATES COURT of APPEALS for the FOURTH CIRCUIT
 Richmond, VA (10/27/2026 - 10/30/2026 Session) 
 Friday, October 30, 2026 
 Page 19 of 19 
-B riefs CRIMINAL: In prosecution under 18 U.S.C.section922(g)(1), was evidence insufficient for jury to 25-4542 
+Briefs CRIMINAL: In prosecution under 18 U.S.C.section922(g)(1), was evidence insufficient for jury to 25-4542 
 US v. Lester Massey, Jr. 
 (Xinis) 
 conclude that appellant knew his decade-old convictions amounted to disqualifying felonies? 
