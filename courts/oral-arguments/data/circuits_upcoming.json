@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T03:43:01+00:00",
+ "generated_at": "2026-11-27T21:25:13+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -22890,6 +22890,46 @@
    "links": {
     "calendar": "https://www.cafc.uscourts.gov/wp-content/uploads/OralArguments/PublicCalendar-January2027.pdf",
     "live": "https://www.cafc.uscourts.gov/home/oral-argument/listen-to-oral-arguments/"
+   },
+   "live_note": null
+  },
+  {
+   "id": "ca10-25-2161-2027-01-11",
+   "court": "ca10",
+   "docket": "25-2161",
+   "title": "United States v. Zamarripa, Appellant",
+   "date": "2027-01-11",
+   "time_local": "12:30",
+   "tz": "America/Denver",
+   "location": "Denver, CO",
+   "room": null,
+   "origin": "NM",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_11_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
+   },
+   "live_note": null
+  },
+  {
+   "id": "ca10-26-2007-2027-01-11",
+   "court": "ca10",
+   "docket": "26-2007",
+   "title": "United States v. Gonzales, Appellant",
+   "date": "2027-01-11",
+   "time_local": "12:30",
+   "tz": "America/Denver",
+   "location": "Denver, CO",
+   "room": null,
+   "origin": "NM",
+   "issue": null,
+   "notes": null,
+   "no_argument": false,
+   "links": {
+    "calendar": "https://www.ca10.uscourts.gov/sites/ca10/files/calendar/events/January_11_2027_-_Public_Calendar.pdf",
+    "live": "https://www.ca10.uscourts.gov/oral-argument-live-streaming"
    },
    "live_note": null
   },
