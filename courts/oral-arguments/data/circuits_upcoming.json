@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T21:25:13+00:00",
+ "generated_at": "2026-11-28T03:24:19+00:00",
  "courts": [
   "ca1",
   "ca4",
@@ -16,196 +16,6 @@
   "ca2"
  ],
  "cases": [
-  {
-   "id": "ca2-25-1505-2026-11-13",
-   "court": "ca2",
-   "docket": "25-1505",
-   "title": "United States of America v. Jason Galanis",
-   "date": "2026-11-13",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=13&id=789144239",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-1585-2026-11-13",
-   "court": "ca2",
-   "docket": "25-1585",
-   "title": "United States of America v. Malcolm Hogue",
-   "date": "2026-11-13",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "panel": "",
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=13&id=789144239",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-186-2026-11-13",
-   "court": "ca2",
-   "docket": "25-186",
-   "title": "Danny Reynoso v. Postmaster General David Steiner",
-   "date": "2026-11-13",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "panel": "",
-   "no_argument": true,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=13&id=789144239",
-    "live": "https://ww2.ca2.uscourts.gov/court.html"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-25-2605-2026-11-13",
-   "court": "ca2",
-   "docket": "25-2605",
-   "title": "Peter Wilds v. The Board of Education of the City et al",
-   "date": "2026-11-13",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 min per side"
-   ],
-   "panel": "",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=13&id=789144239",
-    "live": "https://ww2.ca2.uscourts.gov/court.html",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/13/in_re_new_york_city_board_of_education_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107566/in-re-new-york-city-board-of-education/"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca2-26-12-2026-11-13",
-   "court": "ca2",
-   "docket": "26-12",
-   "title": "Paul West v. City of Hartford",
-   "date": "2026-11-13",
-   "time_local": "10:00",
-   "tz": "America/New_York",
-   "location": "New York, NY",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "8 min per side"
-   ],
-   "panel": "",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://www.huntcal.com/cal/eventview/USCA2/USCA2?yr=2026&m=11&d=13&id=789144239",
-    "live": "https://ww2.ca2.uscourts.gov/court.html",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/13/west_v._city_of_hartford_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107565/west-v-city-of-hartford/"
-   },
-   "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "cadc-24-1361-2026-11-13",
-   "court": "cadc",
-   "docket": "24-1361",
-   "title": "American Electric Power Service Corporation v. FERC",
-   "date": "2026-11-13",
-   "time_local": "09:30",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "USCA Courtroom 31",
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 minutes per side"
-   ],
-   "panel": "Pillard, Wilkins, Randolph",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
-    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/13/american_electric_power_service_corporation_v._ferc_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107569/american-electric-power-service-corporation-v-ferc/"
-   },
-   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
-  },
-  {
-   "id": "cadc-25-5196-2026-11-13",
-   "court": "cadc",
-   "docket": "25-5196",
-   "title": "Michelle Murray v. Debbie Shaw",
-   "date": "2026-11-13",
-   "time_local": "09:30",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "USCA Courtroom 31",
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "15 minutes per side"
-   ],
-   "panel": "Henderson, Pillard, Randolph",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
-    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/13/michelle_murray_v._debbie_shaw_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107567/michelle-murray-v-debbie-shaw/"
-   },
-   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
-  },
-  {
-   "id": "cadc-26-7004-2026-11-13",
-   "court": "cadc",
-   "docket": "26-7004",
-   "title": "Michael Leach v. DC",
-   "date": "2026-11-13",
-   "time_local": "09:30",
-   "tz": "America/New_York",
-   "location": "Washington, DC",
-   "room": "USCA Courtroom 31",
-   "origin": null,
-   "issue": null,
-   "notes": [
-    "10 minutes per side"
-   ],
-   "panel": "Henderson, Pillard, Randolph",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=FutureDates",
-    "live": "https://media.cadc.uscourts.gov/calendar/calendar.php?cal=TodaysSitting",
-    "recording": "https://storage.courtlistener.com/mp3/2026/11/13/michael_leach_v._dc_cl.mp3",
-    "recording_page": "https://www.courtlistener.com/audio/107568/michael-leach-v-dc/"
-   },
-   "live_note": "Live audio from the court's Today's Sitting page (also on its YouTube channel)."
-  },
   {
    "id": "ca2-25-1212-2026-11-16",
    "court": "ca2",
@@ -2505,7 +2315,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://ecf.ca8.uscourts.gov/webcal/nov26kc.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
+    "live": "https://www.ca8.uscourts.gov/news/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/18/mmic_insurance_inc._v._obgyn_assoc._of_iowa_city_etc._cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107692/mmic-insurance-inc-v-obgyn-assoc-of-iowa-city-etc/"
    },
    "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
   },
@@ -2545,7 +2357,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://ecf.ca8.uscourts.gov/webcal/nov26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
+    "live": "https://www.ca8.uscourts.gov/news/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/18/womens_life_care_center_v._keith_ellison_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107684/womens-life-care-center-v-keith-ellison/"
    },
    "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
   },
@@ -2565,7 +2379,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://ecf.ca8.uscourts.gov/webcal/nov26kc.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
+    "live": "https://www.ca8.uscourts.gov/news/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/18/wipro_llc_v._first_data_government_solutions_lp_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107685/wipro-llc-v-first-data-government-solutions-lp/"
    },
    "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
   },
@@ -2585,7 +2401,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://ecf.ca8.uscourts.gov/webcal/nov26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
+    "live": "https://www.ca8.uscourts.gov/news/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/18/united_states_v._gary_feather_jr._cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107687/united-states-v-gary-feather-jr/"
    },
    "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
   },
@@ -2605,7 +2423,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://ecf.ca8.uscourts.gov/webcal/nov26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
+    "live": "https://www.ca8.uscourts.gov/news/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/18/scott_lubow_v._sioux_honey_assoc._coop._cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107691/scott-lubow-v-sioux-honey-assoc-coop/"
    },
    "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
   },
@@ -2625,7 +2445,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://ecf.ca8.uscourts.gov/webcal/nov26kc.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
+    "live": "https://www.ca8.uscourts.gov/news/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/18/united_states_v._timothy_starks_cl_1.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107686/united-states-v-timothy-starks/"
    },
    "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
   },
@@ -2645,7 +2467,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://ecf.ca8.uscourts.gov/webcal/nov26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
+    "live": "https://www.ca8.uscourts.gov/news/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/18/students_for_life_action_v._marty_jackley_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107690/students-for-life-action-v-marty-jackley/"
    },
    "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
   },
@@ -2665,7 +2489,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://ecf.ca8.uscourts.gov/webcal/nov26stp.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
+    "live": "https://www.ca8.uscourts.gov/news/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/18/united_states_v._dasan_cavanaugh_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107688/united-states-v-dasan-cavanaugh/"
    },
    "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
   },
@@ -2705,7 +2531,9 @@
    "no_argument": false,
    "links": {
     "calendar": "https://ecf.ca8.uscourts.gov/webcal/nov26kc.pdf",
-    "live": "https://www.ca8.uscourts.gov/news/"
+    "live": "https://www.ca8.uscourts.gov/news/",
+    "recording": "https://storage.courtlistener.com/mp3/2026/11/18/united_states_v._angelo_gladney_cl.mp3",
+    "recording_page": "https://www.courtlistener.com/audio/107689/united-states-v-angelo-gladney/"
    },
    "live_note": "The 8th Circuit posts a public listen-in phone number before each session."
   },
@@ -4784,153 +4612,6 @@
     "live": "https://ww2.ca2.uscourts.gov/court.html"
    },
    "live_note": "Live audio on the court's YouTube channels (one per courtroom)."
-  },
-  {
-   "id": "ca3-22-3464-2026-11-20",
-   "court": "ca3",
-   "docket": "22-3464",
-   "title": "USA v. Rodney Kent",
-   "date": "2026-11-20",
-   "time_local": null,
-   "tz": "America/New_York",
-   "location": "Philadelphia, PA",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "panel": "Chagares, Porter, Brann",
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ca03portal.powerappsportals.us/Oral-Argument-Summary/?id=4e9182f8-b5d3-f111-a05a-001dd8116671&hrngDt=2026-11-20",
-    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w"
-   },
-   "live_note": "The 3rd Circuit streams argument audio live on YouTube."
-  },
-  {
-   "id": "ca3-25-1006-2026-11-20",
-   "court": "ca3",
-   "docket": "25-1006",
-   "title": "USA v. Aron Puretz",
-   "date": "2026-11-20",
-   "time_local": null,
-   "tz": "America/New_York",
-   "location": "Philadelphia, PA",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "panel": "Hardiman, Mckee, Ambro",
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ca03portal.powerappsportals.us/Oral-Argument-Summary/?id=4e9182f8-b5d3-f111-a05a-001dd8116671&hrngDt=2026-11-20",
-    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w"
-   },
-   "live_note": "The 3rd Circuit streams argument audio live on YouTube."
-  },
-  {
-   "id": "ca3-25-3567-2026-11-20",
-   "court": "ca3",
-   "docket": "25-3567",
-   "title": "Paul Qassis et al v. Borough of Carlstadt",
-   "date": "2026-11-20",
-   "time_local": null,
-   "tz": "America/New_York",
-   "location": "Philadelphia, PA",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "panel": "Chagares, Porter, Brann",
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ca03portal.powerappsportals.us/Oral-Argument-Summary/?id=4e9182f8-b5d3-f111-a05a-001dd8116671&hrngDt=2026-11-20",
-    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w"
-   },
-   "live_note": "The 3rd Circuit streams argument audio live on YouTube."
-  },
-  {
-   "id": "ca3-26-1078-2026-11-20",
-   "court": "ca3",
-   "docket": "26-1078",
-   "title": "Dennis Jackson et al v. Allstate Indemnity Co.",
-   "date": "2026-11-20",
-   "time_local": null,
-   "tz": "America/New_York",
-   "location": "Philadelphia, PA",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "panel": "Hardiman, Mckee, Ambro",
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ca03portal.powerappsportals.us/Oral-Argument-Summary/?id=4e9182f8-b5d3-f111-a05a-001dd8116671&hrngDt=2026-11-20",
-    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w"
-   },
-   "live_note": "The 3rd Circuit streams argument audio live on YouTube."
-  },
-  {
-   "id": "ca3-26-1095-2026-11-20",
-   "court": "ca3",
-   "docket": "26-1095",
-   "title": "Keidy Posada-Arriola et al v. Attorney General United State",
-   "date": "2026-11-20",
-   "time_local": null,
-   "tz": "America/New_York",
-   "location": "Philadelphia, PA",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "panel": "Hardiman, Mckee, Ambro",
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ca03portal.powerappsportals.us/Oral-Argument-Summary/?id=4e9182f8-b5d3-f111-a05a-001dd8116671&hrngDt=2026-11-20",
-    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w"
-   },
-   "live_note": "The 3rd Circuit streams argument audio live on YouTube."
-  },
-  {
-   "id": "ca3-26-1268-2026-11-20",
-   "court": "ca3",
-   "docket": "26-1268",
-   "title": "Adenike Ajayi v. Cula, LLC",
-   "date": "2026-11-20",
-   "time_local": null,
-   "tz": "America/New_York",
-   "location": "Philadelphia, PA",
-   "room": null,
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "panel": "Chagares, Porter, Brann",
-   "no_argument": true,
-   "links": {
-    "calendar": "https://ca03portal.powerappsportals.us/Oral-Argument-Summary/?id=4e9182f8-b5d3-f111-a05a-001dd8116671&hrngDt=2026-11-20",
-    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w"
-   },
-   "live_note": "The 3rd Circuit streams argument audio live on YouTube."
-  },
-  {
-   "id": "ca3-24-3171-2026-11-20",
-   "court": "ca3",
-   "docket": "24-3171",
-   "title": "In re: Application of financialright claims GmbH",
-   "date": "2026-11-20",
-   "time_local": "09:30",
-   "tz": "America/New_York",
-   "location": "Philadelphia, PA",
-   "room": "Maris Courtroom",
-   "origin": null,
-   "issue": null,
-   "notes": null,
-   "panel": "Matey, Freeman, Roth",
-   "no_argument": false,
-   "links": {
-    "calendar": "https://ca03portal.powerappsportals.us/Oral-Argument-Summary/?id=4e9182f8-b5d3-f111-a05a-001dd8116671&hrngDt=2026-11-20",
-    "live": "https://www.youtube.com/channel/UCLSXp4JMYiFc7BHD_ln3d-w"
-   },
-   "live_note": "The 3rd Circuit streams argument audio live on YouTube."
   },
   {
    "id": "ca8-25-3015-2026-11-20",
